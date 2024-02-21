@@ -21,36 +21,46 @@ class Crawler:
         links = set()
         content = ''
 
+        first_domain = url.split("/")[0]
+        if first_domain != "http:" and first_domain != "https:":
+            return None
+
         try:
             content = requests.get(url, timeout=20)
             content.raise_for_status()  # Проверяем успешность статуса запроса
             soup = BeautifulSoup(content.text, 'html.parser')  # Парсим контент HTML
 
             try:
-                if 'en' not in soup.html['lang']: # Проверяем на английский язык
+                if 'en' not in soup.html['lang']:  # Проверяем на английский язык
                     return set()
             except Exception:
-                pass
+                return None
 
             # Ищем ссылки по тегу 'a' в HTML
             anchors = soup.find_all('a')
 
             for anchor in anchors:
-                link = requests.compat.urljoin(url,
-                                               anchor.get('href'))  # Получаем ссылку и мержим с начальным url
+                href = anchor.get("href")
+                first_domain = url.split("/")[0]
+                if first_domain != "http:" and first_domain != "https:":
+                    return set()
+
+                if "twitter" in url:
+                    return set()
+
+                link = requests.compat.urljoin(url, href)  # Получаем ссылку и мержим с начальным url
                 links.add(link)
         except requests.RequestException:
-            pass
+            return None
 
         file_helper = FileHelper()
 
         try:
-            file_helper.make_file(content.content.decode('utf-8'), str(number), 'results')
+            file_helper.make_file(content.text, str(number), 'results')
         except Exception as e:
-            pass
+            return None
 
         return links
-
 
     def crawl(self):
         urls_content = {}
@@ -61,14 +71,19 @@ class Crawler:
             urls_to_crawl.add(start_url)
 
         for depth in range(self.depth + 1):
-            new_urls = set() # Новые url
+            new_urls = set()  # Новые url
 
             for url in urls_to_crawl:
                 if (url not in self.visitedUrls) and (url + '/' not in self.visitedUrls):
                     last_domain = url.split("/")[-1]
                     # Убираем недопустимые ссылки
-                    if (".css" not in last_domain) and (".pdf" not in last_domain) and (".js" not in last_domain):
+                    if (".css" not in last_domain) and (".pdf" not in last_domain) and (".js" not in last_domain) \
+                            and (".php" not in last_domain):
                         links = self.get_urls(url, current_number)
+
+                        if links is None:
+                            continue
+
                         urls_content[current_number] = url
                         new_urls.update(links)
                         current_number += 1
