@@ -8,3 +8,6 @@
 
 [tokens.txt](https://github.com/ArtyomKalugin/Infosearch_homeworks/files/14406582/tokens.txt)
 [lemmas.txt](https://github.com/ArtyomKalugin/Infosearch_homeworks/files/14406581/lemmas.txt)
+
+## Третье задание
+[inverted_indexes.txt](https://github.com/ArtyomKalugin/Infosearch_homeworks/files/14450803/inverted_indexes.txt)
