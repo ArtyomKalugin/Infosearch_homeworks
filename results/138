@@ -1,0 +1,736 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate stylesheet" type="text/css" media="screen, projection, tty, tv" title="Black/White" href="/sites/abilitynet.org.uk/modules/custom/pagestyle.custom/css/style_black_white.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen, projection, tty, tv" title="Brown/Beige" href="/sites/abilitynet.org.uk/modules/custom/pagestyle.custom/css/style_brown_beige.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen, projection, tty, tv" title="White/Black" href="/sites/abilitynet.org.uk/modules/custom/pagestyle.custom/css/style_white_black.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen, projection, tty, tv" title="Yellow/Blue" href="/sites/abilitynet.org.uk/modules/custom/pagestyle.custom/css/style_yellow_blue.css" />
+<link rel="stylesheet" type="text/css" media="screen, projection, tty, tv" title="Standard" href="/sites/abilitynet.org.uk/modules/custom/pagestyle.custom/css/style_standard.css" />
+<link rel="canonical" href="/factsheets/keyboard-and-mouse-alternatives-and-adaptations" />
+<link rel="shortlink" href="/node/256" />
+<meta name="google-site-verification" content="z5Wqq5NstvaNhXhcjQ6UoStyuZtRmt_pqhLj3wh3D00" />
+<link rel="apple-touch-icon" size="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" size="32x32" href="/favicon-32x32.png" />
+<link rel="icon" type="image/png" size="16x16" href="/favicon-16x16.png" />
+<link rel="manifest" href="/site.webmanifest" />
+<link rel="mask-icon" color="#1e5b61" href="/safari-pinned-tab.svg" />
+<meta name="msapplication-TileColor" content="#1e5b61" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="description" content="Standard keyboards and mice are functional ways of interacting with your computer and increasingly other devices like tablets. However, these standard devices can pose difficulties for many people – especially users with physical, sensory, or cognitive challenges – and there are lots of other options available. This factsheet provides details of some of the alternative" />
+<meta name="author" content="Alex.Barker" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://abilitynet.org.uk/factsheets/keyboard-and-mouse-alternatives-and-adaptations" />
+<link rel="shortlink" href="https://abilitynet.org.uk/node/256" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://abilitynet.org.uk/factsheets/keyboard-and-mouse-alternatives-and-adaptations" />
+<meta name="twitter:title" content="Keyboard and mouse alternatives and adaptations" />
+<meta name="twitter:description" content="Standard keyboards and mice are functional ways of interacting with your computer and increasingly other devices like tablets. However, these standard devices can pose difficulties for many people –" />
+<meta itemprop="name" content="Keyboard and mouse alternatives and adaptations" />
+<meta itemprop="description" content="Standard keyboards and mice are functional ways of interacting with your computer and increasingly other devices like tablets. However, these standard devices can pose difficulties for many people – especially users with physical, sensory, or cognitive challenges – and there are lots of other options available. This factsheet provides details of some of the alternative keyboard, mouse and other pointing devices available. It also gives information on adaptations you can make to standard keyboards and mice. There are so many choices and variations, we cannot cover every single piece of equipment in this factsheet. Please call our helpline on 0300 180 0028 or email us at enquiries@abilitynet.org.uk if you require more detailed information. Download an Easy Read version of this factsheet [PDF]" />
+<link rel="shortcut icon" href="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/favicon.ico" type="image/vnd.microsoft.icon" />
+    <title>Keyboard and mouse alternatives and adaptations | AbilityNet</title>
+
+            <script src='https://js.tito.io/v2/with/inline,ga4' async></script>
+<style type="text/css">.tito-widget .tito-widget-form .tito-release .tito-details--waiting-list .tito-release--tax, .tito-widget .tito-widget-form .tito-release .tito-price-details-donation .tito-release--tax, .tito-widget .tito-widget-form .tito-release .tito-price-details-regular .tito-release--tax {color:#333 !important;opacity:1 !important;} .tito-overlay footer.tito-flow-footer {background-color:#fff !important;}
+</style>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5Z54D95');</script>
+    
+    <style type="text/css" media="all">
+@import url("https://abilitynet.org.uk/modules/system/system.base.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/system/system.menus.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/system/system.messages.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/system/system.theme.css?s0b56i");
+</style>
+<style type="text/css" media="all">
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.slider.min.css?s0b56i");
+</style>
+<style type="text/css" media="all">
+@import url("https://abilitynet.org.uk/modules/aggregator/aggregator.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/comment/comment.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/field/theme/field.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/google_cse/google_cse.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/node/node.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/custom/nomensa_amp/core/css/player-core.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/custom/nomensa_amp/custom/css/player-theme.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/search/search.css?s0b56i");
+@import url("https://abilitynet.org.uk/modules/user/user.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/views/css/views.css?s0b56i");
+</style>
+<style type="text/css" media="all">
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/colorbox/styles/default/colorbox_style.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/ctools/css/ctools.css?s0b56i");
+</style>
+<style type="text/css" media="screen">
+<!--/*--><![CDATA[/*><!--*/
+body.pagestyle_black_white,body.pagestyle_black_white *{font-weight:normal !important;}body.pagestyle_brown_beige,body.pagestyle_brown_beige *{font-weight:normal !important;}body.pagestyle_white_black,body.pagestyle_white_black *{font-weight:bold !important;}body.pagestyle_yellow_blue,body.pagestyle_yellow_blue *{font-weight:bold !important;}body.pagestyle_standard,body.pagestyle_standard *{font-weight:normal !important;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/custom/pagestyle.custom/pagestyle.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/panels/css/panels.css?s0b56i");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<style type="text/css" media="all">
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/tb_megamenu/css/bootstrap.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/tb_megamenu/css/base.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/tb_megamenu/css/default.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/tb_megamenu/css/compatibility.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/simple_table_of_contents/simple_table_of_contents.css?s0b56i");
+</style>
+<style type="text/css" media="all">
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/reset.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/jquery-ui.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/swiper.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/owl.carousel.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/owl.theme.default.min.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/fonts.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/style.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/footer/footer.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/header/header.css?s0b56i");
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/main.css?s0b56i");
+</style>
+<style type="text/css" media="print">
+@import url("https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/styles/print.css?s0b56i");
+</style>
+    <script type="text/javascript" src="https://abilitynet.org.uk/sites/all/libraries/respondjs/respond.min.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/misc/drupal.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.slider.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/misc/ajax.js?v=7.88"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/google_cse/google_cse.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/custom/nomensa_amp/core/javascript/swfobject/swfobject.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/custom/nomensa_amp/core/javascript/jquery.player-drupal.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/custom/nomensa_amp/nomensa_amp_auto.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/cleantalk/src/js/apbct-public.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/colorbox/js/colorbox.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/colorbox/styles/default/colorbox_style.js?s0b56i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var pagestyleCookieExpires = 365;
+  var pagestyleCookieDomain = "/";
+  var pagestylePath = "sites/abilitynet.org.uk/modules/custom/pagestyle.custom";
+  var pagestyleCurrent = "standard";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://abilitynet.org.uk/misc/jquery.cookie.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/tb_megamenu/js/tb-megamenu-frontend.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/tb_megamenu/js/tb-megamenu-touch.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/all/modules/google_analytics/googleanalytics.js?s0b56i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-13193985-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    var _wow = _wow || [];
+    (function () {
+    try{
+                    _wow.push(['setClientId', 'cf259557-ffa0-4a7f-ab45-9b07490ea8e1']);
+                    _wow.push(['enableDownloadTracking']);
+                    _wow.push(['trackPageView']);
+                    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                    g.type = 'text/javascript'; g.defer = true; g.async = true;
+                    g.src = '//t.wowanalytics.co.uk/Scripts/tracker.js';
+                    s.parentNode.insertBefore(g, s);
+    }catch(err){}})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/modules/contrib/field_group/field_group.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/misc/progress.js?v=7.88"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/scripts/swiper.min.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/scripts/jquery-ui.min.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/scripts/owl.carousel.min.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/scripts/jquery-accessibleMegaMenu.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/scripts/jquery.onfontresize.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/scripts/printThis.js?s0b56i"></script>
+<script type="text/javascript" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/assets/scripts/main.js?s0b56i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"abilitynet","theme_token":"a8j9h-mymdKypzWDoJv1LstFZ7ERVRHDx-ALfiFt9fI","jquery_version":"2.1","js":{"0":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"misc\/ajax.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/abilitynet.org.uk\/modules\/custom\/nomensa_amp\/core\/javascript\/swfobject\/swfobject.js":1,"sites\/abilitynet.org.uk\/modules\/custom\/nomensa_amp\/core\/javascript\/jquery.player-drupal.js":1,"sites\/abilitynet.org.uk\/modules\/custom\/nomensa_amp\/nomensa_amp_auto.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/cleantalk\/src\/js\/apbct-public.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"1":1,"misc\/jquery.cookie.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/abilitynet.org.uk\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"3":1,"sites\/abilitynet.org.uk\/modules\/contrib\/field_group\/field_group.js":1,"misc\/progress.js":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/scripts\/swiper.min.js":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/scripts\/jquery-ui.min.js":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/scripts\/owl.carousel.min.js":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/scripts\/jquery-accessibleMegaMenu.js":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/scripts\/jquery.onfontresize.js":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/scripts\/printThis.js":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/scripts\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.slider.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/abilitynet.org.uk\/modules\/custom\/nomensa_amp\/core\/css\/player-core.min.css":1,"sites\/abilitynet.org.uk\/modules\/custom\/nomensa_amp\/custom\/css\/player-theme.min.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/views\/css\/views.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/abilitynet.org.uk\/modules\/custom\/pagestyle.custom\/pagestyle.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/panels\/css\/panels.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/tb_megamenu\/css\/bootstrap.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/tb_megamenu\/css\/base.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/tb_megamenu\/css\/default.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/tb_megamenu\/css\/compatibility.css":1,"sites\/abilitynet.org.uk\/modules\/contrib\/simple_table_of_contents\/simple_table_of_contents.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/reset.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/jquery-ui.min.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/swiper.min.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/owl.carousel.min.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/owl.theme.default.min.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/fonts.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/style.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/footer\/footer.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/header\/header.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/main.css":1,"sites\/abilitynet.org.uk\/themes\/abilitynet\/assets\/styles\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/abilitynet.org.uk\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"googleCSE":{"cx":"001796141286920893255:_qaqgk_1pnm","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"field_group":{"hidden":"full"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-256 node-type-factsheet not-landing" >
+            
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Z54D95" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <div id="skip-link">
+    <a href="#" tabindex="1">Skip to content</a>
+</div>
+<header id="abilityHeader" aria-label="AbilityNet header">
+    <div class="container">
+        <div class="header-container">
+            <a class="logo" href="https://abilitynet.org.uk/" title="AbilityNet Homepage">
+                <img src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/logo.png" alt="Home" />
+            </a>
+            <div class="top-menu">
+                                    <div class="top-menu-items">
+                          <div class="region region-top-nav">
+    <div id="block-menu-block-26" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-26 menu-name-menu-top-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-3911"><a href="/about" title="">About</a></li>
+<li class="leaf menu-mlid-3587"><a href="/news-blogs" title="">News &amp; Blogs</a></li>
+<li class="leaf menu-mlid-4520"><a href="/training" title="">Training</a></li>
+<li class="leaf menu-mlid-937"><a href="/support-abilitynet" title="">Support us</a></li>
+<li class="leaf menu-mlid-968"><a href="/how-contact-us" title="">Contact</a></li>
+<li class="last leaf menu-mlid-1901"><a href="/jobs">Jobs</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+                    </div>
+                                <nav class="header-mobile-menu">
+                    <button class="main-menu-trigger" id="mobileMainMenuButton" aria-expanded="false" aria-haspopup="true" aria-controls="mobileMainMenuContainer">
+                        Menu<span><span></span><span></span><span></span></span>
+                    </button>
+                    <div class="main-menu-container">
+                                                                        <ul class="nav-menu" id="mobileMainMenuContainer" aria-labelledby="mobileMainMenuButton">
+                                                            <li class="nav-item has-submenu">
+                                                                            <button class="nav-item-collapse"
+                                                id="subNavItemButton49951FreeTechnologySupportandInformation2457"
+                                                aria-expanded="false"
+                                                aria-haspopup="true"
+                                                aria-controls="subNavItemContainer49951FreeTechnologySupportandInformation2457">
+                                            <span>Free Technology Support and Information</span>
+                                        </button>
+                                                                                                                <div class="sub-nav"
+                                             aria-labelledby="subNavItemButton49951FreeTechnologySupportandInformation2457"
+                                             id="subNavItemContainer49951FreeTechnologySupportandInformation2457">
+                                            <ul class="sub-nav-group">
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info">About our free tech support and information</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/request-free-it-support-home">Request Free IT Support at Home</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/why-get-tech-help">Why get tech help?</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/abilitynet-factsheets">Free Factsheets</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/webinars">Free Webinars</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/about-our-support">About our Tech Volunteer Support</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/join-our-volunteers">Join Our Volunteers</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/support-for-charities-and-orgs">Support for Charities and Organisations</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/information-disability-advisers">Information for Disability Advisers</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/useful-links">Useful Links</a></li>
+                                                                                                    <li><a href="http://www.mycomputermyway.com">My Computer My Way</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/accessibility-services/useful-resources">Free Digital Accessibility Resources</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/abilitynet-podcast">AbilityNet Podcast</a></li>
+                                                                                                    <li><a href="http://www.tech4goodawards.com">Tech4Good Awards</a></li>
+                                                                                            </ul>
+                                            <div class="sub-nav-footer"><div id="block-block-124" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://abilitynet.org.uk/how-contact-us"><img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/request_a_quote_0.png" style="width: 188px; height: 183px;" /><span>Contact us for advice and information</span></a></p>  </div>
+</div>
+</div>                                        </div>
+                                                                    </li>
+                                                            <li class="nav-item has-submenu">
+                                                                            <button class="nav-item-collapse"
+                                                id="subNavItemButton49952DigitalAccessibilityServices2456"
+                                                aria-expanded="false"
+                                                aria-haspopup="true"
+                                                aria-controls="subNavItemContainer49952DigitalAccessibilityServices2456">
+                                            <span>Digital Accessibility Services</span>
+                                        </button>
+                                                                                                                <div class="sub-nav"
+                                             aria-labelledby="subNavItemButton49952DigitalAccessibilityServices2456"
+                                             id="subNavItemContainer49952DigitalAccessibilityServices2456">
+                                            <ul class="sub-nav-group">
+                                                                                                    <li><a href="https://abilitynet.org.uk/accessibility-services">Services overview</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/accessibility-audit">Accessibility Audits</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/user-testing">User Testing</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/accessibility-consultancy">Consultancy and Strategy</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/training">Training and eLearning</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/accessibility-certification-accreditation">Certification and Accreditation</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/accessibility-services/meet-our-clients">Meet our clients</a></li>
+                                                                                            </ul>
+                                            <div class="sub-nav-footer"><div id="block-block-125" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://abilitynet.org.uk/accessibility-services/speak-our-experts"><img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/admin/speak-to-us.png" style="width: 416px; height: 414px;" /><span>Make an enquiry</span></a></p>  </div>
+</div>
+</div>                                        </div>
+                                                                    </li>
+                                                            <li class="nav-item has-submenu">
+                                                                            <button class="nav-item-collapse"
+                                                id="subNavItemButton49953WorkplaceServices2452"
+                                                aria-expanded="false"
+                                                aria-haspopup="true"
+                                                aria-controls="subNavItemContainer49953WorkplaceServices2452">
+                                            <span>Workplace Services</span>
+                                        </button>
+                                                                                                                <div class="sub-nav"
+                                             aria-labelledby="subNavItemButton49953WorkplaceServices2452"
+                                             id="subNavItemContainer49953WorkplaceServices2452">
+                                            <ul class="sub-nav-group">
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace">About our Workplace Services</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/how-promote-diversity-and-inclusion">How to promote diversity and inclusion</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/disability-inclusion-gap-analysis">GAP analysis</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/workplace-accessibility-training">Workplace training</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/online-elearning-modules-workplaces">Online learning modules for workplaces</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/assistive-technology-training">Assistive technology training</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/helpline-online-resources">Advice line & online resources</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/supporting-individuals">Supporting individuals</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/information-employees">Information for Employees</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/information-employers">Information for Employers</a></li>
+                                                                                                    <li><a href="https://abilitynet.org.uk/workplace/what-are-reasonable-adjustments">What are reasonable adjustments?</a></li>
+                                                                                            </ul>
+                                            <div class="sub-nav-footer"><div id="block-block-126" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://abilitynet.org.uk/workplace/speak-our-workplace-experts"><img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/request_a_quote_0.png" style="width: 188px; height: 183px;" /><span>Enquire About Workplace Services</span></a></p>  </div>
+</div>
+</div>                                        </div>
+                                                                    </li>
+                                                            <li class="nav-item has-submenu">
+                                                                            <button class="nav-item-collapse"
+                                                id="subNavItemButton49955MyComputerMyWay2455"
+                                                aria-expanded="false"
+                                                aria-haspopup="true"
+                                                aria-controls="subNavItemContainer49955MyComputerMyWay2455">
+                                            <span>My Computer My Way</span>
+                                        </button>
+                                                                                                                <div class="sub-nav"
+                                             aria-labelledby="subNavItemButton49955MyComputerMyWay2455"
+                                             id="subNavItemContainer49955MyComputerMyWay2455">
+                                            <ul class="sub-nav-group">
+                                                                                                    <li><a href="http://mcmw.abilitynet.org.uk">My Computer My Way</a></li>
+                                                                                                    <li><a href="http://mcmw.abilitynet.org.uk/impairment/vision"> Vision - seeing the screen</a></li>
+                                                                                                    <li><a href="http://mcmw.abilitynet.org.uk/impairment/hearing">Hearing - hearing sound</a></li>
+                                                                                                    <li><a href="http://mcmw.abilitynet.org.uk/impairment/motor"> Motor - using a keyboard and mouse</a></li>
+                                                                                                    <li><a href="http://mcmw.abilitynet.org.uk/impairment/cognitive"> Cognitive - reading and spelling</a></li>
+                                                                                            </ul>
+                                                                                    </div>
+                                                                    </li>
+                                                                                        <li class="nav-item">
+                                                                            <a href="https://abilitynet.org.uk/about">
+                                            <span>About</span>
+                                        </a>
+                                                                                                        </li>
+                                                            <li class="nav-item">
+                                                                            <a href="https://abilitynet.org.uk/news-blogs">
+                                            <span>News & Blogs</span>
+                                        </a>
+                                                                                                        </li>
+                                                            <li class="nav-item">
+                                                                            <a href="https://abilitynet.org.uk/training">
+                                            <span>Training</span>
+                                        </a>
+                                                                                                        </li>
+                                                            <li class="nav-item">
+                                                                            <a href="https://abilitynet.org.uk/support-abilitynet">
+                                            <span>Support us</span>
+                                        </a>
+                                                                                                        </li>
+                                                            <li class="nav-item">
+                                                                            <a href="https://abilitynet.org.uk/how-contact-us">
+                                            <span>Contact</span>
+                                        </a>
+                                                                                                        </li>
+                                                            <li class="nav-item">
+                                                                            <a href="https://abilitynet.org.uk/jobs">
+                                            <span>Jobs</span>
+                                        </a>
+                                                                                                        </li>
+                                                    </ul>
+                    </div>
+                </nav>
+                <div class="top-search">
+                    <form autocomplete="off" method="post" action="/search">
+                        <label class="search-label" for="search" aria-labelledby="searchTitle">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451 451" >
+                                <title id="searchTitle">Search form</title>
+                            </svg>
+                        </label>
+                        <input id="search" autocomplete="off" type="text" name="key"
+                               placeholder="Search"
+                               aria-label="Enter the terms you wish to search for.">
+                        <input class="button" type="submit" value="Submit" aria-label="Submit search" />
+                        <button class="mobile-search-trigger" aria-labelledby="searchTitle" aria-expanded="true"></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<nav id="navbar" class="megamenu navbar navbar-default" aria-label="Main navigation">
+        <ul class="nav-menu">
+                    <li class="nav-item orange-hover">
+                <a href="https://abilitynet.org.uk/free-resources"
+                   class="orange-link has-submenu">
+                    <span>Free Technology Support and Information</span>
+                                            <i class="arrow"></i>
+                                    </a>
+                                    <div class="sub-nav">
+                        <ul class="sub-nav-group">
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info">About our free tech support and information</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/request-free-it-support-home">Request Free IT Support at Home</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/why-get-tech-help">Why get tech help?</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/abilitynet-factsheets">Free Factsheets</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/webinars">Free Webinars</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/about-our-support">About our Tech Volunteer Support</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/join-our-volunteers">Join Our Volunteers</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/support-for-charities-and-orgs">Support for Charities and Organisations</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/information-disability-advisers">Information for Disability Advisers</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/free-tech-support-and-info/useful-links">Useful Links</a></li>
+                                                            <li><a href="http://www.mycomputermyway.com">My Computer My Way</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/accessibility-services/useful-resources">Free Digital Accessibility Resources</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/abilitynet-podcast">AbilityNet Podcast</a></li>
+                                                            <li><a href="http://www.tech4goodawards.com">Tech4Good Awards</a></li>
+                                                    </ul>
+                        <div class="sub-nav-footer"><div id="block-block-124--2" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://abilitynet.org.uk/how-contact-us"><img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/request_a_quote_0.png" style="width: 188px; height: 183px;" /><span>Contact us for advice and information</span></a></p>  </div>
+</div>
+</div>                    </div>
+                            </li>
+                    <li class="nav-item red-hover">
+                <a href="https://abilitynet.org.uk/accessibility-services"
+                   class="red-link has-submenu">
+                    <span>Digital Accessibility Services</span>
+                                            <i class="arrow"></i>
+                                    </a>
+                                    <div class="sub-nav">
+                        <ul class="sub-nav-group">
+                                                            <li><a href="https://abilitynet.org.uk/accessibility-services">Services overview</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/accessibility-audit">Accessibility Audits</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/user-testing">User Testing</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/accessibility-consultancy">Consultancy and Strategy</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/training">Training and eLearning</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/accessibility-services/products-and-services/accessibility-certification-accreditation">Certification and Accreditation</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/accessibility-services/meet-our-clients">Meet our clients</a></li>
+                                                    </ul>
+                        <div class="sub-nav-footer"><div id="block-block-125--2" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://abilitynet.org.uk/accessibility-services/speak-our-experts"><img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/admin/speak-to-us.png" style="width: 416px; height: 414px;" /><span>Make an enquiry</span></a></p>  </div>
+</div>
+</div>                    </div>
+                            </li>
+                    <li class="nav-item wisteria-hover">
+                <a href="https://abilitynet.org.uk/workplace"
+                   class="wisteria-link has-submenu">
+                    <span>Workplace Services</span>
+                                            <i class="arrow"></i>
+                                    </a>
+                                    <div class="sub-nav">
+                        <ul class="sub-nav-group">
+                                                            <li><a href="https://abilitynet.org.uk/workplace">About our Workplace Services</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/how-promote-diversity-and-inclusion">How to promote diversity and inclusion</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/disability-inclusion-gap-analysis">GAP analysis</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/workplace-accessibility-training">Workplace training</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/online-elearning-modules-workplaces">Online learning modules for workplaces</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/assistive-technology-training">Assistive technology training</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/helpline-online-resources">Advice line & online resources</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/supporting-individuals">Supporting individuals</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/information-employees">Information for Employees</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/information-employers">Information for Employers</a></li>
+                                                            <li><a href="https://abilitynet.org.uk/workplace/what-are-reasonable-adjustments">What are reasonable adjustments?</a></li>
+                                                    </ul>
+                        <div class="sub-nav-footer"><div id="block-block-126--2" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://abilitynet.org.uk/workplace/speak-our-workplace-experts"><img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/request_a_quote_0.png" style="width: 188px; height: 183px;" /><span>Enquire About Workplace Services</span></a></p>  </div>
+</div>
+</div>                    </div>
+                            </li>
+                    <li class="nav-item cranberry-hover">
+                <a href="http://mcmw.abilitynet.org.uk"
+                   class="cranberry-link has-submenu">
+                    <span>My Computer My Way</span>
+                                            <i class="arrow"></i>
+                                    </a>
+                                    <div class="sub-nav">
+                        <ul class="sub-nav-group">
+                                                            <li><a href="http://mcmw.abilitynet.org.uk">My Computer My Way</a></li>
+                                                            <li><a href="http://mcmw.abilitynet.org.uk/impairment/vision"> Vision - seeing the screen</a></li>
+                                                            <li><a href="http://mcmw.abilitynet.org.uk/impairment/hearing">Hearing - hearing sound</a></li>
+                                                            <li><a href="http://mcmw.abilitynet.org.uk/impairment/motor"> Motor - using a keyboard and mouse</a></li>
+                                                            <li><a href="http://mcmw.abilitynet.org.uk/impairment/cognitive"> Cognitive - reading and spelling</a></li>
+                                                    </ul>
+                                            </div>
+                            </li>
+            </ul>
+</nav>
+
+<main aria-label="Main content">
+    <div id="main-content" class="main-container">
+
+        <div class="container-fluid"><div class="container"><div class="container"><div class="main-content has-sidebar">  <div class="region region-content">
+    
+<div class="container">
+    <section id="block-system-main" class="block block-system clearfix">
+
+                        
+        
+<div id="node-256"
+     data-title="Keyboard and mouse alternatives and adaptations "
+     data-id="256"
+     class="node-content printable-area factsheet-content node node-factsheet node-promoted clearfix" about="/factsheets/keyboard-and-mouse-alternatives-and-adaptations" typeof="sioc:Item foaf:Document">
+            <div class="document-image">
+            <img width="319" src="/sites/abilitynet.org.uk/themes/abilitynet/assets/images/top-image-2x.jpg" alt="" />
+        </div>
+
+        
+        <div class="document-date"><div>AbilityNet Factsheet - May 2023</div></div>
+
+        <header>
+                                        <h1>
+                    Keyboard and mouse alternatives and adaptations                 </h1>
+                        <span property="dc:title" content="Keyboard and mouse alternatives and adaptations " class="rdf-meta element-hidden"></span>                    </header>
+
+    
+    <!--<a href="/pdf/download/"
+       type="application/pdf;"
+       data-label=".pdf"
+       class="factsheet-download track-click"> <span>.pdf</span></a>-->
+
+    <div class="print-container">
+        <img width="30" height="30" src="/sites/abilitynet.org.uk/themes/abilitynet/assets/images/printer.svg" alt="" />
+        <a href="#" class="factsheet-print track-click" data-event="event" data-category="Downloads" data-action="print">Print this page</a>
+    </div>
+
+            <div class="node-summary">
+            Standard keyboards and mice are functional ways of interacting with your computer and increasingly other devices like tablets. However, these standard devices can pose difficulties for many people – especially users with physical, sensory, or cognitive challenges – and there are lots of other options available. <br />
+<br />
+This factsheet provides details of some of the alternative keyboard, mouse and other pointing devices available. It also gives information on adaptations you can make to standard keyboards and mice. There are so many choices and variations, we cannot cover every single piece of equipment in this factsheet. <br />
+<br />
+Please call our helpline on 0300 180 0028 or email us at <a href="mailto:enquiries@abilitynet.org.uk">enquiries@abilitynet.org.uk</a> if you require more detailed information.<br />
+<br />
+<div class="special-container" style="background:#f3f3f2;border-left:10px solid #ffcc00;padding:20px 30px;"><a href="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/Keyboard-and-mouse-alternatives-Easy_Read-Accessible.pdf?utm_source=Website0&amp;utm_medium=KeyboardMouseEasyReadPDF&amp;utm_campaign=EasyRead">Download an Easy Read version of this factsheet [PDF]</a></div>        </div>
+    
+    <p>Last updated: May 2023</p>
+
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div id="simple-table-of-contents"><h2>Contents include</h2><ul><li><span class="simple-table-of-contents-label">1.</span><a href="#simple-table-of-contents-1">1. A note on ergonomics</a></li><li><span class="simple-table-of-contents-label">2.</span><a href="#simple-table-of-contents-2">2. Wired, Wireless, Bluetooth?</a></li><li><span class="simple-table-of-contents-label">3.</span><a href="#simple-table-of-contents-3">3. Keyboard alternatives</a><ul><li><span class="simple-table-of-contents-label">3.1.</span><a href="#simple-table-of-contents-4">Ergonomic keyboards</a></li><li><span class="simple-table-of-contents-label">3.2.</span><a href="#simple-table-of-contents-5">Smaller, compact keyboards</a></li><li><span class="simple-table-of-contents-label">3.3.</span><a href="#simple-table-of-contents-6">Numeric keypads</a></li><li><span class="simple-table-of-contents-label">3.4.</span><a href="#simple-table-of-contents-7">Keyboards with larger keys</a></li><li><span class="simple-table-of-contents-label">3.5.</span><a href="#simple-table-of-contents-8">Keyboards with more visible keys</a></li><li><span class="simple-table-of-contents-label">3.6.</span><a href="#simple-table-of-contents-9">Modifying the keyboard appearance </a></li><li><span class="simple-table-of-contents-label">3.7.</span><a href="#simple-table-of-contents-10">Other specialist keyboards</a></li><li><span class="simple-table-of-contents-label">3.8.</span><a href="#simple-table-of-contents-11">Keyguards</a></li><li><span class="simple-table-of-contents-label">3.9.</span><a href="#simple-table-of-contents-12">A note on touch-typing </a></li></ul></li><li><span class="simple-table-of-contents-label">4.</span><a href="#simple-table-of-contents-13">4. Typing without a keyboard</a></li><li><span class="simple-table-of-contents-label">5.</span><a href="#simple-table-of-contents-14">5. Mouse alternatives</a><ul><li><span class="simple-table-of-contents-label">5.1.</span><a href="#simple-table-of-contents-15">Alternatives to the standard mouse</a></li></ul></li><li><span class="simple-table-of-contents-label">6.</span><a href="#simple-table-of-contents-16">6. Gaming controllers</a></li><li><span class="simple-table-of-contents-label">7.</span><a href="#simple-table-of-contents-17">7. Other equipment</a><ul><li><span class="simple-table-of-contents-label">7.1.</span><a href="#simple-table-of-contents-18">Lap trays and other supports</a></li><li><span class="simple-table-of-contents-label">7.2.</span><a href="#simple-table-of-contents-19">Desks</a></li></ul></li><li><span class="simple-table-of-contents-label">8.</span><a href="#simple-table-of-contents-20">8. Useful contacts</a></li></ul></div><h2 id="simple-table-of-contents-1">1. A note on ergonomics</h2><p>Being physically comfortable when using your technology is extremely important and extends beyond having a keyboard or mouse that is comfortable to use. Poor posture, over-stretching or discomfort can result in aggravating existing conditions or in developing longer-term issues such as Repetitive Strain injuries (RSI’s). Good posture and comfortable working are important for everyone and finding something that works for you is obviously more important in preventing problems than in reaction to them.</p><h2 id="simple-table-of-contents-2">2. Wired, Wireless, Bluetooth?</h2><p>When it comes to things like keyboards and mice (peripherals) wireless normally means Bluetooth and most computers, laptops and phones have Bluetooth built in. Some keyboards and mice may have their own receiver (called a ‘dongle’) that plugs in to a USB port on your computer in order to connect, others will need to be ‘paired’ (instructions for this will be included with the product). Although Bluetooth keyboards and mice will need batteries (or have rechargeable batteries built-in) they will often last for many months and will give you plenty of warning when they need charging or replacing.</p><h2 id="simple-table-of-contents-3">3. Keyboard alternatives</h2><p>The standard computer keyboard is designed to be used with two hands and has a number pad on the right-hand side, which obviously favours right-handed people.</p><p>Alternatives to the standard keyboard include:</p><ul><li>ergonomic keyboards</li><li>smaller, compact keyboards</li><li>separate numeric keypads</li><li>keyboards with larger keys</li><li>high-contrast keyboards</li><li>early learning keyboards</li><li>more specialist keyboards – braille, chording and expanded devices</li><li>typing without a keyboard</li></ul><h3 id="simple-table-of-contents-4">Ergonomic keyboards</h3><p><img alt="Ergonomic Keyboard" src="/sites/abilitynet.org.uk/files/11.jpg" style="float: right; width: 160px; height: 101px;">Ergonomic keyboards are designed to promote a better typing position for your hands and wrists and therefore reduce the chance of strains and discomfort that can ultimately lead to significant issues such as Repetitive Strain Injuries (RSI). Ergonomic keyboards ‘split’ the keyboard in two, placing each half on a curve so your arms are at a more comfortable, relaxed angle when typing.</p><p>Some ergonomic keyboards are on a fixed curve, on others, the two halves are hinged in the middle so the angle can be adjusted and on some the two halves are completely separate and only joined by a connecting wire.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/12.jpg" style="width: 160px; height: 74px; float: left;">More contoured are a further development of the split concept. These place the finger keys into two cupped depressions at shoulder width, with function keys set in-between for use with the thumbs.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/13.png" style="width: 160px; height: 135px; float: right;">These fully ergonomic keyboards require very little movement of the arms and wrists and are designed to reduce the risk of RSI. Similar keyboards (with a non-QWERTY layout) are also available for single-handed users – for either left- or right-handed use.</p><p> </p><p> </p><h3 id="simple-table-of-contents-5">Smaller, compact keyboards</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/14.png" style="float: left; width: 160px; height: 127px;">Compact keyboards, as their name suggests, are smaller keyboards. The actual key sizes are quite similar to a standard laptop keyboard and, like a laptop, space is saved by removing the number pad (this can be separate, or some have one that slides out when needed). </p><p style="clear: inherit;">A compact keyboard frees-up desk space and allows you to bring your mouse (or other things you use) closer to your centreline, which helps to reduce the chance of strains by over-extending.</p><p style="clear: inherit;">As they are smaller, compact keyboards can fit more easily between the arms of a wheelchair and are often more comfortable to use for single-handed users.</p><h3 id="simple-table-of-contents-6">Numeric keypads</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/15.jpg" style="width: 160px; height: 160px; float: left;">A separate number pad is normally used with a compact keyboard and can be moved out of the way when not needed. It can also be placed either side of the keyboard, which can be helpful for left-handed users.</p><h3 id="simple-table-of-contents-7">Keyboards with larger keys</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/16.png" style="float: right; width: 160px; height: 124px;">Keyboards with larger keys (like BigKeys and Jumbo Keyboards) make it easier to locate keys and provide a bigger ‘target area’. Options are available with upper-case or lower-case layouts.</p><h3 id="simple-table-of-contents-8">Keyboards with more visible keys</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/image8.jpeg" style="float: left; width: 160px; height: 160px;">High visibility keyboards use high-contrast colours to make the keys easier to locate. There are many different colour combinations with either the keys or the letters as the ‘stand-out’ colour (e.g. yellow on black, black on yellow, black on white, white on black).</p><h3 id="simple-table-of-contents-9">Modifying the keyboard appearance </h3><p><img alt="" src="/sites/abilitynet.org.uk/files/image9.jpeg" style="float: right; width: 160px; height: 133px;">Rather than buying a high-contrast keyboard, high contrast stickers are available. These are stuck on top of the keys on your existing keyboard.</p><h3 id="simple-table-of-contents-10">Other specialist keyboards</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/image10.jpeg" style="float: left; width: 160px; height: 120px;"><strong>Helpikeys</strong> is a customisable adaptive keyboard for people with learning and motor difficulties. It is also beneficial for people with visual or cognitive challenges. In addition to five available overlays, the keyboard can also be programmed to store five further personalised layouts.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image11.jpeg" style="float: right; width: 160px; height: 106px;">The Maltron <strong>expanded keyboard</strong> is designed to assist people with cerebral palsy and to provide better access for physically disabled and visually impaired users. A metal keyguard helps to prevent accidental key presses and protects against any impact damage.</p><p><br><img alt="" src="/sites/abilitynet.org.uk/files/image12.jpeg" style="float: left; width: 160px; height: 107px;">Maltron also produce a keyboard for people with no use of their hands. The <strong>head /mouth stick keyboard</strong> has a shape and layout to match natural head movement and minimise the amount of movement needed from the stick.</p><p><br><img alt="" src="/sites/abilitynet.org.uk/files/image13.jpeg" style="float: right; width: 160px; height: 103px;"><strong>Chording keyboards</strong> (like the Cykey shown here) only have a few keys that you press in combination (like chords on a piano) to generate letters, numbers and other keys. They work well for one-handed users with independent movement in their fingers.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image14.jpeg" style="float: left; width: 160px; height: 107px;"><strong>Braille displays</strong> serve a dual function and enable you to both enter text and control your computer, and also to read documents, emails and web pages etc, using a tactile Braille display.</p><h3 id="simple-table-of-contents-11">Keyguards</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/image15.jpeg" style="float: right; width: 160px; height: 138px;">Keyguards are rigid plates with holes designed to work with specific keyboards.  The holes are positioned over each key and significantly reduce the chance of accidental keypresses. The guard also allows you to rest your hands and arms on the guard without pressing any of the keys. Guards can be removed and fitted for use only when required. It is usually easier to purchase a keyboard and guard together rather than trying to get a guard to fit a specific keyboard. </p><p>For more information, see <a href="https://mcmw.abilitynet.org.uk/impairment/making-your-keyboard-easier-to-use" target="_blank">Making your keyboard easier to use </a></p><h3 id="simple-table-of-contents-12">A note on touch-typing </h3><p>Whether you are using a physical keyboard or touchscreen we’re keen to stress the value of learning touch-typing skills for which there are many training packages available. </p><p>For adults we recommend: </p><ul><li>English Type <a href="http://www.englishtype.com%C2%A0">www.englishtype.com </a></li><li>KAZ <a href="http://kaz-type.com/">kaz-type.com </a></li></ul><p>For children we recommend: </p><ul><li>Nessy Fingers <a href="http://www.nessy.com/uk/product/nessy-fingers%C2%A0">www.nessy.com/uk/product/nessy-fingers </a></li><li>Dance Mat Typing <a href="http://www.bbc.com/bitesize/articles/z3c6tfr">www.bbc.com/bitesize/articles/z3c6tfr</a></li></ul><h2 id="simple-table-of-contents-13">4. Typing without a keyboard</h2><p>You do not have to use a physical keyboard to control or type on your computer, tablet or smartphone. Possible alternatives include using:</p><ul><li>an on-screen keyboard</li><li>voice recognition (speech-to-text)</li><li>an eye tracking system</li><li>a switch</li><li>a head tracking system</li></ul><p><img alt="" src="/sites/abilitynet.org.uk/files/image16.jpeg" style="float: left; width: 160px; height: 98px;"><strong>On-screen keyboards</strong> are the way most people now type on tablets and smartphones but are also standard features on most operating systems. Letters can be selected using a touchscreen, a mouse, a switch, or a joystick. </p><p><br>For more information, see: <a href="https://mcmw.abilitynet.org.uk/category/using-on-screen-keyboards" target="_blank">Using on-screen keyboards</a></p><p><strong>Voice recognition</strong> is a practical way of controlling your computer and a very efficient means of getting information down. Voice recognition (speech-to-text or dictation) is useful for people who can find typing difficult, painful or impossible, but it can also by-pass issues with things like spelling or grammar and so can be a great help to people with learning differences like dyslexia.</p><p>For more information on voice recognition see My Computer My Way; <a href="https://mcmw.abilitynet.org.uk/impairment/talking-to-your-device" target="_blank">Talking to your device</a>. We also have a factsheet; <a href="https://abilitynet.org.uk/factsheets/controlling-computer-tablet-or-smartphone-your-voice-0" target="_blank">Voice Recognition - An Overview</a>.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image17.jpeg" style="float: right; width: 160px; height: 94px;">A <strong>switch input</strong> is a button which, when activated, sends a signal to the computer. The switch can also be replaced with a sensor that detects an eye blink, a puff down a tube or any reliable body movement. An on-screen keyboard, word or pictogram board is used to highlight rows, columns or groups, gradually narrowing-down a selection with each activation of the switch until the desired word or letter is the last option left. </p><p>Switches work well with cause and effect programmes that require simple choices but are in no means limited to this; skilled operators have few restrictions to what they can do.</p><p><strong>Eye tracking</strong> and <strong>head tracking</strong> systems tend to operate an onscreen keyboard using the mouse so are included in the mouse section below.</p><h2 id="simple-table-of-contents-14">5. Mouse alternatives</h2><p>There are many different types of mice available and it is important to choose one that fits the hand well and feels comfortable and easy to use. Often it takes a little while to get used to using a new type of mouse and can feel a little clumsy at first.</p><h3 id="simple-table-of-contents-15">Alternatives to the standard mouse</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/image18.jpeg" style="float: left; width: 90px; height: 54px;"><strong>Ergonomic mice</strong> often come in left- and right-handed orientations and in different sizes, to ensure the mouse fits comfortably.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/small_image19.jpeg" style="float: left; width: 90px; height: 90px;"><strong>Vertical mice</strong> realigning the wrist to a more natural ‘handshake’ position, transferring movement onto the more powerful shoulder muscles.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/small_image20.jpeg" style="float: left; width: 90px; height: 90px;"><strong>Adjustable Ergonomic mice</strong> are hinged along one side and allow for the mouse to alternate between a flatter more traditional position and the vertical, this encourages a variable wrist position and can help move from a normal mouse to a vertical.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image21_0.jpeg" style="float: left; width: 90px; height: 43px;"><strong>Bar mice</strong> are positioned directly in front of the keyboard and have a ‘bar’ that slides left and right and rolls for up and down movement. The position of the bar allows it to be operated with your thumbs and keeps your hands on or close to the keyboard.  </p><p><img alt="" src="/sites/abilitynet.org.uk/files/image22.jpeg" style="float: left; width: 90px; height: 90px;"><strong>Trackball</strong>, <strong>trackerball</strong> or <strong>rollerball mice</strong> remain stationary with the cursor controlled by rolling a ball with thumb, fingers or palm. This means there is little to no wrist movement. </p><p><img alt="" src="/sites/abilitynet.org.uk/files/image23.jpeg" style="float: left; width: 90px; height: 90px;"><strong>Larger trackball mice</strong> are easy to use and may be particularly helpful for users who lack fine motor skills, including people with learning difficulties, tremors or arthritis. Also, like the BIG track mouse (with switches) shown here, they can be strong and are often suitable for being operated by elbows or feet.</p><p><br><img alt="" src="/sites/abilitynet.org.uk/files/image24.png" style="float: left; width: 90px; height: 90px;"><strong>Touchpads</strong> (or <strong>trackpads</strong>) are stationary pads operated by sliding (or swiping) your finger(s) across the surface; clicking can be done with buttons or by downwards pressure / tapping lightly on the surface. </p><p><br><img alt="" src="/sites/abilitynet.org.uk/files/image25.jpeg" style="float: left; width: 90px; height: 152px;"><strong>Pen mice</strong> are held in the hand like a pen. They tend to be quite ‘chunky’; a similar size to a marker pen. Left and right click buttons are vertical on the pen shaft.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image26.jpeg" style="float: left; width: 90px; height: 68px;"><strong>Graphics tablets </strong>these require a specialist tablet to write on, but the pens they use are more pen-like than pen mice and generally more comfortable to hold.<br>Graphics tablets tend to be more geared towards design than ergonomics.<br>Many tablet manufacturers are beginning to produce a pen or ‘stylus’ as another means of interacting with the tablet and will allow you to make handwritten notes. </p><p><img alt="" src="/sites/abilitynet.org.uk/files/image27.jpeg" style="float: right; width: 160px; height: 120px;"><strong>Joysticks</strong> work in a similar manner to the controls on an electric wheelchair, with the joystick position determining the direction (and speed) of the mouse pointer.<br>Additional buttons on the joystick can operate left, right and double clicks, as well as other common shortcuts such as cut and paste.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image28.jpeg" style="float: right; width: 160px; height: 96px;"><strong>Touchscreens</strong> use sensors in the screen to track movement and selections and are a very direct method of interacting with your device. Tablets and smartphones use touchscreens as well as many laptops. Touchscreen monitors are also available for use with desktop computers.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image29.jpeg" style="float: right; width: 160px; height: 107px;"><strong>Head movement tracking</strong> uses head movement to control the cursor. This can be done with a wearable device like the headset in the picture or using a camera. With head movement tracking, the cursor is ‘driven’ around the screen in the same way as using a joystick. Selections are made using a switch that can be controlled by a puff or bite (the blue bulb in the picture). </p><p><strong>Eye tracking</strong> systems track eye movement, using it to plot the position of the cursor on the screen. Dwelling on a location triggers a ‘click’. This can be used to control programmes as well as to type when used with the on-screen keyboard.</p><p>Tracking eye movement means that the cursor does not need to be driven around the screen and so is typically much faster than head movement tracking. Although initially designed for use by people with very limited movement, eye tracking hardware and software is now relatively inexpensive and can present an interesting alternative for people experiencing temporary or situational disabilities; for example, a parent could hold their baby and still be able to interact with their computer. </p><p><strong>Foot mouse</strong> systems are typically designed to use both feet. One foot controls the cursor using a slip-on puck on a mat. The other foot controls switches, often with single and double click or other options controlled by separate buttons.</p><h2 id="simple-table-of-contents-16">6. Gaming controllers</h2><p><img alt="" src="/sites/abilitynet.org.uk/files/image30.jpeg" style="float: right; width: 150px; height: 75px;">There are several accessible gaming controllers available such as Microsoft’s Xbox adaptive controller. The controller inputs can be ‘mapped’ to a person’s preferences and used alongside the standard controller allowing disabled and non-disabled gamers to compete at the same level.</p><h2 id="simple-table-of-contents-17">7. Other equipment</h2><p>It is important to have your screen positioned at a comfortable level to minimise bad posture and the risk of injury. We recommend your screen is directly in front of you so you do not have to twist your body and should be approximately an arms-length away with the top of the screen roughly level with your eyes.</p><p>Other equipment such as monitor-raisers and monitor arms allow you to raise the height of a screen. Laptop stands can also be helpful but may require you to have a separate keyboard and mouse. </p><p>Tablets can also be mounted on flexible arms viewing comfort, but this is not always practical, as they are normally controlled with the touchscreen. </p><h3 id="simple-table-of-contents-18">Lap trays and other supports</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/image31.jpeg" style="float: left; width: 160px; height: 119px;">A <strong>lap tray</strong> can allow you to use a tablet or laptop comfortably on your lap and provides a flat, stable surface on one side and a beanbag on the underside that moulds to the shape of your legs.</p><p><strong>Arm or wrist pads </strong>placed in front of the keyboard can be helpful when resting from typing and can help to reduce discomfort and strain. You can also get wrist ‘donuts’ that are worn around the wrists like bracelets and provide support wherever you are working.</p><p><img alt="" src="/sites/abilitynet.org.uk/files/image32.jpeg" style="float: right; width: 140px; height: 140px;"><strong>Articulating wrist supports</strong> clamp to the tabletop and are a more specialist support typically in instances where there are difficulties supporting the weight of the arms.</p><h3 id="simple-table-of-contents-19"><br>Desks</h3><p><img alt="" src="/sites/abilitynet.org.uk/files/image33.jpeg" style="float: left; width: 140px; height: 175px;"><strong>Sit stand desks</strong> can be adjusted according to height and are designed to encourage movement and allow people to work sitting or standing. They are a simple accommodation for people of different heights as well as wheelchair users.  Desks are available in a manual hand-cranked or electronic version as well as smaller clip-on units that fix to an existing desk.<br> </p><h2 id="simple-table-of-contents-20">8. Useful contacts</h2><p>There are many suppliers and manufacturers of ergonomic equipment; below are a list of companies with specialist knowledge who may be able to offer additional advice if needed: </p><ul><li>Hands-free computing: <a href="https://www.hands-free.co.uk">www.hands-free.co.uk/</a> </li><li>Posturite:<a href="https://www.posturite.co.uk"> www.posturite.co.uk/</a></li><li>Contour: <a href="https://contour-design.co.uk">contour-design.co.uk/</a></li><li>Evoluent: <a href="https://evoluent.com">evoluent.com/</a></li><li>Tobii (Eye Gaze): <a href="https://www.tobii.com/group/about/this-is-eye-tracking/">www.tobii.com/group/about/this-is-eye-tracking/</a></li><li>Glassouse (Head tracking): <a href="https://glassouse.com">glassouse.com/</a></li><li>Microsoft (Gaming Controller): <a href="https://www.xbox.com/en-GB/xbox-one/accessories/controllers/xbox-adaptive-controller">www.xbox.com/en-GB/xbox-one/accessories/controllers/xbox-adaptive-controller</a></li></ul><p><script>
+<!--//--><![CDATA[// ><!--
+setTimeout(function() {
+  (function(t,e,s,o){var n,c,l;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),c=n[n.length-1],l=e.createElement(s),l.type="text/javascript",l.async=!0,l.id=o,l.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd6Ll0oyIMG7sAd7lvS6dNMy0wpEczvVfa7gHaluARV_2FK.js"].join(""),c.parentNode.insertBefore(l,c))})(window,document,"script","smcx-sdk");
+}, 30000);
+//--><!]]>
+</script></p><div id="mytexttospeechdiv" style="opacity: 0.1; position: fixed; z-index: 1000000; background-color: rgb(33, 150, 243); text-align: center; border: 1px solid rgb(211, 211, 211); right: 10px; top: 10px; line-height: 30px; height: 30px; width: 30px; cursor: default; border-radius: 25% !important; padding: initial;"><div id="mytexttospeechdivinner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0.2rem; height: 0.2rem; border-radius: 50% !important; background-color: white;"> </div></div><div id="mytexttospeechdiv" style="opacity: 0.1; position: fixed; z-index: 1000000; background-color: rgb(33, 150, 243); text-align: center; border: 1px solid rgb(211, 211, 211); right: 10px; top: 10px; line-height: 30px; height: 30px; width: 30px; cursor: default; border-radius: 25% !important; padding: initial;"><div id="mytexttospeechdivinner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0.2rem; height: 0.2rem; border-radius: 50% !important; background-color: white;"> </div></div>
+</div></div></div><!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-useful-contacts field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+                    <div class="field-item even"><h2>9. How AbilityNet can help you</h2><h3>My Computer My Way</h3><p>My Computer My Way is an AbilityNet run website packed with articles explaining how to use the accessibility features built into your computer, tablet or smartphone. The site is routinely updated as new features and changes are made to the Windows, MacOS, iOS, Chrome OS and Android operating systems. The site is broken down into the following sections:</p><ul><li><a href="https://mcmw.abilitynet.org.uk/impairment/vision" target="_blank">Vision</a> – computer adjustments to do with vision and colour</li><li><a href="https://mcmw.abilitynet.org.uk/impairment/hearing" target="_blank">Hearing</a> – computer adjustments to do with hearing, communication and speech</li><li><a href="https://mcmw.abilitynet.org.uk/impairment/motor" target="_blank">Motor</a> – computer adjustments to do mobility, stamina and dexterity</li><li><a href="https://mcmw.abilitynet.org.uk/impairment/cognitive" target="_blank">Cognitive</a> – computer adjustments to do with attention, learning and memory</li></ul><p>Use it for free at <a href="https://mcmw.abilitynet.org.uk/" target="_blank">mcmw.abilitynet.org.uk</a></p><h3>Advice and information</h3><p>If you have any questions please contact us at AbilityNet and we will do all we can to help.</p><ul><li>Call: 0300 180 0028<br /><strong>Please note: </strong>calls to our helpline number cost no more than a national rate call to an 01 or 02 number and count towards any inclusive minutes in the same way as 01 and 02 calls, and AbilityNet does not receive any money from these calls.</li><li>Email: <a href="mailto:enquiries@abilitynet.org.uk" target="_blank">enquiries@abilitynet.org.uk</a></li></ul><h3>IT support at Home</h3><p>If you’re looking for in-person support, you can book a free visit from one of our disclosure-checked volunteers. Many of our volunteers are former IT professionals who give their time to help older people and people with disabilities to use technology to achieve their goals. Our friendly volunteers can help with most major computer systems, laptops, tablet devices and smartphones.</p><p><a href="https://abilitynet.org.uk/at-home" target="_blank">https://abilitynet.org.uk/at-home</a></p><div id="mytexttospeechdiv" style="opacity: 0.1; position: fixed; z-index: 1000000; background-color: rgb(33, 150, 243); text-align: center; border: 1px solid rgb(211, 211, 211); right: 10px; top: 10px; line-height: 30px; height: 30px; width: 30px; cursor: default; border-radius: 25% !important; padding: initial;"><div id="mytexttospeechdivinner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0.2rem; height: 0.2rem; border-radius: 50% !important; background-color: white;"> </div></div><div id="mytexttospeechdiv" style="opacity: 0.1; position: fixed; z-index: 1000000; background-color: rgb(33, 150, 243); text-align: center; border: 1px solid rgb(211, 211, 211); right: 10px; top: 10px; line-height: 30px; height: 30px; width: 30px; cursor: default; border-radius: 25% !important; padding: initial;"><div id="mytexttospeechdivinner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0.2rem; height: 0.2rem; border-radius: 50% !important; background-color: white;"> </div></div></div>
+            </div>
+</div><div class="field field-name-field-pdf-succeed-content field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Copyright information</h2><p>This factsheet is licensed by AbilityNet under the Creative Commons Attribution-Non Commercial-ShareAlike 3.0 Unported License. View a copy of this license at <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">creativecommons.org/licenses/by-nc-sa/3.0/</a></p><p><img alt="" src="/sites/abilitynet.org.uk/files/creative_commons_logo.png" style="width: 180px; height: 62px; margin-left: 0;" /></p><div class="factsheet-document-end"> </div><div id="mytexttospeechdiv" style="opacity: 0.1; position: fixed; z-index: 1000000; background-color: rgb(33, 150, 243); text-align: center; border: 1px solid rgb(211, 211, 211); right: 10px; top: 10px; line-height: 30px; height: 30px; width: 30px; cursor: default; border-radius: 25% !important; padding: initial;"><div id="mytexttospeechdivinner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0.2rem; height: 0.2rem; border-radius: 50% !important; background-color: white;"> </div></div><div id="mytexttospeechdiv" style="opacity: 0.1; position: fixed; z-index: 1000000; background-color: rgb(33, 150, 243); text-align: center; border: 1px solid rgb(211, 211, 211); right: 10px; top: 10px; line-height: 30px; height: 30px; width: 30px; cursor: default; border-radius: 25% !important; padding: initial;"><div id="mytexttospeechdivinner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0.2rem; height: 0.2rem; border-radius: 50% !important; background-color: white;"> </div></div></div></div></div>
+    <div class="print-container">
+        <img width="30" height="30" src="/sites/abilitynet.org.uk/themes/abilitynet/assets/images/printer.svg" alt="" />
+        <a href="#" class="factsheet-print track-click" data-event="event" data-category="Downloads" data-action="print">Print this page</a>
+    </div>
+
+    <div id="contentFeedbackBlock" *ngIf="!relatedContent"></div>
+
+    <div class="node-feedback flex-section flex-middle"
+         data-node="256"
+         role="group"
+         aria-labelledby="feedbackLabel">
+        <div class="container">
+            <div class="node-feedback_text"
+                 id="feedbackLabel">
+                Was this content helpful?
+            </div>
+            <div class="node-feedback_actions">
+                <button class="node-feedback_button_yes">Yes</button>
+                <button class="node-feedback_button_no">No</button>
+            </div>
+            <button class="dismiss-feedback">Dismiss</button>
+        </div>
+    </div>
+
+</div>
+
+    </section>
+</div>  </div>
+  <div class="region region-right-sidebar">
+    <div id="block-cck-blocks-field-factsheettag" class="block block-cck-blocks">
+
+    <h2>Discover more</h2>
+  
+  <div class="content">
+    <div class="field field-name-field-factsheettag field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/keyboard" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">keyboard</a></div><div class="field-item odd"><a href="/tags/mouse" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mouse</a></div><div class="field-item even"><a href="/tags/adaptations" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">adaptations</a></div><div class="field-item odd"><a href="/tags/rsi" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">RSI</a></div></div></div>  </div>
+</div>
+  </div>
+</div></div></div></div>
+    </div>
+</main>
+
+<section>
+    <div class="container-fluid">
+        <div class="cta-multiple-image-section">
+                    </div>
+    </div>
+</section><section>
+    <div class="container-fluid">
+        <div class="cta-multiple-image-section">
+                    </div>
+    </div>
+</section>
+    <section>
+    <div class="footer-custom-cta">
+        <div class="container">
+            <div class="footer-cta-section">
+                <div class="footer-cta-items flex-section flex-wrap">
+                                            <div class="footer-cta-item">
+                            <a href="/sign-up-for-our-newsletter"
+                               title=""
+                               class="flex-section theme-border-hover">
+                                <div class="footer-cta-icon">
+                                    <img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/keep-in-touch.png" />
+                                </div>
+                                <h2 class="footer-cta-title"><span>Keep in touch</span></h2>
+                                <p class="footer-cta-text">Sign up for our email news</p>
+                            </a>
+                        </div>
+                                            <div class="footer-cta-item">
+                            <a href="/jobs"
+                               title=""
+                               class="flex-section theme-border-hover">
+                                <div class="footer-cta-icon">
+                                    <img alt="" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/files/Jobs.png" />
+                                </div>
+                                <h2 class="footer-cta-title"><span>Current jobs</span></h2>
+                                <p class="footer-cta-text">See our latest vacancies</p>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+<footer id="abilityFooter">
+    <div id="footerTop">
+        <div class="container flex-section flex-start">
+
+            <div class="back-to-top-container">
+                <button aria-label="Back to top">Back to top</button>
+            </div>
+
+            <div class="col-three">
+                <img class="footer-logo" src="https://abilitynet.org.uk/sites/abilitynet.org.uk/themes/abilitynet/logo.png" alt="AbilityNet" />
+                            </div>
+            <div class="col-three">
+                                    <div class="footer-contact">
+                          <div class="region region-footer-contact">
+    <div id="block-block-113" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="tel:+443001800028">0300 180 0028</a></p><p>UK office hours, Monday - Friday</p>  </div>
+</div>
+  </div>
+                    </div>
+                                                    <div class="footer-signup">
+                          <div class="region region-footer-signup">
+    <div id="block-block-115" class="block block-block">
+
+    
+  <div class="content">
+    <p><u><a href="https://abilitynet.org.uk/sign-up-for-our-newsletter"><strong><big>Sign up for our newsletter</big></strong></a></u></p>  </div>
+</div>
+  </div>
+                    </div>
+                            </div>
+            <div class="col-three">
+                                    <div class="footer-links">
+                          <div class="region region-footer-links">
+    <div id="block-menu-menu-footer-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="https://abilitynet.org.uk/free-tech-support-and-info" title="">Free Tech Support and Information</a></li>
+<li class="leaf"><a href="https://abilitynet.org.uk/accessibility-services" title="">Digital Accessibility Services</a></li>
+<li class="leaf"><a href="https://abilitynet.org.uk/workplace" title="">Workplace Services</a></li>
+<li class="last leaf"><a href="http://mcmw.abilitynet.org.uk" title="">My Computer My Way</a></li>
+</ul>  </div>
+</div>
+  </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <div id="footerBottom">
+        <div class="container">
+                            <div class="footer-bottom-links">
+                      <div class="region region-footer-bottom-links">
+    <div id="block-menu-menu-footer-bottom-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/how-contact-us" title="">Contact</a></li>
+<li class="leaf"><a href="/accessibility-statement" title="">Accessibility Statement</a></li>
+<li class="leaf"><a href="/abilitynet-privacy-policy" title="">Privacy Policy</a></li>
+<li class="leaf"><a href="/sitemap" title="">Site Map</a></li>
+<li class="leaf"><a href="/legal-statement" title="">Legal</a></li>
+<li class="leaf"><a href="/support-abilitynet" title="">Support us</a></li>
+<li class="leaf"><a href="/news-blogs" title="">News &amp; Blogs</a></li>
+<li class="leaf"><a href="/about" title="">About</a></li>
+<li class="last leaf"><a href="/user" title="">User Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                    </div>
+        <div class="container">
+                            <div class="footer-info">
+                      <div class="region region-footer-info">
+    <div id="block-block-114" class="block block-block">
+
+    
+  <div class="content">
+    <p>©AbilityNet 2024. AbilityNet is a company limited by guarantee in England and Wales No: 3469653. AbilityNet is a Charity, registered in England and Wales, registration number 1067673, and in Scotland registration number SC039866. Registered Office: Acre House, 11/15 William Road, London NW1 3ER. VAT No. 380597914.</p>  </div>
+</div>
+  </div>
+                </div>
+                    </div>
+    </div>
+</footer>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ctSetCookie("ct_check_js", "f871a6f71b67a4c686f381c53513c7b5", "0");
+//--><!]]>
+</script>
+</body>
+</html>

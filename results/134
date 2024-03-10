@@ -1,0 +1,510 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+	
+	<script src="https://www.googleoptimize.com/optimize.js?id=OPT-KX3RLQV"></script>	
+	
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-WWWJGP');</script>
+		<!-- End Google Tag Manager -->
+
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4689b2f7032bc69fd84dd373/script.js"></script><meta name="dlm-version" content="4.9.10">
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.11 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>How do I set up two-factor authentication (2FA)? - The UK Domain</title>
+	<link rel="canonical" href="https://theukdomain.uk/help-centre/how-do-i-set-up-two-factor-authentication-2fa/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="How do I set up two-factor authentication (2FA)?" />
+	<meta property="og:url" content="https://theukdomain.uk/help-centre/how-do-i-set-up-two-factor-authentication-2fa/" />
+	<meta property="og:site_name" content="The UK Domain" />
+	<meta property="article:modified_time" content="2024-01-11T12:38:56+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://theukdomain.uk/help-centre/how-do-i-set-up-two-factor-authentication-2fa/","url":"https://theukdomain.uk/help-centre/how-do-i-set-up-two-factor-authentication-2fa/","name":"How do I set up two-factor authentication (2FA)? - The UK Domain","isPartOf":{"@id":"https://theukdomain.uk/#website"},"datePublished":"2022-09-13T07:54:39+00:00","dateModified":"2024-01-11T12:38:56+00:00","breadcrumb":{"@id":"https://theukdomain.uk/help-centre/how-do-i-set-up-two-factor-authentication-2fa/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://theukdomain.uk/help-centre/how-do-i-set-up-two-factor-authentication-2fa/"]}]},{"@type":"BreadcrumbList","@id":"https://theukdomain.uk/help-centre/how-do-i-set-up-two-factor-authentication-2fa/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"UK Domain Home","item":"https://theukdomain.uk/"},{"@type":"ListItem","position":2,"name":"Help Centre","item":"https://theukdomain.uk/help-centre/"},{"@type":"ListItem","position":3,"name":"How do I set up two-factor authentication (2FA)?"}]},{"@type":"WebSite","@id":"https://theukdomain.uk/#website","url":"https://theukdomain.uk/","name":"The UK Domain","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://theukdomain.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://theukdomain.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='acf-block-background-image-style-inline-css'>
+.block-background-image {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--brand-purple: #230D5F;--wp--preset--color--brand-pink: #FD5D89;--wp--preset--color--brand-orange: #F3B700;--wp--preset--color--brand-green: #00A6A6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.556), 20px);--wp--preset--font-size--large: clamp(22.041px, 1.378rem + ((1vw - 3.2px) * 1.293), 36px);--wp--preset--font-size--x-large: clamp(25.014px, 1.563rem + ((1vw - 3.2px) * 1.573), 42px);--wp--preset--font-family--gotham: "Gotham", sans-serif;--wp--preset--font-family--gotham-rounded: "Gotham Rounded", sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}.wp-block-heading{--wp--preset--font-size--small: clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.185), 1rem);--wp--preset--font-size--medium: clamp(1.119rem, 1.119rem + ((1vw - 0.2rem) * 0.935), 1.75rem);--wp--preset--font-size--large: clamp(1.502rem, 1.502rem + ((1vw - 0.2rem) * 1.479), 2.5rem);--wp--preset--font-size--x-large: clamp(3rem, 3rem + ((1vw - 0.2rem) * 1.926), 4.3rem);}body { margin: 0;--wp--style--global--content-size: 960px;--wp--style--global--wide-size: 1400px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 24px; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-brand-purple-color{color: var(--wp--preset--color--brand-purple) !important;}.has-brand-pink-color{color: var(--wp--preset--color--brand-pink) !important;}.has-brand-orange-color{color: var(--wp--preset--color--brand-orange) !important;}.has-brand-green-color{color: var(--wp--preset--color--brand-green) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-brand-purple-background-color{background-color: var(--wp--preset--color--brand-purple) !important;}.has-brand-pink-background-color{background-color: var(--wp--preset--color--brand-pink) !important;}.has-brand-orange-background-color{background-color: var(--wp--preset--color--brand-orange) !important;}.has-brand-green-background-color{background-color: var(--wp--preset--color--brand-green) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-brand-purple-border-color{border-color: var(--wp--preset--color--brand-purple) !important;}.has-brand-pink-border-color{border-color: var(--wp--preset--color--brand-pink) !important;}.has-brand-orange-border-color{border-color: var(--wp--preset--color--brand-orange) !important;}.has-brand-green-border-color{border-color: var(--wp--preset--color--brand-green) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-gotham-font-family{font-family: var(--wp--preset--font-family--gotham) !important;}.has-gotham-rounded-font-family{font-family: var(--wp--preset--font-family--gotham-rounded) !important;}.wp-block-heading.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.wp-block-heading.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.wp-block-heading.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.wp-block-heading.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: clamp(0.984em, 0.984rem + ((1vw - 0.2em) * 0.764), 1.5em);line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='build_style-css' href='https://theukdomain.uk/wp-content/themes/theukdomain2021/style.css?ver=1703083349' media='all' />
+<script src="https://theukdomain.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://theukdomain.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/js/bootstrap.bundle.min.js?ver=1" id="bootstrap-js-js"></script>
+<script src="https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/js/infinite-scroll.pkgd.min.js?ver=1" id="infinite-scroll-js"></script>
+<script src="https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/js/slick.min.js?ver=1" id="slick-js"></script>
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v10.2.23-->
+			<script type="text/javascript" class="hsq-set-content-id" data-content-id="blog-post">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "blog-post"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+					<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 100ms;
+				}
+					</style>
+		<style id='wp-fonts-local'>
+@font-face{font-family:Gotham;font-style:normal;font-weight:400;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/Gotham-Book.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Gotham;font-style:normal;font-weight:500;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/Gotham-Medium.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Gotham;font-style:normal;font-weight:200;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/Gotham-Light.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Gotham;font-style:normal;font-weight:600;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/Gotham-Bold.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Gotham;font-style:normal;font-weight:700;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/Gotham-Ultra.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:"Gotham Rounded";font-style:normal;font-weight:400;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/GothamRounded-Book.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:"Gotham Rounded";font-style:normal;font-weight:500;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/GothamRounded-Medium.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:"Gotham Rounded";font-style:normal;font-weight:200;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/GothamRounded-Light.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:"Gotham Rounded";font-style:normal;font-weight:600;font-display:fallback;src:url('https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/fonts/GothamRounded-Bold.woff2') format('woff2');font-stretch:normal;}
+</style>
+<link rel="icon" href="https://theukdomain.uk/wp-content/uploads/2020/12/cropped-UKD_RGB_Roundal_Purple-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://theukdomain.uk/wp-content/uploads/2020/12/cropped-UKD_RGB_Roundal_Purple-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://theukdomain.uk/wp-content/uploads/2020/12/cropped-UKD_RGB_Roundal_Purple-180x180.png" />
+<meta name="msapplication-TileImage" content="https://theukdomain.uk/wp-content/uploads/2020/12/cropped-UKD_RGB_Roundal_Purple-270x270.png" />
+</head>
+
+
+
+<body class="helpcentre-template-default single single-helpcentre postid-32597 theukdomain2021">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe 
+		height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-WWWJGP" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+<a class="skip-link screen-reader-text" href="#screenreaderskip">Skip to content</a>
+<div id="unsupported-browser"></div>
+
+
+<header class="header header--hero header--hero-half-height header--purple">
+
+	<div class="container hero-banner__content--bordered">
+    <div class="row justify-content-sm-center">
+        <h1 class="hero-banner__title"> How do I set up two-factor authentication (2FA)? </h1>
+    </div>
+</div>
+		<a href="https://theukdomain.uk" class="header__logo">
+			<img  data-src='https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/images/logo-paint.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/images/logo-paint.png"></noscript>
+		</a>
+					
+		<div id="mobile-menu-toggle">
+	<input type="checkbox" />
+	<span></span>
+	<span></span>
+	<span></span>
+	<nav class="header__nav" role="navigation">
+		<ul class="ms-auto "><li  id="menu-item-30569" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-30569"><a href="/domain-leaders" class="nav-link ">Domain Leaders</a></li>
+<li  id="menu-item-30517" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-30517"><a href="https://theukdomain.uk/support/" class="nav-link ">Help Centre</a></li>
+<li  id="menu-item-30468" class="header__button menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-30468"><a href="https://theukdomain.uk/buy-a-domain/" class="nav-link ">Domain Name Search</a></li>
+</ul>	</nav>
+</div>
+					
+</header>
+    <div class="container single-helpcentre__page">
+        <div class="row">
+            <div class="col">
+                <!-- <div class="text-center">
+                    <p id="breadcrumbs" class="mb-0 pb-3"><span><span><a href="https://theukdomain.uk/">UK Domain Home</a></span> › <span><a href="https://theukdomain.uk/help-centre/">Help Centre</a></span> › <span class="breadcrumb_last" aria-current="page">How do I set up two-factor authentication (2FA)?</span></span></p>                </div> -->
+                <article class="page-content">
+                                    </article>
+
+                
+<section class="section multi-col-back-block section--  ">
+       
+        <div class="multi-col-back-block__background--pink-blue-green"></div>
+        
+        <div class="row">
+            <div class="col">
+                <h3 class="text-green" style="text-align: center;">To set up two-factor authentication (2FA) follow our step-by-step process video below:</h3>
+<div class="video-embed-responsive-wrapper"><iframe title="Two-Factor Authentication FAQ"  width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen data-src="https://player.vimeo.com/video/731307085?h=e7748823ea&amp;dnt=1&amp;app_id=122963" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></div>
+            </div>
+
+            
+        </div>
+</section>
+<section class="">
+    <div class="container">  
+        <div class="row">
+            <article class="page-content">
+                    <h4 style="text-align: center;"><a href="https://theukdomain.uk/wp-content/uploads/2023/08/2FA_Document_Guide_UKD_update_2023.pdf" target="_blank" rel="noopener">Alternatively, download our handy process reference guide:</a></h4>
+<h4 style="text-align: center;"><a class="gtm-event-pdf-download" href="https://theukdomain.uk/wp-content/uploads/2023/08/2FA_Document_Guide_UKD_update_2023.pdf" target="_blank" rel="noopener"><img fetchpriority="high" decoding="async"   alt="" width="849" height="478" data-srcset="https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-648x365.png 648w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-872x491.png 872w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-768x432.png 768w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-1536x864.png 1536w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-2048x1152.png 2048w"  data-src="https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-648x365.png" data-sizes="(max-width: 849px) 100vw, 849px" class="aligncenter wp-image-31910 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img fetchpriority="high" decoding="async" class="aligncenter wp-image-31910" src="https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-648x365.png" alt="" width="849" height="478" srcset="https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-648x365.png 648w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-872x491.png 872w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-768x432.png 768w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-1536x864.png 1536w, https://theukdomain.uk/wp-content/uploads/2022/03/UKD03001_2FA_Document_UKD_Brand_Design_Update_Introduction-2048x1152.png 2048w" sizes="(max-width: 849px) 100vw, 849px" /></noscript></a></h4>
+<p>&nbsp;</p>
+            </article>        
+        </div>
+    </div>
+</section>
+<section class="section multi-col-back-block section--  ">
+        
+        <div class="row">
+            <div class="col">
+                <h2 class="text-purple" style="text-align: center;">Need some extra help?</h2>
+<h3 class="text-purple" style="text-align: center;">Check out some further Frequently Asked Questions below:</h3>
+            </div>
+
+            
+        </div>
+</section>
+<div class="container">
+    <div class="row">
+        
+        <div class="accordion" id="accordion-6">
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-06" role="button" aria-expanded="true" aria-controls="panel-06">How many devices can I set up per contact?</a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-06" aria-expanded="true" >How many devices can I set up per contact?</button> -->
+
+
+                <div id="panel-06" class="accordion-collapse collapse show" data-bs-parent="#accordion-6">
+                    <div class="accordion__panel-body">
+                        <p><span class="TextRun SCXW203917320 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW203917320 BCX0" data-ccp-parastyle="heading 3">The recommended way of managing access to</span><span class="NormalTextRun SCXW203917320 BCX0" data-ccp-parastyle="heading 3"> your</span> <span class="NormalTextRun SCXW203917320 BCX0" data-ccp-parastyle="heading 3">Nominet </span><span class="NormalTextRun SCXW203917320 BCX0" data-ccp-parastyle="heading 3">Online Services is that contact logins are used by a single user only.</span></span><span class="EOP SCXW203917320 BCX0" data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-16" role="button" aria-expanded="false" aria-controls="panel-16">If I have set-up more than one device, which one do I use to generate my 6 digit passcode?</a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-16" aria-expanded="false" >If I have set-up more than one device, which one do I use to generate my 6 digit passcode?</button> -->
+
+
+                <div id="panel-16" class="accordion-collapse collapse " data-bs-parent="#accordion-6">
+                    <div class="accordion__panel-body">
+                        <p><span class="TextRun SCXW207323819 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW207323819 BCX0" data-ccp-parastyle="heading 3">You can use any of the devices associated with your contact login. The app on each one will generate a unique and valid 6</span><span class="NormalTextRun SCXW207323819 BCX0" data-ccp-parastyle="heading 3">&#8211;</span><span class="NormalTextRun SCXW207323819 BCX0" data-ccp-parastyle="heading 3">digit code for you to input into your <a href="https://secure.nominet.org.uk/auth/login.html" target="_blank" rel="noopener">Nominet Online Services</a></span><span class="NormalTextRun SCXW207323819 BCX0" data-ccp-parastyle="heading 3"> account when you log in.</span></span><span class="EOP SCXW207323819 BCX0" data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-26" role="button" aria-expanded="false" aria-controls="panel-26">I have more than one contact login – can I set up 2FA across all my logins using the same device? </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-26" aria-expanded="false" >I have more than one contact login – can I set up 2FA across all my logins using the same device? </button> -->
+
+
+                <div id="panel-26" class="accordion-collapse collapse " data-bs-parent="#accordion-6">
+                    <div class="accordion__panel-body">
+                        <p><span class="TextRun SCXW252939906 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW252939906 BCX0" data-ccp-parastyle="heading 3">Yes, you can use the same device for multiple contact logins. Make sure you </span><span class="NormalTextRun SCXW252939906 BCX0" data-ccp-parastyle="heading 3">title</span> <span class="NormalTextRun SCXW252939906 BCX0" data-ccp-parastyle="heading 3">each account name within Google Authenticator or Authy app, as something to help you identify the login it applies to, </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW252939906 BCX0" data-ccp-parastyle="heading 3">e.g.</span><span class="NormalTextRun SCXW252939906 BCX0" data-ccp-parastyle="heading 3"> ‘Nominet OS </span></span><span class="TextRun Underlined SCXW252939906 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="none"><span class="NormalTextRun SCXW252939906 BCX0" data-ccp-charstyle="Hyperlink">john@mydomain.co.uk</span></span><span class="TextRun SCXW252939906 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW252939906 BCX0" data-ccp-parastyle="heading 3">’.</span></span><span class="EOP SCXW252939906 BCX0" data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-36" role="button" aria-expanded="false" aria-controls="panel-36">What will happen if I have a passphrase already? </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-36" aria-expanded="false" >What will happen if I have a passphrase already? </button> -->
+
+
+                <div id="panel-36" class="accordion-collapse collapse " data-bs-parent="#accordion-6">
+                    <div class="accordion__panel-body">
+                        <p><span class="TextRun SCXW106495970 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW106495970 BCX0" data-ccp-parastyle="heading 3">The passphrase will be removed as having a password and 2FA is sufficient security.</span></span><span class="EOP SCXW106495970 BCX0" data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-46" role="button" aria-expanded="false" aria-controls="panel-46">What is RFC 6238? </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-46" aria-expanded="false" >What is RFC 6238? </button> -->
+
+
+                <div id="panel-46" class="accordion-collapse collapse " data-bs-parent="#accordion-6">
+                    <div class="accordion__panel-body">
+                        <p aria-level="3"><span data-contrast="auto">RFC 6238 is a standard for implementing two-factor authentication (2FA). Nominet Online Services should work with apps using this implementation. Nominet has successfully tested the Google Authenticator and Authy apps, and these are therefore recommended to users.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p aria-level="3"><span data-contrast="auto">There are many third-party implementations of Google Authenticator, including applications for PalmOS, Chrome OS and Java. If you choose an alternative app to either Google Authenticator or Authy and you can successfully get the app to work with Nominet Online Services, then it is fine for you to use it. However, Nominet advisors cannot provide any support for these implementations, and we cannot vouch for their security.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-56" role="button" aria-expanded="false" aria-controls="panel-56">How often will I have to input a 2FA passcode? </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-56" aria-expanded="false" >How often will I have to input a 2FA passcode? </button> -->
+
+
+                <div id="panel-56" class="accordion-collapse collapse " data-bs-parent="#accordion-6">
+                    <div class="accordion__panel-body">
+                        <p><span class="TextRun SCXW245457141 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW245457141 BCX0">You will need to input a 6</span><span class="NormalTextRun SCXW245457141 BCX0">&#8211;</span><span class="NormalTextRun SCXW245457141 BCX0">digit passcode every time you login to </span><span class="NormalTextRun SCXW245457141 BCX0">your Nominet </span><span class="NormalTextRun SCXW245457141 BCX0">Online Services</span><span class="NormalTextRun SCXW245457141 BCX0"> account</span><span class="NormalTextRun SCXW245457141 BCX0">.</span></span><span class="EOP SCXW245457141 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+                    </div>
+                </div>
+                
+
+        
+        </div>
+                
+        
+        
+        <?phpwp_reset_postdata(); ?>
+    </div>
+</div>
+<section class="section multi-col-back-block section--  ">
+        
+        <div class="row">
+            <div class="col">
+                <h2 class="text-green text-purple" style="text-align: center;">Need some help troubleshooting?</h2>
+<h3 class="text-green text-purple" style="text-align: center;">Check out some tips below:</h3>
+            </div>
+
+            
+        </div>
+</section>
+<div class="container">
+    <div class="row">
+        
+        <div class="accordion" id="accordion-13">
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-013" role="button" aria-expanded="true" aria-controls="panel-013">I get an error when inputting my 16-digit set up key </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-013" aria-expanded="true" >I get an error when inputting my 16-digit set up key </button> -->
+
+
+                <div id="panel-013" class="accordion-collapse collapse show" data-bs-parent="#accordion-13">
+                    <div class="accordion__panel-body">
+                        <p><span class="TextRun SCXW6035030 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW6035030 BCX0">Please check that the characters have been inputted correctly. The 16</span><span class="NormalTextRun SCXW6035030 BCX0">&#8211;</span><span class="NormalTextRun SCXW6035030 BCX0">digit setup key will not contain the number</span><span class="NormalTextRun SCXW6035030 BCX0">s</span> <span class="NormalTextRun SCXW6035030 BCX0">‘</span><span class="NormalTextRun SCXW6035030 BCX0">0</span><span class="NormalTextRun SCXW6035030 BCX0">’</span><span class="NormalTextRun SCXW6035030 BCX0"> or </span><span class="NormalTextRun SCXW6035030 BCX0">‘</span><span class="NormalTextRun SCXW6035030 BCX0">1</span><span class="NormalTextRun SCXW6035030 BCX0">’</span><span class="NormalTextRun SCXW6035030 BCX0">.</span></span><span class="EOP SCXW6035030 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259,&quot;469777462&quot;:[1294],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-113" role="button" aria-expanded="false" aria-controls="panel-113">I’ve got a message that my account is locked </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-113" aria-expanded="false" >I’ve got a message that my account is locked </button> -->
+
+
+                <div id="panel-113" class="accordion-collapse collapse " data-bs-parent="#accordion-13">
+                    <div class="accordion__panel-body">
+                        <p><span data-contrast="auto">If you enter the wrong passcode 8 times you will be locked out of your account. If this happens, you will need to validate your identity with our Customer Service team on +44 (0)330 236 9470 or by emailing <a href="mailto:domainsupport@nominet.uk">domainsupport@nominet.uk</a>. </span></p>
+<p><span data-contrast="auto">If anyone else uses the same contact email address as you for Nominet Online Services, they may have been locked out of the account without your knowledge. An email confirming this will have been sent to the email address used for the account.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-213" role="button" aria-expanded="false" aria-controls="panel-213">My 2FA passcode doesn’t work when logging in </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-213" aria-expanded="false" >My 2FA passcode doesn’t work when logging in </button> -->
+
+
+                <div id="panel-213" class="accordion-collapse collapse " data-bs-parent="#accordion-13">
+                    <div class="accordion__panel-body">
+                        <p><span data-contrast="auto">The 2FA passcode is time sensitive so it could be a time-related issue. Ensure you are reading the passcode and immediately entering it into Nominet Online Services. Check that the date and time on your device is correct, and that you are using the correct time zone for where you are situated.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p><span data-contrast="auto">It is recommended that your device is set to update the date, time &amp; time zone automatically if this feature is available.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p><span data-contrast="auto">If you have multiple contact logins, you need to make sure the 2FA passcode is the correct one for the contact login you are using. </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+           
+
+
+                <a class="accordion__panel-title collapsed" data-bs-toggle="collapse" href="#panel-313" role="button" aria-expanded="false" aria-controls="panel-313">What happens if I have lost the device with 2FA installed? </a>
+                <!-- <button class="accordion__panel-title collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-313" aria-expanded="false" >What happens if I have lost the device with 2FA installed? </button> -->
+
+
+                <div id="panel-313" class="accordion-collapse collapse " data-bs-parent="#accordion-13">
+                    <div class="accordion__panel-body">
+                        <p><span data-contrast="auto">If you have another device associated with your contact login then you should:</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></p>
+<ul>
+<li data-leveltext="%1." data-font="" data-listid="3" data-list-defn-props="{&quot;335552541&quot;:0,&quot;335559684&quot;:-1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Login to your <a href="https://secure.nominet.org.uk/auth/login.html" target="_blank" rel="noopener">Nominet Online Services account</a> using the other device</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></li>
+</ul>
+<ul>
+<li data-leveltext="%1." data-font="" data-listid="3" data-list-defn-props="{&quot;335552541&quot;:0,&quot;335559684&quot;:-1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1"><span data-contrast="auto">Go to &#8216;Login Settings&#8217; and &#8216;Manage two-factor (2FA) authentication devices&#8217;</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></li>
+</ul>
+<ul>
+<li data-leveltext="%1." data-font="" data-listid="3" data-list-defn-props="{&quot;335552541&quot;:0,&quot;335559684&quot;:-1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" aria-setsize="-1" data-aria-posinset="3" data-aria-level="1"><span data-contrast="auto">Delete the device that has been lost</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></li>
+</ul>
+<ul>
+<li data-leveltext="%1." data-font="" data-listid="3" data-list-defn-props="{&quot;335552541&quot;:0,&quot;335559684&quot;:-1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" aria-setsize="-1" data-aria-posinset="4" data-aria-level="1"><span data-contrast="auto">If you don&#8217;t have another device</span><span data-contrast="auto">,</span><span data-contrast="auto"> you will need to contact our Customer Service Team on +44 (0)330 236 9470 or by emailing <a href="mailto:domainsupport@nominet.uk">domainsupport@nominet.uk</a>. </span></li>
+</ul>
+<p><span data-contrast="auto">Once we can verify your identity we will delete the lost device from your contact login for you.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></p>
+                    </div>
+                </div>
+                
+
+        
+        </div>
+                
+        
+        
+        <?phpwp_reset_postdata(); ?>
+    </div>
+</div><div class="support-contact-block"> 
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="support-contact-block__left">
+                    <h2>DID THIS ANSWER YOUR QUESTION?</h2>
+If not, you can contact our dedicated UK based support team for more information.                </div>
+            </div>
+
+            <div class="col">
+                <div class="support-contact-block__right">
+                    For general enquiries, send an email to domainsupport@nominet.uk
+
+or call us on                </div>
+                <div class="support-contact-block__phone">
+                    +44 (0) 330 236 9470 
+                </div>
+                <div class="support-contact-block__times">
+                    Our business hours are:
+
+Monday - Friday, 8:00am - 6:00pm UK time.
+
+Our offices are closed on UK bank holidays.
+
+&nbsp;                </div>
+            </div>
+           
+        </div>
+    </div>
+</div>
+
+                <div class="text-center">
+                    <div class="row justify-content-center">
+                        <div class="col-md-3">
+                            <button class="back-to-previous-button" id="js-go-back" style="display:none;">Back to previous page</button>
+                        </div>
+                    </div> 
+                </div>            </div>
+        </div>
+        
+    </div>
+    
+
+    
+
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+
+            </div>
+            <div class="col-md-8">
+                <h1 class="footer__title">Find Your .UK Domain Name</h1>
+                <form class="domain-search-cta registrar-domain-search" action="/buy-a-domain" method="GET" autocomplete="off">                      
+                <span class="search-icon"></span>
+                <input type="search" class="" id="query" aria-describedby="" placeholder="Type your domain name here" name="domain">
+                <label for="cc-num" class="hidden">credit card HubspotCollectedFormsWorkaround https://community.hubspot.com/t5/APIs-Integrations/How-to-stop-collected-forms-from-collecting-a-form/m-p/299172#M28102</label>
+                <button data-href="" type="submit" class="button pick-domain">Search</button>
+ </form>            </div>
+            <div class="col">
+                <div class="social-row">
+    <!-- <a href="https://twitter.com/dotuk" target="_blank" class="social-row__icon--twitter" title="twitter">twitter</a> -->
+    <!-- <a href="https://www.facebook.com/theukdomain" target="_blank" class="social-row__icon--facebook" title="facebook">facebook</a>
+    <a href="https://www.youtube.com/dotuk" target="_blank" class="social-row__icon--youtube" title="youtube">youtube</a> -->
+</div>            </div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-8">
+                <nav class="row footer__nav">
+                    
+	<div class="col-md-4"><ul class="list-unstyled"><li id="menu-item-18072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18072 mb-4"><a href="https://theukdomain.uk/about-us/">About Us</a></li>
+<li id="menu-item-7138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7138 mb-4"><a href="https://theukdomain.uk/contact-us/">Contact us</a></li>
+<li id="menu-item-6542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6542 mb-4"><a href="https://theukdomain.uk/privacy-notice/">Privacy notice</a></li>
+<li id="menu-item-33480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33480 mb-4"><a href="https://theukdomain.uk/how-we-use-cookies/">How we use cookies</a></li>
+<li id="menu-item-30638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30638 mb-4"><a href="https://theukdomain.uk/support/">Help Centre</a></li>
+</li></ul></div><div class="col-md-4"><ul class="list-unstyled"><li id="menu-item-30748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30748 mb-4"><a href="https://theukdomain.uk/glossary/">Glossary</a></li>
+<li id="menu-item-6545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6545 mb-4"><a href="https://theukdomain.uk/accessibility/">Accessibility</a></li>
+<li id="menu-item-6548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6548 mb-4"><a href="https://theukdomain.uk/terms/">Terms of use</a></li>
+<li id="menu-item-7799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7799 mb-4"><a href="https://theukdomain.uk/uk-domain-family/">Our Domain Names: Which .UK is Right For You?</a></li>
+</ul></div>                </nav>
+            </div>
+            <div class="col-md">
+
+            </div>
+            <div class="col footer__logo-wrapper">
+                <img   alt="the uk domain" data-src="https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/images/logo-white.svg" class="footer__logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="footer__logo" src="https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/images/logo-white.svg" alt="the uk domain"></noscript>
+                
+            </div>
+        </div>
+        <div class="row">
+        <div class="col-12">
+        <p class="mt-5 small">© Nominet UK 2024</p>
+        </div>
+    </div>
+    </div>
+
+    
+</footer>
+
+
+<script id="leadin-script-loader-js-js-extra">
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"10.2.23"};
+</script>
+<script src="https://js.hs-scripts.com/6214058.js?integration=WordPress&amp;ver=10.2.23" id="leadin-script-loader-js-js"></script>
+<script id="nominet-live-help-js-extra">
+var liveChat = {"open":"8","close":"18","holidayClose":"15","serverURL":"https:\/\/webchat.nominet.uk"};
+</script>
+<script src="https://theukdomain.uk/wp-content/plugins/nominet-livehelp/nominet-live-help.js?ver=1703083349" id="nominet-live-help-js"></script>
+<script id="spinner-tracker-js-extra">
+var admin_ajax = {"ajaxurl":"https:\/\/theukdomain.uk\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://theukdomain.uk/wp-content/plugins/nominet-spinner-tracker/spinner-tracker.js?ver=1703083349" id="spinner-tracker-js"></script>
+<script id="dlm-xhr-js-extra">
+var dlmXHRtranslations = {"error":"An error occurred while trying to download the file. Please try again.","not_found":"Download does not exist.","no_file_path":"No file path defined.","no_file_paths":"No file paths defined.","filetype":"Download is not allowed for this file type.","file_access_denied":"Access denied to this file.","access_denied":"Access denied. You do not have permission to download this file.","security_error":"Something is wrong with the file path.","file_not_found":"File not found."};
+</script>
+<script id="dlm-xhr-js-before">
+const dlmXHR = {"xhr_links":{"class":["download-link","download-button"]},"prevent_duplicates":true,"ajaxUrl":"https:\/\/theukdomain.uk\/wp-admin\/admin-ajax.php"}; dlmXHRinstance = {}; const dlmXHRGlobalLinks = "https://theukdomain.uk/download/"; const dlmNonXHRGlobalLinks = []; dlmXHRgif = "https://theukdomain.uk/wp-includes/images/spinner.gif"; const dlmXHRProgress = "1"
+</script>
+<script src="https://theukdomain.uk/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=4.9.10" id="dlm-xhr-js"></script>
+<script src="https://theukdomain.uk/wp-content/themes/theukdomain2021/assets/js/scripts.js?ver=1703083349" id="build_script-js"></script>
+<script src="https://theukdomain.uk/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.15.5" id="smush-lazy-load-js"></script>
+<script id="ivory-search-scripts-js-extra">
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+</script>
+<script src="https://theukdomain.uk/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.4" id="ivory-search-scripts-js"></script>
+
+            <div id="live-help-container">
+                <div class="help-tab">
+                    Live Chat Help
+                </div>
+            </div>
+            
+       </body>
+
+</html>

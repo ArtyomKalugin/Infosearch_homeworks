@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en-GB" class="no-js">
+<head>
+        <!-- Anti-flicker snippet (recommended)  -->
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+            h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+            (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,
+            {'GTM-TGGMM7':true});
+
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'pageType' : "page",
+            'topic' : "Core"
+        });
+    <!-- Google Tag Manager -->
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TGGMM7');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    
+
+    <link href="https://www.google-analytics.com" rel="dns-prefetch">
+    <link rel="shortcut icon" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon.ico?v=v2" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/manifest.json">
+    <meta name="msapplication-TileColor" content="#005f73">
+    <meta name="msapplication-TileImage" content="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="facebook-domain-verification" content="i162hez7d2ur4elqzd3jxkngxiqro9" />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/db411cf4c6a62295e776d292/script.js"></script>
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.11 (Yoast SEO v21.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Nominet Careers - Find a job at the heart of the internet</title>
+	<meta name="description" content="Discover working for one of the internet’s biggest and most influential names; using technology to improve connectivity, inclusivity and security online." />
+	<link rel="canonical" href="https://www.nominet.uk/careers/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Careers" />
+	<meta property="og:description" content="Discover working for one of the internet’s biggest and most influential names; using technology to improve connectivity, inclusivity and security online." />
+	<meta property="og:url" content="https://www.nominet.uk/careers/" />
+	<meta property="og:site_name" content="Nominet" />
+	<meta property="article:publisher" content="https://www.facebook.com/nominet" />
+	<meta property="article:modified_time" content="2023-07-04T10:43:49+00:00" />
+	<meta property="og:image" content="https://nominet.uk/wp-content/uploads/2020/02/Nominet_Perks_image650x300_Dawn.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@Nominet" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.nominet.uk/careers/","url":"https://www.nominet.uk/careers/","name":"Nominet Careers - Find a job at the heart of the internet","isPartOf":{"@id":"https://www.nominet.uk/#website"},"datePublished":"2015-12-08T11:22:45+00:00","dateModified":"2023-07-04T10:43:49+00:00","description":"Discover working for one of the internet’s biggest and most influential names; using technology to improve connectivity, inclusivity and security online.","breadcrumb":{"@id":"https://www.nominet.uk/careers/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.nominet.uk/careers/"]}]},{"@type":"BreadcrumbList","@id":"https://www.nominet.uk/careers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.nominet.uk/"},{"@type":"ListItem","position":2,"name":"Careers"}]},{"@type":"WebSite","@id":"https://www.nominet.uk/#website","url":"https://www.nominet.uk/","name":"Nominet","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.nominet.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.nominet.uk' />
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.nominet.uk/wp-includes/css/dist/block-library/style.min.css?ver=becfe4217063020fe81c7da198fec97e' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='nominet-rdap-css' href='https://www.nominet.uk/wp-content/plugins/nominet-rdap/public/css/nominet-rdap-public.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='nominet-css' href='https://www.nominet.uk/wp-content/themes/nominetv2/library/css/nominetv2.min.css?ver=1707487307' media='all' />
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/lib/modernizr-2.7.1.min.js?ver=2.7.1" id="modernizr-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://player.vimeo.com/api/player.js" id="vimplay-js-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/simplyCountdown.1.7.0.min.js?ver=1707487307" id="simplyCountdown-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/skrollr.min.js" id="skrollr-js-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/jquery.vide.min.js" id="vide-js-js"></script>
+<script type="text/javascript" id="nominet-live-help-js-extra">
+/* <![CDATA[ */
+var liveChat = {"open":"8","close":"18","holidayClose":"15","serverURL":"https:\/\/webchat.nominet.uk\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/plugins/nominet-livehelp/nominet-live-help.js?ver=becfe4217063020fe81c7da198fec97e" id="nominet-live-help-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/plugins/nominet-rdap/public/js/nominet-rdap-public.js?ver=1.0.0" id="nominet-rdap-js"></script>
+<link rel="alternate" type="application/json+oembed" href="https://www.nominet.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nominet.uk%2Fcareers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.nominet.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nominet.uk%2Fcareers%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v10.2.17-->
+			<script type="text/javascript" class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			    <meta name="google-site-verification" content="6xG5uXBtvQekLtgMPg7LnCsWx8_TmR61AgirF6-7Xrs" />
+</head>
+<body class="page-template-default page page-id-5158 page-parent loading careers">
+<main>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGGMM7"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="skip-link" href="#content">Skip to main content</a>
+
+<div class="header" id="header" role="header">
+    <div class="header-inner clearfix">
+        <div class="header-logo d-flex align-items-center justify-content-center mx-md-auto">
+            <svg version="1.1" id="Artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 80.3 80.5" style="enable-background:new 0 0 80.3 80.5;" xml:space="preserve" width="70" height="70">
+                <path class="st0" d="M52.5,60.3c-3.7,0-6.3-2.2-8.7-4.2c-1.7-1.5-3.2-2.7-4.8-2.7c-1.9,0-3,1.3-4.2,2.7c-1.6,1.9-3.4,4.1-7.6,4.1
+	c-2.2,0-4-0.8-5.3-2.3c-1.2-1.4-1.8-3.3-1.8-5.4l0-24.8c0-4.2,3.5-7.7,7.7-7.7c3.7,0,6.3,2.2,8.7,4.2c1.7,1.5,3.2,2.7,4.8,2.7
+	c1.9,0,3-1.3,4.2-2.7c1.6-1.9,3.4-4.1,7.6-4.1c2.2,0,4,0.8,5.3,2.3c1.2,1.4,1.8,3.3,1.8,5.4v24.8C60.2,56.9,56.8,60.3,52.5,60.3z
+	 M39.1,52.4c1.9,0,3.6,1.4,5.4,3c2.2,1.8,4.7,3.9,8,3.9c3.7,0,6.6-3,6.6-6.6V27.8c0-1.9-0.6-3.5-1.6-4.7c-1.1-1.3-2.6-1.9-4.5-1.9
+	c-3.7,0-5.3,1.9-6.8,3.7c-1.3,1.5-2.6,3.1-5,3.1c-1.9,0-3.6-1.4-5.4-3c-2.2-1.8-4.7-3.9-8-3.9c-3.7,0-6.6,3-6.6,6.6l0,24.8
+	c0,1.9,0.6,3.5,1.6,4.7c1.1,1.3,2.6,1.9,4.5,1.9c3.7,0,5.3-1.9,6.8-3.7C35.3,54,36.7,52.4,39.1,52.4z"/>
+                <path class="st1" d="M52.8,66.1c-4.7,0-7.3-1.9-9.5-3.5c-1.4-1.1-2.6-1.9-4-1.9c-1.7,0-3,1-4.4,2.1c-1.9,1.5-4.4,3.3-8.7,3.3
+	c-7.6,0-12.1-4.8-12.1-13v-26c0-4,1.4-7.4,4.1-9.7c2.4-2.1,5.7-3.2,9.2-3.2c4.7,0,7.3,1.9,9.5,3.5c1.4,1.1,2.6,1.9,4,1.9
+	c1.7,0,3-1,4.4-2.1c1.9-1.5,4.4-3.3,8.7-3.3c7.6,0,12.1,4.8,12.1,13v26c0,4-1.4,7.4-4.1,9.7C59.6,65,56.3,66.1,52.8,66.1z
+	 M39.3,59.7c1.8,0,3.1,1,4.6,2.1c2.1,1.5,4.5,3.3,8.8,3.3c6.1,0,12.2-3.7,12.2-11.9v-26c0-3.6-1.1-11.9-11-11.9c-4,0-6.1,1.7-8,3.1
+	c-1.5,1.2-3,2.3-5.1,2.3c-1.8,0-3.1-1-4.6-2.1c-2.1-1.5-4.5-3.3-8.8-3.3c-6.1,0-12.2,3.7-12.2,11.9v26c0,3.6,1.1,11.9,11,11.9
+	c4,0,6.1-1.7,8-3.1C35.8,60.8,37.2,59.7,39.3,59.7z"/>
+                <path class="st2" d="M56.2,73.2c-4.8,0-7.8-1.6-10.5-3c-2-1.1-3.8-2-6-2c-2.2,0-3.9,0.9-5.9,2c-2.5,1.4-5.4,2.9-9.8,2.9
+	c-5,0-9.3-1.9-12.4-5.5c-2.8-3.3-4.4-7.6-4.4-12.3l0-30.4c0-5.5,1.8-10.1,5.2-13.3c3-2.9,7.2-4.4,11.7-4.4c4.8,0,7.8,1.6,10.5,3
+	c2,1.1,3.8,2,6,2c2.2,0,3.9-0.9,5.9-2c2.5-1.4,5.4-2.9,9.8-2.9c5,0,9.3,1.9,12.4,5.5c2.8,3.3,4.4,7.6,4.4,12.3v30.4
+	c0,5.5-1.8,10.1-5.2,13.3C64.8,71.6,60.7,73.2,56.2,73.2z M39.7,67.2c2.4,0,4.4,1,6.4,2.1c2.6,1.3,5.5,2.9,10,2.9
+	c4.2,0,8.1-1.5,10.9-4.1c3.2-3,4.9-7.3,4.9-12.5V25c0-10.9-7.9-16.7-15.7-16.7c-4.1,0-6.9,1.5-9.3,2.8c-2,1.1-4,2.2-6.4,2.2
+	c-2.4,0-4.4-1-6.4-2.1c-2.6-1.3-5.5-2.9-10-2.9c-4.2,0-8.1,1.5-10.9,4.1c-3.2,3-4.9,7.3-4.9,12.5l0,30.4c0,10.9,7.9,16.7,15.7,16.7
+	c4.1,0,6.9-1.5,9.3-2.8C35.4,68.2,37.3,67.2,39.7,67.2z"/>
+                <path class="st3" d="M59.3,80.5c-4.3,0-7.4-1.2-10.3-2.3c-2.8-1.1-5.4-2.1-8.8-2.1c-3.4,0-6,1-8.8,2.1c-3,1.1-6,2.3-10.3,2.3
+	c-5.5,0-10.6-1.8-14.3-5C2.3,71.5,0,65.7,0,58.5V22C0,14.8,2.3,8.9,6.8,5c3.7-3.3,8.8-5,14.3-5c4.3,0,7.4,1.2,10.3,2.3
+	c2.8,1.1,5.4,2.1,8.8,2.1c3.4,0,6-1,8.8-2.1c3-1.1,6-2.3,10.3-2.3c5.5,0,10.6,1.8,14.3,5c4.4,3.9,6.8,9.7,6.8,16.9v36.5
+	c0,7.2-2.3,13-6.8,16.9C69.9,78.7,64.8,80.5,59.3,80.5z M40.2,75c3.6,0,6.5,1.1,9.2,2.1c2.9,1.1,5.9,2.3,9.9,2.3
+	c9.2,0,20-5.5,20-20.9V22c0-15.4-10.8-20.9-20-20.9c-4.1,0-7.1,1.1-9.9,2.3c-2.7,1.1-5.6,2.1-9.2,2.1c-3.6,0-6.5-1.1-9.2-2.1
+	c-2.9-1.1-5.9-2.3-9.9-2.3c-9.2,0-20,5.5-20,20.9v36.5c0,15.4,10.8,20.9,20,20.9c4.1,0,7.1-1.1,9.9-2.3C33.7,76.1,36.5,75,40.2,75z"
+                />
+</svg>
+            <div>
+                <a href="https://www.nominet.uk/" class="d-inline-block nominet-logo" title="Nominet Logo">Nominet</a>
+            </div>
+        </div>
+        <span class="header-search">
+            <span class="icon icon-search" id="toggle-search" title="Search"></span>
+            <span class="icon icon-cross" id="hide-search" title="Search"></span>
+        </span>
+        <nav class="header-nav" id="menu" role="navigation" aria-label="header navigation">
+            <div class="menu-container"><ul class="d-lg-flex"><li id="nav-menu-item-13688" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="#" class="menu-link main-menu-link">Our Services</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-14540" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/domain-solutions/" class="menu-link sub-menu-link">Domain Solutions</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-14584" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/uk-domains/" class="menu-link sub-menu-link">UK Domains</a></li>
+		<li id="nav-menu-item-14588" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/welsh-domains/" class="menu-link sub-menu-link">Welsh Domains</a></li>
+		<li id="nav-menu-item-38943" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/registry-services/" class="menu-link sub-menu-link">Registry Services</a></li>
+		<li id="nav-menu-item-19562" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a target="_blank" href="https://secure.nominet.org.uk" class="menu-link sub-menu-link">Online Services</a></li>
+		<li id="nav-menu-item-37532" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/lookup/" class="menu-link sub-menu-link">Lookup</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14577" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/cyber-security/" class="menu-link sub-menu-link">Cyber Security</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-32291" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://nominetcyber.com/" class="menu-link sub-menu-link">Nominet Cyber</a></li>
+	</ul></div></div>
+</li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-13689" class="main-menu-item  menu-item-even menu-item-depth-0   current-menu-parent current-menu-ancestor"><a href="#" class="menu-link main-menu-link">Discover Nominet</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-1063" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/about/" class="menu-link sub-menu-link">About Us</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-14491" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/board/" class="menu-link sub-menu-link">Our Board</a></li>
+		<li id="nav-menu-item-18946" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/events/" class="menu-link sub-menu-link">Events</a></li>
+		<li id="nav-menu-item-39323" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/helping-our-environment/" class="menu-link sub-menu-link">Helping our Environment</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-5287" class="sub-menu-item  menu-item-odd menu-item-depth-1 current-menu-item  page_item current-menu-item"><a href="https://www.nominet.uk/careers/" class="menu-link sub-menu-link">Careers</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-19871" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/careers/why-nominet/" class="menu-link sub-menu-link">Why Nominet?</a></li>
+		<li id="nav-menu-item-19576" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/careers/perks/" class="menu-link sub-menu-link">Perks</a></li>
+		<li id="nav-menu-item-28371" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://jobs.nominet.uk" class="menu-link sub-menu-link">Vacancies</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-17970" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/public-benefit/" class="menu-link sub-menu-link">Public Benefit</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-19571" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/social-impact/" class="menu-link sub-menu-link">Social Impact</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14482" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/corporate-governance/" class="menu-link sub-menu-link">Corporate Governance</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-21122" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/corporate-governance/members/" class="menu-link sub-menu-link">Members</a></li>
+		<li id="nav-menu-item-35880" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/chairs-update/" class="menu-link sub-menu-link">Chair’s Update</a></li>
+	</ul></div></div>
+</li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-13690" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="#" class="menu-link main-menu-link">News &#038; Insights</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-48" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/news/" class="menu-link sub-menu-link">News</a></li>
+	<li id="nav-menu-item-24866" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/blog/" class="menu-link sub-menu-link">Blog</a></li>
+	<li id="nav-menu-item-14479" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/news/reports-statistics/" class="menu-link sub-menu-link">Reports &#038; Statistics</a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-13691" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="#" class="menu-link main-menu-link">Support</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-4567" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/contact-us/" class="menu-link sub-menu-link">Contact Us</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-19578" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://nominet.uk/contact-us/#locations" class="menu-link sub-menu-link">Locations</a></li>
+		<li id="nav-menu-item-24653" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/customer-commitments/" class="menu-link sub-menu-link">Customer Commitments</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14472" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/domain-support/" class="menu-link sub-menu-link">Domain Support</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-36395" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://theukdomain.uk/support-using-and-managing-my-domain/" class="menu-link sub-menu-link">Domain Support FAQ</a></li>
+		<li id="nav-menu-item-28227" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/uk-domains/policies/" class="menu-link sub-menu-link">Our Policies</a></li>
+		<li id="nav-menu-item-20038" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/domain-support/uk-domain-disputes/" class="menu-link sub-menu-link">UK Domain Disputes</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14471" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/registrar-support/" class="menu-link sub-menu-link">Registrar Support</a></li>
+	<li id="nav-menu-item-19959" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/complaints/" class="menu-link sub-menu-link">Complaints</a></li>
+	<li id="nav-menu-item-19958" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a target="_blank" href="https://secure.nominet.org.uk" class="menu-link sub-menu-link">Online Services</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-37072" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://secure.nominet.org.uk/auth/login.html" class="menu-link sub-menu-link">Log In</a></li>
+	</ul></div></div>
+</li>
+</ul></div></div>
+</li>
+</ul></div>        </nav>
+        <span class="header-menu">
+            <button class="hamburger hamburger--spin" type="button" id="toggle-menu">
+                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+            </button>
+        </span>
+    </div>
+    <div class="searchFlyout" id="searchform">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <h3>Search Our Website</h3>
+                    <form method="get" action="https://www.nominet.uk">
+    <div class="input-group input-search">
+        <input type="text" class="form-control input-block" id="search" name="s" aria-label="Search site for:" placeholder="Enter search term" value=""/>
+        <label for="cc-num" class="d-none">credit card HubspotCollectedFormsWorkaround https://community.hubspot.com/t5/APIs-Integrations/How-to-stop-collected-forms-from-collecting-a-form/m-p/299172#M28102</label>
+        <input type="hidden" name="cc-num" class="d-none" required="" value="HubspotCollectedFormsWorkaround" id="cc-num">
+	    <button class="search-button" type="submit"><i class="icon icon-search"></i></button>
+    </div>
+</form>                </div>
+                <div class="col-md-6">
+                    <div class="mt-4 mt-lg-0">
+                        <h3>Domain Lookup Information</h3>
+                        
+
+<div class="form-lookup-wrapper">
+    <form id="domain" class="form-whois form-lookup gtm-header-nav-lookup input-search" action="/lookup" method="GET" autocomplete="off">        
+    <input  
+        name="domain" 
+        type="text"                   
+        pattern="^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[A-Za-z0-9]+([\-\.]{1}[A-Za-z0-9]+)*\.[A-Za-z]{2,5}(:[0-9]{1,5})?(\/.*)?$" 
+        placeholder="example.co.uk"
+        onchange="validateInput(this);"
+        class="form-control input-block"
+        >
+        
+                    <button id="lookup-submit" class="search-button pick-domain" type="submit"><i class="icon icon-search"></i></button> 
+        
+
+    </form>
+    <span class="domain-input__warning-prompt mt-4 sanitiseMessage" style="display:none"></span>
+<span class="domain-input__warning-prompt mt-4 warningMessage" style="display:none">Please enter a complete domain name eg example.co.uk or example.com.</span>
+<span class="domain-input__warning-prompt mt-4 validMessage" style="display:none">Thanks... sending you to our lookup now.</span>
+                
+<script>
+
+function validateInput(input) {
+    const thisForm = input.closest('.form-lookup-wrapper');
+    const warningMessage = thisForm.querySelector('.warningMessage'); 
+    const validMessage = thisForm.querySelector('.validMessage');
+    
+    scrollDownToInput(input)
+
+    //Removes the browser error message
+    input.addEventListener('invalid', function(event){
+        event.preventDefault()
+    });
+    
+    if(input.checkValidity() === false){
+        warningMessage.style.display = 'block';
+        validMessage.style.display = 'none';
+    } else {
+        validMessage.style.display = 'inline-block';
+        warningMessage.style.display = 'none';
+    }
+}
+
+function scrollDownToInput(input) {
+
+    const inputCoords = getOffsetTopFromDocument(input);
+
+    window.scrollTo({
+        top: inputCoords - 100,
+        behavior: 'smooth'
+    });
+}
+
+function getOffsetTopFromDocument(element) {
+    let offsetTop = 0;
+
+    //cycles through parent offsets until there is nothing left
+    while(element) {
+        offsetTop += element.offsetTop;
+        element = element.offsetParent;
+    }
+    return offsetTop;
+}
+
+</script>              
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="wrapper" id="content">
+  <section class="hero medium service-default" id="heroVideo"><div class="container"><header class="col-12"><h1 class="mb-0">Careers at Nominet</h1></header></div><div class="background" style="background-image: url()"></div></section>            <div class="sectionnav-wrapper">
+                <div class="container">
+                    <div class="row">
+                        <nav class="link-bar">
+                            <a class="d-md-inline-block d-none subnav-logo" href="#header"></a>
+                            <ul id="menu-careers-menu" class="sectionnav list-unstyled list-inline"><li class="current-menu-item"><a href="/careers" aria-current="page">Careers</a></li>
+<li><a href="/careers/why-nominet">Why Nominet</a></li>
+<li><a href="/careers/perks">Perks</a></li>
+<li><a href="https://jobs.nominet.uk">Nominet Jobs</a></li>
+</ul>                            <div class="paddles">
+                                <button class="left-paddle paddle hidden">
+                                    <div class="icon-chevron-left"></div>
+                                </button>
+                                <button class="right-paddle paddle">
+                                    <div class="icon-chevron-right"></div>
+                                </button>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <section class="component-company bg-transparent" id="nominet-careers"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><div class="row body-copy justify-content-center"><div class="col-lg-6 "><div class="d-flex align-items-start justify-content-center h-100 flex-column"><h2 class="w-100"></h2><p>We build solutions that protect Critical National Infrastructure, so you’ll be joining a team working at the heart of the internet, keeping .UK safe and secure.</p>
+<p>Whether you’re looking to take that next step or to kick start your career, Nominet is a team of people united by our passion to do amazing work which makes a difference, with technology at its heart. It goes without saying that it’s a dynamic and innovative place to work; will you join us for the ride?</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-l" href="https://jobs.nominet.uk/">Check out our current vacancies</a></strong></p>
+</div></div><div class="col-lg-6 d-flex align-items-center justify-content-center"><div><img class="img-fluid mx-auto d-block flex-shrink-0" src="https://www.nominet.uk/wp-content/uploads/2023/07/Natalie-Wood.png" alt="Natalie-Wood.png" title="Natalie Wood" /></div></div></div></div></section><section class="component-paragraph" id="we-have-a-range-of-opportunities-"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><h2 class="section-title ">We have a range of opportunities </h2><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><p>Below are some of the typical roles and departments we recruit for here at Nominet but this by no means covers every role. We are sure there is a home for your skills with us.</p>
+<p>To achieve our goals we need a workforce that’s representative of the users we serve, that’s why we bring together a diverse, balanced and expert team. People with all kinds of skills, abilities, qualifications and interests. We will continue to build an inclusive culture that encourages, supports, and celebrates the diverse voices of our employees. This starts from the moment someone enters our recruitment process, we commit to fostering a process that is fair and authentic for all.</p>
+</div></div></section><section class="component-faq" id="job-roles-section-"><div class="container component-row pt-3 pb-3 pt-lg-1 pb-lg-1"><div class="row responsive-gutters"><div class="col-lg-12 mx-auto"><div class="tab-content"><div class="tab-pane active" id="Sm9iIFJvbGVzIA---content" role="tabpanel" aria-labelledby="Sm9iIFJvbGVzIA-tab"><div class="accordion mb-5" id="faqAccordion1-3"><div class="card"><div class="card-header" id="heading1-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-3" aria-expanded="true" aria-controls="collapse1">Experienced Professionals </button></h5></div><div id="collapse1-1-3" class="collapse " aria-labelledby="heading1-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Our business is constantly evolving, and with this comes great opportunities to join our team. Our corporate functions like HR, Finance, PMO and Communications &amp; Marketing enable the business to be successful. We look for people who are creative, ambitious, fun, curious, passionate, trustworthy and articulate. So, if you’re into big-budget product launches, creating seamless digital experiences, love managing projects or devising propositions, you’ll be in the right place.</p>
+<p style="font-size: 19px;">Whether you’re looking to take that next step in your career or to kick start your career, Nominet is a team of people united by our passion to do amazing work which makes a difference. All in the name of creating a world which is more connected, inclusive and secure.</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/">See where you can use your skills here</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading2-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse2-1-3" aria-expanded="true" aria-controls="collapse2">QA Engineers</button></h5></div><div id="collapse2-1-3" class="collapse " aria-labelledby="heading2-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Our QA Engineers are a vital part of our engineering team, ensuring that our solutions are truly fit for purpose, reliable and scalable. Working in agile / waterfall environments, QA Engineers work closely with product owners and developers to understand requirements as well as finding and tracking bugs to keep these systems optimal. If you’ve an appetite for the latest technology around automation, we’re on a journey to design and build automation frameworks from scratch in an agile environment using a range of technologies, such as Java, Cypress and Selenium.</p>
+<p style="font-size: 19px;">Our QA teams work on a range of systems and applications across both our Registry Business and our Cyber Solutions so there is scope for some far-reaching, complex and important work.</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/go/Innovation-and-Technology/4045101/">Check out our current vacancies</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading3-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse3-1-3" aria-expanded="true" aria-controls="collapse3">SDET</button></h5></div><div id="collapse3-1-3" class="collapse " aria-labelledby="heading3-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Our SDETs (Software Developers In Test) work in an agile environment and are crucial to the rapid deployment of our cyber solutions – the tools that keep organisations and services secure. As an SDET at Nominet you will get to showcase your ability to write ‘clean code’, demonstrate your deep understanding of the architecture that will enable you to design and build automated tests which are robust, reliable and reusable.</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/go/Innovation-and-Technology/4045101/">Check out our current vacancies</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading4-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse4-1-3" aria-expanded="true" aria-controls="collapse4">Architects</button></h5></div><div id="collapse4-1-3" class="collapse " aria-labelledby="heading4-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Our IT Architects are at the core of everything we do. They provide the design expertise that ensure our internal systems and our innovative security solutions retain their high reputation as best in class, scalable and secure.</p>
+<p style="font-size: 19px;">Our software architects lead the charge to deliver the evolving cyber security platforms deployed via the cloud using technologies such as AI, ML and Big Data. If you join us, you’ll enjoy the unique balance of getting a ‘bigger picture’ overview whilst being able to keep your skills sharp and get your hands dirty. Common responsibilities include overseeing the solution lifecycle from design to delivery and working with senior stakeholders to manage the ongoing product / solution roadmap.</p>
+<p style="font-size: 19px;">The infrastructure architects at Nominet are the ones building and maintaining the heart of the national internet infrastructure. These employees are working on DNS and Network Architecture that secures the online experience for the millions who use the .UK namespace every day. Our architects ultimately create the vision and manage solution roadmaps for the systems and solutions that underpin our business.</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/go/Innovation-and-Technology/4045101/">Check out our current vacancies</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading5-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse5-1-3" aria-expanded="true" aria-controls="collapse5">DNS Engineers / Specialists</button></h5></div><div id="collapse5-1-3" class="collapse " aria-labelledby="heading5-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Nominet is a unique environment for those who have the skills to work as DNS Engineers/Specialists and our team provides deep DNS / DNSSEC project and support services to a broad range of customers. We are running critical national infrastructure and are constantly in demand to support, manage, troubleshoot and improve DNS infrastructure. We also support major government organisations using our PDNS Cyber Security solution – both in the UK and overseas. We maintain the security of our DNS via a range of sophisticated DNS solutions to stop online fraud including phishing and DNS hijacking.</p>
+<p style="font-size: 19px;">At Nominet, we can offer DNS Specialists unparalleled access to opportunities you won’t find elsewhere – opportunities to build and support infrastructure that millions of users rely on each and every day.</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/go/Innovation-and-Technology/4045101/">Check out our current vacancies</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading6-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse6-1-3" aria-expanded="true" aria-controls="collapse6">DevOps</button></h5></div><div id="collapse6-1-3" class="collapse " aria-labelledby="heading6-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Whether you are an experienced DevOps Engineer, or are looking to take the first step into the DevOps space having built up great skills around automation and containerisation, we have a number of great DevOps opportunities across Nominet.</p>
+<p style="font-size: 19px;">Opportunities exist in our Internet Engineering function, joining a recently established DevOps team operating at the heart of the internet infrastructure; and also in Cyber Solutions where you would be embedded in a cross-functional scrum team, working on deployment, management and maintenance of cloud-based cyber security products.</p>
+<p style="font-size: 19px;">The context of our work is challenging, so these roles would appeal to someone who wants to make an impact in carving the way we approach DevOps, influencing our patterns of working with an ambition to create a DevOps Centre of Excellence. That means you will bring your expertise to help shape our future over a wide time frame. We have a long-term goal to make fuller use of cloud deployment, so these roles would suite someone looking to work in a hybrid cloud environment. These roles will also play a critical part in a significant containerisation project.</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/go/Innovation-and-Technology/4045101/">Check out our current vacancies</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading7-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse7-1-3" aria-expanded="true" aria-controls="collapse7">Infrastructure Engineers</button></h5></div><div id="collapse7-1-3" class="collapse " aria-labelledby="heading7-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Nominet’s Infrastructure Engineering team is responsible for managing the on-premise, hybrid and cloud IT infrastructure services and systems for Nominet and its customers. The team work on a wide range of technologies that underpin the critical national infrastructure for the .UK registry services and Nominet’s cyber security solutions.</p>
+<p style="font-size: 19px;">This is the role for you if you’d relish the opportunity to work on technology that’s at the heart of the internet and you are an experienced, technically curious Infrastructure Engineer with strong troubleshooting and problem-solving skills.</p>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/go/Innovation-and-Technology/4045101/">Check out our current vacancies</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading8-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse8-1-3" aria-expanded="true" aria-controls="collapse8">Developers </button></h5></div><div id="collapse8-1-3" class="collapse " aria-labelledby="heading8-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Whether you’re a developer in our Internet Engineering or Cyber Solutions team, our developers work shoulder to shoulder with other engineering talent to design, develop, release and maintain our software and systems architecture that underpin Nominet’s systems. Either way you’re going have a real impact on critical national infrastructure and threat intelligence used by government organisations internationally.</p>
+<p style="font-size: 19px;">In Internet Engineering you will get to develop new features, modules and applications that keep the .UK infrastructure running, along with our gTLD registry systems. You will play a key role in producing robust, cutting-edge Java web applications utilised by millions of users and at the heart of the Internet.</p>
+<p style="font-size: 19px;">Our Cyber Software Engineering team is organised in scrum teams and as a developer you will be an integral part of one of the scrum squads working on Nominet’s threat intelligence platform.</p>
+<p style="font-size: 19px;">Roles include:</p>
+<ul>
+<li>
+<p style="font-size: 19px;">Front-end developers using frameworks such as Angular and React</p>
+</li>
+<li>
+<p style="font-size: 19px;">Back-end developers using Java, Hibernate and Spring.</p>
+</li>
+<li>
+<p style="font-size: 19px;">Full-stack Engineer across the tech stack Javascript and Java</p>
+</li>
+</ul>
+<p style="text-align: left;"><strong><a class="btn btn-primary btn-m" href="https://jobs.nominet.uk/go/Innovation-and-Technology/4045101/">Check out our current vacancies</a></strong></p>
+</div></div></div><div class="card"><div class="card-header" id="heading9-1-3"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse9-1-3" aria-expanded="true" aria-controls="collapse9">Future Talent</button></h5></div><div id="collapse9-1-3" class="collapse " aria-labelledby="heading9-1-3" data-parent="#faqAccordion1-3"><div class="card-body"><p style="font-size: 19px;">Nominet has a host of future talent opportunities whilst also facilitating some fantastic development opportunities. We want everyone to stretch themselves and progress so that each of our people can truly shine.</p>
+<p style="font-size: 19px;"><strong>What do we offer?</strong></p>
+<p style="font-size: 19px;">Future careers opportunities with Nominet include structured apprenticeships. You will earn as you learn, work towards a recognised qualification and benefit from a bespoke learning development programme. There are also entry level roles benefitting from the same access to development opportunities, including the opportunity to apply for additional qualifications.</p>
+<p style="font-size: 19px;">We’ve filled all our Apprentice roles for 2021 but we encourage you to set up a <a href="https://jobs.nominet.uk/lp/Home-DataCapture/3a8692bd7fcdbe26/?locale=en_GB" target="_blank" rel="noopener">job alert</a> so we can let you know when we have a match for you.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-paragraph" id="all-jobs-copy-"><div class="container component-row pt-3 pb-3 pt-lg-1 pb-lg-1"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h4 style="text-align: center;">Looking for your next challenge? <a href="https://jobs.nominet.uk/" target="_blank" rel="noopener">See a list of all our current job openings.</a></h4>
+</div></div></section><section class="component-full_width " id="why-nominet"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><div class="row responsive-gutters"><div class="col-12"><div class="card-wrapper"><div class="card card-fw card-fw-left row no-gutters"><div class="col-lg-6" data-bottom-center="transform: translate3d(0,20px,0);" data-top="transform: translate3d(0,-20px,0);"><a href="/careers/why-nominet/" target="" title="Why Nominet"><img class="card-image img-fluid" src="https://www.nominet.uk/wp-content/uploads/2020/07/1350x433-CTA-Banner-800x257.png" alt="Young person looking in window" title="1350x433- CTA Banner"></a></div><div class="col-lg-6" data-bottom-center="transform: translate3d(0,0px,0);" data-top="transform: translate3d(0,20px,0);"><div class="card-body"><h5 class="card-title">Why Nominet?</h5><p class="card-text ">Discover the full potential of Nominet and take up a job you can be passionate about whilst making an impact.</p></div><a href="/careers/why-nominet/" target="" title="Why Nominet" class="btn btn-primary">Discover why Nominet is the place for you</a></div></div></div></div></div></div></section><section class="component-full_width " id="what-youll-get"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><div class="row responsive-gutters"><div class="col-12"><div class="card-wrapper"><div class="card card-fw card-fw-right row no-gutters"><div class="col-lg-6" data-bottom-center="transform: translate3d(0,20px,0);" data-top="transform: translate3d(0,-20px,0);"><a href="/careers/perks" target="" title="Benefits and Perks"><img class="card-image img-fluid" src="https://www.nominet.uk/wp-content/uploads/2018/10/Website-perks-full-width-650-300px-800x369.jpg" alt="Woman doing Yoga" title="Benefits and perks"></a></div><div class="col-lg-6" data-bottom-center="transform: translate3d(0,0px,0);" data-top="transform: translate3d(0,20px,0);"><div class="card-body"><h5 class="card-title">What you'll get</h5><p class="card-text ">We are committed to attracting and retaining the best talent, and our benefits and perks are designed to ensure we continue to achieve just that.</p></div><a href="/careers/perks" target="" title="Benefits and Perks" class="btn btn-primary">Discover our perks and benefits </a></div></div></div></div></div></div></section><section class="component-media_copy media-copy" id="discover-nominet"><div class="container component-row row-1 pt-3 pb-3 pt-lg-5 pb-lg-5"><div class="card-wrapper-fh bg-body pb-0"><div class="card-fw align-items-center row px-0 mx-0"><div class="col-lg-6 media px-lg-0 px-3 order-1"><div class="embed-container" data-bottom-center="transform: translate3d(0,50px,0);" data-top="transform: translate3d(0,-50px,0);"><iframe title="#NominetLife" src="https://player.vimeo.com/video/733963649?h=a1285c5c62&amp;dnt=1&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe></div></div><div class="copy body-copy col-lg-6 order-2"><div class="card-body bg-transparent card-body-fh px-0 px-lg-4 bg-body"><h1 class="text-regular small text-teal mb-3 ">Discover Nominet</h1><p class="text-teal card-text">Discover what it's like working for one of the internet’s biggest and most influential names.</p></div></div></div></div></div></section><section class="component-full_image_cta pt-3 pb-3 pt-lg-5 pb-lg-5" id="join-our-team"><div class="container"></div><div class="container component-row py-0"><div class="full-image-cta col-12 d-flex align-items-center justify-content-center flex-column tile" data-scale="1.05" data-image="https://www.nominet.uk/wp-content/uploads/2018/09/careers-tema.jpg"><h1 class="text-light text-white cta-title text-center mb-2 w-100">Live Job Openings</h1><div class="row w-100"><div class="col-lg-8 mx-auto body-copy"><p class="lead text-center text-white px-3 px-lg-0 w-100">Looking for your next challenge? Click below to see a list of all our current job openings.</p></div><div class="col-lg-8 mx-auto"><p class="text-center px-3 px-lg-0"><a href="https://jobs.nominet.uk/" target="" target="" class="btn btn-outline-light">View all vacancies</a></p></div></div></div></div></section><section class="component-paragraph" id="a-note-from-us-to-recruitment-suppliers"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><h2 class="section-title ">A note from us to Recruitment Suppliers</h2><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><p>Here at Nominet we have an experienced in-house resourcing team who focus on candidate attraction via direct channels, and we’re in a really fortunate position that we engage lots of great talent directly.</p>
+<p>We’re really pleased to know that so many great recruitment suppliers would like to work with us. In those times that we do require some additional support, we have a Preferred Supplier List that we would go to in the first instance. This is made up of partners who have built a strong understanding of the business and know what it takes to be a Nominet-er.</p>
+<p>In tech recruitment especially, there are far more of you than there are of us. With that in mind, we politely ask that you avoid making any speculative approaches to our Resourcing Team or Managers across the business.</p>
+</div></div></section><div class="first-pattern"></div><div class="second-pattern"></div><div class="third-pattern"></div><footer class="footer-wrapper"><div class="container"><div class="row py-5 d-flex align-items-center"><div class="footer-logo col-lg-7 col-md-5 col-sm-12 d-flex"><div class="nominet-logo"></div></div><div class="col-lg-5 col-md-7 col-sm-12"><div class="social-icons flex-row d-flex justify-content-end"><a href="https://twitter.com/Nominet" target="_blank" title="Nominet on Twitter"><div class="icon-twitter icon-white"></div></a><a href="https://www.youtube.com/user/Nominetnews" target="_blank" title="Nominet on YouTube"><div class="icon-youtube icon-white"></div></a><a href="https://www.facebook.com/nominet" target="_blank" title="Nominet on Facebook"><div class="icon-facebook icon-white"></div></a><a href="https://www.linkedin.com/company/nominet-uk/" target="_blank" title="Nominet on LinkedIn"><div class="icon-linkedin icon-white"></div></a></div></div></div><nav role="navigation" aria-label="footer navigation"><ul class="footer-menu row"><li class="col-md-3 col-sm-6 col-6"><a href="/about/">Our Company</a>
+<ul class="sub-menu">
+	<li><a href="https://www.nominet.uk/about/">About</a></li>
+	<li class="current-menu-item"><a href="https://www.nominet.uk/careers/">Careers</a></li>
+	<li><a href="https://www.nominet.uk/contact-us/">Contact Us</a></li>
+	<li><a href="https://www.nominet.uk/news/">News</a></li>
+	<li><a href="/blog">Blog</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="/uk-domains/policies/">Our Policies</a>
+<ul class="sub-menu">
+	<li><a href="https://www.nominet.uk/uk-domains/policies/how-we-develop-policy/">How We Develop .UK Policy</a></li>
+	<li><a href="https://www.nominet.uk/complaints/">Complaints</a></li>
+	<li><a href="https://www.nominet.uk/security-at-nominet/">Security at Nominet</a></li>
+	<li><a href="https://www.nominet.uk/modern-slavery-statement/">Modern Slavery Statement</a></li>
+	<li><a href="https://www.nominet.uk/vulnerability-disclosure-programme/">Vulnerability Disclosure Programme</a></li>
+	<li><a href="https://www.nominet.uk/wp-content/uploads/2024/02/Executive-Remuneration-Policy-June-2023-FINAL.pdf">Remuneration Policy</a></li>
+	<li><a href="https://www.nominet.uk/wp-content/uploads/2023/03/Gender-pay-gap-Report.pdf">Gender Pay Gap Report</a></li>
+	<li><a href="https://media.nominet.uk/wp-content/uploads/2015/08/58367_votingrightspolicy17052012.pdf">Nominet Voting Rights Bye-Law</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="https://www.nominet.uk/corporate-governance/">Corporate Governance</a>
+<ul class="sub-menu">
+	<li><a href="https://www.nominet.uk/corporate-governance/members/">Members</a></li>
+	<li><a href="https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-members/?_ga=2.25902717.1351636482.1601893043-1366922857.1589793223">Current Members</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a target="_blank" href="http://registrars.nominet.uk">Registrars</a>
+<ul class="sub-menu">
+	<li><a target="_blank" href="https://registrars.nominet.uk/uk-namespace/registration-and-domain-management/new-registrars/becoming-a-uk-namespace-registrar/">Become a Registrar</a></li>
+	<li><a target="_blank" href="https://www.nominet.uk/?page_id=1580">Current Registrars</a></li>
+	<li><a target="_blank" href="http://registrars.nominet.uk">Registrar Resources</a></li>
+	<li><a target="_blank" href="https://nominetstatus.uk/">Service Status</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="/domain-solutions/">Domain Solutions</a>
+<ul class="sub-menu">
+	<li><a target="_blank" href="https://www.theukdomain.uk/buy-a-domain/">Buy Domain Name</a></li>
+	<li><a href="/uk-domains/">Domain Names</a></li>
+	<li><a href="https://www.nominet.uk/domain-support/">Domain Support</a></li>
+	<li><a href="https://theukdomain.uk/support-using-and-managing-my-domain/">Domain Support FAQ</a></li>
+	<li><a href="https://www.nominet.uk/domain-support/uk-domain-disputes/">UK Domain Disputes</a></li>
+	<li><a target="_blank" href="https://secure.nominet.org.uk">Online Services</a></li>
+	<li><a href="https://www.nominet.uk/lookup/">Lookup</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="/cyber-security/">Cyber Security</a>
+<ul class="sub-menu">
+	<li><a href="https://nominetcyber.com/">Nominet Cyber</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="https://www.nominet.uk/accessibility/">Accessibility</a>
+<ul class="sub-menu">
+	<li><a href="/sitemap_index.xml">Sitemap</a></li>
+	<li><a href="https://www.nominet.uk/privacy-notice/">Privacy Notice</a></li>
+	<li><a href="https://www.nominet.uk/terms-of-use/">Terms of Use</a></li>
+	<li><a href="https://www.nominet.uk/how-we-use-cookies/">How we use cookies</a></li>
+</ul>
+</li>
+</ul></nav></div><div class="col-12 mt-5 generator py-4"><div class="container"><div class="row"><div class="col-lg-5 col-md-4 col-sm-12 text-left"><small>&copy; Nominet UK 2024.  Company number: 03203859</small></div><div class="col-lg-7 col-md-8 col-sm-12 text-right"><address class="mb-0"><small>Minerva House, Edmund Halley Road, Oxford Science Park, OX4 4DQ, United Kingdom</small></address></div></div></div></div></footer>
+
+
+</div>
+<!-- /wrapper -->
+
+<div class="alerts">
+       
+       
+        <div class="alert alert-dismissible is-alert alert-home-fixed" role="alert">
+        <button id="alert-39858" type="button" class="close alert-close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <div><span class="label label-domains">Consultation opens on significant changes to .UK registry systems</span></div>
+        <div><a href="https://www.nominet.uk/uk-modernisation-consultation/">Have your say</a></div>
+    </div>
+    </div>
+
+<div class="back-to-top invisible">
+    <span class='icon-back-to-top icon-chevron-up'></span>
+</div>
+
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/scripts.js?ver=1707487307" id="scripts-js"></script>
+<script type="text/javascript" id="leadin-script-loader-js-js-extra">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"10.2.17"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.hs-scripts.com/6214058.js?integration=WordPress&amp;ver=10.2.17" id="leadin-script-loader-js-js"></script>
+</main>
+</body>
+</html>

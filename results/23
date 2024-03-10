@@ -1,0 +1,1081 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,300;1,500&display=swap" rel="stylesheet">
+
+
+			<link rel="canonical" href="https://www.webfactory.co.uk/blog">
+		<meta property="og:url" content="https://www.webfactory.co.uk/blog" />
+	
+	<meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+	<meta name="msvalidate.01" content="1EFAE14158631E0E900715A470B3F3C9" />
+	<meta name="msvalidate.01" content="DF4EA97F5C7429CF357E154F8357DC51" />
+	<meta name="norton-safeweb-site-verification" content="rvqvl22wc5d787l5h0v6hhjw1fj9r4pt-4jc--rubcdpwx0oxabzhy4cam8ucjmvemkohux0wz61ek7if1mqevca18elkhub6qes2n2rfi3359ggnzv6lovcpm26kp7h">
+	<meta name="norton-safeweb-site-verification" content="72a-uak450lhocb725nkpq6w8bnxuvjydickl-j33lq7cdaf4k5htxaw409ygswqb6ccblagvfknkts63j4npwkc0lri-nfiam5aywqv8490ugk7zrxuh8oy2njpq95z">
+
+	<meta name="p:domain_verify" content="9f2e0b85340b784ef02ef2b8dd1547c9" />
+
+			<meta name="image" property="og:image" content="https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-webfactory-website-design.jpg" />
+		<meta property="og:title" content="Affordable Bespoke Websites from Webfactory">
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="The easiest and most affordable way to get your business online.">
+		<meta property="og:site_name" content="Webfactory Website Design" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:description" content="The easiest and most affordable way to get your business online." />
+		<meta name="twitter:title" content="Affordable Bespoke Websites from Webfactory" />
+		<meta name="twitter:site" content="@WeAreWebfactory" />
+		<meta name="twitter:image" content="https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-webfactory-website-design.jpg" />
+		<meta name="twitter:creator" content="@WeAreWebfactory" />
+		
+	<link rel="apple-touch-icon" sizes="180x180" href="https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-Fav-Blue-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-Fav-Blue-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-Fav-Blue-16x16.png">
+	<meta name="msapplication-TileColor" content="#00b4ff">
+
+
+	
+
+			<title>Blog - Affordable Bespoke Websites from Webfactory</title>
+	
+			<meta name="description" content="Business Websites Made Easy. Fully Bespoke Website Design. Fast turnaround, simple process, amazing prices!" />
+	
+
+	<meta name="google-site-verification" content="-_uXdlDF1MLd7nug7fR21sDv_uUpMgKgT52hHeyJg0s" />
+			<link rel="stylesheet" href="https://assets.webfactory.co.uk/libraries/owlcarousel2/dist/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="https://assets.webfactory.co.uk/libraries/owlcarousel2/dist/assets/owl.theme.default.min.css">
+		<link rel="stylesheet" href="https://assets.webfactory.co.uk/libraries/lightbox2/dist/css/lightbox.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://assets.webfactory.co.uk/libraries/font-awesome-6/css/all.min.css">
+	<link rel="stylesheet" href="https://assets.webfactory.co.uk/libraries/font-awesome-6/css/v4-shims.min.css">
+	<link rel="stylesheet" href="https://assets.webfactory.co.uk/libraries/font-awesome-6/css/v5-font-face.min.css">
+
+	<!-- Main CSS -->
+	<link rel="stylesheet" href="https://assets.webfactory.co.uk/css/styles-frontend.css?d2602202414">
+
+	<!-- Google Fonts - Poppins -->
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.10.2/umd/popper.min.js" integrity="sha512-nnzkI2u2Dy6HMnzMIkh7CPd1KX445z38XIu4jG1jGw7x5tSL3VBjE44dY4ihMU1ijAQV930SPM12cCFrB18sVw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    
+	<!-- Bootstrap JS -->
+    <script  src="https://assets.webfactory.co.uk/libraries/bootstrap5/dist/js/bootstrap.min.js"></script>
+
+
+
+	<!-- jQuery -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+	<!-- Trustpilot -->
+	<script  src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+	
+	<!-- Countdown -->
+	<script src="https://assets.webfactory.co.uk/libraries/countdown/dist/jquery.countdown.min.js"></script>
+
+	<!-- Lightbox -->
+	<script src="https://assets.webfactory.co.uk/libraries/lightbox2/dist/js/lightbox.min.js"></script>
+	<script>
+		lightbox.option({
+			'disableScrolling': true
+		})
+	</script>
+
+	<!-- Owl Carousel -->
+			<script src="https://assets.webfactory.co.uk/libraries/owlcarousel2/dist/owl.carousel.min.js"></script>
+	
+	<!-- Mixitup -->
+	<script src="https://assets.webfactory.co.uk/libraries/mixitup/src/jquery.mixitup.min.js"></script>
+
+	<!-- Main JS -->
+	<script src="./js/main.js?c2602202414"></script>
+
+	<!-- Match Height -->
+	<script src="./js/matchheight.js"></script>
+
+
+	<!-- if localhost -->
+	<script>$.post("./includes/statsrecordjava.php", {u: '', r: '',s: '2',c: 'https://www.webfactory.co.uk/blog',u: '', p: 'Blog'});</script>
+
+	<!-- if not Webfactory user -->
+			<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-WCSX73YCN8"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+	
+		gtag('js', new Date());
+		gtag('config', 'G-WCSX73YCN8');
+		</script>
+	
+
+</head>
+
+
+
+
+<body  class="">
+
+
+	<div id="modal-holder">
+	</div>
+
+
+	<!-- Scroll jQuery -->
+	<script>
+		$(window).scroll(function() {
+			if ($(window).scrollTop() > 60) {
+				$(".header").addClass("py-2");
+				$(".header").removeClass("py-3");
+			} else {
+				$(".header").addClass("py-3");
+				$(".header").removeClass("py-2");
+			}
+		});
+	</script>
+
+	<header class="header navbar navbar-expand-lg bg-white shadow-sm border-bottom border-light border-opacity-25 py-3 fixed-top">
+
+		<div class="container-xxl px-3">
+
+			<a class="navbar-brand" href="./">
+			<svg id="wf-logo" xmlns="http://www.w3.org/2000/svg" width="145" height="32" viewBox="0 0 169.18 32">
+				<path id="Path_2101" data-name="Path 2101" d="M361.46,411.59a6.231,6.231,0,0,0-5.09,4.56h-.08a7.285,7.285,0,0,0,.08-1.14v-.25A5.9,5.9,0,0,1,361.46,411.59Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2102" data-name="Path 2102" d="M362.83,411.6a7.953,7.953,0,0,0-1.11-.02c-.07,0-.14.01-.22.01.2-.03.41-.05.61-.06a3.368,3.368,0,0,1,.44.03.57.57,0,0,1,.13.01Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2103" data-name="Path 2103" d="M330.2,426a3.68,3.68,0,0,0,.8-.08v3.92a9.115,9.115,0,0,1-1.37.1c-2.51,0-7.48-.75-7.48-6.78v-5.62l-.02-2.78.02-7.87h4.48v4.9h4.1v3.56h-4.1v7.26C326.63,425.57,328.96,426,330.2,426Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2104" data-name="Path 2104" d="M250.04,411.41c-5.28,0-8.94,3.78-8.94,9.23-.01.21,0,.42.01.63a9.013,9.013,0,0,0,9.44,8.57,10.7,10.7,0,0,0,7.07-2.67l-1.82-3.03a7.965,7.965,0,0,1-4.93,1.96,5.071,5.071,0,0,1-5.29-4.72h12.15s.1-1.12.1-1.63C257.83,415.09,255.07,411.41,250.04,411.41Zm-4.3,6.91a4.2,4.2,0,0,1,4.3-3.54h.01a3.42,3.42,0,0,1,3.3,3.54Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2105" data-name="Path 2105" d="M268.97,411.16a6.39,6.39,0,0,0-5.4,2.5h-.08c.05-.51.08-1.02.08-1.53v-5.22c0-1.67-.74-2.41-2.41-2.41h-4.29v3.81h1.59a.716.716,0,0,1,.61.79h-.03v20.5h4.25v-.92a7.845,7.845,0,0,0-.08-1.19h.08a6.473,6.473,0,0,0,5.39,2.54c4.78,0,8.28-3.72,8.28-9.44C276.96,415.01,273.84,411.16,268.97,411.16Zm-1.08,15.07c-2.99,0-4.48-2.76-4.48-5.56,0-3.98,2.2-5.68,4.52-5.68,2.65,0,4.49,2.23,4.49,5.66C272.42,424.22,270.34,426.23,267.89,426.23Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2106" data-name="Path 2106" d="M340.42,411.37c-5.46,0-9.85,3.9-9.85,9.42,0,5.54,4.39,9.42,9.85,9.42,5.52,0,9.88-3.88,9.88-9.42C350.3,415.29,345.92,411.37,340.42,411.37Zm5.36,9.68a5.339,5.339,0,0,1-5.36,5.32,1.925,1.925,0,0,1-.24-.01,5.339,5.339,0,0,1-5.09-5.59,4.681,4.681,0,0,1,0-.53,5.352,5.352,0,0,1,10.69.53A2.611,2.611,0,0,1,345.78,421.05Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2107" data-name="Path 2107" d="M241.25,415.37a.861.861,0,0,0-1,.62l-4.3,13.57h-5.07l-3.07-10.26a18.126,18.126,0,0,1-.43-1.94h-.08a18.942,18.942,0,0,1-.45,1.94l-3.04,10.28h-5.09l-4.32-13.57c-.18-.53-.45-.63-1-.63h-.49v-3.81h3.07c1.49,0,2.2.45,2.55,1.84l2.64,10a13.793,13.793,0,0,1,.35,1.9h.08a14.073,14.073,0,0,1,.43-1.9l3.33-11.76h3.95l3.37,11.75a14.874,14.874,0,0,1,.39,1.9h.08a13.522,13.522,0,0,1,.35-1.9l2.62-10.01c.36-1.37,1.06-1.84,2.55-1.84h3.07v3.82Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2108" data-name="Path 2108" d="M283.24,411.77h3.84v3.56h-3.84v14.43h-4.48V415.35h-2.23v-3.57h2.23v-.53c0-5.89,4.83-6.66,7.34-6.66a11.231,11.231,0,0,1,1.53.1v3.8a4.815,4.815,0,0,0-.92-.07c-1.28,0-3.47.31-3.47,2.91Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2109" data-name="Path 2109" d="M320.1,423.86l1.88,3.1a10.3,10.3,0,0,1-7.6,3.25c-5.93,0-9.73-4.19-9.73-9.42,0-5.09,3.68-9.42,9.85-9.42,2.33,0,6.52.96,6.52,4.05v2.12h-3.96v-.98c0-.98-1.48-1.41-2.58-1.41a5.275,5.275,0,0,0-5.33,5.23c0,.12,0,.25.01.37a5.339,5.339,0,0,0,5.11,5.55c.17,0,.34,0,.5-.01A8.091,8.091,0,0,0,320.1,423.86Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2110" data-name="Path 2110" d="M303.55,426a.7.7,0,0,1-.63-.78v-6.7c0-4.02-1.78-7.15-7.77-7.15-1.87,0-6.6.35-6.6,3.7v1.9h4.16v-.96c0-.98,1.61-1.19,2.41-1.19,2.29,0,3.31.96,3.31,3.52v.14h-.57c-2.93,0-10.68.47-10.68,6.09,0,3.59,2.93,5.6,6.14,5.6a5.848,5.848,0,0,0,5.45-3.17h.07a6.781,6.781,0,0,0-.03.78c0,1.06.62,1.98,2.29,1.98h4.01V426H303.7A.379.379,0,0,1,303.55,426Zm-5.06-4.02c0,2.18-1.68,4.72-4.09,4.72a1.8,1.8,0,0,1-.22.02,2.425,2.425,0,0,1-2.5-2.35c0-2.5,3.7-2.82,6.03-2.82h.78Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2111" data-name="Path 2111" d="M382.09,411.57v3.74h-.53c-.53,0-.8.1-1,.62l-6.34,15.97a6.609,6.609,0,0,1-10.83,2.8l1.7-3.12a3.853,3.853,0,0,0,2.53,1.22,3.169,3.169,0,0,0,2.92-2.26l.59-1.35-5.89-13.26a.826.826,0,0,0-.94-.62h-.53v-3.74h2.92a2.11,2.11,0,0,1,2.31,1.66l3.46,8.83a16.314,16.314,0,0,1,.63,2.35h.07a21.25,21.25,0,0,1,.59-2.35l3.01-8.83a2.167,2.167,0,0,1,2.35-1.66Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2112" data-name="Path 2112" d="M363.13,411.6l-.06,3.76a8.026,8.026,0,0,0-1.1-.08,5.064,5.064,0,0,0-4.91,3.78c-.24.89-.32,10.7-.32,10.7h-4.68V416.35a.543.543,0,0,0,0-.18.7.7,0,0,0-.78-.61h-1.41v-3.8h4.09c1.61,0,2.41.69,2.41,2.2v1.05a7.285,7.285,0,0,1-.08,1.14h.08a6.231,6.231,0,0,1,5.09-4.56h.04c.08,0,.15-.01.22-.01a7.953,7.953,0,0,1,1.11.02l-.15-.03C362.91,411.58,363.1,411.61,363.13,411.6Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+				<path id="Path_2113" data-name="Path 2113" d="M362.83,411.6a7.953,7.953,0,0,0-1.11-.02,5.256,5.256,0,0,1,.56-.03,2.434,2.434,0,0,1,.27.01.57.57,0,0,1,.13.01Z" transform="translate(-212.91 -404.5)" fill="#00b4ff"></path>
+			</svg>
+				<h1 class="d-none">Blog | Affordable Bespoke Websites from Webfactory</h1>
+			</a>
+
+			<div id="navbarNav" class="offcanvas offcanvas-end">
+				<!-- Off canvas title and close button -->
+				<div class="offcanvas-header border-bottom">
+					<h5 class="offcanvas-title">Menu</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+				</div>
+
+				<!-- Off canvas navigation -->
+				<div class="offcanvas-body">
+					<script>
+$(document).ready(function(){
+    $('.navbar .dropdown').on('shown.bs.dropdown', function () {
+        overlay = document.createElement('span');
+        overlay.className = 'screen-darken';
+        document.body.appendChild(overlay)
+    });
+
+    $('.navbar .dropdown').on('hide.bs.dropdown', function () {
+        document.body.removeChild(document.querySelector('.screen-darken'));
+    });
+});
+</script>
+
+
+<ul class="navbar-nav navbar-expand-lg mx-lg-auto mb-2 mb-lg-0">
+
+    <!-- <li class="nav-item d-block d-lg-none d-xl-block ">
+        <a class="nav-link" href="./">Home</a>
+    </li> -->
+
+    <!-- Website packages -->
+    <li class="nav-item dropdown ">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="10,20">
+            Website packages
+        </a>
+
+        <!-- Website packages dropdown -->
+        <div class="nav-website-offers dropdown-menu shadow border-0 p-0 mx-lg-5 mt-lg-3 mb-3 mb-lg-0 rounded-wf overflow-hidden">
+
+            <div class="row">
+
+                <!-- Packages -->
+                <div class="col-lg-8 col-xxl-9">
+
+                    <div class="p-0 p-lg-2 p-xl-3">
+
+                        <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-2">
+
+                            <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./launchpad-website-design">
+                                    <img class="img-fluid mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-website-icon-launchpad-package.png" alt="Launchpad package icon" width="50">
+                                    <h6 class="mb-1 text-primary">Launchpad package</h6>
+                                    <p class="fst-italic small mb-0 text-muted">A simple online web presence</p>
+                                    <p class="nav-price text-body mb-0">From <span class="angle-underline angle-underline-thin">£99<small>+vat</small></span></p>
+                                                                    </a>
+                            </div>
+
+                            <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./bespoke-website-design">
+                                    <img class="img-fluid mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-website-icon-bespoke-package.png" alt="Bespoke package icon" width="50">
+                                    <h6 class="mb-1 text-primary">Bespoke package</h6>
+                                    <p class="fst-italic small mb-0 text-muted">A professional business website</p>
+                                    <p class="nav-price text-body mb-0">From <span class="angle-underline angle-underline-thin">£399<small>+vat</small></span></p>
+                                                                    </a>
+                            </div>
+
+                            <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./ecommerce-website-design">
+                                    <img class="img-fluid mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-website-icon-ecom-package.png" alt="Ecommerce package icon" width="50">
+                                    <h6 class="mb-1 text-primary">Ecommerce package</h6>
+                                    <p class="fst-italic small mb-0 text-muted">Sell your products or services online</p>
+                                    <p class="nav-price text-body mb-0">From <span class="angle-underline angle-underline-thin">£599<small>+vat</small></span></p>
+                                                                    </a>
+                            </div>
+
+                            <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./recruitment-website-design">
+                                    <img class="mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-website-icon-recruitment-package.png" alt="Recruitment package icon" width="50">
+                                    <h6 class="mb-1 text-primary">Recruitment package</h6>
+                                    <p class="fst-italic small mb-0 text-muted">Designed for recruitment agencies</p>
+                                    <p class="nav-price text-body mb-0">From <span class="angle-underline angle-underline-thin">£599<small>+vat</small></span></p>
+                                                                    </a>
+                            </div>
+
+                            <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./property-website-design">
+                                    <img class="mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-website-icon-property-package.png" alt="Property package icon" width="50">
+                                    <h6 class="mb-1 text-primary">Property package</h6>
+                                    <p class="fst-italic small mb-0 text-muted">Perfect for letting & estate agents</p>
+                                    <p class="nav-price text-body mb-0">From <span class="angle-underline angle-underline-thin">£599<small>+vat</small></span></p>
+                                                                    </a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- All packages -->
+                <div class="col-lg-4 col-xxl-3">
+                    <div class="position-relative d-none d-lg-block h-100 bg-primary">
+                        <div class="bg-pattern position-absolute top-0 bottom-0 start-0 end-0 opacity-25"></div>
+                        <div class="position-absolute top-50 start-0 translate-middle-y text-center w-100">
+                            <div class="mb-3 px-3">
+                                <h4 class="text-white">View all packages</h4>
+                                <p class="mb-0 text-light">Browse all our website packages.</p>
+                            </div>
+                            <a class="btn btn-secondary rounded-pill px-3 stretched-link" href="./web-design-packages">
+                                View all<i class="fa-regular fa-arrow-right-long ms-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </li>
+
+    <!-- Other services -->
+    <li class="nav-item dropdown ">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Other services
+        </a>
+
+        <!-- Website packages dropdown -->
+        <div class="nav-website-offers dropdown-menu shadow border-0 p-0 mx-lg-5 mt-lg-3 mb-3 mb-lg-0 rounded-wf overflow-hidden">
+
+            <div class="row">
+
+                <!-- Packages -->
+                <div class="col-lg-8 col-xxl-9">
+
+                    <div class="p-0 p-lg-2 p-xl-3">
+
+                        <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-2">
+
+                                                        <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./logo-design">
+                                    <img class="mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-icon-2023-hub-logo.png" alt="Logo design icon" width="50">
+                                    <h6 class="mb-1 text-primary">Logo Design</h6>
+                                    <p class="fst-italic small mb-0 text-muted">A professional business logo</p>
+                                    <p class="nav-price text-body mb-0">Only <span class="angle-underline angle-underline-thin">£199<small>+vat</small></span></p>
+                                </a>
+                            </div>
+
+                                                        <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./search-engine-optimisation">
+                                    <img class="mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3-eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-icon-2021-upgrades-seo.png" alt="SEO icon" width="50">
+                                    <h6 class="mb-1 text-primary">Search Engine Optimisation</h6>
+                                    <p class="fst-italic small mb-0 text-muted">Maximise your search ranking</p>
+                                    <p class="nav-price text-body mb-0"><span class="angle-underline angle-underline-thin">£42.99<small>+vat</small></span> <small>per month</small></p>
+                                </a>
+                            </div>
+
+                                                        <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./social-media-design">
+                                    <img class="mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3-eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-icon-2021-wp-product-social.png" alt="Social media design icon" width="50">
+                                    <h6 class="mb-1 text-primary">Social Media Design</h6>
+                                    <p class="fst-italic small mb-0 text-muted">Social media account graphics</p>
+                                    <p class="nav-price text-body mb-0">Only</span> <span class="angle-underline angle-underline-thin">£59<small>+vat</small></span></p>
+                                </a>
+                            </div>
+
+                                                        <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./business-stationery-design">
+                                    <img class="mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3-eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-icon-2021-wp-product-buscard.png" alt="Business card design icon" width="50">
+                                    <h6 class="mb-1 text-primary">Business card Design</h6>
+                                    <p class="fst-italic small mb-0 text-muted">Professional business card design</p>
+                                    <p class="nav-price text-body mb-0"><span class="angle-underline angle-underline-thin">£149<small>+vat</small></span></span></p>
+                                </a>
+                            </div>
+
+                                                        <div class="col">
+                                <a class="dropdown-item p-3 p-lg-2 p-xl-3 rounded-wf text-lg-center" href="./business-stationery-design">
+                                    <img class="mb-2" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3-eu-west-1.amazonaws.com/cdn.webfactore.co.uk/14-icon-2021-wp-product-letterhead.png" alt="Letterhead design icon" width="50">
+                                    <h6 class="mb-1 text-primary">Letterhead Design</h6>
+                                    <p class="fst-italic small mb-0 text-muted">Professional letterhead design</p>
+                                    <p class="nav-price text-body mb-0"><span class="angle-underline angle-underline-thin">£149<small>+vat</small></span></p>
+                                </a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- All services -->
+                <div class="col-lg-4 col-xxl-3">
+                    <div class="position-relative d-none d-lg-block h-100 bg-primary">
+                        <div class="bg-pattern position-absolute top-0 bottom-0 start-0 end-0 opacity-25"></div>
+                        <div class="position-absolute top-50 start-0 translate-middle-y text-center w-100">
+                            <div class="mb-3 px-3">
+                                <h4 class="text-white">View all services</h4>
+                                <p class="mb-0 text-light">Browse all our other services.</p>
+                            </div>
+                            <a class="btn btn-secondary rounded-pill px-3 stretched-link" href="./other-services">
+                                View all<i class="fa-regular fa-arrow-right-long ms-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </li>
+
+
+    <li class="nav-item ">
+        <a class="nav-link" href="./portfolio">Portfolio</a>
+    </li>
+
+    <li class="nav-item d-block d-lg-none d-xl-block ">
+        <a class="nav-link" href="./testimonials">Testimonials</a>
+    </li>
+    
+    <li class="nav-item ">
+        <a class="nav-link" href="./faqs">FAQs</a>
+    </li>
+    
+    <li class="nav-item d-block d-lg-none d-xl-block active">
+        <a class="nav-link" href="./blog">Blog</a>
+    </li>
+    
+    <li class="nav-item ">
+        <a class="nav-link" href="./about">About</a>
+    </li>
+
+</ul>				</div>
+
+				<!-- Off canvas footer -->
+				<div class="offcanvas-header flex-column border-top">
+					<a href="./getquote" class="btn btn-success d-block w-100" target="_blank" rel="noopener">
+						<i class="fa-solid fa-message-quote me-1"></i>
+						Get a quote
+					</a>
+
+					<a href="https://hub.webfactory.co.uk" class="btn btn-secondary d-block w-100 mt-2" target="_blank" rel="noopener">
+						<i class="fa-solid fa-right-to-bracket me-1"></i>
+						Login
+					</a>
+				</div>
+
+			</div>
+
+			<!-- Get a quote button -->
+			<a href="./getquote" class="btn btn-success btn-sm rounded-pill px-3 ms-auto me-2 d-none d-sm-block" rel="noopener">
+				<i class="fa-solid fa-message-quote me-1"></i>
+				Get a quote
+			</a>
+
+			<a href="https://hub.webfactory.co.uk" class="btn btn-secondary btn-sm rounded-pill px-3 me-2 me-lg-0 d-none d-sm-block" target="_blank" rel="noopener">
+				<i class="fa-solid fa-right-to-bracket me-1"></i>
+				Login
+			</a>
+
+			<!-- Navbar toggler -->
+			<button type="button" class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+		</div>
+
+	</header>
+
+
+    
+
+	<main class="overflow-x-hidden">
+
+		
+
+<!-- Top section -->
+<div class="section-top bg-primary">
+	<div class="container">
+		<div class="py-5 text-center">
+            <h2 class="text-white fw-semibold display-6 text-balance">Our latest blog articles</h2>
+            <h3 class="text-white fw-normal position-relative lh-base">The home for all our website tips and news.</h3>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<div class="section-blog py-5 bg-light">
+    <div class="container">
+
+        <ul id="blog-filters" class="nav nav-pills justify-content-center mb-5">
+            
+                    <li class="nav-item">
+                        <a class="blog-filter nav-link rounded-pill active" href="blog">All articles</a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="blog-filter nav-link rounded-pill " href="blog?tag=whats-new">What&#039;s new</a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="blog-filter nav-link rounded-pill " href="blog?tag=informative">Informative</a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="blog-filter nav-link rounded-pill " href="blog?tag=fun">Fun</a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="blog-filter nav-link rounded-pill " href="blog?tag=new-features">New features</a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="blog-filter nav-link rounded-pill " href="blog?tag=how-to-guides">How to guides</a>
+                    </li>
+                
+            <!-- <li class="nav-item">
+                <a class="blog-filter nav-link rounded-pill" href="blog-legacy">Old articles</a>
+            </li> -->
+
+        </ul>
+
+        <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 mb-5 gy-4">
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="The Apprentice logo challenge - S18 Ep3" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1880057.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">The Apprentice logo challenge - S18 Ep3</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>19th February 2024                                </small>
+                            </p>
+
+                            <p class="card-text">It’s our favourite time of year again, The Apprentice is back! In 2022 we took on the challenge of redesigning the logos from The Apprentice. This year, we&#039;re doing it again!</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/the-apprentice-logo-challenge---s18-ep3">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="February 2024 update" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1875950.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">February 2024 update</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>12th February 2024                                </small>
+                            </p>
+
+                            <p class="card-text">Welcome to your February &#039;What&#039;s new&#039; update. If you have any feedback or suggestions please let us know.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/february-2024-update">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="5 effective ways to promote your website" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1874347.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">5 effective ways to promote your website</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>9th February 2024                                </small>
+                            </p>
+
+                            <p class="card-text">In this blog, we’ll explain 5 effective ways of driving traffic to your new website.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/5-effective-ways-to-promote-your-website">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="4 simple ways to increase your average order value" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1859067.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">4 simple ways to increase your average order value</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>19th January 2024                                </small>
+                            </p>
+
+                            <p class="card-text">In this blog we look at 4 simple ways you can boost your ecommerce sales, by using some simple tools that are available to you in the content manager.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/4-simple-ways-to-increase-your-average-order-value">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="January update" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1853652.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">January update</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>3rd January 2024                                </small>
+                            </p>
+
+                            <p class="card-text">Here&#039;s your January update digest. All comments and feedback are welcomed and encouraged.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/january-update">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="December update" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1842496.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">December update</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>1st December 2023                                </small>
+                            </p>
+
+                            <p class="card-text">Here&#039;s your December update digest. All comments and feedback are welcomed and encouraged.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/december-update">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="Are websites with a padlock safe?" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1840017.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Are websites with a padlock safe?</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>30th November 2023                                </small>
+                            </p>
+
+                            <p class="card-text">In this article, we will explain what the padlock symbol in the address bar means and things to look out for to keep you safe this Christmas. </p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/are-websites-with-a-padlock-safe">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="November update" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1825029.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">November update</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>1st November 2023                                </small>
+                            </p>
+
+                            <p class="card-text">Here&#039;s your November update digest. All comments and feedback are welcomed and encouraged.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/november-update">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="Why do websites use cookies?" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1801042.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Why do websites use cookies?</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>16th October 2023                                </small>
+                            </p>
+
+                            <p class="card-text">In this blog, we&#039;ll explain what cookies are and why websites use them!</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/why-do-websites-use-cookies">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="October update" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1800161.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">October update</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>5th October 2023                                </small>
+                            </p>
+
+                            <p class="card-text">Here&#039;s your October update digest. All comments and feedback are welcomed and encouraged.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/october-update">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="Why are websites important?" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1784947.jpg">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Why are websites important?</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>13th September 2023                                </small>
+                            </p>
+
+                            <p class="card-text">In this blog, we’ll explain 5 reasons why having a website or online presence is important.</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/why-are-websites-important">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            
+                <div class="article-item col">
+
+                    <div class="card h-100 border-0 shadow-sm hover-float">
+
+                        <img class="card-img-top" loading="lazy" alt="We&#039;re recruiting: Customer Service/Tech Support" src="https://res.cloudinary.com/webfactory/image/fetch/f_auto/q_auto/https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_1784279.png">
+
+                        <div class="card-body">
+                            <h5 class="card-title">We're recruiting: Customer Service/Tech Support</h5>
+
+                            <p class="card-text pb-2 border-bottom border-secondary border-opacity-25">
+                                <small class="text-body-secondary">
+                                    <i class="fa-regular fa-calendar-day me-2"></i>5th September 2023                                </small>
+                            </p>
+
+                            <p class="card-text">Are you passionate about providing exceptional customer experiences? Do you thrive in a dynamic and creative environment? We could be looking for you!</p>
+                        </div>
+
+                        <div class="card-footer bg-white border-0 pb-3">
+                            <a class="btn btn-primary rounded-pill d-block stretched-link" href="blog-articles/were-recruiting-customer-service-tech-support">
+                                Read article
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                    </div>
+
+
+        <div class="d-flex justify-content-center mb-4">
+                            <a href="?tag=&offset=12" class="btn btn-outline-primary rounded-pill mx-1">
+                    Next page<i class="fa-regular fa-arrow-right-long ms-2"></i>
+                </a>
+                    </div>
+
+
+
+
+    </div>
+</div>
+
+
+
+
+		</main>
+		<!-- End Main Content -->
+
+		<footer>
+
+			<div class="footer-cta bg-primary py-3">
+				<div class="container">
+					<div class="d-flex flex-column flex-lg-row align-items-center">
+						<h3 class="text-white fw-normal mb-lg-0 me-lg-auto fs-4 text-center text-lg-start">An affordable bespoke website that work for your business</h3>
+						<a class="ms-lg-3 btn btn-outline-light rounded-pill border-2 text-nowrap" href="./getquote" style="--bs-btn-hover-color: var(--bs-primary);">Get your free quote</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="bg-dark">
+				<div class="container">
+					<div class="py-5">
+
+						<div class="row gy-4">
+
+							<div class="col-md-5">
+								<h5 class="text-light opacity-50">Quick links</h5>
+
+								<div class="row row-cols-1 row-cols-lg-2">
+									<div class="col">
+										<ul class="list-unstyled mb-0 small">
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./"><i class="fa-regular fa-angle-right bi me-1"></i>Home</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./web-design-packages"><i class="fa-regular fa-angle-right bi me-1"></i>Website offers</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./other-services"><i class="fa-regular fa-angle-right bi me-1"></i>Other services</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./portfolio"><i class="fa-regular fa-angle-right bi me-1"></i>Portfolio</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./testimonials"><i class="fa-regular fa-angle-right bi me-1"></i>Testimonials</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./faqs"><i class="fa-regular fa-angle-right bi me-1"></i>FAQs</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./blog"><i class="fa-regular fa-angle-right bi me-1"></i>Our blog</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./about"><i class="fa-regular fa-angle-right bi me-1"></i>About</a></li>
+										</ul>
+									</div>
+
+									<div class="col">
+										<ul class="list-unstyled mb-0 small">
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./contact"><i class="fa-regular fa-angle-right bi me-1"></i>Contact</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./getquote"><i class="fa-regular fa-angle-right bi me-1"></i>Get quote</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="https://hub.webfactory.co.uk"><i class="fa-regular fa-angle-right bi me-1"></i>Login</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./terms"><i class="fa-regular fa-angle-right bi me-1"></i>Terms & conditions</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./privacy-policy"><i class="fa-regular fa-angle-right bi me-1"></i>Privacy & cookie<span class="hidden-xs hidden-sm"> policy</span></a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./careers"><i class="fa-regular fa-angle-right bi me-1"></i>Careers</a></li>
+											<li><a class="link-offset-2 link-offset-2-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover link-light text-nowrap" href="./portfolio-sectors"><i class="fa-regular fa-angle-right bi me-1"></i>Portfolio sectors</a></li>
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="col-md-4">
+
+								<h5 class="text-light opacity-50">Contact us</h5>
+								<p class="text-white small">
+									<i class="fa-regular fa-location-pin fa-fw me-1"></i>The Maltings, East Tyndall Street, Cardiff, CF24 5EA
+								</p>
+
+								<p class="text-white small">
+									<i class="fa-regular fa-phone fa-fw me-1"></i>02920 090 190 <small>(Local rate number)</small>
+								</p>
+
+								<p class="text-white small">
+									<i class="fa-regular fa-envelope fa-fw me-1"></i>hello@webfactory.co.uk
+								</p>
+
+								<p class="text-white small">
+									<i class="fa-brands fa-whatsapp fa-fw me-1"></i>Whatsapp <a target="_blank" href="https://wa.me/message/N4TJL7GIZ23XD1">07312 263116</a>
+								</p>
+
+							</div>
+
+							<div class="col-md-3 footer-col">
+								<h5 class="text-light opacity-50">Connect with us</h5>
+								<ul class="list-inline">
+
+									<li class="list-inline-item">
+										<a class="btn btn-floating btn-light" href="https://www.facebook.com/WeAreWebfactory" target="_blank" title="Facebook" rel="noopener"><i class="fa-brands fa-facebook fs-5"></i></a>
+									</li>
+									
+									<li class="list-inline-item">
+										<a class="btn btn-floating btn-light" href="https://www.x.com/WeAreWebfactory" target="_blank" title="X" rel="noopener"><i class="fa-brands fa-x-twitter fs-5"></i></a>
+									</li>
+									
+									<li class="list-inline-item">
+										<a class="btn btn-floating btn-light" href="https://wa.me/message/N4TJL7GIZ23XD1" target="_blank" title="Whatsapp" rel="noopener"><i class="fa-brands fa-whatsapp fs-5"></i></a>
+									</li>
+									
+									<li class="list-inline-item">
+										<a class="btn btn-floating btn-light" href="https://www.instagram.com/WeAreWebfactory" target="_blank" title="Instagram" rel="noopener"><i class="fa-brands fa-instagram fs-5"></i></a>
+									</li>
+									
+								</ul>
+							</div>
+
+						</div>
+
+						<!-- TrustBox widget - Micro Combo -->
+						<div class="trustpilot-widget pt-5" data-locale="en-GB" data-template-id="5419b6ffb0d04a076446a9af" data-businessunit-id="573b0ff90000ff00058cfb03" data-style-height="20px" data-style-width="100%" data-theme="dark"> <a href="https://uk.trustpilot.com/review/webfactory.co.uk" target="_blank">Trustpilot</a> </div>
+						<!-- End TrustBox widget -->
+
+
+					</div>
+				</div>
+			</div>
+
+
+			<div class="footer-lower bg-black py-4 text-center">
+				<div class="container">
+					<p class="footer-text small lh-sm mb-0">Bespoke Website Design across the UK from Webfactory Ltd &copy; 2024. 'webfactory' is a registered trademark <br />Registered in England and Wales company number 05966211 VAT reg. 891 2031 40<br />All prices shown exclude VAT unless otherwise indicated.</p>
+				</div>
+			</div>
+
+
+
+		</footer>
+
+
+		<!-- Begin LiveChat code -->
+		
+			<!-- begin olark code -->
+			<script type="text/javascript" async>
+				;
+				(function(o, l, a, r, k, y) {
+					if (o.olark) return;
+					r = "script";
+					y = l.createElement(r);
+					r = l.getElementsByTagName(r)[0];
+					y.async = 1;
+					y.src = "//" + a;
+					r.parentNode.insertBefore(y, r);
+					y = o.olark = function() {
+						k.s.push(arguments);
+						k.t.push(+new Date)
+					};
+					y.extend = function(i, j) {
+						y("extend", i, j)
+					};
+					y.identify = function(i) {
+						y("identify", k.i = i)
+					};
+					y.configure = function(i, j) {
+						y("configure", i, j);
+						k.c[i] = j
+					};
+					k = y._ = {
+						s: [],
+						t: [+new Date],
+						c: {},
+						l: a
+					};
+				})(window, document, "static.olark.com/jsclient/loader.js");
+				/* custom configuration goes here (www.olark.com/documentation) */
+				olark.identify('1133-506-10-6604');
+			</script>
+			<!-- end olark code -->
+
+
+
+			<script>
+				olark('api.chat.updateVisitorNickname', {
+					snippet: '',
+					hidesDefault: true
+				})
+
+				
+
+				olark('api.visitor.updateCustomFields', {
+					referral_id: '',
+					ppc_click_id: '',
+					promotion_id: '',
+					ip_address: '46a1b2c3191a1b2c3225a1b2c3162',
+					cid: '',
+					sales_source_id: '0'
+				});
+
+
+				olark.configure("locale.away_message", "Our normal operating hours are 9:30am to 4:30pm Monday to Friday. Why not request a quote and we'll get back to you first thing.");
+
+				olark('api.chat.onOperatorsAway', function() {
+					$('#livechatcontactbox').addClass('hidden');
+				});
+
+				olark('api.chat.onOperatorsAvailable', function() {
+					$('#livechatcontactbox').removeClass('hidden');
+				});
+
+				$('.openlivechat').on("click", function() {
+					olark('api.box.expand');
+				})
+			</script>
+
+
+
+			
+
+
+		
+		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "Blog",
+				"url": "https://www.webfactory.co.uk/blog"
+			}
+		</script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "Organization",
+				"name": "Webfactory",
+				"url": "https://www.webfactory.co.uk",
+				"sameAs": ["https://www.facebook.com/wearewebfactory", "https://www.twitter.com/wearewebfactory"]
+			}
+		</script>
+
+		<!-- 172306180 -->
+		<!--  -->
+
+		<!-- Masonry -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="sha512-JRlcvSZAXT8+5SQQAvklXGJuxXTouyq8oIMaYERZQasB8SBDHZaUbeASsJWpk0UUrf89DP3/aefPPrlMR1h1yQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        
+        <script>
+
+            $(window).on("load",function(){
+
+                $('.masonry-reset').masonry();
+            })
+        </script>
+
+
+
+	</body>
+	<!-- End Body -->
+
+</html>
+<!-- End HTML -->
+

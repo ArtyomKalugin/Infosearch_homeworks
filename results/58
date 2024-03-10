@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="en-GB" class="no-js">
+<head>
+        <!-- Anti-flicker snippet (recommended)  -->
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+            h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+            (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,
+            {'GTM-TGGMM7':true});
+
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'pageType' : "page",
+            'topic' : "Core"
+        });
+    <!-- Google Tag Manager -->
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TGGMM7');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    
+
+    <link href="https://www.google-analytics.com" rel="dns-prefetch">
+    <link rel="shortcut icon" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon.ico?v=v2" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/manifest.json">
+    <meta name="msapplication-TileColor" content="#005f73">
+    <meta name="msapplication-TileImage" content="https://www.nominet.uk/wp-content/themes/nominetv2/library/icons/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="facebook-domain-verification" content="i162hez7d2ur4elqzd3jxkngxiqro9" />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/db411cf4c6a62295e776d292/script.js"></script>
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.11 (Yoast SEO v21.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>UK Domain Dispute Resolution Service (DRS) - Nominet</title>
+	<meta name="description" content="Start here to solve UK domain disputes and register complaints using our dispute resolution service (DRS) system." />
+	<link rel="canonical" href="https://www.nominet.uk/domain-support/uk-domain-disputes/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="UK Domain Disputes" />
+	<meta property="og:description" content="Start here to solve UK domain disputes and register complaints using our dispute resolution service (DRS) system." />
+	<meta property="og:url" content="https://www.nominet.uk/domain-support/uk-domain-disputes/" />
+	<meta property="og:site_name" content="Nominet" />
+	<meta property="article:publisher" content="https://www.facebook.com/nominet" />
+	<meta property="article:modified_time" content="2024-02-07T11:43:57+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@Nominet" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.nominet.uk/domain-support/uk-domain-disputes/","url":"https://www.nominet.uk/domain-support/uk-domain-disputes/","name":"UK Domain Dispute Resolution Service (DRS) - Nominet","isPartOf":{"@id":"https://www.nominet.uk/#website"},"datePublished":"2015-08-17T11:01:32+00:00","dateModified":"2024-02-07T11:43:57+00:00","description":"Start here to solve UK domain disputes and register complaints using our dispute resolution service (DRS) system.","breadcrumb":{"@id":"https://www.nominet.uk/domain-support/uk-domain-disputes/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.nominet.uk/domain-support/uk-domain-disputes/"]}]},{"@type":"BreadcrumbList","@id":"https://www.nominet.uk/domain-support/uk-domain-disputes/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.nominet.uk/"},{"@type":"ListItem","position":2,"name":"Domain Support","item":"https://www.nominet.uk/domain-support/"},{"@type":"ListItem","position":3,"name":"UK Domain Disputes"}]},{"@type":"WebSite","@id":"https://www.nominet.uk/#website","url":"https://www.nominet.uk/","name":"Nominet","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.nominet.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.nominet.uk' />
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.nominet.uk/wp-includes/css/dist/block-library/style.min.css?ver=becfe4217063020fe81c7da198fec97e' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='nominet-rdap-css' href='https://www.nominet.uk/wp-content/plugins/nominet-rdap/public/css/nominet-rdap-public.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='nominet-css' href='https://www.nominet.uk/wp-content/themes/nominetv2/library/css/nominetv2.min.css?ver=1707487307' media='all' />
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/lib/modernizr-2.7.1.min.js?ver=2.7.1" id="modernizr-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://player.vimeo.com/api/player.js" id="vimplay-js-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/simplyCountdown.1.7.0.min.js?ver=1707487307" id="simplyCountdown-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/skrollr.min.js" id="skrollr-js-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/jquery.vide.min.js" id="vide-js-js"></script>
+<script type="text/javascript" id="nominet-live-help-js-extra">
+/* <![CDATA[ */
+var liveChat = {"open":"8","close":"18","holidayClose":"15","serverURL":"https:\/\/webchat.nominet.uk\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/plugins/nominet-livehelp/nominet-live-help.js?ver=becfe4217063020fe81c7da198fec97e" id="nominet-live-help-js"></script>
+<script type="text/javascript" src="https://www.nominet.uk/wp-content/plugins/nominet-rdap/public/js/nominet-rdap-public.js?ver=1.0.0" id="nominet-rdap-js"></script>
+<link rel="alternate" type="application/json+oembed" href="https://www.nominet.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nominet.uk%2Fdomain-support%2Fuk-domain-disputes%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.nominet.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nominet.uk%2Fdomain-support%2Fuk-domain-disputes%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v10.2.17-->
+			<script type="text/javascript" class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			    <meta name="google-site-verification" content="6xG5uXBtvQekLtgMPg7LnCsWx8_TmR61AgirF6-7Xrs" />
+</head>
+<body class="page-template-default page page-id-106 page-parent page-child parent-pageid-188 loading uk-domain-disputes parent-domain-support">
+<main>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGGMM7"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="skip-link" href="#content">Skip to main content</a>
+
+<div class="header" id="header" role="header">
+    <div class="header-inner clearfix">
+        <div class="header-logo d-flex align-items-center justify-content-center mx-md-auto">
+            <svg version="1.1" id="Artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 80.3 80.5" style="enable-background:new 0 0 80.3 80.5;" xml:space="preserve" width="70" height="70">
+                <path class="st0" d="M52.5,60.3c-3.7,0-6.3-2.2-8.7-4.2c-1.7-1.5-3.2-2.7-4.8-2.7c-1.9,0-3,1.3-4.2,2.7c-1.6,1.9-3.4,4.1-7.6,4.1
+	c-2.2,0-4-0.8-5.3-2.3c-1.2-1.4-1.8-3.3-1.8-5.4l0-24.8c0-4.2,3.5-7.7,7.7-7.7c3.7,0,6.3,2.2,8.7,4.2c1.7,1.5,3.2,2.7,4.8,2.7
+	c1.9,0,3-1.3,4.2-2.7c1.6-1.9,3.4-4.1,7.6-4.1c2.2,0,4,0.8,5.3,2.3c1.2,1.4,1.8,3.3,1.8,5.4v24.8C60.2,56.9,56.8,60.3,52.5,60.3z
+	 M39.1,52.4c1.9,0,3.6,1.4,5.4,3c2.2,1.8,4.7,3.9,8,3.9c3.7,0,6.6-3,6.6-6.6V27.8c0-1.9-0.6-3.5-1.6-4.7c-1.1-1.3-2.6-1.9-4.5-1.9
+	c-3.7,0-5.3,1.9-6.8,3.7c-1.3,1.5-2.6,3.1-5,3.1c-1.9,0-3.6-1.4-5.4-3c-2.2-1.8-4.7-3.9-8-3.9c-3.7,0-6.6,3-6.6,6.6l0,24.8
+	c0,1.9,0.6,3.5,1.6,4.7c1.1,1.3,2.6,1.9,4.5,1.9c3.7,0,5.3-1.9,6.8-3.7C35.3,54,36.7,52.4,39.1,52.4z"/>
+                <path class="st1" d="M52.8,66.1c-4.7,0-7.3-1.9-9.5-3.5c-1.4-1.1-2.6-1.9-4-1.9c-1.7,0-3,1-4.4,2.1c-1.9,1.5-4.4,3.3-8.7,3.3
+	c-7.6,0-12.1-4.8-12.1-13v-26c0-4,1.4-7.4,4.1-9.7c2.4-2.1,5.7-3.2,9.2-3.2c4.7,0,7.3,1.9,9.5,3.5c1.4,1.1,2.6,1.9,4,1.9
+	c1.7,0,3-1,4.4-2.1c1.9-1.5,4.4-3.3,8.7-3.3c7.6,0,12.1,4.8,12.1,13v26c0,4-1.4,7.4-4.1,9.7C59.6,65,56.3,66.1,52.8,66.1z
+	 M39.3,59.7c1.8,0,3.1,1,4.6,2.1c2.1,1.5,4.5,3.3,8.8,3.3c6.1,0,12.2-3.7,12.2-11.9v-26c0-3.6-1.1-11.9-11-11.9c-4,0-6.1,1.7-8,3.1
+	c-1.5,1.2-3,2.3-5.1,2.3c-1.8,0-3.1-1-4.6-2.1c-2.1-1.5-4.5-3.3-8.8-3.3c-6.1,0-12.2,3.7-12.2,11.9v26c0,3.6,1.1,11.9,11,11.9
+	c4,0,6.1-1.7,8-3.1C35.8,60.8,37.2,59.7,39.3,59.7z"/>
+                <path class="st2" d="M56.2,73.2c-4.8,0-7.8-1.6-10.5-3c-2-1.1-3.8-2-6-2c-2.2,0-3.9,0.9-5.9,2c-2.5,1.4-5.4,2.9-9.8,2.9
+	c-5,0-9.3-1.9-12.4-5.5c-2.8-3.3-4.4-7.6-4.4-12.3l0-30.4c0-5.5,1.8-10.1,5.2-13.3c3-2.9,7.2-4.4,11.7-4.4c4.8,0,7.8,1.6,10.5,3
+	c2,1.1,3.8,2,6,2c2.2,0,3.9-0.9,5.9-2c2.5-1.4,5.4-2.9,9.8-2.9c5,0,9.3,1.9,12.4,5.5c2.8,3.3,4.4,7.6,4.4,12.3v30.4
+	c0,5.5-1.8,10.1-5.2,13.3C64.8,71.6,60.7,73.2,56.2,73.2z M39.7,67.2c2.4,0,4.4,1,6.4,2.1c2.6,1.3,5.5,2.9,10,2.9
+	c4.2,0,8.1-1.5,10.9-4.1c3.2-3,4.9-7.3,4.9-12.5V25c0-10.9-7.9-16.7-15.7-16.7c-4.1,0-6.9,1.5-9.3,2.8c-2,1.1-4,2.2-6.4,2.2
+	c-2.4,0-4.4-1-6.4-2.1c-2.6-1.3-5.5-2.9-10-2.9c-4.2,0-8.1,1.5-10.9,4.1c-3.2,3-4.9,7.3-4.9,12.5l0,30.4c0,10.9,7.9,16.7,15.7,16.7
+	c4.1,0,6.9-1.5,9.3-2.8C35.4,68.2,37.3,67.2,39.7,67.2z"/>
+                <path class="st3" d="M59.3,80.5c-4.3,0-7.4-1.2-10.3-2.3c-2.8-1.1-5.4-2.1-8.8-2.1c-3.4,0-6,1-8.8,2.1c-3,1.1-6,2.3-10.3,2.3
+	c-5.5,0-10.6-1.8-14.3-5C2.3,71.5,0,65.7,0,58.5V22C0,14.8,2.3,8.9,6.8,5c3.7-3.3,8.8-5,14.3-5c4.3,0,7.4,1.2,10.3,2.3
+	c2.8,1.1,5.4,2.1,8.8,2.1c3.4,0,6-1,8.8-2.1c3-1.1,6-2.3,10.3-2.3c5.5,0,10.6,1.8,14.3,5c4.4,3.9,6.8,9.7,6.8,16.9v36.5
+	c0,7.2-2.3,13-6.8,16.9C69.9,78.7,64.8,80.5,59.3,80.5z M40.2,75c3.6,0,6.5,1.1,9.2,2.1c2.9,1.1,5.9,2.3,9.9,2.3
+	c9.2,0,20-5.5,20-20.9V22c0-15.4-10.8-20.9-20-20.9c-4.1,0-7.1,1.1-9.9,2.3c-2.7,1.1-5.6,2.1-9.2,2.1c-3.6,0-6.5-1.1-9.2-2.1
+	c-2.9-1.1-5.9-2.3-9.9-2.3c-9.2,0-20,5.5-20,20.9v36.5c0,15.4,10.8,20.9,20,20.9c4.1,0,7.1-1.1,9.9-2.3C33.7,76.1,36.5,75,40.2,75z"
+                />
+</svg>
+            <div>
+                <a href="https://www.nominet.uk/" class="d-inline-block nominet-logo" title="Nominet Logo">Nominet</a>
+            </div>
+        </div>
+        <span class="header-search">
+            <span class="icon icon-search" id="toggle-search" title="Search"></span>
+            <span class="icon icon-cross" id="hide-search" title="Search"></span>
+        </span>
+        <nav class="header-nav" id="menu" role="navigation" aria-label="header navigation">
+            <div class="menu-container"><ul class="d-lg-flex"><li id="nav-menu-item-13688" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="#" class="menu-link main-menu-link">Our Services</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-14540" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/domain-solutions/" class="menu-link sub-menu-link">Domain Solutions</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-14584" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/uk-domains/" class="menu-link sub-menu-link">UK Domains</a></li>
+		<li id="nav-menu-item-14588" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/welsh-domains/" class="menu-link sub-menu-link">Welsh Domains</a></li>
+		<li id="nav-menu-item-38943" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/registry-services/" class="menu-link sub-menu-link">Registry Services</a></li>
+		<li id="nav-menu-item-19562" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a target="_blank" href="https://secure.nominet.org.uk" class="menu-link sub-menu-link">Online Services</a></li>
+		<li id="nav-menu-item-37532" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/lookup/" class="menu-link sub-menu-link">Lookup</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14577" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/cyber-security/" class="menu-link sub-menu-link">Cyber Security</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-32291" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://nominetcyber.com/" class="menu-link sub-menu-link">Nominet Cyber</a></li>
+	</ul></div></div>
+</li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-13689" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="#" class="menu-link main-menu-link">Discover Nominet</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-1063" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/about/" class="menu-link sub-menu-link">About Us</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-14491" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/board/" class="menu-link sub-menu-link">Our Board</a></li>
+		<li id="nav-menu-item-18946" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/events/" class="menu-link sub-menu-link">Events</a></li>
+		<li id="nav-menu-item-39323" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/helping-our-environment/" class="menu-link sub-menu-link">Helping our Environment</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-5287" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/careers/" class="menu-link sub-menu-link">Careers</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-19871" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/careers/why-nominet/" class="menu-link sub-menu-link">Why Nominet?</a></li>
+		<li id="nav-menu-item-19576" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/careers/perks/" class="menu-link sub-menu-link">Perks</a></li>
+		<li id="nav-menu-item-28371" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://jobs.nominet.uk" class="menu-link sub-menu-link">Vacancies</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-17970" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/public-benefit/" class="menu-link sub-menu-link">Public Benefit</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-19571" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/social-impact/" class="menu-link sub-menu-link">Social Impact</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14482" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/corporate-governance/" class="menu-link sub-menu-link">Corporate Governance</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-21122" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/corporate-governance/members/" class="menu-link sub-menu-link">Members</a></li>
+		<li id="nav-menu-item-35880" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/chairs-update/" class="menu-link sub-menu-link">Chair’s Update</a></li>
+	</ul></div></div>
+</li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-13690" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="#" class="menu-link main-menu-link">News &#038; Insights</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-48" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/news/" class="menu-link sub-menu-link">News</a></li>
+	<li id="nav-menu-item-24866" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/blog/" class="menu-link sub-menu-link">Blog</a></li>
+	<li id="nav-menu-item-14479" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/news/reports-statistics/" class="menu-link sub-menu-link">Reports &#038; Statistics</a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-13691" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children current-menu-ancestor"><a href="#" class="menu-link main-menu-link">Support</a><div class="sub-menu-wrap depth-0"><div class="sub-menu-close"><i class="icon-cross"></i></div><div class="container mx-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-4567" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a href="https://www.nominet.uk/contact-us/" class="menu-link sub-menu-link">Contact Us</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-19578" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://nominet.uk/contact-us/#locations" class="menu-link sub-menu-link">Locations</a></li>
+		<li id="nav-menu-item-24653" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/customer-commitments/" class="menu-link sub-menu-link">Customer Commitments</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14472" class="sub-menu-item  menu-item-odd menu-item-depth-1   current-menu-ancestor current-page-ancestor"><a href="https://www.nominet.uk/domain-support/" class="menu-link sub-menu-link">Domain Support</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-36395" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://theukdomain.uk/support-using-and-managing-my-domain/" class="menu-link sub-menu-link">Domain Support FAQ</a></li>
+		<li id="nav-menu-item-28227" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://www.nominet.uk/uk-domains/policies/" class="menu-link sub-menu-link">Our Policies</a></li>
+		<li id="nav-menu-item-20038" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 current-menu-item  page_item current-menu-item"><a href="https://www.nominet.uk/domain-support/uk-domain-disputes/" class="menu-link sub-menu-link">UK Domain Disputes</a></li>
+	</ul></div></div>
+</li>
+	<li id="nav-menu-item-14471" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/registrar-support/" class="menu-link sub-menu-link">Registrar Support</a></li>
+	<li id="nav-menu-item-19959" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://www.nominet.uk/complaints/" class="menu-link sub-menu-link">Complaints</a></li>
+	<li id="nav-menu-item-19958" class="sub-menu-item  menu-item-odd menu-item-depth-1   menu-item-has-children"><a target="_blank" href="https://secure.nominet.org.uk" class="menu-link sub-menu-link">Online Services</a>	<div class="sub-menu-wrap depth-1"><div class="container mx-0 mx-md-auto px-0"><ul class="sub-menu d-lg-flex flex-wrap flex-column">		<li id="nav-menu-item-37072" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2  "><a href="https://secure.nominet.org.uk/auth/login.html" class="menu-link sub-menu-link">Log In</a></li>
+	</ul></div></div>
+</li>
+</ul></div></div>
+</li>
+</ul></div>        </nav>
+        <span class="header-menu">
+            <button class="hamburger hamburger--spin" type="button" id="toggle-menu">
+                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+            </button>
+        </span>
+    </div>
+    <div class="searchFlyout" id="searchform">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <h3>Search Our Website</h3>
+                    <form method="get" action="https://www.nominet.uk">
+    <div class="input-group input-search">
+        <input type="text" class="form-control input-block" id="search" name="s" aria-label="Search site for:" placeholder="Enter search term" value=""/>
+        <label for="cc-num" class="d-none">credit card HubspotCollectedFormsWorkaround https://community.hubspot.com/t5/APIs-Integrations/How-to-stop-collected-forms-from-collecting-a-form/m-p/299172#M28102</label>
+        <input type="hidden" name="cc-num" class="d-none" required="" value="HubspotCollectedFormsWorkaround" id="cc-num">
+	    <button class="search-button" type="submit"><i class="icon icon-search"></i></button>
+    </div>
+</form>                </div>
+                <div class="col-md-6">
+                    <div class="mt-4 mt-lg-0">
+                        <h3>Domain Lookup Information</h3>
+                        
+
+<div class="form-lookup-wrapper">
+    <form id="domain" class="form-whois form-lookup gtm-header-nav-lookup input-search" action="/lookup" method="GET" autocomplete="off">        
+    <input  
+        name="domain" 
+        type="text"                   
+        pattern="^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[A-Za-z0-9]+([\-\.]{1}[A-Za-z0-9]+)*\.[A-Za-z]{2,5}(:[0-9]{1,5})?(\/.*)?$" 
+        placeholder="example.co.uk"
+        onchange="validateInput(this);"
+        class="form-control input-block"
+        >
+        
+                    <button id="lookup-submit" class="search-button pick-domain" type="submit"><i class="icon icon-search"></i></button> 
+        
+
+    </form>
+    <span class="domain-input__warning-prompt mt-4 sanitiseMessage" style="display:none"></span>
+<span class="domain-input__warning-prompt mt-4 warningMessage" style="display:none">Please enter a complete domain name eg example.co.uk or example.com.</span>
+<span class="domain-input__warning-prompt mt-4 validMessage" style="display:none">Thanks... sending you to our lookup now.</span>
+                
+<script>
+
+function validateInput(input) {
+    const thisForm = input.closest('.form-lookup-wrapper');
+    const warningMessage = thisForm.querySelector('.warningMessage'); 
+    const validMessage = thisForm.querySelector('.validMessage');
+    
+    scrollDownToInput(input)
+
+    //Removes the browser error message
+    input.addEventListener('invalid', function(event){
+        event.preventDefault()
+    });
+    
+    if(input.checkValidity() === false){
+        warningMessage.style.display = 'block';
+        validMessage.style.display = 'none';
+    } else {
+        validMessage.style.display = 'inline-block';
+        warningMessage.style.display = 'none';
+    }
+}
+
+function scrollDownToInput(input) {
+
+    const inputCoords = getOffsetTopFromDocument(input);
+
+    window.scrollTo({
+        top: inputCoords - 100,
+        behavior: 'smooth'
+    });
+}
+
+function getOffsetTopFromDocument(element) {
+    let offsetTop = 0;
+
+    //cycles through parent offsets until there is nothing left
+    while(element) {
+        offsetTop += element.offsetTop;
+        element = element.offsetParent;
+    }
+    return offsetTop;
+}
+
+</script>              
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="wrapper" id="content">
+  <section class="hero small service-default" id="heroVideo"><div class="container"><header class="col-12"><h1 class="mb-0">.UK Domain Disputes</h1></header></div><div class="background" style="background-image: url()"></div></section>            <div class="sectionnav-wrapper">
+                <div class="container">
+                    <div class="row">
+                        <nav class="link-bar">
+                            <a class="d-md-inline-block d-none subnav-logo" href="#header"></a>
+                            <ul id="menu-domain-support" class="sectionnav list-unstyled list-inline"><li><a href="https://www.nominet.uk/domain-support/">Domain Support</a></li>
+<li class="current-menu-item"><a href="https://www.nominet.uk/domain-support/uk-domain-disputes/" aria-current="page">UK Domain Disputes</a></li>
+<li><a href="https://www.nominet.uk/domain-support/uk-domain-disputes/decision-search/">Decision Search</a></li>
+<li><a href="https://www.nominet.uk/domain-support/domain-policies/">Domain Policies</a></li>
+<li><a href="https://www.nominet.uk/domain-support/online-services/">About Online Services</a></li>
+<li><a href="https://www.nominet.uk/uk-domains/policies/">Our Policies</a></li>
+</ul>                            <div class="paddles">
+                                <button class="left-paddle paddle hidden">
+                                    <div class="icon-chevron-left"></div>
+                                </button>
+                                <button class="right-paddle paddle">
+                                    <div class="icon-chevron-right"></div>
+                                </button>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <section class="component-paragraph" id="uk-domain-disputes-opening-text"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><p class="intro">With thousands of domain names registered each week, it’s inevitable that some might cause disagreements. We provide an award-winning Dispute Resolution Service (DRS). The DRS is a fast, efficient way to resolve .UK domain name disputes.</p>
+<p>Read on for a step-by-step guide to using the DRS. You can also take a look at the decisions of all previous DRS cases and appeals.</p>
+</div></div></section><section class="component-anchor_menu id="uk-domain-disputes-anchor-menu"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><ul class="nav section-menu justify-content-center"><a href="#how-it4" class="nav-link">How it works</a><a href="#drs" class="nav-link">DRS guidance </a><a href="#demonstrating-your-rights" class="nav-link">Demonstrating your rights </a><a href="#what-is-abusive-registration" class="nav-link">What is abusive registration </a><a href="#contact-drs5-link" class="nav-link">Contact DRS</a></ul></div></section><section class="component-paragraph" id="how-it-works"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2 id="how-it4">How it works</h2>
+<p>The DRS follows a set of rules called the <a href="https://www.nominet.uk/uk-domains/policies/#drs">DRS Policy</a>, and follows a clear path made up of different stages.</p>
+</div></div></section><section class="component-faq" id="stage-1-the-complaint-and-the-response"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-4"><div class="card"><div class="card-header" id="heading1-1-4"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-4" aria-expanded="true" aria-controls="collapse1">Stage 1 – The complaint and the response</button></h5></div><div id="collapse1-1-4" class="collapse " aria-labelledby="heading1-1-4" data-parent="#faqAccordion1-4"><div class="card-body"><p>The person or company that wishes to make a complaint about a .uk family domain name is called the Complainant. They need to submit their Complaint through our <a href="https://secure.nominet.org.uk/auth/login.html" target="_blank" rel="noopener">Online Services</a> tool. If you already have an account, you will find a section labelled “Disputes”, which leads you to the Complaint Form. If you do not already have an Online Services account, you will find a link to the Complaint Form further down this page. The act of making a complaint in this way will create an Online Services account for you.</p>
+<p>We send a copy of the Complaint to the Registrant of the domain name by recorded delivery post, and by email. We also send notification to the end user of the domain name if they are someone other than the Registrant.</p>
+<p>The Registrant (called the Respondent) has a set time frame to submit a response. They can either agree to the remedy requested by the Complainant, or explain why they do not agree with the Complaint. The Response is then sent to the Complainant, who can comment on it.</p>
+<p>Changes to data protection regulations mean that the Respondent’s name and contact details may no longer be published on the WHOIS. If you believe that knowing the name of the Registrant will help your claim, you can find details of our Data Release Policy <u><a href="https://www.nominet.uk/uk-domains/policies/#privacy">here</a>.</u></p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-faq" id="stage-2-mediation"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-5"><div class="card"><div class="card-header" id="heading1-1-5"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-5" aria-expanded="true" aria-controls="collapse1">Stage 2 – Mediation</button></h5></div><div id="collapse1-1-5" class="collapse " aria-labelledby="heading1-1-5" data-parent="#faqAccordion1-5"><div class="card-body"><p>Where a response is submitted, we offer a free mediation service. The parties are automatically ‘opted-in’ to mediation, but it is voluntary, and you do not need to engage in mediation if you do not want to.</p>
+<p>One of our trained and accredited mediators will help the parties discuss how they could settle the dispute. They will be completely neutral, and won’t judge the case or impose an outcome. Mediation is always confidential and without prejudice. People cannot harm their position by discussing the case or possible settlements with a mediator.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-faq" id="stage-3-expert-decision"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-6"><div class="card"><div class="card-header" id="heading1-1-6"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-6" aria-expanded="true" aria-controls="collapse1">Stage 3 – Expert decision</button></h5></div><div id="collapse1-1-6" class="collapse " aria-labelledby="heading1-1-6" data-parent="#faqAccordion1-6"><div class="card-body"><p>If there was no response, or if the case couldn’t be settled by mediation, the Complainant has the option of paying a fee to appoint an independent adjudicator, called the Expert, to make a binding decision about what should happen to the domain name.</p>
+<p>Nominet does not profit from running the DRS, the fee for decisions is paid to the Expert for their time adjudicating disputes.</p>
+<p>In cases where there was no response, the Complainant can opt for the Expert to make a summary decision on the case. This costs £200 plus VAT.</p>
+<p>A Summary decision is only available where no response has been submitted before the Response deadline.</p>
+<p>In all other cases, for instance if the parties failed to come to a settlement during mediation, a full Expert decision costs £750 plus VAT. The Expert will explain the cases put forward by both the Complainant and the Respondent, and will either award the remedy requested by the Complainant or dismiss the complaint.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-faq" id="stage-4-appeal"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-7"><div class="card"><div class="card-header" id="heading1-1-7"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-7" aria-expanded="true" aria-controls="collapse1">Stage 4 – Appeal</button></h5></div><div id="collapse1-1-7" class="collapse " aria-labelledby="heading1-1-7" data-parent="#faqAccordion1-7"><div class="card-body"><p>Appeals are rare, but parties who have lost an expert decision (either a Summary or Full decision) and who want their case re-examined, are welcome to make one.</p>
+<p>If you want to appeal, you must act within <strong>10 working days</strong> of the original decision being made. Your appeal will be heard by a panel of three Experts and will cost you £3,000 plus VAT.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-faq" id="final-stage-closure"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-8"><div class="card"><div class="card-header" id="heading1-1-8"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-8" aria-expanded="true" aria-controls="collapse1">Final stage – Closure</button></h5></div><div id="collapse1-1-8" class="collapse " aria-labelledby="heading1-1-8" data-parent="#faqAccordion1-8"><div class="card-body"><p>If the Expert awards a transfer, cancellation or suspension of the domain name, we will make the required changes to our domain name registration records. We’ll also publish the expert decision on our website. If there was an agreement in mediation, the mediator will help the parties fulfil the terms of their agreement. If neither party takes any further action, we’ll close the DRS case file.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-paragraph" id="data-release"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2>Data release</h2>
+<p>Nominet does not publish the registrants details unless they have given consent. We provide registration data to third parties with legitimate reasons, such as enforcement of legal rights or use of our Dispute Resolution Service.</p>
+<p>To obtain non-public data you must submit a <a href="https://www.nominet.uk/wp-content/uploads/2022/06/Nominet-Data-Release-Request.pdf" target="_blank" rel="noopener"><span style="text-decoration: underline;">Data Release Request</span></a> and provide us with both your details (which will be disclosed to the data subject), and the reasons you believe you have the right to access non-public data. Please send this to <a href="/cdn-cgi/l/email-protection#73171207125e01161f16120016331d1c1e1a1d16075d0618" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="e185809580cc93848d84809284a18f8e8c888f8495cf948a">[email&#160;protected]</span></a>.</p>
+<h2><a id="drs"></a>DRS guidance</h2>
+<p>With the DRS, we hope people are able to settle .UK domain disputes without having to go to court or pay for legal advice. Follow the links below to find out more about the Policy, including information about making a complaint, or a response to a complaint:</p>
+<ul>
+<li><a href="https://nominet.uk/wp-content/uploads/2018/09/24124932/expert-overview.pdf" target="_blank" rel="noopener">Experts Overview</a> – this is put together by the DRS Experts and includes answers to frequently asked questions, giving an invaluable insight into how Experts have viewed issues that often arise in domain name disputes.</li>
+<li><a href="https://www.nominet.uk/uk-domains/policies/#drs" rel="noopener">DRS Policy</a> – the rules and procedures governing our Dispute Resolution Service. Understanding these rules is vital.</li>
+<li><a href="https://www.nominet.uk/wp-content/uploads/2022/01/DRS-Experts-List-2022.pdf" target="_blank" rel="noopener">Experts List</a> – short biographies for the independent Experts.</li>
+<li><a href="https://nominet.uk/wp-content/uploads/2018/09/24130531/Review-Group.pdf" target="_blank" rel="noopener">Review Group</a> – describes the role of the Expert Review Group, with a short biography of each member.</li>
+<li><a href="https://www.nominet.uk/wp-content/uploads/2023/09/RG09001_Example_Complaint_Form-1.pdf" target="_blank" rel="noopener">Example Complaint Form</a> – shows the type of information that a Complainant should aspire to provide to increase their chances of success. We recommend that potential complainants use the format used in this example.</li>
+<li><a href="https://nominet.uk/wp-content/uploads/2018/10/02141432/Example_Response_Form_v5.pdf" target="_blank" rel="noopener">Example Response Form</a> – shows the sort of information that a Respondent should provide to increase their chances of success. We recommend that Respondents use the format used in this example.</li>
+<li><a href="/domain-support/uk-domain-disputes/decision-search/" target="_blank" rel="noopener">Decisions Search Tool</a> – use this search tool to find all previous DRS disputes which were resolved by an Expert decision. Cases resolved in mediation are not included as they remain confidential. You can search by Expert, the name of a Complainant or Respondent, or by other key search terms.  Previous decisions do not set a precedent, but they can be persuasive.</li>
+<li><a href="https://www.nominet.uk/wp-content/uploads/2024/02/DRS-Report-2023.pdf" target="_blank" rel="noopener">DRS Infographic</a> – a range of statistics and useful facts from the previous year’s DRS cases – including average time scales, an analysis on common outcomes and some notable example cases.</li>
+<li><a href="https://secure.nominet.org.uk/flows/drs-create-dispute.html" target="_blank" rel="noopener">Complaint Form</a> – takes you to the DRS Complaint form where you can optionally create an Online Services login.  We strongly recommend that you read the Experts’ Overview, DRS Policy and the example Complaint Form before starting on the Complaint Form.  A Respondent submits their Response through their Online Services account.</li>
+<li><a href="/domain-support/uk-domain-disputes/#useful">Useful Information</a> – guidance and tips on the timescales involved with a case.</li>
+</ul>
+</div></div></section><section class="component-paragraph" id="demonstrating-your-rights"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2>Demonstrating your rights</h2>
+<p>The Dispute Resolution Service (DRS) Policy requires Complainants to prove that they have ‘rights in respect of a name or mark which is identical or similar to the domain name’. This means rights that the Complainant can legally enforce.</p>
+<p>To make sure a Complainant is someone who has a proper interest in the domain name, the process aims to test their rights. This isn’t a particularly high threshold test, but to pass it you must make sure you can provide evidence of the rights you are claiming.</p>
+<p>Parties should also bear in mind that simply showing you have rights to a domain name isn’t sufficient to win in a DRS complaint – the Complainant must also demonstrate that the registration or use of the domain name is an abusive registration. Read more about <u><a href="https://nominet.uk/domain-support/uk-domain-disputes/#abusive-registration">abusive registrations</a></u>.</p>
+</div></div></section><section class="component-faq" id="demonstrating-your-rights"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-11"><div class="card"><div class="card-header" id="heading1-1-11"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-11" aria-expanded="true" aria-controls="collapse1">Trade marks</button></h5></div><div id="collapse1-1-11" class="collapse " aria-labelledby="heading1-1-11" data-parent="#faqAccordion1-11"><div class="card-body"><p>A trade mark of any type would be useful in demonstrating rights in a name that is the same or similar to the disputed domain name, but isn’t absolutely necessary. If you do hold a registered trade mark, remember to include proof of the registration with the submission of your complaint.</p>
+<p>The Experts talk about trademark misuse further in the <u><a href="https://nominet.uk/wp-content/uploads/2018/09/24124932/expert-overview.pdf" target="_blank" rel="noopener">Experts Overview</a></u> document, such as fair use of a domain name which could incorporate a trademark, or when simply including a trade marked word or phrase in a domain name without the holder’s consent could be considered unfair.</p>
+</div></div></div><div class="card"><div class="card-header" id="heading2-1-11"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse2-1-11" aria-expanded="true" aria-controls="collapse2">Showing when you had rights</button></h5></div><div id="collapse2-1-11" class="collapse " aria-labelledby="heading2-1-11" data-parent="#faqAccordion1-11"><div class="card-body"><p>The party making the complaint needs to prove that they have rights in a name here and now.</p>
+<p>It will often be beneficial to be able to prove that they had rights when the domain name was registered. Although this is not essential, it may be difficult to show that someone has made an abusive registration if you didn’t have rights when the registration took place. For example, it’s unlikely that a domain name registration was made in order to prevent you from having it if you set up your business after the domain name was registered.</p>
+</div></div></div><div class="card"><div class="card-header" id="heading3-1-11"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse3-1-11" aria-expanded="true" aria-controls="collapse3">The Respondent’s rights</button></h5></div><div id="collapse3-1-11" class="collapse " aria-labelledby="heading3-1-11" data-parent="#faqAccordion1-11"><div class="card-body"><p>The Policy only requires the Complainant to have rights, but it’s also something the Respondent should consider. For example, if the Respondent also has rights in a name, which is either the same as or similar to the domain name, this may be useful in proving they didn’t make an abusive registration.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-paragraph" id="what-is-abusive-registration"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2>What is abusive registration?</h2>
+<p>To successfully make a complaint using our Dispute Resolution Service (DRS) you must be able to prove that the domain name, in the hands of the current registrant, is an abusive registration. This means you must be able to prove that the domain name either:</p>
+<ol>
+<li>took unfair advantage of, or was unfairly detrimental to, your rights at the time of registration or acquisition; or</li>
+<li>has been used in a manner which took unfair advantage of, or was unfairly detrimental to, your rights.</li>
+</ol>
+<p>The unfair conduct can happen at any point during the lifetime of the domain name, from registration onwards.</p>
+<p>There is no statute of limitations.</p>
+<p>A Complainant does not necessarily need to prove that both the registration and use of the domain name is unfair. It’s also important to note that unfair use of a domain name covers use for any purpose, such as for a website or email.</p>
+<p>For example, it could be that the registration was ‘fair’ (because the parties agreed at the time, or did not object), but the use later becomes unfair – because there is a change of use, a falling out between the parties, or a change of motive.</p>
+<p>Sections five and eight of the DRS Policy provides non-exhausting lists of scenarios that can make a domain name registration abusive, or fair.  Quoting relevant sections of the <span style="text-decoration: underline;"><a href="https://www.nominet.uk/uk-domains/policies/#drs">DRS Policy</a></span> and <span style="text-decoration: underline;"><a href="https://nominet.uk/wp-content/uploads/2018/09/24124932/expert-overview.pdf" target="_blank" rel="noopener">Experts Overview</a></span> will be beneficial.</p>
+</div></div></section><section class="component-faq" id="uk-domain-disputes-main-text"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-13"><div class="card"><div class="card-header" id="heading1-1-13"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-13" aria-expanded="true" aria-controls="collapse1">Example of abusive registrations</button></h5></div><div id="collapse1-1-13" class="collapse " aria-labelledby="heading1-1-13" data-parent="#faqAccordion1-13"><div class="card-body"><p>If you are not quite sure what constitutes an abusive registration, we recommend that you look at the examples included in the DRS Policy:</p>
+<ul>
+<li>The domain name was registered with the <strong>primary</strong> purpose of selling or renting it <strong>specifically</strong> to the Complainant (or a competitor) for more than the Respondent paid for it.</li>
+<li>The domain name was registered with the primary purpose of stopping the Complainant using it.</li>
+<li>The domain name was registered with the primary purpose of disrupting the Complainant’s business.</li>
+<li>The domain name has been used to confuse internet users.</li>
+</ul>
+<p>The list above isn’t exhaustive, and you may have another reason to make a complaint.</p>
+<p>Section 3 of the <a href="https://nominet.uk/wp-content/uploads/2018/09/24124932/expert-overview.pdf" target="_blank" rel="noopener">Experts Overview</a> explains in further detail what the Experts look for in an abusive registration.</p>
+</div></div></div><div class="card"><div class="card-header" id="heading2-1-13"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse2-1-13" aria-expanded="true" aria-controls="collapse2">Evidence that a registration is not abusive</button></h5></div><div id="collapse2-1-13" class="collapse " aria-labelledby="heading2-1-13" data-parent="#faqAccordion1-13"><div class="card-body"><p>In our DRS Policy, we also give some examples of factors that may show the registration is not abusive, including:</p>
+<ul>
+<li>The respondent can show they have made preparations to use the domain name for a legitimate business.</li>
+<li>The domain name is generic or descriptive and is being used fairly.</li>
+<li>The domain name is being used purely for tribute or fair criticism.</li>
+</ul>
+<p>Again, this list is not exhaustive and respondents may raise other arguments to defend their registration of a domain name.</p>
+<p>Section 4 of the <a href="https://nominet.uk/wp-content/uploads/2018/09/24124932/expert-overview.pdf" target="_blank" rel="noopener"><u>Experts Overview</u></a> explains in further detail the evidence the Experts look for to show a registration is not abusive.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-paragraph" id="uk-domain-disputes-main-text"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2>DRS infographic</h2>
+<p>We are all incredibly proud of the work the DRS team does and the positive impact it has on the .uk name space. Here you will find some information on the <a href="https://www.nominet.uk/wp-content/uploads/2024/02/DRS-Report-2023.pdf" target="_blank" rel="noopener">Dispute Resolution Service from 2023</a> and some of the more notable cases which we have dealt with throughout that year.</p>
+</div></div></section><section class="component-paragraph" id="useful-information-"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2>Useful information</h2>
+</div></div></section><section class="component-faq" id="useful-information-"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="row responsive-gutters"><div class="col-lg-10 mx-auto"><div class="tab-content"><div class="tab-pane active" id="aWQx-content" role="tabpanel" aria-labelledby="aWQx-tab"><div class="accordion mb-5" id="faqAccordion1-16"><div class="card"><div class="card-header" id="heading1-1-16"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1-1-16" aria-expanded="true" aria-controls="collapse1">How to use the DRS </button></h5></div><div id="collapse1-1-16" class="collapse " aria-labelledby="heading1-1-16" data-parent="#faqAccordion1-16"><div class="card-body"><p>You can start, respond or reply to a case by logging into your <a href="https://secure.nominet.org.uk/auth/login.html" target="_blank" rel="noopener">Nominet Online Services</a> account. Here you can also view any supporting attachments to the case.</p>
+<p>When composing any part of the case it can be useful to write this outside of the DRS webpage and then copy and paste the completed text into the online form. This allows you to work on the text offline as well as saving an external copy of the text for your own records.</p>
+</div></div></div><div class="card"><div class="card-header" id="heading2-1-16"><h5 class="mb-0"><button class="btn btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse2-1-16" aria-expanded="true" aria-controls="collapse2">Timescales</button></h5></div><div id="collapse2-1-16" class="collapse " aria-labelledby="heading2-1-16" data-parent="#faqAccordion1-16"><div class="card-body"><p>Fully reasoned cases can last approximately 8 to 12 weeks from start to finish so submitting the correct information first time around is especially important. Therefore, reading the supporting documents and following their guidance is strongly recommended. The DRS Policy has a full breakdown of all of the timescales involved with a dispute.</p>
+<p>Once an initial complaint has been submitted to the DRS team it is reviewed and validated within 3 working days of the submission.</p>
+<p>Once validated, the Respondent has 15 working days to respond to the complaint.</p>
+<p>The Complainant can also reply to this response within 5 working days of receiving the response from us. This reply is to address any new points raised in the Complainant’s response.</p>
+<p>After the complaint, response and reply have been received, mediation can begin. This takes approximately 10 working days to complete, however this is flexible.</p>
+<p>If appointing an Expert, any invoice will need to be paid within 10 working days of its creation.</p>
+<p>An Expert will submit their decision within 15 working days of their appointment.</p>
+<p>Once the decision has been received, there is a 10 working day appeal notice period during which the losing party can submit an appeal request.</p>
+<p>If there is no appeal, after the notice period Nominet will make the necessary changes to the relevant domain name records, or take no action if the complaint failed.  We can help to move the domain name to a new registrar at this stage if appropriate.</p>
+</div></div></div></div></div></div></div></div></div></section><section class="component-paragraph" id="contact-drs"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2 id="contact-drs5-link">Contact DRS</h2>
+<p style="text-align: left;">If you’d like to speak to us about a dispute, please get in touch. Our advisors are available Monday to Friday 08:00 &#8211; 18:00.</p>
+<p style="text-align: center;"><a class="btn btn-primary mt-3 mb-3" href="/contact-us/">Contact our disputes team</a></p>
+</div></div></section><div class="first-pattern"></div><div class="second-pattern"></div><div class="third-pattern"></div><footer class="footer-wrapper"><div class="container"><div class="row py-5 d-flex align-items-center"><div class="footer-logo col-lg-7 col-md-5 col-sm-12 d-flex"><div class="nominet-logo"></div></div><div class="col-lg-5 col-md-7 col-sm-12"><div class="social-icons flex-row d-flex justify-content-end"><a href="https://twitter.com/Nominet" target="_blank" title="Nominet on Twitter"><div class="icon-twitter icon-white"></div></a><a href="https://www.youtube.com/user/Nominetnews" target="_blank" title="Nominet on YouTube"><div class="icon-youtube icon-white"></div></a><a href="https://www.facebook.com/nominet" target="_blank" title="Nominet on Facebook"><div class="icon-facebook icon-white"></div></a><a href="https://www.linkedin.com/company/nominet-uk/" target="_blank" title="Nominet on LinkedIn"><div class="icon-linkedin icon-white"></div></a></div></div></div><nav role="navigation" aria-label="footer navigation"><ul class="footer-menu row"><li class="col-md-3 col-sm-6 col-6"><a href="/about/">Our Company</a>
+<ul class="sub-menu">
+	<li><a href="https://www.nominet.uk/about/">About</a></li>
+	<li><a href="https://www.nominet.uk/careers/">Careers</a></li>
+	<li><a href="https://www.nominet.uk/contact-us/">Contact Us</a></li>
+	<li><a href="https://www.nominet.uk/news/">News</a></li>
+	<li><a href="/blog">Blog</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="/uk-domains/policies/">Our Policies</a>
+<ul class="sub-menu">
+	<li><a href="https://www.nominet.uk/uk-domains/policies/how-we-develop-policy/">How We Develop .UK Policy</a></li>
+	<li><a href="https://www.nominet.uk/complaints/">Complaints</a></li>
+	<li><a href="https://www.nominet.uk/security-at-nominet/">Security at Nominet</a></li>
+	<li><a href="https://www.nominet.uk/modern-slavery-statement/">Modern Slavery Statement</a></li>
+	<li><a href="https://www.nominet.uk/vulnerability-disclosure-programme/">Vulnerability Disclosure Programme</a></li>
+	<li><a href="https://www.nominet.uk/wp-content/uploads/2024/02/Executive-Remuneration-Policy-June-2023-FINAL.pdf">Remuneration Policy</a></li>
+	<li><a href="https://www.nominet.uk/wp-content/uploads/2023/03/Gender-pay-gap-Report.pdf">Gender Pay Gap Report</a></li>
+	<li><a href="https://media.nominet.uk/wp-content/uploads/2015/08/58367_votingrightspolicy17052012.pdf">Nominet Voting Rights Bye-Law</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="https://www.nominet.uk/corporate-governance/">Corporate Governance</a>
+<ul class="sub-menu">
+	<li><a href="https://www.nominet.uk/corporate-governance/members/">Members</a></li>
+	<li><a href="https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-members/?_ga=2.25902717.1351636482.1601893043-1366922857.1589793223">Current Members</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a target="_blank" href="http://registrars.nominet.uk">Registrars</a>
+<ul class="sub-menu">
+	<li><a target="_blank" href="https://registrars.nominet.uk/uk-namespace/registration-and-domain-management/new-registrars/becoming-a-uk-namespace-registrar/">Become a Registrar</a></li>
+	<li><a target="_blank" href="https://www.nominet.uk/?page_id=1580">Current Registrars</a></li>
+	<li><a target="_blank" href="http://registrars.nominet.uk">Registrar Resources</a></li>
+	<li><a target="_blank" href="https://nominetstatus.uk/">Service Status</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="/domain-solutions/">Domain Solutions</a>
+<ul class="sub-menu">
+	<li><a target="_blank" href="https://www.theukdomain.uk/buy-a-domain/">Buy Domain Name</a></li>
+	<li><a href="/uk-domains/">Domain Names</a></li>
+	<li><a href="https://www.nominet.uk/domain-support/">Domain Support</a></li>
+	<li><a href="https://theukdomain.uk/support-using-and-managing-my-domain/">Domain Support FAQ</a></li>
+	<li class="current-menu-item"><a href="https://www.nominet.uk/domain-support/uk-domain-disputes/">UK Domain Disputes</a></li>
+	<li><a target="_blank" href="https://secure.nominet.org.uk">Online Services</a></li>
+	<li><a href="https://www.nominet.uk/lookup/">Lookup</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="/cyber-security/">Cyber Security</a>
+<ul class="sub-menu">
+	<li><a href="https://nominetcyber.com/">Nominet Cyber</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="https://www.nominet.uk/accessibility/">Accessibility</a>
+<ul class="sub-menu">
+	<li><a href="/sitemap_index.xml">Sitemap</a></li>
+	<li><a href="https://www.nominet.uk/privacy-notice/">Privacy Notice</a></li>
+	<li><a href="https://www.nominet.uk/terms-of-use/">Terms of Use</a></li>
+	<li><a href="https://www.nominet.uk/how-we-use-cookies/">How we use cookies</a></li>
+</ul>
+</li>
+</ul></nav></div><div class="col-12 mt-5 generator py-4"><div class="container"><div class="row"><div class="col-lg-5 col-md-4 col-sm-12 text-left"><small>&copy; Nominet UK 2024.  Company number: 03203859</small></div><div class="col-lg-7 col-md-8 col-sm-12 text-right"><address class="mb-0"><small>Minerva House, Edmund Halley Road, Oxford Science Park, OX4 4DQ, United Kingdom</small></address></div></div></div></div></footer>
+
+
+</div>
+<!-- /wrapper -->
+
+<div class="alerts">
+       
+       
+        <div class="alert alert-dismissible is-alert alert-home-fixed" role="alert">
+        <button id="alert-39858" type="button" class="close alert-close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <div><span class="label label-domains">Consultation opens on significant changes to .UK registry systems</span></div>
+        <div><a href="https://www.nominet.uk/uk-modernisation-consultation/">Have your say</a></div>
+    </div>
+    </div>
+
+<div class="back-to-top invisible">
+    <span class='icon-back-to-top icon-chevron-up'></span>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://www.nominet.uk/wp-content/themes/nominetv2/library/js/scripts.js?ver=1707487307" id="scripts-js"></script>
+<script type="text/javascript" id="leadin-script-loader-js-js-extra">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"10.2.17"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.hs-scripts.com/6214058.js?integration=WordPress&amp;ver=10.2.17" id="leadin-script-loader-js-js"></script>
+</main>
+
+            <div id="live-help-container">
+                <div class="help-tab">
+                    <p class="tab-text mb-0">LIVE HELP</p>
+                </div>
+            </div>
+            
+       </body>
+</html>

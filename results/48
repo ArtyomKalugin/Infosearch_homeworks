@@ -1,0 +1,815 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head prefix="og: http://ogp.me/ns#">
+    
+    
+
+    <title>Buy &amp; Register UK Domains  | Nutty About Hosting</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Register or transfer your UK domain name to us. We provide full DNS facilities, email forwarding and friendly, professional UK support.">
+    <meta name="author" content="Nutty About Hosting Ltd">
+
+    <meta property="og:image" content="https://www.nuttyabouthosting.co.uk/assets/img/NAH-N.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="350">
+    <meta property="og:image:height" content="350">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.nuttyabouthosting.co.uk" />
+    <meta property="og:title" content="Nutty About Hosting" />
+    <meta property="og:description" content="Register or transfer your UK domain name to us. We provide full DNS facilities, email forwarding and friendly, professional UK support." />
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.0/css/bootstrap.min.css" integrity="sha512-ecYLBGh5iQPKkdBijp+tVHMkFR2N2XfbsE83/9nFM/qwSLsjAPGRl7z+jpAWj5Enw2s4NS+9hHb/VxhP1CUYjQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <link href="/bundles/site?v=ES1yO6z0_Qfb8QgRG6tQg0tCBk0SwI5txcGXlmzn58Q1" rel="stylesheet"/>
+
+    <script
+	    src="https://js.sentry-cdn.com/f4f1498e2805551e6d088db7a84f784b.min.js"
+	    crossorigin="anonymous"
+    ></script>
+        <script type="text/javascript">
+            (function (c, l, a, r, i, t, y) {
+                c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+                t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+                y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+            })(window, document, "clarity", "script", "3z2h8v0z2w");
+        </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i["GoogleAnalyticsObject"] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments);
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(window, document, "script", "//www.google-analytics.com/analytics.js", "ga");
+
+        ga("create", "UA-34868625-1", "nuttyabouthosting.co.uk", { 'anonymize_ip': true });
+        ga("require", "linkid", "linkid.js");
+        ga("send", "pageview");
+    </script>
+</head>
+
+<body>
+    <div class="wrapper">
+        
+<div class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 col-md-12 text-md-center">
+                    <a href="/">
+                        <span class="nicon Assets-img-logo">Nutty About Hosting</span>
+                    </a>
+            </div>
+            <div class="col-lg-10 col-md-12">
+                <div class="topbar text-md-center">
+                    <ul class="loginbar pull-md-none pull-lg-right">
+                        <li>
+                                <a id="vatAnchor" href="/basket/display-including-vat?returnUrl=%2Fdomain-names%2Fuk">
+                                    Showing Ex VAT <span class="hidden-sm hidden-xs">(Change)</span>
+                                </a>
+                        </li>
+                        <li class="topbar-devider"></li>
+                        <li>
+                            <i class="fa fa-shopping-cart"></i> <a href="/basket"><span class="hidden-sm hidden-xs">Basket</span> <span id="basketCountLabel"></span></a>
+                            <b class="tooltip tooltip-bottom-right">Basket Updated</b>
+                        </li>
+                        <li class="topbar-devider"></li>
+
+                            <li>
+        <a href="/login">Login</a>
+    </li>
+
+                    </ul>
+                </div>
+                <div class="navbar navbar-default" role="navigation">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+           
+        </div>
+
+         <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="/">Home</a></li>
+                <!-- Hosting -->
+                <li class="dropdown">
+                    <a href="#" class="preventClick dropdown-toggle" data-toggle="dropdown">
+                        Hosting
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/hosting"><strong>Shared Windows</strong> Hosting</a></li>
+                        <li><a href="/umbraco"><strong>Umbraco</strong> Hosting</a></li>
+                        <li><a href="/uk-dnn-hosting"><strong>DNN</strong> Hosting</a></li>
+                        <li><a href="/uk-wordpress-hosting"><strong>WordPress</strong> Hosting</a></li>
+                        <li><a href="/business-web-hosting"><strong>Business Web</strong> Hosting</a></li>
+                        <li><a href="/mvc"><strong>MVC</strong> Hosting</a></li>
+                        <li><a href="/aspnet"><strong>ASP.NET</strong> Hosting</a></li>
+                        <!-- Other CMS -->
+                        <li class="dropdown-submenu">
+                            <a href="#" class="preventClick">Other CMS</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/drupal"><strong>Drupal</strong> Hosting</a></li>
+                                <li><a href="/kentico"><strong>Kentico</strong> Hosting</a></li>
+                                <li><a href="/orchard"><strong>Orchard CMS</strong> Hosting</a></li>
+                                <li><a href="/joomla"><strong>Joomla</strong> Hosting</a></li>
+                            </ul>
+                        </li>
+                        <!-- End Other CMS -->
+                        <li><a href="/hosting-extras">Hosting <strong>Extras</strong></a></li>
+                        <li><a href="/reseller"><strong>Reseller</strong> Hosting</a></li>
+                    </ul>
+                </li>
+                <!-- End Hosting -->
+                <!-- Email -->
+                <li class="dropdown">
+                    <a href="#" class="preventClick dropdown-toggle" data-toggle="dropdown">
+                        Email
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/email"><strong>Email</strong> Hosting</a></li>
+                        <li><a href="https://roundcube.nuttyabouthosting.co.uk" target="_blank" rel="noopener noreferrer">Login to Webmail</a></li>
+                    </ul>
+                </li>
+                <!-- End Email -->
+                <li><a href="/microsoft365">Microsoft 365</a></li>
+                <!-- Domain Names -->
+                <li class="dropdown">
+                    <a href="#" class="preventClick dropdown-toggle" data-toggle="dropdown">
+                        Domain Names
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/domain-names"><strong>Register</strong> Domain Name</a></li>
+                        <li><a href="/domain-names/transfer"><strong>Transfer</strong> Domain Name</a></li>
+                        <li><a href="/domain-names/bulk-transfer"><strong>Bulk Transfer</strong> Domain Name</a></li>
+                        <li><a href="/domain-names/price-list">Price List</a></li>
+                        <li><a href="/domain-name-promos">Domain Name Promotions</a></li>
+                        <li><a href="/domain-names/domain-lock-service">Domain Lock Service</a></li>
+                    </ul>
+                </li>
+                <!-- End Domain Names -->
+                <!-- SSL Certificates -->
+                <li class="dropdown">
+                    <a href="#" class="preventClick dropdown-toggle" data-toggle="dropdown">
+                        SSL
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/ssl-certificates">All SSL Certificates</a></li>
+                        <li><a href="/ssl-certificates#domainvalidated"><strong>Domain</strong> Validation SSL</a></li>
+                        <li><a href="/ssl-certificates#businessvalidated"><strong>Business</strong> Validation SSL</a></li>
+                        <li><a href="/ssl-certificates#extendedvalidated"><strong>Extended</strong> Validation SSL</a></li>
+                        <li><a href="/ssl-certificates/wildcard"><strong>Wildcard</strong> SSL</a></li>
+                        <!-- SSL Providers -->
+                        <li class="dropdown-submenu">
+                            <a href="#" class="preventClick">SSL Providers</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ssl-certificates/sectigo"><span class="nicon Assets-img-icons-sectigo"></span> Sectigo</a></li>
+                                <li><a href="/ssl-certificates/geotrust"><span class="nicon Assets-img-icons-geotrust"></span> GeoTrust</a></li>
+                                <li><a href="/ssl-certificates/rapidssl"><span class="nicon Assets-img-icons-rapidssl"></span> RapidSSL</a></li>
+                                <li><a href="/ssl-certificates/symantec"><span class="nicon Assets-img-icons-symantec"></span> Symantec</a></li>
+                                <li><a href="/ssl-certificates/thawte"><span class="nicon Assets-img-icons-thawte"></span> Thwate</a></li>
+                            </ul>
+                        </li>
+                        <!-- End SSL Providers -->
+                        <li><a href="/ssl-certificates/which-ssl">Help! Which SSL?</a></li>
+                    </ul>
+                </li>
+                <!-- End SSL Certificates -->
+                <!-- Backup -->
+                <li class="dropdown">
+                    <a href="#" class="preventClick dropdown-toggle" data-toggle="dropdown" title="UK Cloud Backup Service">
+                        Backup
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/online-backup">Cloud Backup Service</a></li>
+                        <li><a href="/online-backup/personal">Personal Backup</a></li>
+                        <li><a href="/online-backup/business">Backup for Businesses</a></li>
+                    </ul>
+                </li>
+                <!-- End Backup -->
+                <!-- Support -->
+                <li class="dropdown">
+                    <a href="#" class="preventClick dropdown-toggle" data-toggle="dropdown">
+                        Support
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/knowledgebase">Help Articles</a></li>
+                        <li><a href="/contact">Contact Support</a></li>
+                        <li><a href="http://status.nuttyabouthosting.co.uk/">Status</a></li>
+                    </ul>
+                </li>
+                <!-- End Support -->
+                <!-- Search Block -->
+                <li>
+                    <i class="search fa fa-search search-btn"></i>
+<form action="/search" method="post">                        <div class="search-open">
+                            <div class="input-group animated fadeInDown">
+                                <input class="form-control" id="SearchText" name="SearchText" placeholder="Search" type="text" value="" />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-u" type="submit">Go</button>
+                                </span>
+
+                            </div>
+                        </div>
+</form>                </li>
+                <!-- End Search Block -->
+            </ul>
+        </div><!--/navbar-collapse-->
+
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+
+
+<div class="breadcrumbs">
+    <div class="container">
+        <h1 class="pull-left">Buy &amp; Register UK Domains </h1>
+        <ul class="pull-right breadcrumb">
+                <li><a href="/">Home</a></li>
+                <li class="active">Buy &amp; Register…</li>
+        </ul>
+    </div>
+</div>
+
+<div class="container content">
+    
+
+
+    <h1 class="text-center">Register a UK Domain Name</h1>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="row margin-bottom-30">
+            <div class="col-md-2 hidden-sm hidden-xs text-center">
+                <img src="/assets/img/the-UK-Domain-Logo.jpg" />
+            </div>
+            <div class="col-md-8 col-sm-12 col-xs-12">
+                <p style="text-align: center;">Enter the domain name you want to register below</p>
+                <form class="sky-form" data-bind="submit: lookUp">
+                    <div class="input-group">
+                        <input type="hidden" value="" id="DefaultDomainName" />
+                        <input class="form-control" id="DomainName" name="DomainName" placeholder="Type domain name here..." type="url" data-bind="value:domainName">
+                        <span class="input-group-btn">
+                            <button class="btn btn-u" data-bind="click:lookUp" title="Search" id="searchDomain"><i class="fa fa-search"></i> Search</button>
+                        </span>
+                    </div>
+                    <em class="invalid"><span class="field-validation-valid" data-valmsg-for="DomainName" data-valmsg-replace="true"></span></em>
+                </form>
+            </div>
+            <div class="col-md-2 hidden-sm hidden-xs text-center">
+                <img src="/assets/img/Nominet-Accredited-Channel-Partner.jpg" />
+            </div>
+        </div>
+
+        <div class="row margin-bottom-20" id="domainlookupform">
+            <form class="sky-form displaynone">
+                <div class="panel panel-yellow" style="margin-bottom: 0;">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><i class="fa fa-gear"></i> Search results <span data-bind="visible:(pendingResponses()!==0)"> - Still checking on <i data-bind="text:pendingResponses"></i> more domains...</span></h3>
+                    </div>
+                    <table id="domainResults" class="table table-hover">
+                        <thead style="height: 0;">
+                            <tr>
+                                <th style="padding: 0;"></th>
+                                <th style="padding: 0;"></th>
+                                <th style="padding: 0;"></th>
+                                <th style="padding: 0;"></th>
+                            </tr>
+                        </thead>
+                        <tbody class="vert-align" data-bind="foreach: {data: results,
+                                           beforeRemove: hideResult,
+                                           afterAdd: showResult}">
+                            <!-- ko switch: status -->
+                            <!-- ko case: '5'--> <!-- AvailableWithRightsOfRegistration -->
+                            <tr>
+                                <td class="text-center">
+                                    <i class="fa fa-check fa-3x color-green"></i>
+                                </td>
+                                <td><span data-bind="text:domainName"></span></td>
+                                <td>
+                                    Contact Us - domain available to owner of <span data-bind="text: rightOfRegistration"></span>
+                                </td>
+                                <td>
+                                    <a class="btn btn-u btn-block" href="/contact">Contact Us</a>
+                                </td>
+                            </tr>
+                            <!-- /ko -->
+                            <!-- ko case: '3' --> <!-- NotRegisteredIsAvailable -->
+                            <tr>
+                                <td class="text-center">
+                                    <i class="fa fa-check fa-3x color-green1"></i>
+                                </td>
+                                <td><span data-bind="text:domainName"></span></td>
+                                <td>
+                                    
+                                    <label class="select">
+                                        <select data-bind="options: prices, optionsText: 'costLabel', optionsValue: 'period', value: selectedPeriod"></select>
+                                        <i></i>
+                                    </label>
+                                </td>
+                                <td>
+                                    <button data-bind="click:$parent.addToBasket" class="btn btn-u btn-block"><span class="hidden-lg hidden-md">Add</span><span class="hidden-sm hidden-xs">Add to Basket</span></button>
+                                </td>
+                            </tr>
+                            <!-- /ko -->
+                            <!-- ko case: '2' --> <!-- RegisteredIsNotAvailable -->
+                            <tr>
+                                <td class="text-center">
+                                    <i class="fa fa-times fa-3x color-red"></i>
+                                </td>
+                                <td><span data-bind="text:domainName"></span></td>
+                                <td>
+                                    Unavailable
+                                </td>
+                                <td>
+                                    <button data-bind="click:$parent.addTransferToBasket" class="btn btn-u btn-block"><span class="hidden-lg hidden-md">Add</span><span class="hidden-sm hidden-xs">Transfer</span></button>
+                                    
+                                </td>
+                            </tr>
+                            <!-- /ko -->
+                            <!-- ko case: $default -->
+                            <tr>
+                                <td class="text-center">
+                                    <i class="fa fa-question fa-3x color-grey"></i>
+                                </td>
+                                <td><span data-bind="text:domainName"></span>.<span data-bind="text:tld"></span></td>
+                                <td>
+                                    Waiting for response from registry
+                                </td>
+                                <td></td>
+                            </tr>
+                            <!-- /ko -->
+                            <!-- /ko -->
+                        </tbody>
+                    </table>
+                    <div class="panel-footer text-right">
+                        <a href="/basket" class="btn btn-u">Checkout</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        
+
+        <div class="row margin-bottom-20">
+            <div class="col-md-12">
+                <div class="headline">
+                    <h2>Why register your UK domain name with us?</h2>
+                </div>
+                <div class="row margin-bottom-20">
+                    <div class="col-md-4">
+                        <h3>Accredited Nominet Partner</h3>
+                        <div class="row">
+                            <div class="col-md-2 text-center hidden-sm hidden-xs">
+                                <i class="fa fa-check fa-3x color-green"></i>
+                            </div>
+                            <div class="col-md-10 col-sm-12 col-xs-12">
+                                <p>
+                                    <strong>Buy with confidence</strong>. You are safe with us knowing we are a fully accredited and regularly checked by Nominet, the governing body for UK domain names.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>
+                            <i class="fa fa-gbp"></i> Low Prices
+                        </h3>
+                        <div class="row">
+                            <div class="col-md-2 text-center hidden-sm hidden-xs">
+                                <i class="fa fa-check fa-3x color-green"></i>
+                            </div>
+                            <div class="col-md-10 col-sm-12 col-xs-12">
+                                <p>
+                                    We are one of the cheapest providers of UK domain names. No tie-ins for 10 years to get the best price, no surprises at renewal time, or hours hunting for the latest discount codes, just year round value.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>
+                            <i class="fa fa-envelope-o"></i> Email Addresses
+                        </h3>
+                        <div class="row">
+                            <div class="col-md-2 text-center hidden-sm hidden-xs">
+                                <i class="fa fa-check fa-3x color-green"></i>
+                            </div>
+                            <div class="col-md-10 col-sm-12 col-xs-12">
+                                <p>
+                                    5 <strong>email forwarders</strong> with every domain name. Create email addresses like hello&commat; & info&commat; and forward them to an existing domain name or your Gmail, Yahoo or Outlook email address.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3>
+                            <i class="fa fa-sliders"></i> Full DNS Control
+                        </h3>
+                        <div class="row">
+                            <div class="col-md-2 text-center hidden-sm hidden-xs">
+                                <i class="fa fa-check fa-3x color-green"></i>
+                            </div>
+                            <div class="col-md-10 col-sm-12 col-xs-12">
+                                <p>
+                                    <strong>Easy to use</strong> control panel with full DNS control & no restrictions. Point your domain to any website, edit MX records, CNAME & more. Add & edit at anytime & for free.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>
+                            <i class="fa fa-user-plus"></i> Professional UK Support
+                        </h3>
+                        <div class="row">
+                            <div class="col-md-2 text-center hidden-sm hidden-xs">
+                                <i class="fa fa-check fa-3x color-green"></i>
+                            </div>
+                            <div class="col-md-10 col-sm-12 col-xs-12">
+                                <p>
+                                    Our friendly & knowledgeable support team are available via email or phone. Whatever the query we are <strong>here to help</strong>.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>
+                            <i class="fa fa-thumbs-o-up"></i> Just how you want it
+                        </h3>
+                        <div class="row">
+                            <div class="col-md-2 text-center hidden-sm hidden-xs">
+                                <i class="fa fa-check fa-3x color-green"></i>
+                            </div>
+                            <div class="col-md-10 col-sm-12 col-xs-12">
+                                <p>
+                                    A relationship built on trust. We don't tie you in, prevent you from leaving, try and up sell at every opportunity, sell your details or anything else like that, just as you would expect.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Desktop logos-->
+        <div class="row margin-bottom-20 hidden-sm hidden-xs">
+            <div class="col-md-3 text-center">
+                <img src="/Assets/img/uk-domain-name-logo.jpg" alt=".UK domain logo" title=".uk Domain Name" />
+            </div>
+            <div class="col-md-3 text-center">
+                <img src="/Assets/img/co-uk-domain-name-logo.jpg" alt=".CO.UK domain logo" title=".co.uk Domain Name" />
+            </div>
+            <div class="col-md-3 text-center">
+                <img src="/Assets/img/org-uk-domain-name-logo.jpg" alt=".ORG.UK domain logo" title=".org.uk Domain Name" />
+            </div>
+            <div class="col-md-3 text-center">
+                <img src="/Assets/img/me-uk-domain-name-logo.jpg" alt=".ME.UK domain logo" title=".me.uk Domain Name" />
+            </div>
+        </div>
+
+        <div class="row margin-bottom-20">
+            <div class="col-md-12">
+                <div class="headline">
+                    <h2>About UK Domain Names</h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-2 text-right hidden-sm hidden-xs">
+                        <img src="/Assets/img/UK-Domain-Names.jpg" alt="UK with Union Jack" style="margin-top: -10px;" />
+                    </div>
+                    <div class="col-md-10">
+                        <p>A UK domain name tells your UK website visitors that your site is relevant to them.</p>
+                        <p>Launched in 2014, .uk provides a new space online for anyone and everyone to make the most of. Whether you want to position your business as cutting edge and ahead of the curve, or to carve your own personal space in the internet of tomorrow, .uk is the domain for you.</p>
+                        <p>If you’re looking for a trusted, tried and tested home for your business online, .co.uk is the perfect place for you. And if your company is not-for-profit or charitable, then a .org.uk positions you really clearly. And when your website it all about you, then a .me.uk puts its personal content front and centre.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="headline">
+                    <h2>Domain Name FAQs</h2>
+                </div>
+                <div class="panel-group acc-v1 margin-bottom-30" id="accordion">
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseDomainPointing" id="DomainPointing">
+                                    Can I point my domain name to WIX or Shopify or another website builder?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseDomainPointing" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>Yes. We even have dedicated support articles for the popular options and our support team can assist you if you need any help.</p>
+                                <p><strong>Wix</strong></p>
+                                <p><strong>Shopify</strong> - <a href="https://www.nuttyabouthosting.co.uk/knowledgebase/article/setup-shopify" target="_blank" rel="noopener noreferrer">How to point your domain name</a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEmailForwarding" id="EmailForwarding">
+                                    What are email forwarders?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseEmailForwarding" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>We provide you with 5 email forwarders with your domain name, 4 standard forwarders and 1 group forwarder (with 3 recipients).</p>
+                                <p>Our standard forwarders allow you to create an email addresses like hello&commat; and forward all the emails automatically to, for example, your-name@gmail.com</p>
+                                <p>Our group forwarder allows you to create an email addresses like hello&commat; and forward all the emails automatically to multiple email address, for example, your-name@gmail.com, your-business-partner@gmail.com and your-accountant@their-domain-name.co.uk</p>
+                                <p>
+                                    You can not send emails using your domain name with email forwarders. You will need to either purchase a <a href="/email">dedicated email package</a> or a <a href="/hosting">web hosting package</a> which comes with email hosting too.
+                                </p>
+                                <p>You can also use these forwarders to be RFC compliant with postmaster&commat;, abuse&commat; & webmaster&commat;</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEmailHosting" id="EmailHosting">
+                                    Can I send email using my domain name?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseEmailHosting" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>If you want to send email using your domain name then you will need email hosting.</p>
+                                <p>This costs just 99p per month per email address and you get large 2GB mailboxes, spam and virus protection and our great support. Read more about our <a href="/email">email hosting</a> or <a href="/hosting">web hosting package</a> which comes with email hosting too.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseWebsiteForwarding" id="WebsiteForwarding">
+                                    Do you do website forwarding?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseWebsiteForwarding" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    Yes, when you have transferred in your domain name you can set up web forwarding by following this article on <a href="/knowledgebase/article/how-to-set-up-web-forwarding">How to set up Web Forwarding</a>.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNominet" id="Nominet">
+                                    Who are Nominet?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseNominet" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>Nominet are the official registry responsible for .UK domain names. This includes .uk, .co.uk, .org.uk and others. We work closely with Nominet and have achieved their highest accredited partner status. Being a Nominet Accredited Channel Partner means we have strict business processes in place to provide customers with the best service possible. These are audited every year by Nominet.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNonUKResident" id="NonUKResident">
+                                    I don't live in the UK, can I still buy a UK domain name?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseNonUKResident" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>Anyone can purchase either a .co.uk or a .org.uk or a .me.uk</p>
+                                <p>If you are purchasing a .uk and don't have UK address we would become the admin contact on your behalf. You would still be the registrant and the domain name would belong to you.</p>
+                                <p>To purchase a .ltd.uk domain name you must be a UK limited company.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseWHOISOptOut" id="WHOISOptOut">
+                                    Can I hide my details from the WHOIS database?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseWHOISOptOut" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>Since GDPR all details are now hidden from public view regardless of the registrant type.</p>
+                                <p>If you wish your details to be made public then please <a href="/contact">contact us</a> after you have purchasd your domain name.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseDNS" id="DNS">
+                                    What is DNS?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseDNS" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>DNS or Domain Name System controls your domain name's email and website settings.</p>
+                                <p>When someone visits or sends an email to your domain name the DNS settings are responsible for telling the visitors computer where those items are. For example www on our domain name nuttyabouthosting.co.uk points to the IP address 188.65.176.76 which is on our servers.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseDNSNameserverDifferences" id="DNSNameserverDifferences">
+                                    What is the difference between DNS and nameservers?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseDNSNameserverDifferences" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>A nameserver is a server on the internet that holds the DNS for a domain name.</p>
+                                <p>The nameservers for a domain name are held at the registry for that domains tld i.e. Nominet (.uk domains etc) or ICANN (.com domains etc). Any request for a domain is then forwarded to these nameservers (i.e. ns1.nuttyabouthosting.co.uk) and they let the requesting query know where that resource is i.e. an IP address.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!--/acc-v1-->
+                <!-- End FAQ -->
+            </div>
+        </div>
+
+        <!--Mobile logos-->
+        <div class="row margin-bottom-20 hidden-md hidden-lg">
+            <div class="col-sm-12 text-center">
+                <img src="/Assets/img/uk-domain-name-logo.jpg" alt=".UK domain logo" title=".uk Domain Name" />
+            </div>
+            <div class="col-sm-12 text-center">
+                <img src="/Assets/img/co-uk-domain-name-logo.jpg" alt=".CO.UK domain logo" title=".co.uk Domain Name" />
+            </div>
+            <div class="col-sm-12 text-center">
+                <img src="/Assets/img/org-uk-domain-name-logo.jpg" alt=".ORG.UK domain logo" title=".org.uk Domain Name" />
+            </div>
+            <div class="col-sm-12 text-center">
+                <img src="/Assets/img/me-uk-domain-name-logo.jpg" alt=".ME.UK domain logo" title=".me.uk Domain Name" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+
+
+
+        <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 md-margin-bottom-40">
+                <!-- About -->
+                <div class="headline"><h2>ABOUT US</h2></div>
+                <p>We specialise in Windows Web Hosting.<br />Reliable and uncrowded ASP.NET and PHP hosting with knowledgeable and friendly UK support from professional web developers.<br />We also sell some of the cheapest UK <a href="/domain-names">domain names</a> and <a href="/ssl-certificates">SSL certificates</a>.</p>
+                <p class="margin-bottom-25 md-margin-bottom-40">Read more <a href="/about-us">here</a>.</p>
+                <!-- End About -->
+                <!-- Monthly Newsletter -->
+                <div class="headline"><h2>SIGN UP TO OUR<br />NEWSLETTER</h2></div>
+                <p>Subscribe to our newsletter and stay up to date with the latest news and deals!</p>
+<form action="/newsletter/subscribe" class="footer-subsribe" id="signupToNewsletter" method="post"><input id="ReturnTo" name="ReturnTo" type="hidden" value="/domain-names/uk" />                    <div class="input-group">
+                        <input data-val="true" data-val-email="Please enter your email address" data-val-required="'Email Address' should not be empty." type="email" class="form-control" placeholder="Email Address" name="NewsletterEmailAddress" id="NewsletterEmailAddress">
+                        <span class="input-group-btn">
+                            <button class="btn btn-u" type="submit">Subscribe</button>
+                        </span>
+                    </div>
+</form>                <p><small>Don't worry you can unsubscribe at anytime and we promise not to send more than one a month!</small></p>
+                <!-- End Monthly Newsletter -->
+            </div><!--/col-md-4-->
+            
+            <div class="col-md-4 md-margin-bottom-40">
+                <a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/nahosting?ref_src=twsrc%5Etfw">Our Tweets</a>
+                
+            </div><!--/col-md-4-->
+
+            <div class="col-md-4">
+                <!-- Contact Us -->
+                <div class="headline"><h2>GET IN TOUCH</h2></div>
+                <address class="md-margin-bottom-40">
+                    Long Rydon, Stoke Gabriel, Totnes, Devon TQ9 6QH<br />
+                    Phone: 01803 467863 <br />
+                    Email: <a href="mailto:hello@nuttyabouthosting.co.uk" class="">hello@nuttyabouthosting.co.uk</a>
+                </address>
+                <!-- End Contact Us -->
+                <!-- Social Links -->
+                <div class="headline"><h2>STAY CONNECTED</h2></div>
+                <ul class="social-icons">
+                    <li><a href="https://twitter.com/nahosting" data-original-title="Twitter" class="Assets-img-icons-social-twitter" target="_blank" rel="noopener noreferrer"></a></li>
+                    <li><a href="https://www.linkedin.com/company/nutty-about-hosting" data-original-title="LinkedIn" class="Assets-img-icons-social-linkedin" target="_blank" rel="noopener noreferrer"></a></li>
+                </ul>
+                <!-- End Social Links -->
+                <!-- Recent News -->
+                <div class="posts">
+                    <div class="headline"><h2>RECENT NEWS</h2></div>
+                    <dl class="dl-horizontal">
+                        <dt><a href="/hosting"><img src="/assets/img/logos/aspnet-frontpage.jpg" alt="Dot Net 8" /></a></dt>
+                        <dd>
+                            <p><a href="/hosting">.Net 8, the latest LTS version of the framework is now available.</a></p>
+                        </dd>
+                    </dl>
+                    <dl class="dl-horizontal">
+                        <dt><a href="/uk-wordpress-hosting"><img src="/assets/img/logos/wordpress-frontpage.png" alt="WordPress Logo" /></a></dt>
+                        <dd>
+                            <p><a href="/uk-wordpress-hosting">The latest release of WordPress, version 6.4.1, includes 4 bug releases.</a></p>
+                        </dd>
+                    </dl>
+                </div><!--/col-md-4-->
+            </div>
+            <!-- End Recent Blogs -->
+        </div>
+    </div>
+</div>
+
+<div class="copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <p>
+                    2024 &copy; Nutty About Hosting. All Rights Reserved.
+                    <a href="/privacy">Privacy Policy</a> |
+                    <a href="/terms">Terms and Conditions</a> |
+                    <a href="/terms/gdpr">GDPR</a> |
+                    <a href="/partners">Partners</a> |
+                    <a href="/green">Green Hosting</a>
+                </p>
+                <p>
+                    Follow us on Twitter to receive updates regarding network issues, discounts and more.
+                        All prices <span style="text-decoration: underline">exclude</span> VAT.
+                </p>
+            </div>
+            <div class="col-md-2">
+                    <a href="/">
+                        <span class="nicon Assets-img-logo pull-right">Nutty About Hosting</span>
+                    </a>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+    
+    <script src="/assets/js/site.min.js?v=0.0.3"></script>
+    <input name="__RequestVerificationToken" type="hidden" value="0QhiD3OVxdzRu47rZBlteUwyA7MudbYDwH1i-KELSXWVaLI7pkvRP5ff3NssVlnHIzotfwrL9FZ33txE4SAOD8oxh2c1" />
+    <script>
+        jQuery(document).ready(function () {
+            App.init();
+            App.initSliders();
+            App.initFancybox();
+            Index.initParallaxSlider();
+        });
+    </script>
+    <!--[if lt IE 9]>
+        <script src="/assets/plugins/respond.js"></script>
+    <![endif]-->
+    
+    
+    <script>
+        window.defaultCoupon = 'TEST2021';
+    </script>
+    <script src="/Assets/plugins/jquery.signalR-2.1.1.min.js"></script>
+    <script src="/Assets/js/site.signalr.js"></script>
+    <script src="/Assets/plugins/knockout-3.2.0.js"></script>
+    <script src="/Assets/plugins/knockout-switch-case.js"></script>
+    <script src="/Scripts/Enums.js"></script>
+    <script src="/Assets/ts/site.NominetLandingPage.js"></script>
+
+
+</body>
+</html>		

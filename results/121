@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Domain names, Web Hosting, Microsoft 365, dedicated servers and email services from Easyspace</title>
+    <meta name="description" content="Easyspace provides UK web hosting and domain name services for businesses across the world.">
+    <meta name="keywords" content="Domain names, domain name, web hosting, hosting, virtual servers, vps, Microsoft 365, dedicated servers, servers, web design, email services, easyspace, UK">
+    <meta name="robots" content="index,follow,">
+    <meta name="abstract" content="Web Hosting, Domain Registration, , Dedicated Servers, Microsoft 365 and Email Services from Easyspace">
+    <meta name="canonical" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="language" content="en-gb" />
+    <meta name="copyright" content="2024 Easyspace">
+    <meta name="author" content="Easyspace">
+    <meta name="google" content="notranslate">
+    <meta name="classification" content="Web Services" />
+    <meta name="rating" content="Safe For Kids" />
+    
+    <!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsSocials/1.4.0/jssocials.css" type="text/css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsSocials/1.4.0/jssocials-theme-flat.css" type="text/css">-->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/animation.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/style.css?v=25" type="text/css">
+    <link rel="stylesheet" href="/assets/css/banners.css?v=2" type="text/css">
+    <link rel="stylesheet" href="/assets/css/reviews.css" type="text/css">
+    <link rel="stylesheet" href="/assets/vendor/slick/1.6.0/slick.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/slick.css" type="text/css">
+
+    <!--TODO: Add Opengraph/Twitter meta data-->
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M9RSJ93');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!--AB Testing-->
+    
+    <meta name="apple-mobile-web-app-title" content="Easyspace.com">
+    <meta name="theme-color" content="#ec5f19">
+
+    <link href='/assets/css/domain-offers.css' rel='stylesheet' type='text/css'/>
+    
+    <!--TODO: The JQuery is required by the prefix library. With Gulp we can remove both these includes.-->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="/assets/vendor/jquery-prefixfree/prefixfree.dynamic-dom.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+
+    </head>
+
+<body class="">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9RSJ93" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <style>
+        .important.ribbon {
+            background: #333;
+            position: absolute;
+            top: 3.3em;
+            width: 100%;
+            color: white;
+            text-align: center;
+            padding: 0.2em 2em;
+            display: inline-flex;
+            justify-content: center;
+            align-items: baseline;
+            opacity: 0;
+        }
+
+        .important.ribbon.display {
+            opacity: 1;
+        }
+
+        .important.ribbon span {
+            display: none;
+        }
+
+        .important.popup {
+            border: 1px solid #0000001a;
+            background: #fff;
+            color: #333;
+            padding: 1.8em 2em 1.8em 72px;
+            position: fixed;
+            right: .5em;
+            top: .5em;
+            z-index: 10;
+            width: calc(100% - 1em);
+            font-size: .85em;
+            line-height: 1.5;
+            border-radius: 7px;
+            box-shadow: 0 2px 10px #0000002b;
+            transform: translateX(2em);
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .important.animate {
+            transition: transform 300ms ease, opacity 300ms ease;
+        }
+
+        .important.popup.display {
+            transform: translateX(0);
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .important i {
+            color: #e84407;
+            margin-right: 0.6em;
+        }
+
+        .important.popup i {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        .important p {
+            margin: 0;
+            padding: 0;
+        }
+
+        .important a {
+            color: #ec5f19;
+            border-bottom: 1px dotted;
+            white-space: nowrap;
+        }
+
+        .important .bold {
+            font-size: 1.35em;
+            margin-bottom: 0.3em;
+            display: block;
+            font-weight: 600;
+        }
+
+        .important.popup .cross {
+            position: absolute;
+            top: 0.7em;
+            right: 0.7em;
+            width: 1.35em;
+            height: 1.35em;
+            font-size: 2em;
+            line-height: .5em;
+            padding: 0.4em;
+            cursor: pointer;
+        }
+
+        @media only screen and (min-width: 1024px) {
+            .important.ribbon {
+                top: 9em;
+            }
+
+            .important.popup {
+                width: 350px;
+                top: 5.2em;
+                bottom: unset;
+            }
+        }
+    </style>
+    <script>
+        var go = true;
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 50 && go) {
+                $(".important").removeClass("ribbon animate display").addClass("popup");
+                setTimeout(function() {
+                    $(".important").addClass("animate display");
+                }, 300);
+                go = false;
+            } else if ($(this).scrollTop() < 50 && !go) {
+                $(".important").removeClass("display");
+                setTimeout(function() {
+                    $(".important").removeClass("popup animate").addClass("ribbon");
+                }, 290);
+                setTimeout(function() {
+                    $(".important").addClass("animate display");
+                }, 310);
+                go = true;
+            }
+        });
+
+
+        $(document).ready(function() {
+            $(".important .cross").click(function() {
+                $(".important").removeClass("display");
+                setTimeout(function() {
+                    $(".important").remove();
+                }, 300);
+                go = true;
+            });
+        });
+    </script>
+
+    <header>
+        <div class="topnav">
+                        <div class="toplinks" style="width: 1000px;text-align: right;">
+                <a class="navBusinessHours" href="tel:03707555066"><span>Support: 0370 755 5066 </span></a> or <a class="navBusinessHours"  href="tel:03707555088" ><span>Sales & Renewals: 0370 755 5088 </span></a>
+
+                    <a href="https://controlpanel.easyspace.com/">Renew Services</a>
+                    <a href="https://supportservices.easyspace.com/">Support</a>
+                    <a href="https://www.easyspace.com/webmail">Webmail</a>
+                    <a href="https://www.easyspace.com/blog/">Blog</a>
+                    <div class="dropdown">
+                        <a href="https://controlpanel.easyspace.com/" class="cp-link">Control Panel</a>
+                                            </div>
+
+
+                                </div>
+            <a onclick="history.go(-1)" class="backlink"><i class="fa fa-chevron-left" aria-hidden="true"></i> back</a>
+        </div>
+        
+<nav role="navigation"><a href="/" class="logo">Easyspace.com</a>
+    <div class="headerdomain">
+        <form action="/wizard/?journey=domain&stage=domain/search" method="post">
+            <input type="hidden" name="source" placeholder="basic_domain_search">
+            <!-- fast lookup options -->
+            <input type="hidden" name="fast" value="yes">
+            <input type="hidden" name="nosearch" value="yes">
+            <input type="hidden" name="ajaxload" value="onscroll">
+            <!-- options -->
+            <input type="hidden" name="source" placeholder="basic_domain_search">
+            <input type="hidden" name="suggestion" value="no">
+            <input type="hidden" name="presearched" value="yes">
+            <input type="hidden" name="order_results" value="yes">
+            <input type="hidden" name="preselected" value="yes">
+            <input type="hidden" name="getoffers" value="yes">
+            <input type="hidden" name="usens" value="yes">
+            <input type="hidden" name="chunks" value="0">
+            <!--Required by bulk search-->
+            <input type="hidden" name="max_suggestions" value="35">
+            <input type="hidden" name="wait" value="8">
+            <input type="hidden" name="extensions" value="">
+            <input name="domain" type="text" placeholder="Search for a domain name">
+            <input type="hidden" name="crsf_token" value="e3f17996e4e4143e7f772e9998bbcfdebc4ccfc4252668692f31192d5625935a25a29468f06d78a7ef77262d810ae39187b7b123e99ccb84f7c7e9a8347dc310">            <button type="submit" class="headerdomainsearch g-recaptcha" data-callback='onSubmitTopNav' data-action='submit' data-sitekey='6LcT2qIZAAAAAFW-xFOW8JsPtvqU65UgmbEB469o'><i class="fa fa-search" aria-hidden="true"></i></button>
+            <i class="fa fa-close"></i>
+            <span class="pre-search"><i class="fa fa-search"></i> Search for a domain name</span>
+        </form>
+    </div>
+    <ul>
+        <li><a href="#" class="first has-sub  current ">Domain<t class="ShowOnSmallScreen">s</t>
+                <t class="HideOnSmallScreen">Names</t>
+            </a> <span id="s1"></span>
+            <ul class="subs">
+
+                <form action="/wizard/?journey=domain&stage=domain/search" class="domain_input" method="post">
+                    Search for a domain name
+                    <input type="hidden" name="source" placeholder="basic_domain_search">
+                    <!-- fast lookup options -->
+                    <input type="hidden" name="fast" value="yes">
+                    <input type="hidden" name="nosearch" value="yes">
+                    <input type="hidden" name="ajaxload" value="onscroll">
+                    <!-- options -->
+                    <input type="hidden" class="suggestions" name="suggestion" value="no">
+                    <input type="hidden" name="keyword_search" value="no">
+                    <input type="hidden" name="chunk" value="0">
+                    <!--Required by bulk search-->
+                    <input type="hidden" name="presearched" value="yes">
+                    <input type="hidden" name="order_results" value="yes">
+                    <input type="hidden" name="preselected" value="yes">
+                    <input type="hidden" name="getoffers" value="yes">
+                    <input type="hidden" name="usens" value="yes">
+                    <input type="hidden" name="max_suggestions" value="35">
+                    <input type="hidden" name="wait" value="8">
+                    <input type="hidden" name="extensions" value="">
+                    <input name="domain" type="text" placeholder="Domain search">
+                    <input type="hidden" name="crsf_token" value="e3f17996e4e4143e7f772e9998bbcfdebc4ccfc4252668692f31192d5625935a25a29468f06d78a7ef77262d810ae39187b7b123e99ccb84f7c7e9a8347dc310">                    <input type="submit" value="" class="g-recaptcha" data-callback='onSubmitNav' data-action='submit' data-sitekey='6LcT2qIZAAAAAFW-xFOW8JsPtvqU65UgmbEB469o'>
+                    <select class="searchnav" name="searchnav">
+                        <option value="domain">Domain Names</option>
+                        <option value="premium">Premium Domains</option>
+                        <option value="keyword">Keywords</option>
+                        <!-- <option value="auction">Auctions</option> -->
+                        <option value="bulk">Bulk Search</option>
+                    </select>
+                </form>
+                <form action="/wizard/?journey=domain&stage=domain/search" onSubmit="return validateTextarea();" name="textareaForm" class="domain_textarea" method="post" id="bulkSearchForm">
+                    Search for a domain names
+                    <input type="hidden" name="source" placeholder="basic_domain_search">
+                    <!-- fast lookup options -->
+                    <input type="hidden" name="fast" value="yes">
+                    <input type="hidden" name="nosearch" value="yes">
+                    <input type="hidden" name="ajaxload" value="onscroll">
+                    <!-- options -->
+                    <input type="hidden" class="suggestions" name="suggestion" value="no">
+                    <input type="hidden" name="keyword_search" value="no">
+                    <input type="hidden" name="chunk" value="0">
+                    <!--Required by bulk search-->
+                    <input type="hidden" name="presearched" value="yes">
+                    <input type="hidden" name="order_results" value="yes">
+                    <input type="hidden" name="preselected" value="yes">
+                    <input type="hidden" name="getoffers" value="yes">
+                    <input type="hidden" name="usens" value="yes">
+                    <input type="hidden" name="max_suggestions" value="35">
+                    <input type="hidden" name="wait" value="8">
+                    <input type="hidden" name="extensions" value="">
+                    <textarea name="domain" placeholder="Enter your domain names (e.g. firstDomain.com, secondDomain.co.uk, ...)"></textarea>
+                    <input type="hidden" name="crsf_token" value="e3f17996e4e4143e7f772e9998bbcfdebc4ccfc4252668692f31192d5625935a25a29468f06d78a7ef77262d810ae39187b7b123e99ccb84f7c7e9a8347dc310">                    <input type="submit" value="" class="g-recaptcha" data-callback='onSubmitBulk' data-action='submit' data-sitekey='6LcT2qIZAAAAAFW-xFOW8JsPtvqU65UgmbEB469o'>
+                    <select class="searchnav" name="searchnav">
+                        <option value="domain">Domain Names</option>
+                        <option value="premium">Premium Domains</option>
+                        <option value="keyword">Keywords</option>
+                        <!-- <option value="auction">Auctions</option> -->
+                        <option value="bulk" selected>Bulk Search</option>
+                    </select>
+                </form>
+
+                <li>
+                    <ul>
+   <li class="">
+      <a href="/domain-names">
+         <strong>Domain Names</strong> Search
+         <p>Register and manage domain names easily. From .co.uk to .com and .email to .shop - find the right name here.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/domain-names/transfer">
+         <strong>Transfer Domain Names</strong> to Easyspace
+         <p>Move your domain names to Easyspace and take advantage of our expertise, security &amp; great offers.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/domain-names/domain-name-management">
+         <strong>Corporate Domain</strong> Management<span></span>
+         <p> A managed service for clients who require efficient and compliant management of their domain names.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/premium-domains">
+         <strong>Premium Domain Name</strong> Search<span></span>
+         <p> Search for popular web addresses with strong branding opportunities.</p>
+      </a>
+   </li>
+</ul>
+<ul>
+   <li class="current">
+      <a href="/domain-names/extensions">
+         <strong>Domain Name</strong> Extensions
+         <p>We can register and manage 95% of the global domain names – including ccTLD’s new gTLD’s.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/domain-names/accreditations">
+         <strong>Domain Name</strong> Accreditations
+         <p>Easyspace are one of the few ICANN accredited registrars in the UK.</p>
+      </a>
+   </li>
+	<li class="">
+      <a href="/domain-names/adultblock">
+         <strong>AdultBlock</strong>
+         <p>The AdultBlock and AdultBlock+ service is a new rights protection blocking service provided by ICM Registry specifically for brand holders.</p>
+      </a>
+   </li>
+	<li class=" mobileonly">
+      <a href="/domain-protect">
+         <strong>Domain Protect</strong>
+      </a>
+   </li>
+</ul>
+                    <style>.navPromoHostingSSL{padding-top:10px}.navPromoHostingSSL h3{margin:10px 0 -21px 0}.navPromoHostingSSL{text-align:center;color:#f06028}.navPromoHostingSSL a.imageLink,.navPromoHostingSSL a.imageLink img{width:100%}.navPromoHostingSSL i.fa-sun-o{color:#fc0!important;font-size:32px!important;position:absolute;right:0;top:-20px}.navPromoHostingSSL a{line-height:49px!important;width:190px;font-size:16px}
+.navPromo .flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul.subs .navPromo li {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.navPromo li:not(:last-of-type) {
+    border-bottom: 1px solid #ddd;
+    padding: 0 0 1.5em;
+    margin: 0 0 1.5em;
+}
+.navPromo h3 {
+    text-align: center;
+    margin: 0.5em;
+    font-size: 1.1em;
+}
+.navPromo .flex > div {
+    width: calc(50% - 0.5em);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navPromo .flex > div a {
+	padding: 0;
+    margin: 0;
+    border: none!important;
+}
+.navPromo .flex > div a img {
+    width: 100%;
+}
+.navPromo .flex > div p {
+	margin: 1em 0 1em;
+	font-size: .89em;
+	line-height: 1.4em;
+}
+.navPromo a.btn {
+    padding: 0.7em 1em;
+    height: auto;
+}
+.navPromo .flex > div.col33 {
+	width: calc(100% / 3 - 0.5em);
+}
+.navPromo .flex > div.col66 {
+	width: calc((100% / 3) * 2 - 0.5em);
+}
+</style>
+<ul class="standardnav navPromo desktoponly" style="margin-top: -4.9em;">
+    <li>
+        <div class="flex">
+			<div class="col33">
+				<a class="imageLink" href="/domain-protect">
+					<img src="/assets/images/content/domains/domain-protect/domain-protect-1.svg" alt="Domain Protect (DNSSEC)">
+				</a>
+			</div>
+			<div class="col66">
+				<h3 class="clr--doveGray">Domain Protect (DNSSEC)</h3>
+				<p>Domain Protect (DNSSEC) adds authentication to DNS for increased trust.</p>
+				<a href="/domain-protect" class="btn buy">Find out more</a>
+			</div>
+        </div>
+    </li>
+    <li>
+        <div class="flex">
+			<div class="col33">
+				<a class="imageLink" href="/secure-forwarding">
+					<img src="/assets/images/content/webhosting/elephants/secure-forwarding.svg" alt="Secure Domain Forwarding">
+				</a>
+			</div>
+			<div class="col66">
+				<h3 class="clr--doveGray">Secure Domain Forwarding</h3>
+				<p></p>Ensure visitors can access your site.</p>
+				<a href="/secure-forwarding" class="btn buy">Find out more</a>
+			</div>
+        </div>
+    </li>
+</ul>                </li>
+                <li>
+                </li>
+            </ul>
+        </li>
+        <li><a href="#" class="has-sub ">
+                <t class="HideOnSmallScreen">Web</t>
+                Hosting
+            </a>
+            <ul class="subs">
+                <li>
+                    <ul>
+   <li class="">
+      <a href="/web-hosting">
+         <strong>Web Hosting</strong> Packages
+         <p>SSL friendly UK based Web hosting packages available online, with free domain names and 24x7 UK support.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/web-hosting/entry-web-hosting">
+         Entry <strong>Website Hosting</strong>
+         <p>Get started online easily, hosting in its easiest form, with email and a free domain name on yearly purchases.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/web-hosting/standard-web-hosting">
+         Standard <strong>Hosting</strong>
+         <p>Host a website with a database, domain name and email with full 24x7 UK based support.</p>
+      </a>
+   </li>
+</ul>
+<ul>
+   <li class="">
+      <a href="/web-hosting/premium-web-hosting">
+         Premium <strong>Website Hosting</strong>
+         <p>Premium website hosting comes free with SSL (HTTPS:), backup & restore, IMAP email, and unlimited storage.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/web-hosting/wordpress">
+         <strong>Dedicated</strong> WordPress Hosting
+         <p>The package comes complete with Backup & Restore, IMAP email all on a dedicated environment.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/instasite">
+         Instant <strong>WordPress Website</strong>
+         <p>Build an instant WordPress website - without having to know WordPress!  Setup online quickly.</p>
+      </a>
+   </li>
+</ul>                    <style>.navPromoHostingSSL{padding-top:10px}.navPromoHostingSSL h3{margin:10px 0 -21px 0}.navPromoHostingSSL{text-align:center;color:#f06028}.navPromoHostingSSL a.imageLink,.navPromoHostingSSL a.imageLink img{width:100%}.navPromoHostingSSL i.fa-sun-o{color:#fc0!important;font-size:32px!important;position:absolute;right:0;top:-20px}.navPromoHostingSSL a{line-height:49px!important;width:190px;font-size:16px}
+.navPromo .flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul.subs .navPromo li {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.navPromo li:not(:last-of-type) {
+    border-bottom: 1px solid #ddd;
+    padding: 0 0 1.5em;
+    margin: 0 0 1.5em;
+}
+.navPromo h3 {
+    text-align: center;
+    margin: 0.5em;
+    font-size: 1.1em;
+}
+.navPromo .flex > div {
+    width: calc(50% - 0.5em);
+    padding: 0;
+    margin: 0;
+}
+.navPromo .flex > div a {
+	padding: 0;
+    margin: 0;
+    border: none!important;
+    text-align: center;
+}
+.navPromo .flex > div a img {
+    width: 100%;
+}
+.navPromo .flex > div a.btn {
+    padding: 0.7em 1em;
+    height: auto;
+}
+</style>
+<ul class="standardnav navPromo desktoponly">
+    <li>
+        <h3 class="clr--doveGray">Secure your website easily with a simple click&hellip;</h3>
+        <div class="flex">
+            <div>
+                <a class="imageLink" href="/web-hosting/secure">
+                    <img src="/assets/images/content/nav-promos/hostingSSLv2.png" alt="Secure Hosting SSL">
+                </a>
+            </div>
+            <div>
+                <a href="/web-hosting/secure" class="btn buy">HTTPS hosting</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <h3 class="clr--doveGray">Never lose your files.</h3>
+        <div class="flex">
+            <div>
+                <a class="imageLink" href="/web-hosting/secure-backup">
+                    <img src="/assets/images/content/webhosting/elephants/disaster-recovery.svg" alt="Secure Website Backup">
+                </a>
+            </div>
+            <div>
+                <a href="/web-hosting/secure-backup" class="btn buy">Secure website backup</a>
+            </div>
+        </div>
+    </li>
+</ul>                </li>
+            </ul>
+        </li>
+        <li><a href="/email-hosting" class="has-sub ">Email</a>
+            <ul class="subs">
+                <li>
+                    <ul>
+   <li class="">
+      <a href="/email-hosting">
+         <strong>Email</strong>
+         <p>Professional email packages from standard POP & IMAP solutions - through to Microsoft Exchange email plans.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/email-hosting/easymail">
+         <strong>EasyMail</strong>
+         <p>EasyMail, 2GB mailbox as standard. Access email anywhere at any time on desktop, mobile or webmail. Upgrade to our bundles to save money.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/email-hosting/easymailpro">
+         <strong>EasyMail Pro</strong>
+         <p>EasyMail Pro is our business-grade email package. Archiving, quarantining folders and multi-site redundancy included.</p>
+      </a>
+   </li>
+</ul>
+<ul>
+   <li class="">
+      <a href="/email-hosting/exchange">
+         <strong>Microsoft Exchange</strong> Online Email
+         <p>Feature-rich enterprise-grade Microsoft Exchange. Fully redundant with a massive 100GB mailbox and archiving.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/microsoft365">
+         <strong>Microsoft 365</strong> - Email and Applications
+         <span></span>
+         <p>Get your favourite Microsoft Office applications on PC, Mac, iOS and Android devices, any time, any place.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/email-hosting/email-filter">
+         <strong>Email
+         Filter</strong> - Stop SPAM.
+         <p>Easyspace Mail Filter searches for and blocks spam, viruses, phishing emails and trojans.</p>
+      </a>
+   </li>
+</ul>                    <style>.navPromoEmailTrial{padding-top:10px}.navPromoEmailTrial h3{margin:10px 0 -21px 0}.navPromoEmailTrial{text-align:center;color:#f06028}.navPromoEmailTrial a.imageLink,.navPromoEmailTrial a.imageLink img{width:100%}.navPromoEmailTrial i.fa-sun-o{color:#fc0!important;font-size:32px!important;position:absolute;right:0;top:-20px}.navPromoEmailTrial a{line-height:49px!important;width:190px;font-size:16px}</style>
+<ul class="standardnav navPromo navPromoEmailTrial desktoponly">
+    <h3 class="clr--doveGray">New! EasyMail Pro<br>
+    Archiving - 5GB Mailbox - Quarantine Management</h3>
+    <br>
+    <a class="imageLink" href="/email-hosting">
+        <img src="/assets/images/content/nav-promos/safe-easymail.png" alt="EasyMail Service">
+    </a>
+
+    <p class="clr--doveGray">Enterprise-level features</p>
+    <a href="/email-hosting/easymailpro" class="btn buy">EasyMail Pro</a>
+</ul>                </li>
+            </ul>
+        <li class="subnav">
+        </li>
+
+        <li><a href="/office365" class="has-sub ">Microsoft 365</a>
+            <ul class="subs">
+                <li>
+                    
+<style>
+   .mbusinessentry a {
+      padding: 6px 10px!important;
+      margin: 0!important;
+   }
+   .mbusinessentry .title {
+      float: left;
+      line-height: 1.2;
+      vertical-align: middle;
+      color: #2f2f2f;
+      margin: 0;
+   }
+   .mbusinessentry .title strong {
+      display: block;
+      line-height: 1.2;
+   }
+   .mbusinessentry .price {
+      float: right;
+      vertical-align: middle;
+      color: #2f2f2f;
+   }
+   .mbusinessentry .price span {
+      display: inline;
+      font-weight: 800;
+      font-size: 1.5em;
+   }
+   ul li.mbusinessentry:nth-child(2) .price span {
+      color:#d54764;
+   }
+   ul li.mbusinessentry:nth-child(3) .price span {
+      color:#f8692c;
+   }
+   ul li.mbusinessentry:nth-child(4) .price span {
+      color:#f08d19;
+   }
+   ul.enterprisepanel {
+      padding: 0 20px;
+      border-left: 1px solid #ddd;
+   }
+   ul.enterprisepanel li {
+      padding: 0!important;
+   }
+</style>
+<ul>
+   <li class="">
+      <a href="/microsoft365">
+         <strong>Microsoft 365</strong> for Business
+         <p>Make light work of working remotely.</p>
+      </a>
+   </li>
+   <li class="mbusinessentry desktoponly">
+      <a href="/microsoft365">
+         <p class="title"><strong>Microsoft 365</strong> Business Basic</p>
+         <p class="price"><span>£5.95</span> user/month</p>
+      </a>
+   </li>
+   <li class="mbusinessentry desktoponly">
+      <a href="/microsoft365">
+         <p class="title"><strong>Microsoft 365</strong> Business Standard</p>
+         <p class="price"><span>£10.95</span> user/month</p>
+      </a>
+   </li>
+   <li class="mbusinessentry desktoponly">
+      <a href="/microsoft365">
+         <p class="title"><strong>Microsoft 365</strong> Apps for Business</p>
+         <p class="price"><span>£8.95</span> user/month</p>
+      </a>
+   </li>
+   <li class="" style="margin-top: 5px;">
+      <a href="/office365/microsoft-packages">
+         <strong>Microsoft</strong> Package Listing
+         <p>A full list of our Microsoft & Office 365 products, with pricing.</p>
+      </a>
+   </li>
+</ul>
+<ul class="enterprisepanel">
+   <li class="">
+      <a href="/office365/e1">
+         <strong>Office 365</strong> Enterprise
+         <p>For larger companies (300+) who want to harness the power of Office 365.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/microsoft365/enterprise">
+         <strong>Microsoft 365</strong> Enterprise
+         <p>Empower every employee, from the office to the Firstline worker with a Microsoft 365.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/microsoft/azure">
+         <strong>Managed</strong> Azure
+         <p>The power of the cloud for your business.</p>
+      </a>
+   </li>
+</ul>                    <style>.navPromoOfficeBP h3{margin-top:0}.navPromoOfficeBP{text-align:center;color:#f06028}.navPromoOfficeBP a.imageLink,.navPromoOfficeBP a.imageLink img{width:100%}.navPromoOfficeBP a{line-height:49px!important;width:190px;font-size:16px}
+.navPromoOfficeBP h3 {
+	color: #2f2f2f;
+}
+.navPromoOfficeBP p {
+	color: #787878;
+	text-align: left;
+	line-height: 1.5;
+}
+.leftlist {
+    width: 45%!important;
+    text-align: left;
+    line-height: 1.2;
+    margin-left: 1.5em;
+}
+.leftlist li {
+    margin: .5em 0;
+    padding: 0!important;
+    font-size: .9em;
+    color: #2f2f2f;
+}
+.leftlist li:before {
+    content: "";
+    width: 1.2em;
+    height: 1.2em;
+    background: url(../assets/images/content/365/check.png);
+    position: absolute;
+    display: block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    left: -1.7em;
+}
+.rightimage {
+	width: 45%;
+}
+.navPromoOfficeBP .btn.buy {
+    padding: 0 20px;
+    color: #fff!important;
+    background: #2fbe49;
+    margin: 1.5em 0 0;
+}
+</style>
+<ul class="standardnav navPromo navPromoOfficeBP desktoponly">
+    <h3 style="text-align: left;font-weight: 700; margin-top: 10px;">Move your 365 products to Easyspace</h3>
+    <p>Want to move your email to Microsoft 365 or move your 365 to us? We can do that for you...</p>
+    <ul class="leftlist">
+    	<li>Free Migration 365 to 365</li>
+    	<li>No Downtime</li>
+    	<li>Save Monthly Costs</li>
+    	<li>Full Awesome UK Support</li>
+    </ul>
+    <img class="rightimage" src="/assets/images/content/365/rollers.svg">
+    <a href="/microsoft365/migration" class="btn buy">Learn More</a>
+
+</ul>                </li>
+            </ul>
+        <li class="subnav">
+        </li>
+
+        <li><a href="/web-design" class="has-sub ">Get a Website</a>
+            <ul class="subs">
+                <li>
+                    <ul>
+   <li class="">
+      <a href="/web-design">
+         Custom <strong>Webdesign</strong>
+         <p>Give you idea or business the website it deserves. Built in the UK to your specifications in a matter of
+            weeks. 
+         </p>
+      </a>
+   </li>
+    <li class="">
+      <a href="/website-builder">Build a
+      <strong>Simple Website</strong>
+      <p>Get a simple but very effective website online today. Ideal to start getting your idea out to the world.
+      </p>
+      </a>
+  </li>
+    
+  <li class="">
+      <a href="/instasite">
+         Get an <strong>Instant WordPress Website</strong>
+         <p>Need a website quickly or simply want to test WordPress? Try our Instant Website - get a simple page
+            quickly. 
+         </p>
+      </a>
+  </li>
+</ul>
+<ul class="sitelikethis">
+   <li>
+      <ul>
+        
+         <li><img src="/assets/images/content/webdesign/customer-sites/slides/krieder.png" height="247px" width="380px" alt="krieder"/></li>
+             </ul>
+   </li>
+   <li class="link"><a href="/web-design" class="btn buy">See more websites...</a></li>
+</ul>
+<script>
+   $(".sites-slideshow > li:gt(0)").hide();
+   setInterval(function() { 
+     $('.sites-slideshow > li:first')
+       .fadeOut(1000)
+       .next()
+       .fadeIn(1000)
+       .end()
+       .appendTo('.sites-slideshow');
+   },  3000);
+</script>                    <style>.navPromoWebDesign h3{margin-top:0}.navPromoWebDesign{text-align:center;color:#f06028}.navPromoWebDesign a.imageLink,.navPromoWebDesign a.imageLink img{width:100%}.navPromoWebDesign a{line-height:49px!important;width:190px;font-size:16px}</style>
+<ul class="standardnav navPromo navPromoWebDesign desktoponly">
+    <h3 class="clr--doveGray">
+        Fully Managed Website Design Service
+    </h3>
+    <a class="imageLink" href="/web-design">
+        <img src="/assets/images/content/nav-promos/design.png" alt="Website Design Consultation">
+    </a>
+
+    <p class="clr--doveGray">Free Consultation - See our website</p>
+    <a href="/web-design" class="btn buy">Web design</a>
+
+</ul>                </li>
+            </ul>
+        <li class="subnav">
+
+        </li>
+        <li><a href="/dedicated-servers" class="has-sub ">Dedicated Servers</a>
+            <ul class="subs navDservers">
+                <li>
+                    <ul>
+   <li class="">
+      <a href="/dedicated-servers">
+         <strong>Dedicated Server</strong> Packages
+         <p>Easyspace Dedicated Servers are quick to setup, with amazing value and a full range of options.</p>
+      </a>
+   </li>
+   <li class="">
+      <a
+         href="/dedicated-servers/pre-built">
+         <strong>Pre-built</strong> Dedicated Servers
+         <p>Our pre-build list (updated daily) contains dedicated servers that are ready to go. </p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/dedicated-servers/hardware-firewall">
+         <strong>Dedicated Hardware</strong> Firewalls
+         <p>Cisco & pfSense physical hardware firewalls available in our UK datacentres</p>
+      </a>
+   </li>
+</ul>
+<div class="subright">
+   <ul>
+      <li class="">
+         <a
+            href="/dedicated-servers/management">
+            <strong>Managed Dedicated</strong> Servers<br>
+            <p>From OS updates, security hardening, monitoring and alerting.</p>
+         </a>
+      </li>
+   </ul>
+   <ul class="quadnav">
+      <li class="">
+         <a href="/dedicated-servers/backup"
+            class="first">
+            <strong>Secure Server</strong> Backup
+            <p>A comprehensive product set for dedicated server backup options.</p>
+         </a>
+      </li>
+      <li class="">
+         <a href="/dedicated-servers/control-panel">
+            <strong>Server</strong> Control Panels
+            <p>Our own Control Panel allows KVMoIP, re-boots and full DNS management.</p>
+         </a>
+      </li>
+      <li class="">
+         <a href="/dedicated-servers/hardware-os">
+            <strong>Server Hardware</strong> and OS
+            <p>A full range of Operating Systems and hardware options.</p>
+         </a>
+      </li>
+      <li class="">
+         <a href="/dedicated-servers/infrastructure">
+            <strong>UK Datacentres</strong>
+            <p>With 10 state of the art data centres.</p>
+         </a>
+      </li>
+   </ul>
+</div>                </li>
+            </ul>
+        </li>
+        <li><a href="/cloud-servers" class="has-sub ">VPS & Cloud
+                Servers</a>
+            <ul class="subs">
+                <li>
+                    <ul style="border-right: 1px solid #dadada;padding-right: 1.5em;margin-right: .8em;">
+   <li class="">
+      <a href="/cloud-servers">
+         <strong>Cloud Server </strong>Packages
+         <p>Easyspace Cloud Servers all have dedicated resources and are built on a resilient self-healing platform.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/virtual-servers">
+         <strong>Virtual Server (VPS)</strong> Packages – Linux
+         <p>Spin up a Linux VPS quickly - with full root access and a choice of options including Plesk control panels. </p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/virtual-servers/comparison">
+         <strong>Package</strong> Comparison
+         <p>Find out the key differences between Virtual Servers (VPS) and Cloud Servers.</p>
+      </a>
+   </li>
+</ul>
+<ul class="binav">
+   <li class="">
+      <a href="/dedicated-servers/control-panel">
+         <strong>Server</strong> Control Panels
+         <p>Our own Control Panel allows KVMoIP, re-boots and full DNS management.</p>
+      </a>
+   </li>
+   <li class="">
+      <a href="/dedicated-servers/infrastructure">
+         <strong>UK Datacentres</strong>
+         <p>With 10 state of the art data centres.</p>
+      </a>
+   </li>
+</ul>
+<div class="desktoponly">
+   <img src="/assets/images/content/nav-promos/cloud.png" style="position:absolute;top: 5em;right: 5em;" alt="Cloud Servers from Eayspace allow you to use all these applications">
+</div>                </li>
+            </ul>
+        </li>
+        <li><a href="/ssl-certificates" class="sslnav ">SSL
+                <t class="HideOnSmallScreen">Certificates</t>
+            </a></li>
+        <li><a href="/" class="has-sub ">More
+                <span><span></span> <span></span> <span></span></span> </a>
+            <ul class="subs">
+                <li>
+                    <ul>
+	<li class=""><a href="/about-easyspace"><strong>About</strong> Easyspace
+<p>Who we are, where we are and what makes us tick.  </p></a>
+	</li>
+	<li class=""><a href="/dedicated-servers/infrastructure "><strong>Network </strong>and Infrastructure
+  <p>More information about our self-owned UK infrastructure</p></a></li>
+  
+  
+  
+  <li class=""><a href="/reviews"><strong>Customer</strong> Reviews
+<p>Honest reviews from our customer base. </p></a>
+	</li>
+	<li class=""><a href="/customers"><strong>Easyspace</strong> Customers
+  <p>From small web enthusiasts to large corporate customers</p></a>
+	</li>
+</ul>
+	
+<ul>
+	<li class=""><a href="/resellers-partners"><strong>Resellers</strong> & Partners
+  <p>Resell our web hosting services.</p></a>
+	</li>
+	<li class=""><a href="/startup-entrepreneur-blog"><strong>Startup</strong> Advice <p>Find out what it takes to grow a business online</p></a>
+	</li>
+	<li class=""><a href="/affiliates"><strong>Affiliates</strong> - Promote our Services
+<p>Make money by promoting our services online</p></a>
+	</li>
+	<li class=""><a href="/contact-easyspace"><strong>Contact</strong> us
+<p>Get in touch with us – our address, our numbers.</p></a>
+	</li>
+</ul>                    <ul class="standardnav desktoponly">
+   <li><a href="https://www.easyspace.com/blog/"><i class="fa fa-rss"></i>Blog</a></li>
+   <li><a href="https://twitter.com/easyspace" target="_blank" style="display: inline-flex;align-items: center;width: 100%;"><i class="fa fa-twitter"><svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-16y2uox r-8kz0gk r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-lrsllp"><g><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></g></svg></i>X</a></li>
+   <li><a href="https://www.facebook.com/easyspaceltd" target="_blank"><i class="fa fa-facebook"></i>Facebook</a></li>
+   <li><a href="https://www.youtube.com/user/easyspaceltd"><i class="fa fa-youtube-play"></i>Youtube</a></li>
+</ul>
+<div class="sitesearch desktoponly"> </div>                </li>
+            </ul>
+        </li>
+        <li class="mobileonly"><a  href="/blog/">Blog</a></li>
+
+    </ul>
+
+    <div id="mobile-icon"><span></span> <span></span> <span></span> <span></span></div>
+    <div class="mobile-showsearch"></div>
+</nav>
+
+<script>
+    function onSubmitNav(token) {
+
+        var form = document.querySelector(".domain_input");
+        var recaptchaInput = document.createElement('input');
+        recaptchaInput.setAttribute("type", "hidden");
+        recaptchaInput.setAttribute("name", "g_recaptcha_response");
+        recaptchaInput.setAttribute("value", token);
+        form.appendChild(recaptchaInput);
+        form.submit();
+    }
+
+    function onSubmitTopNav(token) {
+
+        var form = document.querySelector(".headerdomain form");
+        var recaptchaInput = document.createElement('input');
+        recaptchaInput.setAttribute("type", "hidden");
+        recaptchaInput.setAttribute("name", "g_recaptcha_response");
+        recaptchaInput.setAttribute("value", token);
+        form.appendChild(recaptchaInput);
+        form.submit();
+
+    }
+
+    function onSubmitBulk(token) {
+
+        var form = document.getElementById("bulkSearchForm");
+        var recaptchaInput = document.createElement('input');
+        recaptchaInput.setAttribute("type", "hidden");
+        recaptchaInput.setAttribute("name", "g_recaptcha_response");
+        recaptchaInput.setAttribute("value", token);
+        form.appendChild(recaptchaInput);
+        form.submit();
+
+    }
+</script>
+
+                
+    </header>
+
+
+    
+
+<div class="banner banner-centre banner-uk">
+  <div class="wrapper">
+    <h1><span>.uk Domain Extensions</span>A new era for domain names...</h1>
+    <form action="/wizard/?journey=domain&stage=domain/search" method="post">
+      <input type="hidden" name="source" placeholder="basic_domain_search">
+      <!-- fast lookup options -->
+      <input type="hidden" name="fast" value="yes">
+      <input type="hidden" name="nosearch" value="yes">
+      <input type="hidden" name="ajaxload" value="onscroll">
+      <!-- options -->
+      <input type="hidden" name="source" placeholder="basic_domain_search">
+      <input type="hidden" name="suggestion" value="no">
+      <input type="hidden" name="presearched" value="yes">
+      <input type="hidden" name="order_results" value="yes">
+      <input type="hidden" name="preselected" value="yes">
+      <input type="hidden" name="getoffers" value="yes">
+      <input type="hidden" name="usens" value="yes">
+      <input type="hidden" name="max_suggestions" value="35">
+      <input type="hidden" name="wait" value="8">
+      <input type="hidden" name="extensions" value=".uk">
+      <input name="domain" type="text" placeholder="Search for a domain name (e.g. Easyspace.uk)" value="">
+      <input type="hidden" name="crsf_token" value="e3f17996e4e4143e7f772e9998bbcfdebc4ccfc4252668692f31192d5625935a25a29468f06d78a7ef77262d810ae39187b7b123e99ccb84f7c7e9a8347dc310">      <input type="submit" value="Search" class="g-recaptcha" data-callback='onSubmit' data-action='submit' data-sitekey='6LcT2qIZAAAAAFW-xFOW8JsPtvqU65UgmbEB469o'>
+    </form>
+    <p>Shorter, sharper - mobile & search engine friendly</p>
+  </div>
+</div>
+<div id="main">
+  <div class="thirdnav">
+                                                </div>
+  <section class="bread-container">
+    <div class="wrapper">
+          <div id="share"></div>
+    </div>
+  </section>
+  <section>
+    <div class="wrapper">
+      <h1><span>Easyspace Domain extensions</span>.UK domain names are the best place to start</h1>
+      <div class="columns">
+        <div class="col col70">
+
+          <h2>.uk domain names</h2>
+          <p>Sitting alongside the ever popular .co.uk domain name the new .UK is shorter, sharper and mobile friendly. The new .UK is provided by Nominet, the organisation behind the .co.uk domain name, with over 10 million domain names registered and managed, you know your name is in safe hands.</p>
+
+
+
+          <p>Having a domain registered in the .UK namespace allows you to choose to use the new, shorter, more direct .UK version.</p>
+        </div>
+        <div class="col col30">
+          <div class="highlight">
+            <img src="/assets/images/content/domains/extensions/uk.png" />
+            <p>Only <span><b data-gbp='8.15'>£8.15</b></span>/pa</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="grey-content">
+    <div class="wrapper">
+      <div class="columns">
+        <div class="col col100">
+          <h1><span>Still not sure?</span>Why should I order and use a .UK?</h1>
+        </div>
+        <div class="col col25">
+          <h3>Why should I order and use a .UK?</h3>
+          <p>The .UK is shorter, sharper and both mobile and search friendly. It makes your brand, your company, you identity directly more about the .UK – something we are all proud about.</p>
+        </div>
+
+        <div class="col col25">
+          <h3>I already own a .co.uk domain name – Do I have to use the .UK name?</h3>
+          <p>No, it’s your choice. We do recommend using both to ensure that your brand is protected. Easyspace owns both the .co.uk and the .uk versions of Easyspace as an example.</p>
+        </div>
+        <div class="col col25">
+          <h3>How long can I register it for?</h3>
+          <p>Anything from 1-10 years.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+</div>
+
+<script>
+  function onSubmit(token) {
+
+    var form = document.querySelector(".banner-uk form");
+    var recaptchaInput = document.createElement('input');
+    recaptchaInput.setAttribute("type", "hidden");
+    recaptchaInput.setAttribute("name", "g_recaptcha_response");
+    recaptchaInput.setAttribute("value", token);
+    form.appendChild(recaptchaInput);
+    form.submit();
+  }
+</script>
+
+
+
+
+    <aside class="moreinfo">
+        <div class="wrapper">
+            <h3><strong>Need more information?</strong> Call us now on <span class="bigtext">0370 755 5088</span></h3>
+        </div>
+    </aside>
+<style>
+    .accreditations-parent {
+        overflow:hidden;
+        margin-top: -116px;
+    }
+    .accreditations-parent > .accreditations {
+        position: relative;
+        z-index: 4;
+        margin-top: 0px;
+        margin-bottom: -1px;
+        margin-right: -1px;
+        background: #fff;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .accreditations div {
+        width: unset;
+        flex: 1 1 30%;
+        border: 1px solid #e0e0e0!important;
+        border-top: none!important;
+        border-left: none!important;
+    }
+    .accreditations div img {
+        display: block;
+        width: 100%;
+        height: 8.5em;
+        padding: calc(1em + 0.3vw);
+        margin: 0 auto;
+        object-fit: contain;
+    }
+
+    @media only screen and (min-width: 1000px) {
+        .accreditations div {
+            flex: 1;
+        }
+    }
+
+</style>
+<aside class="accreditations-parent">
+    <div class="accreditations">
+        <div><img src="/assets/images/structure/accreditations/icann.svg" alt="Easyspace - Icann Accredited Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/27001.png" alt="Easyspace - 27001 Accredited Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/cyber-essentials.svg" alt="Easyspace - Cyber Essentials Accredited Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/pci-dss.png" alt="Easyspace - PCI-DSS Accredited Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/verisign.svg" alt="Easyspace - Verisign Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/nominet.svg" alt="Easyspace - Nominet Accredited Channel Partner" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/org.svg" alt="Easyspace - .org Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/centralnic.svg" alt="Easyspace - Centralnic Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/me.svg" alt="Easyspace - .me Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/afilias.svg" alt="Easyspace - Afilias Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/identity-digital.svg" alt="Easyspace - Identity Digital Registrar" width="300" height="160" /></div>
+        <div><img src="/assets/images/structure/accreditations/info.svg" alt="Easyspace - .info Registrar" width="300" height="160" /></div>
+    </div>
+</aside><ul class="mobile-nav-bottom">
+    <li><a href="https://controlpanel.easyspace.com/"><i class="fa fa-cog"></i>Control Panel</a></li>
+    <li><a href="https://www.easyspace.com/webmail"><i class="fa fa-envelope-o"></i>Webmail</a></li>
+    <li>
+                    <a href="tel:0370-755-5066"><i class="fa fa-phone"></i>Call us</a>
+    </li>
+
+    <li class="livechat-button"><a><i class="far fa fa-commenting-o"></i>Chat with us</a></li>
+
+</ul>
+<footer>
+            <section>
+            <div class="wrapper">
+                <div class="sitemap">
+                    <div>
+                        <h3>Domain Names</h3>
+                        <ul>
+                            <li><a href="/domain-names">Search for a Domain</a></li>
+                            <li><a href="/domain-names/transfer">Transfer a Domain</a></li>
+                            <li><a href="/domain-protect">Domain Protect</a></li>
+                            <li><a href="/domain-names/whois">Whois Search Facility</a></li>
+                        </ul>
+                        <h3>Web Hosting</h3>
+                        <ul>
+                            <li><a href="/web-hosting/entry-web-hosting">Entry Web hosting</a></li>
+                            <li><a href="/web-hosting/standard-web-hosting">Standard Web hosting</a></li>
+                            <li><a href="/web-hosting/premium-web-hosting">Premium Web Hosting</a></li>
+                            <li><a href="/web-hosting/wordpress">WordPress Web Hosting</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Virtual Servers</h3>
+                        <ul>
+                            <li><a href="/virtual-servers">Build your own VPS Server</a></li>
+                            <li><a href="/virtual-servers/comparison">Compare Solutions</a></li>
+                            <li><a href="/ssl-certificates">SSL Certificates</a></li>
+                        </ul>
+                        <h3>Cloud Servers</h3>
+                        <ul>
+                            <li><a href="/cloud-servers">Cloud Server Hosting</a></li>
+                            <li><a href="/virtual-servers/comparison">Compare Solutions</a></li>
+                            <li><a href="/dedicated-servers/infrastructure">UK Data Centres</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Dedicated Servers</h3>
+                        <ul>
+                            <li><a href="/dedicated-servers#custom">Custom Dedicated Servers</a></li>
+                            <li><a href="/dedicated-servers/pre-built">Pre-built Servers</a></li>
+                            <li><a href="/dedicated-servers/management">Server Management</a></li>
+
+                        </ul>
+                        <h3>UK Web Design</h3>
+                        <ul>
+                            <li><a href="/web-design">UK Based web design</a></li>
+                            <li><a href="/website-builder">WebBuilder</a></li>
+                            <li><a href="/instasite">Instant WordPress Website</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Email Hosting</h3>
+                        <ul>
+                            <li><a href="/email-hosting/easymail">Easymail Email Hosting</a></li>
+                            <li><a href="/microsoft365">Microsoft 365 Email and Apps</a></li>
+                            <li><a href="/office365/migration">Move your email provider</a></li>
+                        </ul>
+                        <h3>Business Startup Advice</h3>
+                        <ul>
+                            <li><a href="/startup-entrepreneur-blog">Entrepreneur Blog</a></li>
+                            <li><a href="/startup-partners">Partners</a></li>
+                            <li><a href="/startup-tools">Start-up Tools</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>About Easyspace</h3>
+                        <ul>
+                            <li><a href="/secret">Secret Page</a></li>
+                            <li><a href="/resellers-partners">Resellers & Partnerships</a></li>
+                            <li><a href="/affiliates">Affiliates</a></li>
+                            <li><a href="/gift-vouchers">Gift Vouchers</a></li>
+                            <li><a href="/contact-easyspace">Contact us</a></li>
+                            <li><a href="/reviews">Reviews</a></li>
+                            <li><a href="/history">History</a></li>
+                            <li><a href="/pricelist">Price List</a></li>
+                            <li><a href="https://www.iomart.com/careers">Work for us</a></li>
+                            <li><a href="/terms-and-conditions">Terms & Conditions</a></li>
+                            <li><a href="/terms-and-conditions">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="columns">
+                    <div class="newsletter col col75">
+                    </div>
+                    <div class="social col col25">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="footer-last">
+        <div class="wrapper">
+            <div class="columns">
+                <div class="col col70"> Copyright &copy; Easyspace Ltd as part of the iomart group. Easyspace Limited is a
+                    company registered in England with company number 03405586. Domain Names, Web
+                    Design and Web Hosting Services. All prices exclude VAT
+                    (20%) unless otherwise stated. $, &euro; prices shown as a guideline only.
+                    <span class="currencyChoice">
+                        <label> Change Currency -
+                            <select name="currency">
+                                <option value="GBP">GBP (&pound;)</option>
+                                <option value="USD">USD ($)</option>
+                                <option value="EUR">EUR (&euro;)</option>
+                            </select>
+                        </label>
+                    </span>
+                </div>
+                <div class="col col30">
+                    <a href="https://www.iomart.com" target="_blank">
+                        <img src="/assets/images/structure/footer-logo.png" width="309" height="28" alt="Easyspace and iomart group company" />
+                    </a>
+                    <a class="green-badge" rel="nofollow" href="https://www.thegreenwebfoundation.org/green-web-check/?url=easyspace.com" target="_blank"><img src="/assets/images/structure/easyspace-footer-badge.png" width="193" height="77" alt="This website is hosted Green - checked by thegreenwebfoundation.org"></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <li class="livechat-container">
+    </li>
+
+    <script>
+        var nav = "domains";
+                    var subnav = "domain extensions";
+            </script>
+
+            <div class="livechat-button desktop">
+            <img src="/images/chat-elephant.png">
+        </div>
+    
+</footer>
+
+<!--<script src="https://cdn.jsdelivr.net/jquery.jssocials/1.1.0/jssocials.min.js" type="text/javascript"></script>-->
+<script src="/assets/vendor/modernizr/3.5.0/modernizr-custom.js" type="text/javascript"></script>
+<script src="/assets/vendor/js-cookie/3.0.1/js.cookie.min.js" type="text/javascript"></script>
+<script src="/assets/js/fontfaceobserver.js" type="text/javascript"></script>
+<script src="/assets/js/scripts.js?v=13" type="text/javascript"></script>
+<script src="/assets/js/basket-functions.js?v=3" type="text/javascript"></script>
+<script src="/assets/js/currency.js?v=2" type="text/javascript"></script>
+<script src="/assets/vendor/jquery-visible/jquery.visible.min.js" type="text/javascript"></script>
+<script src="/assets/vendor/jquery-match-height/0.7.2/jquery.matchHeight-min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+<script src="/assets/vendor/wickedpicker/wickedpicker.js"></script>
+<script src="/assets/vendor/slick/1.8.1/slick/slick.min.js"></script>
+<script src="/assets/js/basket.js"></script>
+
+
+<script type="text/javascript">
+    // Slick Sliders
+    $(".your-class").not('.slick-initialized').slick({
+        lazyLoad: 'ondemand',
+        autoplay: true,
+        arrows: true,
+        infinite: true,
+        dots: true,
+        autoplaySpeed: 4000,
+    });
+    $('.sliding-products').slick({
+        lazyLoad: 'ondemand',
+        centerMode: true,
+        centerPadding: '0',
+        slidesToShow: 5,
+        initialSlide: 2,
+        arrows: true,
+        infinite: false,
+        focusOnSelect: true,
+        responsive: [{
+                breakpoint: 1400,
+                settings: {
+                    arrows: true,
+                    slidesToShow: 3,
+
+                }
+            },
+            {
+                breakpoint: 1024,
+                settings: {
+                    arrows: false,
+                    centerMode: true,
+                    slidesToShow: 3
+                }
+            },
+            {
+                breakpoint: 700,
+                settings: {
+                    centerPadding: '70px',
+                    slidesToShow: 1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    centerPadding: '30px',
+                    slidesToShow: 1
+                }
+            },
+            {
+                breakpoint: 360,
+                settings: {
+                    centerPadding: '15px',
+                    slidesToShow: 1
+                }
+            }
+        ]
+    });
+
+    // slideup header elements on load
+    // if ($(window).width() >= 860) {
+    //     $('.banner h1').delay(400).queue(function () {
+    //        $(this).addClass('slideUp').clearQueue();
+    //    });
+    //    $('.banner form').delay(900).queue(function () {
+    //        $(this).addClass('slideUp').clearQueue();
+    //    });
+    //}
+
+
+    // Flip slider product cards
+
+    $('.slick-slide').on("click", function() {
+        $('.slick-slide .card .back').css('display', 'none');
+        $('.slick-current .card .back').css('display', 'block');
+    });
+    $('.slick-slide .info').on("click", function(e) {
+        $('.slick-current .card').toggleClass('flipped');
+        if ($('.slick-current .card').hasClass('flipped')) {
+            window.setTimeout(function() {
+                $('.slick-current .card .front').addClass('hideformac');
+            }, 300);
+        } else {
+            $('.slick-slide .card .front').removeClass('hideformac');
+        }
+        e.preventDefault();
+    });
+
+    $('.slick-slide .card .fa-close').on("click", function() {
+        $(this).closest('.slick-current .card').removeClass('flipped');
+        window.setTimeout(function() {
+            $('.slick-current .card .front').removeClass('hideformac');
+        }, 100);
+        window.setTimeout(function() {
+            $('.slick-slide .card .back').css('display', 'none');
+        }, 400);
+    });
+</script>
+
+<script src="/assets/js/plugins.js?v=9"></script>
+<script>env ='live';shop ='https://shop.easyspace.com/s2/api/';basketURL ='https://www.easyspace.com/basket';extras ='&key=HJDUE83832JHDUDH78HDU2882hd8d92jsdhUI880&callback=?';</script>
+<script>
+    function init_shop() {
+        if (Cookies.get('WWWJSESSIONID') === undefined) {
+            var url = shop + 'session_mirror.cfm';
+
+            $.getScript(url, function (data, textStatus) {
+
+            });
+        }
+    }
+    if (Cookies.get('WWWJSESSIONID') === undefined) {
+        init_shop();
+    }
+</script>
+</body>
+
+</html>

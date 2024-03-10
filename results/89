@@ -1,0 +1,416 @@
+<!doctype html>
+<html lang="en-GB" class="no-js">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KWRNCP2');</script>
+    <!-- End Google Tag Manager -->
+        <script>
+         window.dataLayer = window.dataLayer || [];
+         window.dataLayer.push({
+            'pageType' : "page",
+            'topic' : "Core"
+         });
+    </script>
+    <meta charset="UTF-8">
+    
+
+    <link href="https://www.google-analytics.com" rel="dns-prefetch">
+    <link rel="shortcut icon" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/favicon.ico?v=v2" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/manifest.json">
+    <meta name="msapplication-TileColor" content="#005f73">
+    <meta name="msapplication-TileImage" content="https://nominetcyber.com/wp-content/themes/nominetv2/library/icons/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name='robots' content='max-image-preview:large' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4a3996a4b1b2f2acd0d37065/script.js"></script>	<!-- Start VWO Common Smartcode -->
+	<script  type='text/javascript'>
+		var _vwo_clicks = 10;
+	</script>
+	<!-- End VWO Common Smartcode -->
+		<!-- Start VWO Async SmartCode -->
+	<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+	<script  type='text/javascript' id='vwoCode'>
+	/* Fix: wp-rocket (application/ld+json) */
+	window._vwo_code || (function() {
+	var account_id= 345556,
+	version = 2.0,
+	settings_tolerance= 2000,
+	library_tolerance= 2500,
+	use_existing_jquery= false,
+	hide_element='body',
+	hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+	/* DO NOT EDIT BELOW THIS LINE */
+	f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(){if(!f){f=true;var e=d.getElementById('_vis_opt_path_hides');if(e)e.parentNode.removeChild(e)}},finished:function(){return f},load:function(e){var t=this.getSettings(),n=d.createElement('script'),i=this;if(t){n.textContent=t;d.getElementsByTagName('head')[0].appendChild(n);if(!w.VWO||VWO.caE){stT.removeItem(cK);i.load(e)}}else{n.fetchPriority='high';n.src=e;n.type='text/javascript';n.onerror=function(){_vwo_code.finish()};d.getElementsByTagName('head')[0].appendChild(n)}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t=d.currentScript,n=d.createElement('style'),i=this.hide_element(),r=t&&!t.async&&i?i+this.hide_element_style():'',c=d.getElementsByTagName('head')[0];n.setAttribute('id','_vis_opt_path_hides');v&&n.setAttribute('nonce',v.nonce);n.setAttribute('type','text/css');if(n.styleSheet)n.styleSheet.cssText=r;else n.appendChild(d.createTextNode(r));c.appendChild(n);this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&vn='+version)}};w._vwo_code=code;code.init();})();
+	</script>
+	<!-- End VWO Async SmartCode -->
+	
+<!-- This site is optimized with the Yoast SEO Premium plugin v13.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Nominet Cyber Security - Protective DNS Solutions for Governments</title>
+<meta name="description" content="Nominet designs, builds and operates Protective DNS Solutions to protect Governments and their Critical National Infrastructures at scale."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://nominetcyber.com/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Nominet Cyber Security - Protective DNS Solutions for Governments" />
+<meta property="og:description" content="Nominet designs, builds and operates Protective DNS Solutions to protect Governments and their Critical National Infrastructures at scale." />
+<meta property="og:url" content="https://nominetcyber.com/" />
+<meta property="og:site_name" content="Nominet Cyber" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Nominet designs, builds and operates Protective DNS Solutions to protect Governments and their Critical National Infrastructures at scale." />
+<meta name="twitter:title" content="Nominet Cyber Security - Protective DNS Solutions for Governments" />
+<meta name="twitter:site" content="@NominetCyber" />
+<meta name="twitter:creator" content="@NominetCyber" />
+<meta name="msvalidate.01" content="33E3573E32206F4B92169DFE6F50ED64" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://nominetcyber.com/#website","url":"https://nominetcyber.com/","name":"Nominet Cyber","inLanguage":"en-GB","potentialAction":[{"@type":"SearchAction","target":"https://nominetcyber.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://nominetcyber.com/#webpage","url":"https://nominetcyber.com/","name":"Nominet Cyber Security - Protective DNS Solutions for Governments","isPartOf":{"@id":"https://nominetcyber.com/#website"},"inLanguage":"en-GB","datePublished":"2018-09-10T13:37:04+00:00","dateModified":"2024-02-21T11:09:09+00:00","description":"Nominet designs, builds and operates Protective DNS Solutions to protect Governments and their Critical National Infrastructures at scale.","potentialAction":[{"@type":"ReadAction","target":["https://nominetcyber.com/"]}]}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://nominetcyber.com/wp-includes/css/dist/block-library/style.min.css?ver=433ff87557209de498b2e7740479a18b' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='nominet-css' href='https://nominetcyber.com/wp-content/themes/nominetv2/library/css/nominetv2.min.css?ver=1703005615' media='all' />
+<script type="text/javascript" src="https://nominetcyber.com/wp-content/themes/nominetv2/library/js/lib/modernizr-2.7.1.min.js?ver=2.7.1" id="modernizr-js"></script>
+<script type="text/javascript" src="https://nominetcyber.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://nominetcyber.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://player.vimeo.com/api/player.js" id="vimplay-js-js"></script>
+<script type="text/javascript" src="https://nominetcyber.com/wp-content/themes/nominetv2/library/js/simplyCountdown.min.js?ver=1703005615" id="simplyCountdown-js"></script>
+<script type="text/javascript" src="https://nominetcyber.com/wp-content/themes/nominetv2/library/js/skrollr.min.js" id="skrollr-js-js"></script>
+<script type="text/javascript" src="https://nominetcyber.com/wp-content/themes/nominetv2/library/js/jquery.vide.min.js" id="vide-js-js"></script>
+<script type="text/javascript" id="nominet-live-help-js-extra">
+/* <![CDATA[ */
+var liveChat = {"open":"8","close":"18","holidayClose":"15","serverURL":"https:\/\/webchat.nominet.uk\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nominetcyber.com/wp-content/plugins/nominet-livehelp/nominet-live-help.js?ver=433ff87557209de498b2e7740479a18b" id="nominet-live-help-js"></script>
+<link rel="alternate" type="application/json+oembed" href="https://nominetcyber.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnominetcyber.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://nominetcyber.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnominetcyber.com%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v10.2.23-->
+			<script type="text/javascript" class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+</head>
+<body class="home page-template-default page page-id-13883 loading cyber-security">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWRNCP2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="skip-link" href="#content">Skip to main content</a>
+
+<div class="header home home-header position-absolute" id="header" role="banner">
+    <div class="header-inner clearfix">
+        <div class="header-logo d-flex align-items-center justify-content-center mx-md-auto">
+            <svg version="1.1" id="Artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 80.3 80.5" style="enable-background:new 0 0 80.3 80.5;" xml:space="preserve" width="70" height="70">
+    <style type="text/css">
+        .st0 {
+            opacity: 0.8;
+            fill: #FFFFFF;
+        }
+
+
+        .st1 {
+            opacity: 0.6;
+            fill: #FFFFFF;
+        }
+
+
+        .st2 {
+            opacity: 0.4;
+            fill: #FFFFFF;
+        }
+
+
+        .st3 {
+            opacity: 0.2;
+            fill: #FFFFFF;
+        }
+    </style>
+                <path class="st0" d="M52.5,60.3c-3.7,0-6.3-2.2-8.7-4.2c-1.7-1.5-3.2-2.7-4.8-2.7c-1.9,0-3,1.3-4.2,2.7c-1.6,1.9-3.4,4.1-7.6,4.1
+	c-2.2,0-4-0.8-5.3-2.3c-1.2-1.4-1.8-3.3-1.8-5.4l0-24.8c0-4.2,3.5-7.7,7.7-7.7c3.7,0,6.3,2.2,8.7,4.2c1.7,1.5,3.2,2.7,4.8,2.7
+	c1.9,0,3-1.3,4.2-2.7c1.6-1.9,3.4-4.1,7.6-4.1c2.2,0,4,0.8,5.3,2.3c1.2,1.4,1.8,3.3,1.8,5.4v24.8C60.2,56.9,56.8,60.3,52.5,60.3z
+	 M39.1,52.4c1.9,0,3.6,1.4,5.4,3c2.2,1.8,4.7,3.9,8,3.9c3.7,0,6.6-3,6.6-6.6V27.8c0-1.9-0.6-3.5-1.6-4.7c-1.1-1.3-2.6-1.9-4.5-1.9
+	c-3.7,0-5.3,1.9-6.8,3.7c-1.3,1.5-2.6,3.1-5,3.1c-1.9,0-3.6-1.4-5.4-3c-2.2-1.8-4.7-3.9-8-3.9c-3.7,0-6.6,3-6.6,6.6l0,24.8
+	c0,1.9,0.6,3.5,1.6,4.7c1.1,1.3,2.6,1.9,4.5,1.9c3.7,0,5.3-1.9,6.8-3.7C35.3,54,36.7,52.4,39.1,52.4z"/>
+                <path class="st1" d="M52.8,66.1c-4.7,0-7.3-1.9-9.5-3.5c-1.4-1.1-2.6-1.9-4-1.9c-1.7,0-3,1-4.4,2.1c-1.9,1.5-4.4,3.3-8.7,3.3
+	c-7.6,0-12.1-4.8-12.1-13v-26c0-4,1.4-7.4,4.1-9.7c2.4-2.1,5.7-3.2,9.2-3.2c4.7,0,7.3,1.9,9.5,3.5c1.4,1.1,2.6,1.9,4,1.9
+	c1.7,0,3-1,4.4-2.1c1.9-1.5,4.4-3.3,8.7-3.3c7.6,0,12.1,4.8,12.1,13v26c0,4-1.4,7.4-4.1,9.7C59.6,65,56.3,66.1,52.8,66.1z
+	 M39.3,59.7c1.8,0,3.1,1,4.6,2.1c2.1,1.5,4.5,3.3,8.8,3.3c6.1,0,12.2-3.7,12.2-11.9v-26c0-3.6-1.1-11.9-11-11.9c-4,0-6.1,1.7-8,3.1
+	c-1.5,1.2-3,2.3-5.1,2.3c-1.8,0-3.1-1-4.6-2.1c-2.1-1.5-4.5-3.3-8.8-3.3c-6.1,0-12.2,3.7-12.2,11.9v26c0,3.6,1.1,11.9,11,11.9
+	c4,0,6.1-1.7,8-3.1C35.8,60.8,37.2,59.7,39.3,59.7z"/>
+                <path class="st2" d="M56.2,73.2c-4.8,0-7.8-1.6-10.5-3c-2-1.1-3.8-2-6-2c-2.2,0-3.9,0.9-5.9,2c-2.5,1.4-5.4,2.9-9.8,2.9
+	c-5,0-9.3-1.9-12.4-5.5c-2.8-3.3-4.4-7.6-4.4-12.3l0-30.4c0-5.5,1.8-10.1,5.2-13.3c3-2.9,7.2-4.4,11.7-4.4c4.8,0,7.8,1.6,10.5,3
+	c2,1.1,3.8,2,6,2c2.2,0,3.9-0.9,5.9-2c2.5-1.4,5.4-2.9,9.8-2.9c5,0,9.3,1.9,12.4,5.5c2.8,3.3,4.4,7.6,4.4,12.3v30.4
+	c0,5.5-1.8,10.1-5.2,13.3C64.8,71.6,60.7,73.2,56.2,73.2z M39.7,67.2c2.4,0,4.4,1,6.4,2.1c2.6,1.3,5.5,2.9,10,2.9
+	c4.2,0,8.1-1.5,10.9-4.1c3.2-3,4.9-7.3,4.9-12.5V25c0-10.9-7.9-16.7-15.7-16.7c-4.1,0-6.9,1.5-9.3,2.8c-2,1.1-4,2.2-6.4,2.2
+	c-2.4,0-4.4-1-6.4-2.1c-2.6-1.3-5.5-2.9-10-2.9c-4.2,0-8.1,1.5-10.9,4.1c-3.2,3-4.9,7.3-4.9,12.5l0,30.4c0,10.9,7.9,16.7,15.7,16.7
+	c4.1,0,6.9-1.5,9.3-2.8C35.4,68.2,37.3,67.2,39.7,67.2z"/>
+                <path class="st3" d="M59.3,80.5c-4.3,0-7.4-1.2-10.3-2.3c-2.8-1.1-5.4-2.1-8.8-2.1c-3.4,0-6,1-8.8,2.1c-3,1.1-6,2.3-10.3,2.3
+	c-5.5,0-10.6-1.8-14.3-5C2.3,71.5,0,65.7,0,58.5V22C0,14.8,2.3,8.9,6.8,5c3.7-3.3,8.8-5,14.3-5c4.3,0,7.4,1.2,10.3,2.3
+	c2.8,1.1,5.4,2.1,8.8,2.1c3.4,0,6-1,8.8-2.1c3-1.1,6-2.3,10.3-2.3c5.5,0,10.6,1.8,14.3,5c4.4,3.9,6.8,9.7,6.8,16.9v36.5
+	c0,7.2-2.3,13-6.8,16.9C69.9,78.7,64.8,80.5,59.3,80.5z M40.2,75c3.6,0,6.5,1.1,9.2,2.1c2.9,1.1,5.9,2.3,9.9,2.3
+	c9.2,0,20-5.5,20-20.9V22c0-15.4-10.8-20.9-20-20.9c-4.1,0-7.1,1.1-9.9,2.3c-2.7,1.1-5.6,2.1-9.2,2.1c-3.6,0-6.5-1.1-9.2-2.1
+	c-2.9-1.1-5.9-2.3-9.9-2.3c-9.2,0-20,5.5-20,20.9v36.5c0,15.4,10.8,20.9,20,20.9c4.1,0,7.1-1.1,9.9-2.3C33.7,76.1,36.5,75,40.2,75z"
+                />
+</svg>
+            <div>
+                <a href="https://nominetcyber.com/" class="d-inline-block nominet-logo" title="Nominet Logo">Nominet</a>
+            </div>
+        </div>
+        <span class="header-search">
+            <i class="icon icon-search" id="toggle-search" title="Search"></i>
+            <i class="icon icon-cross" id="hide-search" title="Search"></i>
+        </span>
+        <nav class="header-nav" id="menu" role="navigation">
+            <div class="menu-container"><ul class="d-lg-flex"><li id="nav-menu-item-30735" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="#" class="menu-link main-menu-link">Protective DNS</a><div class="sub-menu-wrap depth-0"><div class="container mx-0 px-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-30548" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://nominetcyber.com/protective-dns-solutions/" class="menu-link sub-menu-link">Solutions</a></li>
+	<li id="nav-menu-item-30734" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://nominetcyber.com/delivering-uk-pdns/" class="menu-link sub-menu-link">Case Study</a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-19566" class="main-menu-item  menu-item-even menu-item-depth-0  "><a href="https://nominetcyber.com/resources/" class="menu-link main-menu-link">Resources</a></li>
+<li id="nav-menu-item-24866" class="main-menu-item  menu-item-even menu-item-depth-0  "><a href="https://nominetcyber.com/blog/" class="menu-link main-menu-link">Blog</a></li>
+<li id="nav-menu-item-29367" class="main-menu-item  menu-item-even menu-item-depth-0   menu-item-has-children"><a href="https://nominetcyber.com/about/" class="menu-link main-menu-link">About</a><div class="sub-menu-wrap depth-0"><div class="container mx-0 px-0 mx-md-auto "><ul class="sub-menu d-lg-flex flex-wrap justify-content-lg-end justify-content-center">	<li id="nav-menu-item-29368" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://nominetcyber.com/in-the-news/" class="menu-link sub-menu-link">In the News</a></li>
+	<li id="nav-menu-item-29369" class="sub-menu-item  menu-item-odd menu-item-depth-1  "><a href="https://nominetcyber.com/press-releases/" class="menu-link sub-menu-link">Press Releases</a></li>
+</ul></div></div>
+</li>
+</ul></div>        </nav>
+        <span class="header-menu">
+            <button class="hamburger hamburger--spin" type="button" id="toggle-menu">
+                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+            </button>
+        </span>
+    </div>
+    <div class="searchFlyout" id="searchform">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-10 col-md-10 col-lg-8 col-xl-5">
+                    <form method="get" action="https://nominetcyber.com">
+    <div class="input-group input-search">
+        <input type="text" class="form-control input-block" id="search" name="s" aria-label="Search site for:" placeholder="Enter search term" value=""/>
+	    <button class="search-button" type="submit"><i class="icon icon-search"></i></button>
+    </div>
+</form>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="wrapper" id="content">
+  <div id="preloader-wrapper">
+    <div class='d-flex align-items-center justify-content-center h-100'>
+        <div class="preloader">
+            <svg id="preloader-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 149.8 150.1">
+            <path id="preloader-logo-n" fill="#ffffff" d="M97 47.4c-3 0-5.5 2.5-5.5 5.5v24.5c0 2.9-2.6 3.8-4.9 1.5L56.7 49.1c-1-1-2.4-1.6-3.9-1.6-3 0-5.5 2.5-5.5 5.5v44.2c0 3 2.5 5.5 5.5 5.5s5.5-2.5 5.5-5.5V73.3c0-3 2.4-4.6 4.9-2.1L93.1 101c1.1 1.1 2.5 1.6 3.9 1.6 3 0 5.5-2.5 5.5-5.5V53c0-3.1-2.5-5.6-5.5-5.6z" />
+            <path id="preloader-logo-wave1" opacity=".8" fill="#ffffff" d="M98 112.5c-6.9 0-11.8-4.1-16.2-7.8-3.2-2.7-6-5.1-8.9-5.1-3.6 0-5.6 2.4-7.9 5.1-3 3.6-6.4 7.7-14.2 7.7-4.1 0-7.5-1.5-9.9-4.3-2.2-2.6-3.4-6.1-3.4-10.1V51.8c0-7.9 6.4-14.3 14.3-14.3 6.9 0 11.8 4.1 16.2 7.8 3.2 2.7 6 5.1 8.9 5.1 3.6 0 5.6-2.4 7.9-5.1 3-3.6 6.4-7.7 14.2-7.7 4.1 0 7.5 1.5 9.9 4.3 2.2 2.6 3.4 6.1 3.4 10.1v46.2c0 7.9-6.4 14.3-14.3 14.3zM72.9 97.7c3.6 0 6.8 2.7 10.1 5.5 4.1 3.4 8.7 7.3 14.9 7.3 6.8 0 12.4-5.5 12.4-12.4V51.9c0-3.5-1-6.6-2.9-8.8-2-2.3-4.9-3.6-8.4-3.6-6.9 0-9.8 3.6-12.7 7-2.4 2.9-4.9 5.8-9.4 5.8-3.6 0-6.8-2.7-10.1-5.5-4.1-3.4-8.7-7.3-14.9-7.3-6.8 0-12.4 5.5-12.4 12.4v46.2c0 3.5 1 6.6 2.9 8.8 2 2.3 4.9 3.6 8.4 3.6 6.9 0 9.8-3.6 12.7-7 2.4-2.9 4.9-5.8 9.4-5.8z" />
+            <path id="preloader-logo-wave2" opacity=".6" fill="#ffffff" d="M98.4 123.4c-8.8 0-13.7-3.6-17.6-6.5-2.7-2-4.8-3.6-7.5-3.6-3.2 0-5.5 1.8-8.3 3.9-3.6 2.8-8.1 6.2-16.2 6.2-14.1 0-22.5-9-22.5-24.2V50.8c0-7.5 2.6-13.8 7.7-18.2 4.4-3.9 10.5-6 17.2-6 8.8 0 13.7 3.6 17.6 6.5 2.7 2 4.8 3.6 7.5 3.6 3.2 0 5.5-1.8 8.3-3.9 3.6-2.8 8.1-6.2 16.2-6.2 14.1 0 22.5 9 22.5 24.2v48.4c0 7.5-2.6 13.8-7.7 18.2-4.4 3.8-10.5 6-17.2 6zm-25.1-12.1c3.3 0 5.8 1.8 8.7 4 3.9 2.9 8.3 6.2 16.5 6.2 11.4 0 22.8-6.9 22.8-22.2V50.8c0-6.7-2-22.2-20.5-22.2-7.4 0-11.4 3.1-15 5.8-2.9 2.2-5.6 4.3-9.5 4.3-3.3 0-5.8-1.8-8.7-4-3.9-2.9-8.3-6.2-16.5-6.2-11.4 0-22.8 6.9-22.8 22.2v48.4c0 6.7 2 22.2 20.5 22.2 7.4 0 11.4-3.1 15-5.8 2.9-2.2 5.6-4.2 9.5-4.2z" />
+            <path id="preloader-logo-wave3" opacity=".4" fill="#ffffff" d="M104.8 136.5c-9 0-14.6-2.9-19.6-5.5-3.8-2-7.1-3.7-11.1-3.7s-7.3 1.8-11 3.8c-4.7 2.6-10 5.4-18.3 5.4-9.4 0-17.4-3.5-23.2-10.2-5.3-6.1-8.2-14.2-8.2-22.9V46.7c0-10.3 3.4-18.8 9.7-24.8 5.7-5.3 13.4-8.3 21.8-8.3 9 0 14.6 2.9 19.6 5.5 3.8 2 7.1 3.7 11.1 3.7s7.3-1.8 11-3.8c4.7-2.6 10-5.4 18.3-5.4 9.4 0 17.4 3.5 23.2 10.2 5.3 6.1 8.2 14.2 8.2 22.9v56.7c0 10.3-3.4 18.8-9.7 24.8-5.7 5.3-13.4 8.3-21.8 8.3zm-30.7-11.2c4.5 0 8.1 1.9 12 3.9 4.8 2.5 10.3 5.3 18.7 5.3 7.9 0 15.1-2.7 20.4-7.7 5.9-5.6 9.1-13.7 9.1-23.4V46.7c0-20.4-14.8-31.1-29.3-31.1-7.7 0-12.8 2.8-17.3 5.2-3.8 2.1-7.4 4-12 4-4.5 0-8.1-1.9-12-3.9-4.8-2.5-10.3-5.3-18.7-5.3-7.9 0-15.1 2.7-20.4 7.7-5.9 5.6-9.1 13.7-9.1 23.4v56.7c0 20.4 14.8 31.1 29.3 31.1 7.7 0 12.8-2.8 17.3-5.2 3.9-2.1 7.5-4 12-4z" />
+            <path id="preloader-logo-wave4" opacity=".2" fill="#ffffff" d="M110.6 150.1c-8 0-13.7-2.2-19.3-4.3-5.2-2-10-3.9-16.4-3.9-6.4 0-11.3 1.9-16.4 3.9-5.5 2.1-11.3 4.3-19.3 4.3-10.2 0-19.7-3.3-26.6-9.4C4.4 133.4 0 122.5 0 109.1V41C0 27.6 4.4 16.6 12.6 9.4 19.5 3.3 29 0 39.2 0c8 0 13.7 2.2 19.3 4.3 5.2 2 10 3.9 16.4 3.9 6.4 0 11.3-1.9 16.4-3.9C96.9 2.2 102.6 0 110.6 0c10.2 0 19.7 3.3 26.6 9.4 8.3 7.2 12.6 18.2 12.6 31.6v68.1c0 13.4-4.4 24.3-12.6 31.6-6.9 6-16.3 9.4-26.6 9.4zm-35.7-10.2c6.8 0 12.1 2 17.2 4 5.4 2.1 10.9 4.2 18.5 4.2 17.2 0 37.2-10.2 37.2-39V41c0-28.8-20.1-39-37.2-39-7.6 0-13.2 2.1-18.5 4.2-5.1 2-10.4 4-17.2 4-6.8 0-12.1-2-17.2-4C52.4 4.1 46.8 2 39.2 2 22.1 2 2 12.2 2 41v68.1c0 28.8 20.1 39 37.2 39 7.6 0 13.2-2.1 18.5-4.2 5.2-2 10.4-4 17.2-4z" />
+            </svg>
+        </div>
+    </div>
+</div>
+<div id="homepage" class="row hero homepage"><div id="carouselHero" class="carousel carousel-fade slide" data-ride="carousel"><div class="carousel-inner"><div class="h-100 d-flex align-items-start justify-content-center flex-column"><div class="carousel-item active"><div class="background" style="background-image: url(https://nominetcyber.com/wp-content/uploads/2020/12/CY10011_NTX-Homepage-Hero_3000x2000px_v2a-scaled.jpg)"></div><div class="container h-100 d-flex align-items-start justify-content-center flex-column"><div class="col-lg-9 col-md-12 d-flex align-items-start flex-column justify-content-center"><h1 class="title text-white">Protecting vital public services</h1><p class="mt-4"><a href="https://nominetcyber.com/protective-dns-solutions/" target="" class="btn btn-link text-white border-white">Find out more</a></p></div></div></div></div></div></div></div>
+    </div>
+</div>
+
+<div id="skrollr-body">
+    <div class="home-components-body">
+        <section class="component-paragraph" id="intro"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2 class="grad-cyber-security" style="text-align: center;"><b>Nominet designs, builds and operates DNS solutions to protect digital economies at scale</b></h2>
+<p style="text-align: center;"><b class="grad-cyber-security" style="font-size: 1.5rem; background-color: #f7f7f7;">Protective DNS solutions disrupt cyber-attacks, offering situational awareness and automated protection across essential public services, supply chains and infrastructure. </b></p>
+</div></div></section><section class="component-icons bg-white" id="cyber_stats"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><p class="lead text-center">We're proud to deliver the UK's Protective Domain Name Service (PDNS) on behalf of the National Cyber Security Centre (NCSC). Each year, this service is helping to secure more public services.
+
+</p><div class="row justify-content-center"><div class="col-lg-4 col-md-6 col-12 mb-4"><div class="col-xl-10 d-flex align-items-center justify-content-center mx-auto pl-0"><p class="statistic purple"><span class="stat-small"></span><span  id="cyber_stats0">-</span><span class="stat-small">m</span></p></div><h5 class="text-center header-icon">END USERS PROTECTED</h5></div><div class="col-lg-4 col-md-6 col-12 mb-4"><div class="col-xl-10 d-flex align-items-center justify-content-center mx-auto pl-0"><p class="statistic purple"><span class="stat-small"></span><span  id="cyber_stats1">-</span><span class="stat-small">+</span></p></div><h5 class="text-center header-icon">ORGANISATIONS</h5></div><div class="col-lg-4 col-md-6 col-12 mb-4"><div class="col-xl-10 d-flex align-items-center justify-content-center mx-auto pl-0"><p class="statistic purple"><span class="stat-small"></span><span  id="cyber_stats2">-</span><span class="stat-small">tn</span></p></div><h5 class="text-center header-icon">QUERIES RESOLVED IN A YEAR</h5></div></div></div></section><section class="component-full_width" id="protective-dns"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><div class="row responsive-gutters"><div class="col-12"><div class="card-wrapper"><div class="card card-fw card-fw-left row no-gutters"><div class="col-lg-6" data-bottom-center="transform: translate3d(0,20px,0);" data-top="transform: translate3d(0,-20px,0);"><a href="https://nominetcyber.com/protective-dns-solutions/" target="" title="Protective DNS Solutions"><img class="card-image img-fluid" src="https://nominetcyber.com/wp-content/uploads/2020/11/CY11005_Protective-DNS-Solution_1100x650px_OPT7-800x473.png" alt="CY11005_Protective-DNS-Solution_1100x650px_OPT7.png" title="CY11005_Protective DNS Solution_1100x650px_OPT7"></a></div><div class="col-lg-6" data-bottom-center="transform: translate3d(0,0px,0);" data-top="transform: translate3d(0,20px,0);"><div class="card-body"><h5 class="card-title">25 years experience</h5><p class="card-text">Our heritage in the Domain Name System (DNS) has enabled us to develop world-leading Protective DNS solutions, protecting public services globally.</p></div><a href="https://nominetcyber.com/protective-dns-solutions/" target="" title="Protective DNS Solutions" class="btn btn-primary">Find out how</a></div></div></div></div></div></div></section><section class="component-video" id="nominet-cyber-protective-dns"><div class="container component-row pt-3 pb-3 pt-lg-5 pb-lg-5"><h2 class="section-title ">Nominet Cyber Protective DNS</h2><div class="col-lg-10 col-md-10 col-12 mx-auto"><div class="embed-container"><iframe title="Nominet Cyber Protective DNS" src="https://player.vimeo.com/video/639480299?dnt=1&amp;app_id=122963&controls=1&hd=1&autohide=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" frameborder="0"></iframe></div></div></div></section><section class="component-paragraph" id="get-in-touch"><div class="container component-row pt-3 pb-3 pt-lg-0 pb-lg-0"><div class="col-lg-10 col-md-10 col-12 mx-auto body-copy"><h2>Get in touch</h2>
+<p>For more information on our services, please submit your details, or contact us on:</p>
+<p class="mb-0"><strong>UK:</strong> +44 (0)330 236 9471</p>
+<p><strong>Email:</strong> <a href="/cdn-cgi/l/email-protection#fd94939b92bd939290949398899e849f988fd39e9290"><span class="__cf_email__" data-cfemail="e68f888089a688898b8f888392859f848394c885898b">[email&#160;protected]</span></a></p>
+</div></div></section>
+<section class="component-form">
+    <div class="container">
+        <div class="row component-row pt-3 pb-3">
+            <div class="col-lg-10 mx-auto">
+                <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "3922201",
+    formId: "f16b78ff-58e4-46b7-ba43-b28605e87a67"
+  });
+</script>            </div>
+        </div>
+    </div>
+</section>        <div class="first-pattern"></div><div class="second-pattern"></div><div class="third-pattern"></div>        <footer class="footer-wrapper"><div class="container"><div class="row py-5 d-flex align-items-center"><div class="footer-logo col-lg-7 col-md-5 col-sm-12 d-flex"><a href="https://nominet.uk" target="_blank" class="nominet-logo"></a></div><div class="col-lg-5 col-md-7 col-sm-12"><div class="social-icons flex-row d-flex justify-content-end"><a href="https://twitter.com/NominetCyber" target="_blank" title="Nominet on Twitter"><div class="icon-twitter icon-white"></div></a><a href="https://www.youtube.com/user/Nominetnews" target="_blank" title="Nominet on YouTube"><div class="icon-youtube icon-white"></div></a><a href="https://www.facebook.com/nominet" target="_blank" title="Nominet on Facebook"><div class="icon-facebook icon-white"></div></a><a href="https://www.linkedin.com/company/nominet-uk/" target="_blank" title="Nominet on LinkedIn"><div class="icon-linkedin icon-white"></div></a></div></div></div><nav role="navigation"><ul class="footer-menu row"><li class="col-md-3 col-sm-6 col-6"><a href="https://nominetcyber.com/protective-dns-solutions/">Protective DNS Solutions</a>
+<ul class="sub-menu">
+	<li><a href="https://nominetcyber.com/resources/">Resources</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="https://www.nominet.uk/">Our Company</a>
+<ul class="sub-menu">
+	<li><a href="https://www.nominet.uk/about/">About Nominet</a></li>
+	<li><a href="https://www.nominet.uk/careers/">Careers</a></li>
+	<li><a href="https://www.nominet.uk/contact-us/">Contact Us</a></li>
+	<li><a href="https://www.nominet.uk/news/">News</a></li>
+	<li><a href="https://www.nominet.uk/blog/">Company Blog</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="https://www.nominet.uk/uk-domains/policies/">Our Policies</a>
+<ul class="sub-menu">
+	<li><a href="https://nominetcyber.com/security-at-nominet/">Security at Nominet</a></li>
+	<li><a href="https://nominetcyber.com/modern-slavery-statement/">Modern Slavery Statement</a></li>
+</ul>
+</li>
+<li class="col-md-3 col-sm-6 col-6"><a href="https://nominetcyber.com/accessibility/">Accessibility</a>
+<ul class="sub-menu">
+	<li><a href="/sitemap_index.xml">Sitemap</a></li>
+	<li><a href="https://nominetcyber.com/privacy-notice/">Privacy Notice</a></li>
+	<li><a href="https://nominetcyber.com/terms-of-use/">Terms of Use</a></li>
+	<li><a href="https://nominetcyber.com/how-we-use-cookies/">How we use cookies</a></li>
+</ul>
+</li>
+</ul></nav></div><div class="col-12 mt-5 generator py-4"><div class="container"><div class="row"><div class="col-lg-5 col-md-4 col-sm-12 text-left"><small>&copy; Nominet Cyber UK 2024</small></div><div class="col-lg-7 col-md-8 col-sm-12 text-right"><address class="mb-0"><small>Minerva House, Edmund Halley Road, Oxford Science Park, OX4 4DQ, United Kingdom</small></address></div></div></div></div></footer>
+            </div>
+</div>
+</div>
+<!-- /wrapper -->
+
+<div class="alerts">
+    </div>
+
+<div class="back-to-top invisible">
+    <i class='icon-back-to-top icon-chevron-up'></i>
+</div>
+
+<script type="text/javascript" id="scripts-js-extra">
+/* <![CDATA[ */
+var template = {"templateUrl":"https:\/\/nominetcyber.com\/wp-content\/themes\/nominetv2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nominetcyber.com/wp-content/themes/nominetv2/library/js/scripts.js?ver=1703005615" id="scripts-js"></script>
+<script type="text/javascript" id="scripts-js-after">
+/* <![CDATA[ */
+var options_cyber_stats = {
+            useEasing: true, 
+            useGrouping: true, 
+            separator: ",", 
+            decimal: ".", 
+        };
+                    var waypoint = new Waypoint({
+                        element: document.getElementById("cyber_stats"),
+                        handler: function(direction) {
+                            var count_0_cyber_stats = new CountUp("cyber_stats0", 0, 7.20, 2, 2.5, options_cyber_stats);
+                            if (!count_0_cyber_stats.error) {
+                                  count_0_cyber_stats.start();
+                            } else {
+                              console.error(count_0_cyber_stats.error);
+                            };
+                            this.destroy();
+                        },
+                            offset: "80%"
+                        
+                    });
+                    
+                    var waypoint = new Waypoint({
+                        element: document.getElementById("cyber_stats"),
+                        handler: function(direction) {
+                            var count_1_cyber_stats = new CountUp("cyber_stats1", 0, 1200.00, 0, 2.5, options_cyber_stats);
+                            if (!count_1_cyber_stats.error) {
+                                  count_1_cyber_stats.start();
+                            } else {
+                              console.error(count_1_cyber_stats.error);
+                            };
+                            this.destroy();
+                        },
+                            offset: "80%"
+                        
+                    });
+                    
+                    var waypoint = new Waypoint({
+                        element: document.getElementById("cyber_stats"),
+                        handler: function(direction) {
+                            var count_2_cyber_stats = new CountUp("cyber_stats2", 0, 0.81, 2, 2.5, options_cyber_stats);
+                            if (!count_2_cyber_stats.error) {
+                                  count_2_cyber_stats.start();
+                            } else {
+                              console.error(count_2_cyber_stats.error);
+                            };
+                            this.destroy();
+                        },
+                            offset: "80%"
+                        
+                    });
+                    
+/* ]]> */
+</script>
+<script type="text/javascript" id="leadin-script-loader-js-js-extra">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"10.2.23"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.hs-scripts.com/3922201.js?integration=WordPress&amp;ver=10.2.23" id="leadin-script-loader-js-js"></script>
+
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="https://js.hs-scripts.com/3922201.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+<script>
+    _linkedin_partner_id = "354377";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+<script>
+    (function () {
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+    })();
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=354377&fmt=gif"/>
+</noscript>
+
+</body>
+</html>

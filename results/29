@@ -1,0 +1,1060 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+    <meta name="referrer" content="same-origin" />
+    <meta name="google-site-verification" content="JX2qg0GgrMHhWF8zDCmfGbvGYSOhpwjGO_3Xsq3jdYU" />
+    <meta name="msvalidate.01" content="FE328598DDB855D1F27CBB4EAE65A137" />
+
+    
+                
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@allthedomains" />
+    <meta name="twitter:creator" content="@allthedomains" />
+
+            <title>Domains dot uk |   allthe.domains</title>
+    
+    <meta property="og:url"    content="https://allthe.domains/domains/dot/uk?domain=" />
+    <meta property="og:type"   content="website" />
+
+            <meta property="og:title"  content="Domains dot uk" />
+        <meta name="twitter:title" content="Domains dot uk" />
+    
+            <meta property="og:description"  content="Cloud Web Hosting and 808+ domain extensions available, with UK Expert Support" />
+        <meta name="twitter:description" content="Cloud Web Hosting and 808+ domain extensions available, with UK Expert Support" />
+        <meta name="description" content="Cloud Web Hosting and 808+ domain extensions available, with UK Expert Support" />
+    
+            <meta property="og:image"  content="https://blog.allthe.domains/wp-content/uploads/facebook-link-image-allthe.domains.png" />
+        <meta name="twitter:image" content="https://blog.allthe.domains/wp-content/uploads/facebook-link-image-allthe.domains.png" />
+    
+    
+    
+    <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "https://allthe.domains",
+          "name": "allthe.domains",
+          "sameAs": [
+            "https://facebook.com/allthe.domains",
+            "https://twitter.com/allthedomains"
+          ],
+          "logo": "https://allthe.domains/images/banners/logo.png",
+          "contactPoint": [{
+            "@type": "ContactPoint",
+            "telephone": "+44.3302290922",
+            "contactType": "customer service"
+          }],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "10",
+            "bestRating": "10",
+            "worstRating": "0",
+            "ratingCount": "6"
+          }
+        }
+    </script>
+    
+    <!--Favicons-->
+    <link rel="apple-touch-icon" sizes="57x57" href="//allthe.domains/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="//allthe.domains/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="//allthe.domains/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//allthe.domains/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="//allthe.domains/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//allthe.domains/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="//allthe.domains/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//allthe.domains/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="//allthe.domains/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="//allthe.domains/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//allthe.domains/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="//allthe.domains/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//allthe.domains/favicon/favicon-16x16.png">
+    <link rel="manifest" href="//allthe.domains/favicon/manifest.json">
+
+    
+    
+
+    <link rel="preload" href="https://cdn.jsdelivr.net/gh/twbs/bootstrap@3.4.1/dist/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/twbs/bootstrap@3.4.1/dist/css/bootstrap.min.css"></noscript>
+    <link rel="preload" href="https://cdn.jsdelivr.net/gh/twbs/bootstrap@3.4.1/dist/css/bootstrap-theme.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/twbs/bootstrap@3.4.1/dist/css/bootstrap-theme.min.css"></noscript>
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    <link rel="preload" href="//allthe.domains/vendors/fontawesome/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="//allthe.domains/vendors/fontawesome/font-awesome.min.css"></noscript>
+
+    
+
+    <link rel="preload" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"></noscript>
+    <link rel="preload" href="https://use.fontawesome.com/releases/v5.14.0/css/v4-shims.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/v4-shims.css"></noscript>
+
+    
+    
+
+    
+    
+
+    <!--Fonts-->
+    
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Lato:100,300,400%7CRaleway:100,300,400,500,600,700%7COpen+Sans:100,300,400,500,600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,400%7CRaleway:100,300,400,500,600,700%7COpen+Sans:100,300,400,500,600&display=swap"></noscript>
+    <!--Theme Styles-->
+    
+
+    
+
+    
+    <link rel="stylesheet" href="//allthe.domains/css/theme.css?id=912c240d9e29dcab1813e369b057d350">
+
+    <link rel="preload" href="//allthe.domains/css/all.css?id=fb92746364355093c829ef0676c5551d" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="//allthe.domains/css/all.css?id=fb92746364355093c829ef0676c5551d"></noscript>
+    
+
+    
+</head>
+<body>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '331381551274947');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=331381551274947&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!--Loader-->
+<div class="preloader">
+    <div class="dots-loader"></div>
+</div>
+
+<!--Top Header-->
+<section class="row top_header">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <ul class="nav nav-pills pull-left">
+                    <li><a href="tel:03302290922"><i class="fas fa-phone-alt"></i>0330 229 0 922</a></li>
+                    <li><a href="/contact"><i class="far fa-envelope-open"></i>Contact Us!</a></li>
+                    <li><a href="https://fb.me/allthedomains" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/allthedomains" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                    
+                    <li><a href="/blog" target="_blank"><i class="fab fa-wordpress"></i></a></li>
+                </ul>
+            </div>
+
+            <div class="col-sm-6">
+                <ul class="nav nav-pills pull-right">
+                    
+                    <li><a href="https://manage.allthe.domains/clientarea.php">Login</a></li>
+                    <li><a href="https://manage.allthe.domains/register.php">Register</a></li>
+                    <li class="cart-link"><a href="https://manage.allthe.domains/cart.php?a=view">View Cart</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<nav class="navbar navbar-default navbar-static-top fluid_header centered">
+    <div class="container">
+        
+        <div class="navbar-header">
+            <span id="_brand4" itemprop="brand" itemscope itemtype="http://schema.org/Brand">
+            <a class="navbar-brand" href="/">
+                <img src="//allthe.domains/images/banners/logo.png" alt="allthe.domains logo" itemprop="logo" />
+            </a>
+                <span itemprop="name" class="hidden">allthe.domains</span>
+            </span>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main_navigation" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="main_navigation">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/">Home</a></li>
+
+                <li class="dropdown mega-drop">
+                    <a href="/domains" class="dropdown-toggle"  role="button" aria-haspopup="false" aria-expanded="false">domains
+                        <span class="down-badge-color-3 down-badge-color-accent main-badge">Offers</span>
+                    </a>
+                    <ul class="dropdown-menu mega-menu">
+                        <li class="service_list">
+                            <div class="col-sm-3 col-xs-12">
+                                <div class="service-drop">
+                                    <div class="media">
+                                        <h4 class="text-uppercase">Domain Names</h4>
+                                        <div class="media-body">
+                                            <ul class="list-inline">
+                                                <li> <a href="/domains">Buy a Domain Name</a></li>
+                                                <li> <a href="/domains/transfer">Transfer a Domain Name</a></li>
+                                                
+                                                <li> <a href="/domains/price-list">Price List</a></li>
+                                                
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3 col-xs-12">
+                                <div class="service-drop">
+                                    <div class="media">
+                                        <h4 class="text-uppercase">Domain Extras</h4>
+                                        <div class="media-body">
+                                            <ul class="list-inline">
+                                                
+                                                
+                                                
+                                                <li> <a href="/domains/whois-privacy-protection">WHOIS Privacy Protection</a></li>
+                                                <li> <a href="/whois">WHOIS Lookup</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3 col-xs-12 hidden-xs">
+                                <div class="start_offer">
+                                    <div class="inner bg-dark relative">
+                                        <div class="ribbon ribbon-small text-white">
+                                            <div class="ribbon-content bg-accent text-uppercase">Offer</div>
+                                        </div>
+
+                                        <h2 class="offer-title"><img src="//allthe.domains/images/banners/xyz-logo.png" alt=".xyz domain names" /></h2>
+
+                                        <h2 class="offered_price"><small>&pound;</small>2<small>.99</small> <small>(1st Year)</small></h2>
+                                        <h5 class="regular_price text-line-through"><small>&pound;</small>11.99/year</h5>
+                                        <a href="/domains" class="btn btn-white-border">Buy Now!</a>
+                                        <p class="offer-valid m-bottom0"><small>Offer Valid : 31st December 2020</small></p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3 col-xs-12 hidden-xs">
+                                <div class="start_offer">
+                                    <div class="inner bg-primary relative">
+
+                                        <div class="ribbon ribbon-small">
+                                            <div class="ribbon-content bg-accent text-uppercase">Save &pound;10!</div>
+                                        </div>
+
+                                        <h2 class="offer-title"><img src="//allthe.domains/images/banners/me-logo.png" alt=".me domain names" /></h2>
+                                        <h2 class="offered_price"><small>&pound;</small>7<small>.49</small> <small>(1st Year)</small></h2>
+                                        <h5 class="regular_price text-line-through"><small>&pound;</small>14.99/year</h5>
+                                        <a href="/domains" class="btn btn-white-border">Buy Now!</a>
+                                        <p class="offer-valid m-bottom0"><small>Offer Valid : 31st December 2020</small></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="/domains/whois-privacy-protection">WHOIS Privacy Protection
+                        <span class="down-badge-color-3 down-badge-color-accent main-badge">FREE!</span>
+                    </a>
+                </li>
+            
+                <li class="dropdown mega-drop">
+                    <a href="/web-hosting" class="dropdown-toggle"  role="button" aria-haspopup="false" aria-expanded="false">Web Hosting</a>
+                    <ul class="dropdown-menu mega-menu">
+                        <li class="service_list">
+
+                            <div class="col-sm-3 col-xs-12">
+                                <div class="service-drop">
+                                    <div class="media">
+                                        <h4 class="text-uppercase">Web Hosting</h4>
+                                        <div class="media-body">
+                                            <ul class="list-inline">
+                                                <li> <a href="/web-hosting/managed-wordpress">Managed WordPress Hosting</a></li>
+                                                <li> <a href="/web-hosting">Cloud Web Hosting</a></li>
+                                                
+                                                
+                                                <li> <a href="/move-to-allthedomains">Move to allthe.domains</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-sm-3 col-xs-12">
+                                <div class="service-drop">
+                                    <div class="media">
+                                        <h4 class="text-uppercase">Security</h4>
+                                        <div class="media-body">
+                                            <ul class="list-inline">
+                                                <li> <a href="/security/ssl-certificates">SSL Certificates</a></li>
+                                                <li> <a href="/security/ssl-certificates/price-list">SSL Price List</a></li>
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-sm-6 col-xs-12 hidden-xs">
+                                <div class="start_offer">
+                                    <div class="inner bg-dark relative">
+
+                                        <div class="ribbon ribbon-small">
+                                            <div class="ribbon-content bg-accent text-uppercase">50% off</div>
+                                        </div>
+
+                                        <h2 class="offer-title">Managed WordPress</h2>
+                                        <h2 class="offered_price"><small>From &pound;</small>4.99 / month</h2>
+                                        <h5 class="regular_price text-line-through"><small>&pound;</small>9.99/year</h5>
+                                        <a href="/web-hosting/managed-wordpress" class="btn btn-white-border">Buy Now</a>
+                                        <p class="offer-valid">Offer Valid: 31st March 2021.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                
+                <!--
+                <li>
+                    <a href="/web-hosting/managed-wordpress">Managed WordPress
+                        <span class="down-badge-color-3 down-badge-color-accent main-badge">50% OFF!</span>
+                    </a>
+                </li>
+                -->
+                <li><a href="/blog">Blog</a></li>
+
+                <li class="dropdown mega-drop">
+                    <a href="/support" class="dropdown-toggle"  role="button" aria-haspopup="false" aria-expanded="false">Get Support</a>
+                    <ul class="dropdown-menu mega-menu">
+                        <li class="service_list">
+                            <div class="col-sm-3 col-xs-12">
+                                <div class="service-drop">
+                                    <div class="media">
+                                        <h4 class="text-uppercase">Support Centre</h4>
+                                        <div class="media-body">
+                                            <ul class="list-inline">
+                                                <li> <a href="/support">Support Centre</a></li>
+                                                <li> <a href="/support">Knowledgebase</a></li>
+                                                <li> <a href="https://manage.allthe.domains/submitticket.php">Submit Ticket</a></li>
+                                                <li> <a href="#" onclick="chatbox.open()">Start Live Chat</a></li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3 col-xs-12">
+                                <div class="service-drop">
+                                    <div class="media">
+                                        <h4 class="text-uppercase"> &nbsp; </h4>
+                                        <div class="media-body">
+                                            <ul class="list-inline">
+                                                <li> <a href="https://status.allthe.domains" target="_blank">Service Status</a></li>
+                                                <li> <a href="/report-abuse">Report Abuse</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-sm-6 col-xs-12">
+                                <div class="start_offer">
+                                    <div class="inner bg-dark relative">
+                                        <h2 class="offer-title"><i class="far fa-comments"></i> Live Chat</h2>
+                                        <p>Get help and support from our experts in real-time, just click below to get chatting - we're ready to help.</p>
+
+                                        <a href="#" class="btn btn-white-border ifchatavailable" onclick="chatbox.open();">Chat to our UK experts!</a>
+                                        <a href="https://manage.allthe.domains/submitticket.php?step=2&deptid=4" class="btn btn-white-border ifchatoffline">Chat to our UK experts!</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="https://manage.allthe.domains/cart.php?a=view">
+                        <i class="fas fa-shopping-cart"></i> Cart <span class="badge carttotalitems"></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+    
+    <section class="row find_domain find_domain3 banner-domain-search" style="background-image: url('https://allthe.domains/storage/extensions/August2020/dXKb0ZmZDm5yxlPDsOVl.jpg'); background-size: cover; background-position: 50% 50%;">
+    <div class="row m0 find_domain_cover overly">
+        <div class="container overly-content">
+            <div class="col-lg-9">
+                <div class="row">
+                    <h2 class="hidden-xs">Shorter, Sharper,  .UK </h2>
+                    <h2 class="hidden-sm hidden-md hidden-lg hidden-xlg p-top0">Shorter, Sharper,  .UK </h2>
+
+                    <h4 class="text-white hidden-sm hidden-xs">Register your .UK domain for just £5.99/year</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 img_part hidden-xs hidden-sm hidden-md">
+                <img src="https://allthe.domains/storage/extensions/August2020/EGPbczS7XiBLjEJ8jm0h.png" style="margin: 0; margin-top: 50px; padding: 0; width: 100%; max-width: 230px;" />
+            </div>
+        </div>
+    </div>
+
+    <div class="container doamin_search_container">
+        <form action="https://manage.allthe.domains/mydomainchecker.php" method="get" class="row domain_search">
+            <input type="hidden" name="_token" value="8uKUxMPAdxSfLhDAoRMrsvPyVBTZK35ZIMCIFnQG">            <div class="input-group">
+                <input type="hidden" name="cat" value="16" />
+                <input type="hidden" name="ip" value="1" />
+                <input type="hidden" name="lang" value="en" />
+                <input type="hidden" name="showtaken" value="1" />
+                <input type="search" class="form-control" value=""
+                       placeholder="Secure your new .uk domain name now!" name="search"
+                       style="padding: 12px 20px 12px 40px; background-image: url('/images/searchicon.png'); background-position: 10px 12px; background-repeat: no-repeat;">
+                <span class="input-group-addon">
+                    <input type="submit" value="search" class="">
+                </span>
+            </div>
+        </form>
+    </div>
+
+    
+</section>
+
+    <section class="row service_tabs_list">
+    <div class="row m0 service_tab service_tab1 section-spacing  bg-white ">
+        <div class="container">
+            <div class="row sub-banner">
+
+                                <div class="sectionTitle">
+                    <h2>.UK is the official domain for the United Kingdom</h2>
+                                    </div>
+                
+                <div class="col-md-9 col-sm-12 content" style="margin-top: -15px;">
+                    <p>.UK is the new short & sweet domain extension for the United Kingdom, a great choice to instantly show your British credentials, particularly for anybody based in the UK or looking to target British customers online.</p>            
+<p>The .UK namespace is one of the oldest country code extensions, <strong>operating for over 30 years</strong> with an impressive 98% of people aware of .UK domain names and <strong>89% of UK consumers trust a .UK domain name as much or more than any other domain!</strong></p>
+<p>Over 3 million UK businesses and millions more charities, bloggers, groups and individuals trust .UK as the place to be for their online identity - <strong>why not secure your perfect .UK now?</strong></p>
+<p>
+                </div>
+                <div class="col-md-3 img_part hidden-xs">
+                                                            <img src="https://allthe.domains/storage/extensions/August2020/EGPbczS7XiBLjEJ8jm0h.png" style="margin: 0; padding: 0; width: 100%"  />
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="row why_choose bg-gray section-spacing">
+    <div class="container">
+        
+        <div class="row">
+
+<div class="table-style table-center">
+    <table class="table-list thinTable">
+        <tbody>
+        <tr>
+            <th>Period</th>
+            <th>1 Year</th>
+            <th>2 Years</th>
+            <th>3 Years</th>
+            <th>5 Years</th>
+            <th>10 Years</th>
+        </tr>
+
+                                        <tr>
+                <td>Register</td>
+                
+                                            <td> &pound;5.99  </td>
+                                    
+                                            <td> &pound;11.98  </td>
+                                    
+                                            <td> &pound;17.97  </td>
+                                    
+                                    
+                                            <td> &pound;29.95  </td>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                            <td> &pound;59.90  </td>
+                                                </tr>
+                                            <tr>
+                <td>Renew</td>
+                
+                                            <td> &pound;5.99  </td>
+                                    
+                                            <td> &pound;11.98  </td>
+                                    
+                                            <td> &pound;17.97  </td>
+                                    
+                                    
+                                            <td> &pound;29.95  </td>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                            <td>-  </td>
+                                                </tr>
+                                            <tr>
+                <td>Transfer</td>
+                
+                                            <td> FREE  </td>
+                                    
+                                            <td>-  </td>
+                                    
+                                            <td>-  </td>
+                                    
+                                    
+                                            <td>-  </td>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                            <td>-  </td>
+                                                </tr>
+                    
+        </tbody>
+    </table>
+    <i>Prices exclude VAT where applicable.</i>
+</div>
+
+        </div>
+    </div>
+</section>
+    <section class="row bg-dark">
+    <div class="container" style=" padding-top: 15px; padding-bottom: 15px; text-align: center" >
+        <div class="row">
+            <div class=" col-lg-7 col-xs-12" style="vertical-align: middle; text-align: center; float: left; margin-top: 10px;">
+                <h2 style="font-weight: normal">Get help and advice about all things domains.</h2>
+            </div>
+            <div class=" col-lg-5 col-xs-12" style="float: right; ">
+                
+                                    <button class="btn btn-xlg btn-primary ifchatavailable" onclick="chatbox.open();"><i class="far fa-comments"></i> Chat to our UK experts!</button>
+                    <a href="https://manage.allthe.domains/submitticket.php?step=2&deptid=4" class="btn btn-xlg btn-primary ifchatoffline"><i class="far fa-comments"></i> Chat to our UK experts!</a>
+                            </div>
+        </div>
+    </div>
+</section>
+            <section class="row service_tabs_list">
+    <div class="row m0 service_tab service_tab1 section-spacing  bg-gray ">
+        <div class="container">
+            <div class="row sub-banner">
+
+                
+                <div class="col-md-12 col-sm-12 img_part" style="text-align: center">
+                    <iframe width="784" height="441" src="https://www.youtube-nocookie.com/embed/_nRZjZO9gk4" style="border: 0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>    
+    <section class="row service_tabs_list">
+    <div class="row m0 service_tab service_tab1 section-spacing  bg-white ">
+        <div class="container">
+            <div class="row sub-banner">
+
+                                <div class="sectionTitle">
+                    <h2>Your .uk is in safe hands with the UK experts!</h2>
+                                    </div>
+                
+                <div class="col-md-9 col-sm-12 content" style="margin-top: -15px;">
+                    <p>
+                We have over a decade of experience managing .UK domains, we're also a <strong>Nominet Accredited Registrar</strong>, which means we meet or exceed the strict criteria set out by Nominet for Accredited Channel Partners. This includes regular audits by Nominet into our domain name business practices and ensuring we exceed minimum levels of business insurance, support, data quality, and domain management practices.
+            </p>
+                </div>
+                <div class="col-md-3 img_part hidden-xs">
+                                                            <img src="/images/banners/nominet_172x60.png" style="margin: 0; padding: 0; width: 100%"  />
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <div class="content_row  whats_under_tabs row m0 section-spacing bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="sectionTitle text-left">
+                        <h3 class="m-bottom15">Why choose .UK?</h3>
+                    </div>
+                    <ul class="list4">
+                                                    <li><i class="fa fa-check"></i> Shorter, Sharper, Simply British</li>
+                                                    <li><i class="fa fa-check"></i> Curate your reputation and protect your brand</li>
+                                                    <li><i class="fa fa-check"></i> Put the focus on your brand, not the domain extension</li>
+                                                    <li><i class="fa fa-check"></i> 91% of consumers trust businesses with a professional email address</li>
+                                                    <li><i class="fa fa-check"></i> Trusted, reliable .UK namespace since 1985</li>
+                                            </ul>
+                </div>
+                <div class="col-sm-6 img_part">
+                    <div class="sectionTitle text-left">
+                        <h3 class="m-bottom15">Choose us for your domain</h3>
+                    </div>
+                    <ul class="list4">
+                        <li><i class="fas fa-check"></i> UK experts who love all things domains!</li>
+                        <li><i class="fas fa-check"></i> Competitive and transparent pricing</li>
+                        <li><i class="fas fa-check"></i> FREE Email Mailbox</li>
+                        <li><i class="fas fa-check"></i> FREE full DNS Management</li>
+                        <li><i class="fas fa-check"></i> FREE WHOIS Privacy Protection</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+            <section class="row contentRowPad columns section-spacing bg-gray">
+    <div class="container">
+
+        <div class="row column_row">
+                        <div class="col-sm-3">
+                <h4>Maybe something else?</h4>
+                <p></p>
+                <a href="/domains/price-list" class="btn btn-primary">View all Domain Pricing</a>
+            </div>
+            <div class="col-sm-9">
+                                                    <a href="/domains/dot/co.uk">
+                        <div class="col-md-4 ext-promo-box">
+                            <div class="bg-white col-xs-12">
+                                <div class="col-xs-4 p0">
+                                    <div class="imgContainer">
+                                        <img src="//allthe.domains/storage/extensions/August2020/gML2cB6iCZjpIsPInKmG.png" alt=".CO.UK" />
+                                    </div>
+                                </div>
+                                <div class="col-xs-8 p0">
+                                                                        <span>Just £5.99/year</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="/domains/dot/london">
+                        <div class="col-md-4 ext-promo-box">
+                            <div class="bg-white col-xs-12">
+                                <div class="col-xs-4 p0">
+                                    <div class="imgContainer">
+                                        <img src="//allthe.domains/storage/extensions/August2020/b89hXAtULclnPA49KFLP.png" alt=".LONDON" />
+                                    </div>
+                                </div>
+                                <div class="col-xs-8 p0">
+                                                                        <span>Just £32.99/year</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="/domains/dot/wales">
+                        <div class="col-md-4 ext-promo-box">
+                            <div class="bg-white col-xs-12">
+                                <div class="col-xs-4 p0">
+                                    <div class="imgContainer">
+                                        <img src="//allthe.domains/storage/extensions/August2020/Kq6InLtyft9gNFPYH36C.png" alt=".WALES" />
+                                    </div>
+                                </div>
+                                <div class="col-xs-8 p0">
+                                                                        <span>Just £14.99/year</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="/domains/dot/cymru">
+                        <div class="col-md-4 ext-promo-box">
+                            <div class="bg-white col-xs-12">
+                                <div class="col-xs-4 p0">
+                                    <div class="imgContainer">
+                                        <img src="//allthe.domains/storage/extensions/August2020/QyBQT5C9Q3RMRbQZ6Z0Y.png" alt=".CYMRU" />
+                                    </div>
+                                </div>
+                                <div class="col-xs-8 p0">
+                                                                        <span>Just £14.99/year</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="/domains/dot/me.uk">
+                        <div class="col-md-4 ext-promo-box">
+                            <div class="bg-white col-xs-12">
+                                <div class="col-xs-4 p0">
+                                    <div class="imgContainer">
+                                        <img src="//allthe.domains/storage/extensions/August2020/zeYzoukdMJGJMjza3lE5.png" alt=".ME.UK" />
+                                    </div>
+                                </div>
+                                <div class="col-xs-8 p0">
+                                                                        <span>Just £5.99/year</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="/domains/dot/org.uk">
+                        <div class="col-md-4 ext-promo-box">
+                            <div class="bg-white col-xs-12">
+                                <div class="col-xs-4 p0">
+                                    <div class="imgContainer">
+                                        <img src="//allthe.domains/storage/extensions/August2020/rbHOIK6PaplqU3roZhyf.png" alt=".ORG.UK" />
+                                    </div>
+                                </div>
+                                <div class="col-xs-8 p0">
+                                                                        <span>Just £5.99/year</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                
+            </div>
+        </div>
+    </div>
+</section>        
+    <section class="row bg-dark">
+    <div class="container" style=" padding-top: 15px; padding-bottom: 15px; text-align: center" >
+        <div class="row">
+            <div class=" col-lg-7 col-xs-12" style="vertical-align: middle; text-align: center; float: left; margin-top: 10px;">
+                <h2 style="font-weight: normal">Let’s make your idea a reality.</h2>
+            </div>
+            <div class=" col-lg-5 col-xs-12" style="float: right; ">
+                
+                                    <button class="btn btn-xlg btn-primary ifchatavailable" onclick="chatbox.open();"><i class="far fa-comments"></i> Chat to our UK experts!</button>
+                    <a href="https://manage.allthe.domains/submitticket.php?step=2&deptid=4" class="btn btn-xlg btn-primary ifchatoffline"><i class="far fa-comments"></i> Chat to our UK experts!</a>
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+    <!--Why Section -->
+<section class="row why_choose bg-gray section-spacing">
+    <div class="container">
+        <div class="row sectionTitle p-bottom40">
+            <h2>Why you should choose allthe.domains for your domain name!</h2>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 cause2choose">
+                <div class="media bg-white relative">
+
+                    <div class="media-left">
+                        <i class="far fa-life-ring fa-4x"></i>
+                    </div>
+                    <div class="media-body">
+                        <h4>UK Domain Experts</h4>
+                        <p>We live and breathe domain names and are here to help not only with technical issues but also how to <strong>make the most of your new domain name</strong>, no matter which of our 863 domain extensions you pick!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 cause2choose">
+                <div class="media bg-white relative">
+
+                    <div class="media-left">
+                        <i class="fas fa-ban fa-4x"></i>
+                    </div>
+                    <div class="media-body">
+                        <h4>No Hidden Fees</h4>
+                        <p>Our transparent pricing includes all fees and costs associated with your domain so you know exactly where you’re at. We keep an eye on the competition to make sure <strong>we always give you a great deal.</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 cause2choose">
+                <div class="media bg-white relative">
+
+                    <div class="media-left">
+                        <i class="fas fa-user-shield fa-4x"></i>
+                    </div>
+                    <div class="media-body">
+                        <h4>FREE WHOIS Privacy</h4>
+                        <p><strong>Protect your personal data</strong> from spammers and marketers with our FREE WHOIS Privacy Protection service! Simply select it during the checkout process or tick the box in your client area. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 cause2choose">
+                <div class="media bg-white">
+                    <div class="media-left">
+                        <i class="far fa-envelope fa-4x"></i>
+                    </div>
+                    <div class="media-body">
+                        <h4>FREE Email Mailbox</h4>
+                        <p>
+                            All of our domain names come with 1 FREE mailbox plus unlimited email forwarding for you to use with an existing email account, such as Gmail and Hotmail. <strong>Take full control of your online identity.</strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 cause2choose">
+                <div class="media bg-white">
+                    <div class="media-left">
+                        <i class="fas fa-wrench fa-4x"></i>
+                    </div>
+                    <div class="media-body">
+                        <h4>Easy Setup & Bulk Tools</h4>
+                        <p>Easily manage your domains portfolio with our <strong>extensive range of bulk tools available</strong> in your client area. This is a great asset for managing and updating your domain names. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 cause2choose">
+                <div class="media bg-white">
+                    <div class="media-left">
+                        <i class="fas fa-map-signs fa-4x"></i>
+                    </div>
+                    <div class="media-body">
+                        <h4>FREE DNS Management</h4>
+                        <p>All of our domain names automatically come with FREE advanced DNS management so you are able to <strong>intuitively manage your DNS</strong> and point your domain to your website or email.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <!--Sub Banner-->
+<section class="row sub-banner sub-banner1">
+    <div class="row m0 sub-banner_cover overly" style="background-image: url('//allthe.domains/images/banners/clouds-fashion-free-103123.jpg'); background-size: cover; background-position: 50% 30%;">
+        <div class="container overly-content">
+
+            <div class="row" style="text-align: left; text-align: center;">
+                <div class="col-sm-12">
+                    <h1 class="hero-title hidden-xs">Moving to allthe.domains is easy!</h1>
+                    <h4 class="text-white">Our UK experts will do all the hard work to settle you in quickly</h4>
+
+                    <div class="" style="margin-top: -15px;">
+                        <br />
+                        <br />
+                        <a href="/domains/transfer" class="btn btn-primary btn-xlg">Transfer your domains</a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="row bg-dark">
+    <div class="container" style=" padding-top: 15px; padding-bottom: 15px; text-align: center" >
+        <div class="row">
+            <div class=" col-lg-7 col-xs-12" style="vertical-align: middle; text-align: center; float: left; margin-top: 10px;">
+                <h2 style="font-weight: normal">Unsure which domain to choose? Let&#039;s Chat.</h2>
+            </div>
+            <div class=" col-lg-5 col-xs-12" style="float: right; ">
+                
+                                    <button class="btn btn-xlg btn-primary ifchatavailable" onclick="chatbox.open();"><i class="far fa-comments"></i> Chat to our UK experts!</button>
+                    <a href="https://manage.allthe.domains/submitticket.php?step=2&deptid=4" class="btn btn-xlg btn-primary ifchatoffline"><i class="far fa-comments"></i> Chat to our UK experts!</a>
+                            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+    
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="footer-main">
+        <div class="container">
+            <div class="col-sm-4 col-xs-12">
+                <h4>Domains</h4>
+                <ul>
+                    <li><a href="/domains">Buy a Domain</a></li>
+                    <li><a href="/domains/transfer">Transfer a Domain</a></li>
+                    <li><a href="/domains/price-list">Domain Price List</a></li>
+                    <li><a href="/domains/whois-privacy-protection">WHOIS Privacy Protection</a></li>
+                    
+                    <li><a href="/security/ssl-certificates">SSL Certificates</a></li>
+                    <li><a href="/whois">WHOIS Lookup</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-sm-4 col-xs-12">
+                <h4>allthe.domains</h4>
+                <ul>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/blog">Read our Blog</a></li>
+                    <li><a href="/newsletter">Sign up to our Newsletter</a></li>
+                    <li><a href="/discount-codes">Promo Codes</a></li>
+                    <li><a href="/terms/stats">Statistics Sources</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3 col-xs-12">
+                <h4>Need help?</h4>
+                <ul>
+                    <li><a href="https://manage.allthe.domains/clientarea.php">Client Area</a></li>
+                    <li><a href="/support">Support Centre</a></li>
+                    <li><a href="/support">Knowledgebase</a></li>
+                    <li><a href="https://status.allthe.domains" target="_blank">Service Status</a></li>
+                    <li><a href="/report-abuse">Report Abuse</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-1 col-xs-12">
+                <ul class="list-inline payment-icons">
+                    <li><i class="fab fa-cc-mastercard fa-3x"></i></li>
+                    <li><i class="fab fa-cc-visa fa-3x"></i></li>
+                    <li><i class="fab fa-cc-amex fa-3x"></i></li>
+                    <li><i class="fab fa-cc-paypal fa-3x"></i></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="top_footer">
+
+        <div class="container quick_contact">
+            <div class="col-lg-12">
+                <ul class="nav nav-pills">
+                    <li><a href="tel:03302290922"><i class="fas fa-phone-alt"></i>0330 229 0 922</a></li>
+                    <li style="width: 16%;">
+                        <a href="https://fb.me/AllTheDomains" target="_blank"><i class="fab fa-facebook"></i><span class="hidden-xs hidden-sm"> Like us</span></a>
+                    </li>
+                    <li style="width: 16%;">
+                        <a href="https://twitter.com/AllTheDomains"><i class="fab fa-twitter"></i><span class="hidden-xs hidden-sm"> Follow us</span></a>
+                    </li>
+                    <li><a onclick="chatbox.open();" href="#"><i class="far fa-comment"></i> Chat to our UK experts</a></li>
+                </ul>
+            </div>
+        </div>
+
+        
+        <div class="container">
+            <div class="col-sm-12">
+                <ul class="list-inline footer-links">
+                    <!--<li><a href="/terms/45-day-money-back-guarantee">45-day Money Back Guarantee</a></li>-->
+                    <li><a href="/terms/general">Terms & Conditions</a></li>
+                    <li><a href="/terms/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="/terms/cookie-policy">Cookie Policy</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row margin10 text-center footer_logos">
+            <img src="//allthe.domains/images/banners/nominet_172x60.png" class="white_out_img" alt="allthe.domains is a Nominet Accredited Registrar" loading="lazy">
+            <img src="//allthe.domains/images/banners/acc_reg_cnic.png" alt="allthe.domains is a CentralNic Accredited Registrar" loading="lazy">
+        </div>
+        <div class="copyright_line" style="color: #939393">
+            <div class="container">
+                <div class="col-sm-12">
+                    All prices are shown excluding VAT. UK VAT charged at 20%. EU customers will be charged at the UK VAT rate unless you have a VAT number. If you're anywhere else you won't pay any VAT.
+                    <br />
+                    Copyright &copy; 2024 Domain Registrar Services Ltd t/a <strong>allthe.domains</strong>. All Rights Reserved. | Company No. 08233068 | VAT No. GB300554646
+                </div>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+<!-- Back to Top-->
+<a href="#top" id="back-to-top"><i class="fas fa-angle-up"></i></a>
+
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/twbs/bootstrap@3.4.1/dist/js/bootstrap.min.js"></script>
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/gh/imakewebthings/waypoints@2.0.5/waypoints.min.js" defer></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/bfintal/Counter-Up@1.0.0/jquery.counterup.min.js" defer></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@3.0.6/dist/isotope.pkgd.min.js" defer></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/metafizzy/infinite-scroll@3.0.5/dist/infinite-scroll.pkgd.min.js" defer></script>
+
+
+<script src="//allthe.domains/js/all.js?id=d1ba6288a829be5586d7b50d5be4fa4e"></script>
+
+
+<!-- Cookie Consent by https://TermsFeed.com -->
+<script src="//www.termsfeed.com/public/cookie-consent/2.0.0/cookie-consent.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+    //$( document ).ready(function() {
+        cookieconsent.run({
+            "notice_banner_type": "simple",
+            "consent_type": "express",
+            "palette": "dark",
+            "website_name": "allthe.domains",
+            "cookies_policy_url": "https://allthe.domains/terms/cookie-policy",
+            "privacy_policy_url": "https://allthe.domains/terms/privacy-policy",
+            "change_settings_element": "#changePreferences"
+        });
+    });
+</script>
+<!-- End Cookie Consent -->
+
+
+<script type='text/plain' cookie-consent="tracking" data-cfasync='false' >window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '0f28d3f0-0a44-409b-bcda-c3e8fa50b4b4', f: true }); done = true; } }; })();</script>
+<script type="text/plain" cookie-consent="tracking">
+    purechatApi.on('chatbox:ready', function () {
+
+        var available = purechatApi.get('chatbox.available');
+
+        if (available) {
+            console.log('set chat to available');
+            $('.ifchatavailable').show();
+            $('.ifchatoffline').hide();
+        } else {
+            console.log('set chat to unavailable');
+            $('.ifchatavailable').hide();
+            $('.ifchatoffline').show();
+        }
+
+    });
+
+    var chatbox = {
+        open: function() {
+            purechatApi.set('chatbox.expanded', true);
+        }
+       };
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129691316-1" type="text/plain" cookie-consent="tracking"></script>
+<script type="text/plain" cookie-consent="tracking">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-129691316-1');
+</script>
+
+<script src="https://manage.allthe.domains/custom/user_data.php"></script>
+<script>
+    $('.currencyCode').text(whmcscurrencycode);
+    $('.carttotalitems').text(whmcscarttotalitems);
+</script>
+
+
+
+</body>
+</html>

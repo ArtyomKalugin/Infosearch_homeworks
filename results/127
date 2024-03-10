@@ -1,0 +1,1249 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/themes/df/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/themes/df/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/themes/df/favicon/favicon-16x16.png">
+<link rel="manifest" href="/themes/df/favicon/site.webmanifest">
+<link rel="shortcut icon" href="/themes/df/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#f77f00">
+<meta name="msapplication-config" content="/themes/df/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff"><!-- CSRF Token -->
+<meta name="csrf-token" content="vmKoKGGPcY7HO37oizwyPO3EorwiuFg8E1LjPDlc">
+
+<title>Domain Search - DomainsFoundry</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+      rel="stylesheet">
+
+<!-- Styles -->
+<link href="/themes/df/css/style.css?id=2745fc913e6486110268907151851b42" rel="stylesheet">
+<script>
+    let csrfToken = 'vmKoKGGPcY7HO37oizwyPO3EorwiuFg8E1LjPDlc',
+        markdownGuide = 'Markdown Guide',
+        locale = 'en',
+        saved = 'saved',
+        saving = 'autosaving',
+        dashboardBaseUrl = '/',
+        requiredText = 'Required',
+        recaptchaSiteKey = '';
+    window.showAlerts = 0;
+</script>
+
+<!-- Fonts -->
+<script defer src="/themes/fw/js/fontawesome.js?id=579e2a82cf2f3fb022070fac034925d7"></script>
+
+</head>
+<body
+    class=" theme-df  template-cart loggedout route-cart-index"
+    data-phone-cc-input="1">
+
+<!-- The loading spinner will be displayed here -->
+<div class="pace"></div>
+    <nav data-css-navbar="topbar-cart" class="navbar navbar-expand-sm navbar-light navbar-header navbar-cart">
+        <div class="container d-flex justify-content-between">
+            <a class="navbar-brand d-flex" href="/">
+                <img
+                    src="/themes/df/img/logo.svg?id=781f4f8e96a5c6399764ab96e20d1ede"
+                    class="navbar-brand-img mx-auto mr-auto"
+                    alt="DomainsFoundry">
+            </a>
+            <ul class="nav flex-row">
+                <li class="nav-item">
+                    <a class="nav-link" href="/"><i class="fa-solid fa-house fa-fw"></i> <span
+                            class="d-none d-md-inline-block">Home</span></a>
+                </li>
+                <li class="nav-item d-none d-sm-flex">
+                    <a class="nav-link" href="https://dashboard.domainsfoundry.co.uk/cart">
+                        Services</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://dashboard.domainsfoundry.co.uk/cart?a=view">
+    <i class="fas fa-shopping-cart fa-fw"></i>
+    <small id="cartItemCount">0</small>
+    <span class="sr-only">carttitle</span>
+</a>
+                </li>
+                <li class="nav-item">
+                    <div class="navbar-user ml-auto">
+                        <!-- Authentication Links -->
+            <li class="nav-item">
+            <a class="nav-link" href="https://dashboard.domainsfoundry.co.uk/login">Log in</a>
+        </li>
+    
+                        </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+
+
+
+
+
+
+
+
+
+<div id="main" class="main-content">
+    
+    <div id="app">
+        <main class="py-4">
+            
+                <div class="ukdomain mt-n4 ">
+        <div class="alert alert-danger rounded-0 mb-0 text-center text-uppercase" role="alert">
+            .UK only £6.99 - 20% off - Ends 29th February 2024
+        </div>
+        <div class="pt-4 pt-lg-6 pb-8 hero">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-6">
+
+                        <!-- Title -->
+                        <h1 class="hero-title">
+                            Find Your .UK Domain Name
+                        </h1>
+
+                        <!-- Text -->
+                        <p class="lead text-center">
+                            Leap into February 2024 with 20% off new UK Domains. Now only £6.99 for 1st year. (renews at £9.99)
+                        </p>
+
+                    </div>
+                </div> <!-- / .row -->
+            </div>
+        </div>
+
+        <div class="domain-checker-container sticky-top mt-n8">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-8">
+                        <form class="pt-2 pb-3" data-js-form="frmDomainChecker"  id="frmDomainChecker" method="post" action="https://dashboard.domainsfoundry.co.uk/cart">
+                            <input type="hidden" name="a" value="checkDomain">
+                            <input type="hidden" name="utm_source" value="ukdomain">
+                                                                                    <input type="hidden" name="_token" value="vmKoKGGPcY7HO37oizwyPO3EorwiuFg8E1LjPDlc" autocomplete="off">                            <div class="input-group input-group-lg">
+                                <input type="text" name="domain" class="form-control"
+                                       placeholder="Search for a domain here..." value=""
+                                       id="inputDomain"
+                                       data-toggle="tooltip" data-placement="top" data-trigger="manual"
+                                       title="Enter a domain or keyword"/>
+                                <div class="input-group-btn input-group-append">
+                                    <button type="submit" id="btnCheckAvailability"
+                                            class="btn btn-primary domain-check-availability" dusk="btn-check-availability">
+                                        <i class="fa fa-fw fa-search"></i>
+                                        <span class="d-none d-md-inline-block">Search</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-11 col-xl-10">
+                    <div class="domain-checker-welcome text-center text-purple my-3">
+                        <i class="fa-solid fa-search fa-2xl mb-2"></i>
+                        <h1 class="sr-only">Register Domain</h1>
+                        <p>Find your perfect domain. Enter your name or keywords to check availability.</p>
+                    </div>
+                    <div id="DomainSearchResults" class="d-none">
+    <div id="searchDomainInfo" class="domain-checker-result-headline">
+        <div id="primaryLookupSearching"
+             class="domain-lookup-loader domain-lookup-primary-loader domain-searching">
+            <div class="text-center d-flex flex-column text-muted my-3">
+                <i class="fa-solid fa-circle-notch fa-spin fa-2xl mb-2"></i>
+                <span>Searching</span>
+            </div>
+        </div>
+        <!-- searchDomainInfo -->
+        <div id="primaryLookupResult" class="domain-lookup-result d-none">
+
+            <div class="domain-error domain-checker-unavailable alert alert-danger" role="alert">
+                <div class="d-flex">
+                    <div>
+                        <i class="fa-solid fa-triangle-exclamation mr-2"></i>
+                    </div>
+                    <div class="error-text">
+                        Domains <span>:tld</span> must begin with a letter or a number <span class="domain-length-restrictions">:tld domains must be between :minLength and :maxLength characters in length</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="domain-invalid domain-checker-invalid alert alert-danger" role="alert">
+                <div class="d-flex">
+                    <div>
+                        <i class="fa-solid fa-triangle-exclamation mr-2"></i>
+                    </div>
+                    <div>
+                        Domains <span>:tld</span> must begin with a letter or a number <span class="domain-length-restrictions">:tld domains must be between :minLength and :maxLength characters in length</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="d-none-bak">
+                <a class="domain-contact-support btn btn-primary">Contact Us</a>
+            </div>
+            <div class="domain-unavailable domain-checker-unavailable">
+                <div class="card">
+                    <div class="card-body">
+                        <div>
+                            <span class="badge badge-dark text-uppercase mb-3">Domain Taken</span>
+                        </div>
+                        <h3 class="my-0">
+                            <i class="fa-solid fa-ban mr-2"></i> Sorry, <strong>:domain</strong> is taken                        </h3>
+                    </div>
+                    <div class="card-footer">
+                        Already own this domain? <a
+                            href="https://dashboard.domainsfoundry.co.uk/cart?a=add&amp;domain=transfer"
+                            class="link-transfer-domain">Transfer my domain to DomainsFoundry</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="domain-available domain-checker-available">
+                <div class="card">
+                    <div class="card-header bg-success text-white">
+                        <h4 class="card-header-title exact-match-congrats-container">
+                            <span class="exact-match-congrats-alt1">
+                                <i class="fa-solid fa-check-circle"></i> <strong>Yes your domain is available!</strong><span
+                                    class="d-none d-md-inline"> Register now before it's gone!</span></span>
+                            <span class="exact-match-congrats-alt2 d-none">Congratulations your domain is <strong>available</strong>!</span>
+                        </h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="row justify-content-center align-items-center">
+                            <div class="col">
+                                <div class="mb-2">
+                                    <span class="exact-match-premium-domain badge badge-info text-white text-uppercase mb-2 mr-2 d-none"><i class="fas fa-crown"></i> Premium
+                                        Domain</span>
+
+                                    <div class="exact-match-domain text-nowrap d-flex align-items-center">
+                                        <div class="d-lg-none">
+                                            <span><span class="h2 exact-match-sld"></span><span
+                                                    class="h2 exact-match-tld text-success"></span></span>
+                                        </div>
+                                        <div class="d-none d-lg-block d-xl-none">
+                                            <span><span class="display-4 exact-match-sld"></span><span
+                                                    class="display-4 exact-match-tld text-success"></span></span>
+                                        </div>
+                                        <div class="d-none d-xl-block">
+                                            <span><span class="display-3 exact-match-sld"></span><span
+                                                    class="display-3 exact-match-tld text-success"></span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="domain-price">
+                                    <div class="mb-3 d-flex align-items-center">
+                                        <small class="exact-match-group-badge badge badge-danger text-uppercase mr-2 d-none">Offer</small>
+
+                                        <div class="d-flex align-items-baseline flex-wrap flex-row price-standard">
+                                            <div><span class="price h2"></span>/yr</div>
+                                        </div>
+
+                                        <div class="d-flex align-items-baseline flex-wrap flex-row price-first-year">
+                                            <div><span class="price h2"></span></div>
+                                            <div class="text-muted ml-2">for first year</div>
+                                            <div class="text-muted ml-2 small">
+                                                <span class="price-renew"></span> when you renew
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="exact-match-premium-domain text-muted mt-n1 mb-0 d-none small">
+                                         <p>This domain is a premium domain. Our domain registry partner sets the price.</p>
+                                    </div>
+                                    <div>
+                                        <button class="btn btn-primary btn-add-to-cart" data-whois="0"
+                                                data-domain=""
+                                                dusk="btn-add-to-cart"
+                                        data-js-button="add-to-cart">
+                                            <span class="to-add"> Add to basket</span>
+                                            <span class="loading"><i
+                                                    class="fa-solid fa-circle-notch fa-spin"></i> Checking</span>
+                                            <span class="added"><i
+                                                    class="fa-solid fa-check"></i> Continue to cart</span>
+                                            <span class="unavailable">Taken</span>
+                                            <span class="contactus">Contact Sales</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- #searchDomainInfo -->
+
+            <div id="spotlightTlds" class="spotlight-tlds d-none">
+            <div class="spotlight-tlds-container">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-header-title">More endings</h4>
+                    </div>
+                    <div class="list-group list-group-flush">
+                                                    <div class="spotlight-tld-container list-group-item spotlight-tld-container-4"
+                            data-spotlight-tld=".uk">
+                                <div class="row align-items-center spotlight-tld" id="spotlightuk">
+                                    <div class="col-8 col-lg-5">
+                                        <div class="d-flex align-items-center">
+                                            <div
+                                                class="domain-lookup-loader domain-lookup-spotlight-loader text-muted"
+                                                style="overflow: hidden">
+                                                <i class="fa-solid fa-circle-notch fa-spin"></i> Searching...
+                                            </div>
+                                            <div class="domain-lookup-result spotlight-domainName">
+                                                <i class="spotlight-tld-status spotlight-tld-available text-success fa-solid fa-check-circle fa-fw mr-1"></i>
+                                                <i class="spotlight-tld-status spotlight-tld-unavailable fa-solid fa-ban fa-fw mr-1"></i>
+                                                <span
+                                                    class="spotlight-sld">:domain</span><strong
+                                                    class="spotlight-tld">.uk</strong>
+                                            </div>
+                                                                                            <div class="domain-lookup-result spotlight-tld-group-badge spotlight-tld-sale ml-2">
+                                                                                                            <span
+                                                            class="badge badge-danger text-uppercase">sale</span>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <div class="col-4 col-lg-7 text-right">
+                                        <div class="domain-lookup-result">
+                                            <div
+                                                class="d-flex align-items-center justify-content-end">
+                                                <div class="available price mr-3">
+                                                    £6.99
+                                                </div>
+                                                <button type="button"
+                                                        class="btn btn-link unavailable"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-link invalid"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary btn-add-to-cart"
+                                                        data-whois="0" data-domain="">
+                                                                        <span class="to-add"><i
+                                                                                class="fa-solid fa-plus-circle"></i><span
+                                                                                class="d-none d-lg-inline"> Add to basket</span></span>
+                                                    <span class="loading"><i
+                                                            class="fa-solid fa-circle-notch fa-spin"></i><span
+                                                            class="d-none d-lg-inline"> Checking</span></span>
+                                                    <span class="added"><i
+                                                            class="fa-solid fa-check d-none d-lg-inline-block"></i> Continue<span
+                                                            class="d-none d-lg-inline"> to cart</span></span>
+                                                    <span class="unavailable">
+                                                                            Taken                                                                        </span>
+                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary domain-contact-support">
+                                                    Contact Support to Purchase                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div><!-- //.row .spotlight-tld -->
+                            </div><!-- //.spotlight-tld-container -->
+                                                    <div class="spotlight-tld-container list-group-item spotlight-tld-container-4"
+                            data-spotlight-tld=".co.uk">
+                                <div class="row align-items-center spotlight-tld" id="spotlightcouk">
+                                    <div class="col-8 col-lg-5">
+                                        <div class="d-flex align-items-center">
+                                            <div
+                                                class="domain-lookup-loader domain-lookup-spotlight-loader text-muted"
+                                                style="overflow: hidden">
+                                                <i class="fa-solid fa-circle-notch fa-spin"></i> Searching...
+                                            </div>
+                                            <div class="domain-lookup-result spotlight-domainName">
+                                                <i class="spotlight-tld-status spotlight-tld-available text-success fa-solid fa-check-circle fa-fw mr-1"></i>
+                                                <i class="spotlight-tld-status spotlight-tld-unavailable fa-solid fa-ban fa-fw mr-1"></i>
+                                                <span
+                                                    class="spotlight-sld">:domain</span><strong
+                                                    class="spotlight-tld">.co.uk</strong>
+                                            </div>
+                                                                                            <div class="domain-lookup-result spotlight-tld-group-badge spotlight-tld-sale ml-2">
+                                                                                                            <span
+                                                            class="badge badge-danger text-uppercase">sale</span>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <div class="col-4 col-lg-7 text-right">
+                                        <div class="domain-lookup-result">
+                                            <div
+                                                class="d-flex align-items-center justify-content-end">
+                                                <div class="available price mr-3">
+                                                    £6.99
+                                                </div>
+                                                <button type="button"
+                                                        class="btn btn-link unavailable"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-link invalid"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary btn-add-to-cart"
+                                                        data-whois="0" data-domain="">
+                                                                        <span class="to-add"><i
+                                                                                class="fa-solid fa-plus-circle"></i><span
+                                                                                class="d-none d-lg-inline"> Add to basket</span></span>
+                                                    <span class="loading"><i
+                                                            class="fa-solid fa-circle-notch fa-spin"></i><span
+                                                            class="d-none d-lg-inline"> Checking</span></span>
+                                                    <span class="added"><i
+                                                            class="fa-solid fa-check d-none d-lg-inline-block"></i> Continue<span
+                                                            class="d-none d-lg-inline"> to cart</span></span>
+                                                    <span class="unavailable">
+                                                                            Taken                                                                        </span>
+                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary domain-contact-support">
+                                                    Contact Support to Purchase                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div><!-- //.row .spotlight-tld -->
+                            </div><!-- //.spotlight-tld-container -->
+                                                    <div class="spotlight-tld-container list-group-item spotlight-tld-container-4"
+                            data-spotlight-tld=".me.uk">
+                                <div class="row align-items-center spotlight-tld" id="spotlightmeuk">
+                                    <div class="col-8 col-lg-5">
+                                        <div class="d-flex align-items-center">
+                                            <div
+                                                class="domain-lookup-loader domain-lookup-spotlight-loader text-muted"
+                                                style="overflow: hidden">
+                                                <i class="fa-solid fa-circle-notch fa-spin"></i> Searching...
+                                            </div>
+                                            <div class="domain-lookup-result spotlight-domainName">
+                                                <i class="spotlight-tld-status spotlight-tld-available text-success fa-solid fa-check-circle fa-fw mr-1"></i>
+                                                <i class="spotlight-tld-status spotlight-tld-unavailable fa-solid fa-ban fa-fw mr-1"></i>
+                                                <span
+                                                    class="spotlight-sld">:domain</span><strong
+                                                    class="spotlight-tld">.me.uk</strong>
+                                            </div>
+                                                                                            <div class="domain-lookup-result spotlight-tld-group-badge spotlight-tld-sale ml-2">
+                                                                                                            <span
+                                                            class="badge badge-danger text-uppercase">sale</span>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <div class="col-4 col-lg-7 text-right">
+                                        <div class="domain-lookup-result">
+                                            <div
+                                                class="d-flex align-items-center justify-content-end">
+                                                <div class="available price mr-3">
+                                                    £6.99
+                                                </div>
+                                                <button type="button"
+                                                        class="btn btn-link unavailable"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-link invalid"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary btn-add-to-cart"
+                                                        data-whois="0" data-domain="">
+                                                                        <span class="to-add"><i
+                                                                                class="fa-solid fa-plus-circle"></i><span
+                                                                                class="d-none d-lg-inline"> Add to basket</span></span>
+                                                    <span class="loading"><i
+                                                            class="fa-solid fa-circle-notch fa-spin"></i><span
+                                                            class="d-none d-lg-inline"> Checking</span></span>
+                                                    <span class="added"><i
+                                                            class="fa-solid fa-check d-none d-lg-inline-block"></i> Continue<span
+                                                            class="d-none d-lg-inline"> to cart</span></span>
+                                                    <span class="unavailable">
+                                                                            Taken                                                                        </span>
+                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary domain-contact-support">
+                                                    Contact Support to Purchase                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div><!-- //.row .spotlight-tld -->
+                            </div><!-- //.spotlight-tld-container -->
+                                                    <div class="spotlight-tld-container list-group-item spotlight-tld-container-4"
+                            data-spotlight-tld=".org.uk">
+                                <div class="row align-items-center spotlight-tld" id="spotlightorguk">
+                                    <div class="col-8 col-lg-5">
+                                        <div class="d-flex align-items-center">
+                                            <div
+                                                class="domain-lookup-loader domain-lookup-spotlight-loader text-muted"
+                                                style="overflow: hidden">
+                                                <i class="fa-solid fa-circle-notch fa-spin"></i> Searching...
+                                            </div>
+                                            <div class="domain-lookup-result spotlight-domainName">
+                                                <i class="spotlight-tld-status spotlight-tld-available text-success fa-solid fa-check-circle fa-fw mr-1"></i>
+                                                <i class="spotlight-tld-status spotlight-tld-unavailable fa-solid fa-ban fa-fw mr-1"></i>
+                                                <span
+                                                    class="spotlight-sld">:domain</span><strong
+                                                    class="spotlight-tld">.org.uk</strong>
+                                            </div>
+                                                                                            <div class="domain-lookup-result spotlight-tld-group-badge spotlight-tld-sale ml-2">
+                                                                                                            <span
+                                                            class="badge badge-danger text-uppercase">sale</span>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <div class="col-4 col-lg-7 text-right">
+                                        <div class="domain-lookup-result">
+                                            <div
+                                                class="d-flex align-items-center justify-content-end">
+                                                <div class="available price mr-3">
+                                                    £6.99
+                                                </div>
+                                                <button type="button"
+                                                        class="btn btn-link unavailable"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-link invalid"
+                                                        disabled="disabled">
+                                                    Unavailable                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary btn-add-to-cart"
+                                                        data-whois="0" data-domain="">
+                                                                        <span class="to-add"><i
+                                                                                class="fa-solid fa-plus-circle"></i><span
+                                                                                class="d-none d-lg-inline"> Add to basket</span></span>
+                                                    <span class="loading"><i
+                                                            class="fa-solid fa-circle-notch fa-spin"></i><span
+                                                            class="d-none d-lg-inline"> Checking</span></span>
+                                                    <span class="added"><i
+                                                            class="fa-solid fa-check d-none d-lg-inline-block"></i> Continue<span
+                                                            class="d-none d-lg-inline"> to cart</span></span>
+                                                    <span class="unavailable">
+                                                                            Taken                                                                        </span>
+                                                </button>
+                                                <button type="button"
+                                                        class="btn btn-primary domain-contact-support">
+                                                    Contact Support to Purchase                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div><!-- //.row .spotlight-tld -->
+                            </div><!-- //.spotlight-tld-container -->
+                                            </div>
+                </div>
+
+            </div>
+        </div><!-- #spotlightTlds -->
+        </div><!-- #DomainSearchResults-->
+
+
+                    <p class="text-center">
+                        <a class="link-search-all-extension text-muted"
+                           href="https://dashboard.domainsfoundry.co.uk/cart?a=add&amp;domain=register">Search 338
+                            domain extensions <i class="fa-solid fa-chevron-circle-right"></i> </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <section class="section section-domain-benefits py-6">
+            <div class="container">
+                <header>
+                    <h1 class="display-3">Free Domain Extras</h1>
+                    <p class="lead">Get free exclusive extras with every domain purchased at DomainsFoundry</p>
+                </header>
+                <div class="row text-center">
+                    <div class="col-md-6 col-lg">
+                        <div class="card card-fill-md border-5 border-right-0 border-bottom-0 border-left-0 border-success">
+                            <div class="card-body">
+                                    <span class="fa-stack fa-2x mb-3 text-pink">
+                                        <i class="fa-solid fa-circle fa-stack-2x"></i>
+                                        <i class="fa-solid fa-envelope fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                <h4>Free Email Addresses</h4>
+                                <p class="card-text text-muted">
+                                    Forward email to your existing mailboxes.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg">
+                        <div class="card card-fill-md border-5 border-right-0 border-bottom-0 border-left-0 border-success">
+                            <div class="card-body">
+                                            <span class="fa-stack fa-2x mb-3 text-orange">
+                                                <i class="fa-solid fa-circle fa-stack-2x"></i>
+                                                <i class="fa-solid fa-mouse-pointer fa-stack-1x fa-inverse"></i>
+                                            </span>
+                                <h4>Free Web Forwarding</h4>
+                                <p class="card-text text-muted">
+                                    Connect your domain to any website.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg">
+                        <div class="card card-fill-md border-5 border-right-0 border-bottom-0 border-left-0 border-success">
+                            <div class="card-body">
+                                            <span class="fa-stack fa-2x mb-3 text-green">
+                                                <i class="fa-solid fa-circle fa-stack-2x"></i>
+                                                <i class="fa-solid fa-lock fa-stack-1x fa-inverse"></i>
+                                            </span>
+                                <h4>Free SSL Certificate</h4>
+                                <p class="card-text text-muted">Forward your domain using https://</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg">
+                        <div class="card card-fill-md border-5 border-right-0 border-bottom-0 border-left-0 border-success">
+                            <div class="card-body">
+                                <i class="fa-solid fa-circle-question fa-4x fa-fw mb-3 text-purple"></i>
+                                <h4>Free WHOIS Privacy</h4>
+                                <p class="card-text text-muted">Keep your contact details secret.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section-intro py-6">
+    <div class="container">
+        <header class="text-center mb-3">
+            <h1 class="display-3">Find your perfect domain name</h1>
+            <p class="lead">Secure your domain today and save</p>
+        </header>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <ul class="list-group mb-0">
+                    <li class="list-group-item"><i class="fa-solid fa-circle-check text-success mr-3"></i><strong>Buy
+                            your
+                            domain with confidence</strong> we're a UK Nominet Accredited
+                        Registrar.
+                    </li>
+                    <li class="list-group-item"><i class="fa-solid fa-circle-check text-success mr-3"></i><strong>Includes
+                            free
+                            email forwarders like you@domain.uk</strong> plus free domain
+                        forwarding, DNS and <a href="#freebies">more</a>.
+                    </li>
+                    <li class="list-group-item"><i class="fa-solid fa-circle-check text-success mr-3"></i><strong>Low
+                            prices</strong> and great choice of domains.
+                    </li>
+                    <li class="list-group-item"><i class="fa-solid fa-circle-check text-success mr-3"></i><strong>WHOIS
+                            Privacy</strong> included <strong>FREE</strong> with your UK domain.
+                    </li>
+                    <li class="list-group-item"><i class="fa-solid fa-circle-check text-success mr-3"></i><strong>UK Company & UK Support</strong> our UK-based domain experts are here to help you.
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <section id="featured" class="section section-featured-domains py-5 bg-dark">
+    <div class="container">
+        <header class="text-center">
+            <h1 class="display-3 text-white mb-4">Which UK Domain Are You?</h1>
+        </header>
+        <div class="row">
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <i class="badge--couk">.co.uk</i>
+                        <div class="product-blurb">
+                            A short, distinctive domain designed to promote you and your UK business.
+                        </div>
+                        <div class="product-price-wrap" style="margin-bottom: 0">
+                        <span class="product-price"><span class="h1">£6.99</span><span
+                                class="price-term"> 1st year&ast;</span> <del
+                                class="muted text-muted">£9.99/yr</del></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <i class="badge--uk">.uk</i>
+                        <div class="product-blurb">
+                            An established and trusted domain ideal for your UK business and enterprise.
+                        </div>
+                        <div class="product-price-wrap" style="margin-bottom: 0">
+                        <span class="product-price"><span class="h1">£6.99</span><span
+                                class="price-term"> 1st year&ast;</span> <del
+                                class="muted text-muted">£9.99/yr</del></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <i class="badge--orguk">.org.uk</i>
+                        <div class="product-blurb">
+                            Perfect for your charity, community group or not-for-profit organisations.
+                        </div>
+                        <div class="product-price-wrap" style="margin-bottom: 0">
+                        <span class="product-price"><span class="h1">£6.99</span><span
+                                class="price-term"> 1st year&ast;</span>
+                            <del
+                                class="muted text-muted">£9.99/yr</del></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <i class="badge--meuk">.me.uk</i>
+                        <div class="product-blurb">
+                            An exclusive domain ideal your personal blog, CV and personal email address.
+                        </div>
+                        <div class="product-price-wrap" style="margin-bottom: 0">
+                        <span class="product-price"><span class="h1">£6.99</span><span
+                                class="price-term"> 1st year&ast;</span> <del
+                                class="muted text-muted">£9.99/yr</del></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+        <section class="section section-why py-5">
+    <div class="container">
+        <header class="text-center">
+            <h1 class="display-3 mb-4">Why choose DomainsFoundry?</h1>
+        </header>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="card card-fill border-0">
+
+                    <div class="row">
+                        <div class="col-4 col-lg-12">
+                            <div
+                                    class="h-100 d-flex align-items-center bg-orange align-items-center rounded-left rounded-right rounded-right-0 rounded-lg-0">
+                                <img class="card-img-top"
+                                     src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/trust-ecenica.svg"
+                                     alt="Register your domains with confidence">
+                            </div>
+                        </div>
+                        <div class="col-8 col-lg-12">
+                            <div class="card-body">
+                                <h3 class="card-title">Trusted UK Registrar</h3>
+                                <p class="card-text">Register your domains with confidence. Thousands of corporations,
+                                    businesses and individuals have
+                                    trusted DomainsFoundry with their domains since 2004. We're an Accredited Channel
+                                    Partner for
+                                    Nominet - the internet registry for .uk domains, and cPanel Certified Partner. We
+                                    have a reputation for a
+                                    professional, discreet
+                                    and high-quality service. We're a trusted UK Limited Company. UK VAT registered and
+                                    a business who
+                                    support UK business, with servers, and staff in Leeds, London and USA.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card card-fill border-0">
+                    <div class="row">
+                        <div class="col-4 col-lg-12">
+                            <div
+                                    class="h-100 d-flex align-items-center bg-pink align-items-center rounded-left rounded-right rounded-right-0 rounded-lg-0">
+                                <img class="card-img-top"
+                                     src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/amazing-prices-ecenica.svg"
+                                     alt="We offer hundreds of domain extensions at low prices">
+                            </div>
+                        </div>
+                        <div class="col-8 col-lg-12">
+                            <div class="card-body">
+                                <h3 class="card-title">Value for Money</h3>
+                                <p class="card-text">
+                                    We offer hundreds of domain extensions at low prices complete with free
+                                    extras including WHOIS
+                                    privacy, DNS control and unlimited email forwarders. We care about our customers
+                                    privacy and
+                                    security. We use state-of-the-art encryption to protect your data. We won't bombard
+                                    you with
+                                    sales
+                                    calls trying to sell you unwanted upgrades. We'll never sell your details on to
+                                    third-parties and
+                                    all our domains are free from annoying adverts.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card card-fill border-0">
+                    <div class="row">
+                        <div class="col-4 col-lg-12">
+                            <div
+                                    class="h-100 d-flex align-items-center bg-green align-items-center rounded-left rounded-right rounded-right-0 rounded-lg-0">
+                                <img class="card-img-top"
+                                     src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/superior-support-ecenica.svg"
+                                     alt="We understand how important your domains to">
+                            </div>
+                        </div>
+                        <div class="col-8 col-lg-12">
+                            <div class="card-body">
+                                <h3 class="card-title">Customer Support</h3>
+                                <p class="card-text">We understand how important your domains are to you and when you
+                                    contact us
+                                    for help, your query will be answered by our friendly experts who's only care is in
+                                    helping you answer your
+                                    questions. Plus, unlike other domain companies, we won't bombard you with sales
+                                    calls
+                                    pressuring you to buy services you don't want or need.
+                                <p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+        <section class="section section-feedback bg-orange text-center text-white py-6">
+    <div class="container">
+        <blockquote class="blockquote text-center">
+            <p class="mb-2"> The three years have flown by and am delighted with your service and the relative ease that I, a beginner in such things, was able to create the domain. Thank you again.
+            </p>
+            <footer class="blockquote-footer">Kathy <cite title="Source Title">- by Support Ticket </cite></footer>
+        </blockquote>
+    </div>
+</section>
+        <section class="section section-whats-included py-6 bg-purple text-white" id="freebies">
+    <div class="container">
+        <header class="text-center mb-5">
+            <h1 class="display-3 text-white">What's included with my domain?</h1>
+        </header>
+        <div class="row justify-content-center">
+            <div class="col col-lg-8">
+                <ul class="list-unstyled mb-0">
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>FREE Email Forwarding</strong> Create professional email aliases
+                        (like hello@yourdomain.co.uk) to forward email to your existing mailboxes.
+                    </li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>FREE SSL Web Forwarding </strong> tools to redirect your domain to any
+                        website.
+                    </li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>Easy</strong> domain setup. No technical skills required.</li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>FREE</strong> WHOIS Privacy on UK domains. Keep your personal details
+                        hidden.
+                    </li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>Premium DNS Hosting</strong> with free DNS updates.</li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>FREE domain locking</strong> available on select domains. Stops
+                        domain theft.
+                    </li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>Easy to use control panel</strong> control all aspects of your domain
+                        whenever you like.
+                    </li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>No WHOIS editing fees</strong>. Make as many changes as you wish
+                        without any additional fees.
+                    </li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>24/7 Realtime-monitoring</strong> to make sure your domain is online.
+                    </li>
+                    <li><i class="fas fa-check-circle fa-fw mr-2"></i> <strong>FREE Technical Support</strong> - get help from our in-house team of
+                        domain experts.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <style nonce="YWVmOTczNjgzM2EwZDhhOA==">
+    .wrap-app-logo {
+        height: 150px;
+        padding: 0;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+    .wrap-app-logo img {
+        max-width: 50%;
+    }
+</style>
+<section class="section section-connect-domain bg-white text-center py-5">
+    <div class="container">
+        <header class="mb-3">
+            <h1 class="display-3">Easy Domain Setup</h1>
+            <p class="lead">Connecting your DomainsFoundry domain name to your <a href="/web-hosting/">web hosting</a>, <a
+                    href="/email-hosting/">email</a> or app is easy.</p>
+        </header>
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="wrap-app-logo">
+                    <img class="img-fluid" src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/wix.svg" alt="wix.com">
+                </div>
+                <p>Use your DomainsFoundry domain name with Wix. It's easy and quick.</p>
+            </div>
+            <div class="col-lg-3">
+                <div class="wrap-app-logo">
+                    <img class="img-fluid" src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/wordpress.svg"
+                         alt="WordPress">
+                </div>
+                <p>Connect (or forward) your new domain name to your WordPress site.</p>
+            </div>
+            <div class="col-lg-3">
+                <div class="wrap-app-logo">
+                    <img class="img-fluid" src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/shopify.svg"
+                         alt="Shopify">
+                </div>
+                <p>Easily connect your custom domain to your Shopify store.</p>
+            </div>
+            <div class="col-lg-3">
+                <div class="wrap-app-logo">
+                    <img class="img-fluid" src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/squarespace.svg"
+                         alt="SquareSpace">
+                </div>
+                <p>Register a personalised domain and connect to your SquareSpace site</p>
+            </div>
+        </div>
+    </div>
+</section>
+        <section class="section section-domain-faq bg-purple text-white py-5">
+    <div class="container">
+        <header class="mb-3 text-center">
+            <h1 class="display-3">Domain FAQ</h1>
+            <p class="lead">Frequently asked questions for domain names</p>
+        </header>
+        <dl class="ukdomain-faq-list">
+            <dt>Should I register a domain name for my new business idea?</dt>
+            <dd>Yes. To protect your awesome new idea, we recommend registering your domain names before someone else
+                does.
+            </dd>
+
+            <dt>What if I've misspelled my domain name?</dt>
+            <dd>Please check and double check your domain name before clicking checkout. Once you purchase your domain,
+                your order cannot be refunded as domain registration fees are non-refundable.
+            </dd>
+
+            <dt>Can I cancel my domain and get a refund?</dt>
+            <dd>Unfortunately once a domain is registered it can't be cancelled. So please double-check your domain for
+                typos before placing your order.
+
+            <dt>Is there a limit to the number of domain names I can register?</dt>
+            <dd>No. There is no limit to the number of domains you can own at any time.</dd>
+
+            <dt>Can I register a domain name for someone else?</dt>
+            <dd>Yes. You can enter their name as the registered owner when you sign up online.</dd>
+
+            <dt>Is my domain name registered in my name?</dt>
+            <dd>Yes. Your domain will be registered in your name. After registering you can update your domain name
+                ownership details at anytime through our control panel.
+            </dd>
+
+            <dt>Do I own my domain name for life?</dt>
+            <dd>Your new domain name is yours for as long as you choose to renew it. Registering your domain today for
+                up to 10 years means you lock in at today's prices.
+            </dd>
+
+            <dt>What characters are allowed in a domain name?</dt>
+            <dd>Your domain name can use letters (abc), numbers (123), and dashes/hyphens (---). You can't use spaces (
+                ) and your domain name can't start or end with a dash (-).
+            </dd>
+
+            <dt>What do I get with my domain name registration?</dt>
+            <dd>Your domain name registration fee includes the use of your domain name for the registration term, use of
+                DomainsFoundry DNS, control panel, free customer support, email/web forwarding, domain locking
+                and lot's more.
+            </dd>
+
+            <dt>Once my domain name is registered to me, can anyone else take it?</dt>
+            <dd>Your domain name is registered in your name. For as long as you pay all subscription fees, keep your
+                login details safe, and don't break any laws no one will be able to register your domain name or use
+                your domain name without your consent.
+            </dd>
+
+            <dt>How do I keep my registration private?</dt>
+            <dd>Your UK domain includes FREE WHOIS Privacy, keeping all your details including name and address
+                private.
+            </dd>
+
+            <dt>What happens if I don't renew my domain name?</dt>
+            <dd>Your domain name will expire and released back into the market be available to register again.</dd>
+
+            <dt>How will I know when my domain name is up for renewal?</dt>
+            <dd>We'll send you automated renewal reminders before your domain renewal date. You can also login at anytime
+                to your domain control panel and view all the expiry dates for each of your domains.
+            </dd>
+
+            <dt>What is a TLD?</dt>
+            <dd>TLD sounds for Top Level Domain. It is the suffix at the end of the domain name. For example, .co.uk or
+                .com.
+            </dd>
+
+            <dt>How do I register a domain name?</dt>
+            <dd>Just go to our domain checker and start searching for your <strong>perfect</strong> domain.</dd>
+
+            <dt>How long does it take to register a domain name?</dt>
+            <dd>Once your order is approved your domain name will be registered instantly.</dd>
+
+            <dt>How will I know when my domain name has been registered?</dt>
+            <dd>We'll send you an email confirmation once your domain name registration has completed successfully. You
+                can also login to your account and view your domain name details under the domain management control
+                panel.
+            </dd>
+
+            <dt>Are you a Nominet Accredited Channel Partner?</dt>
+            <dd>Yes we are. Being a Nominet Accredited Channel Partner means you have extra security for your domain.
+            </dd>
+
+            <dt>Do you charge VAT?</dt>
+            <dd>Yes, we are a UK company and charge VAT where applicable. If purchasing from outside of the UK or EU we will
+                not charge VAT.
+            </dd>
+
+            <dt>Does the domain include a free email account?</dt>
+            <dd>No. We include free email aliases (email forwarders). Email accounts are available for an additional
+                fee.
+            </dd>
+
+            <dt>Does the domain include free web hosting?</dt>
+            <dd>We do not offer free web hosting with our domains. Free web hosting is usually slow, limited in
+                features, and badly supported. It's not the premium experience our customers tell us they want. Nor is it the type of service we aspire to offer. Instead we focus on high quality web hosting and reinvest any profit back into our business. Improving our services, further
+                benefiting our customers. Of course you can use our free domain tools to connect your domain to a free
+                web host of your choice.
+            </dd>
+            <dt>Can I connect my domain to my existing web host?</dt>
+            <dd>Yes, after purchasing you can connect your domain name to any service worldwide.</dd>
+        </dl>
+    </div>
+</section>
+        <section class="section py-5" id="nominet">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <img class="img-fluid"
+                     src="https://dashboard.domainsfoundry.co.uk/themes/fw/img/cart/ukdomain/uk-logos-nominet-accredited-2017.png"
+                alt="Register .UK domain names">
+            </div>
+        </div>
+    </div>
+</section>
+        <section class="section section-terms py-5" id="terms" >
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <p>
+                    &#8224; Subject to eligibility. If you purchase your
+                    domain using our promotion, and choose to transfer your domain away from DomainsFoundry you will
+                    be required to pay a release fee (also known as IPS TAG change fee) of £4.99 / $4.99. If you renew your
+                    domain with DomainsFoundry you will not be required to pay a release fee. Domains purchased at our regular price are not
+                    subject to a release fee.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+    </div>
+    <style nonce="MDdjN2YzYTNiNTQ2YjQ1ZA==">
+        .domain-checker-container {
+            top: -1px; /* ➜ the trick */
+            padding-top: calc(1em + 1px); /* ➜ compensate for the trick */
+        }
+
+        /* styles for when the domainsearch  is in sticky mode */
+        .domain-checker-container.is-sticky {
+            border-bottom: 1px solid #ddd;
+            background-color: #f9fbfd;
+        }
+    </style>
+    
+        </main>
+    </div>
+
+    <div id="footer" class="site-footer">
+        <hr class="w-50 mb-4">
+        <div class="container-fluid">
+            <div class="row mb-3">
+                <div class="col d-flex justify-content-center align-items-center">
+                    <img src="/themes/fw/img/payment/visa.svg?id=729c05c240c4bdb47b03ac81d9945bfe" class="navbar-brand-img mr-2"
+                         alt="DomainsFoundry" width="48">
+                    <img src="/themes/fw/img/payment/amex.svg?id=df4f429d1f51bffe8cfb50ecedc054af" class="navbar-brand-img mr-2"
+                         alt="DomainsFoundry" width="48">
+                    <img src="/themes/fw/img/payment/mastercard.svg?id=dc64725acec4735a9be53ac2ec596f61" class="navbar-brand-img mr-2"
+                         alt="DomainsFoundry" width="48">
+                    <img src="/themes/fw/img/payment/diners.svg?id=fbcbd3360f8e3f629cdaa80e93abdb8b" class="navbar-brand-img"
+                         alt="DomainsFoundry" width="48">
+                </div>
+            </div>
+
+            <div class="row mb-3 justify-content-center">
+                <div class="col-12">
+                    <div class="text-center mb-3">
+                        <span class="p-2" data-toggle="popover"
+                              data-content="<div class='d-flex'><i class='fa-solid fa-tree-city fa-2x text-success mt-1 mr-3'></i><div>We're a low-carbon company, committed to delivering your service with the minimum carbon footprint.</div></div>"><i
+                                class="fa-solid fa-leaf text-success"></i> eco-friendly web hosting <i
+                                class="fa-solid fa-info-circle text-gray-200"></i></span>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div
+                        class="text-center mb-0 d-flex flex-column flex-md-row justify-content-center align-items-center">
+                        <span class="mb-3 mb-md-0">Dashboard v1.1.3</span><span
+                            class="site-footer-divider mx-1 d-none d-md-inline-block">-</span><span
+                        >Crafted by DomainsFoundry <i
+                                class="fas fa-heart fill-gradient-linear"></i></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-3 justify-content-center">
+                <div class="col-12">
+                    <a class="link-copyright" href="/">Copyright
+                        &copy; 2024 DomainsFoundry</a>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-12">
+                    <div class="d-flex justify-content-center">
+                        <img class="img-fluid img-footer-logo footer-img-nominet"
+                             alt="Nominet Accredited Channel Partner"
+                             src="/themes/fw/img/nominet.svg?id=39f17405025913eca5108cd4051e32fa">
+                        <img class="img-fluid img-footer-logo ml-4 footer-img-cpanel-partner"
+                             alt="cPanel Authorized Partner"
+                             src="/themes/fw/img/cpanel-partner.svg?id=a6fb5330f227d934642d48b6827047c6">
+                    </div>
+                    <div>
+                        We're a Nominet Accredited Channel Partner registrar,<br
+                            class="d-none d-lg-block"> and cPanel Authorized Partner proudly serving clients since 2004.
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- setting gradients for SVGs  -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="svg-settings">
+            <defs>
+                <linearGradient id="linear">
+                    <stop class="linear-stop1" offset="0%"></stop>
+                    <stop class="linear-stop2" offset="100%"></stop>
+                </linearGradient>
+                <radialGradient id="radial">
+                    <stop class="radial-stop1" offset="0%"></stop>
+                    <stop class="radial-stop2" offset="100%"></stop>
+                </radialGradient>
+            </defs>
+        </svg>
+    </div><!--// #footer-->
+
+    <div id="fullpage-overlay" class="d-none">
+        <div class="container">
+            <div class="row align-items-center justify-content-center no-gutters min-vh-100 ">
+                <div class="d-flex flex-column justify-content-center align-items-center">
+                    <i class="fas fa-fw fa-circle-notch fa-spin fa-2x mb-3"></i>
+                    <div class="fullpage-overlay-msg"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal system-modal fade" id="modalAjax" tabindex="-1" role="dialog" aria-labelledby="modalAjaxLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header" id="modalAjaxHeader">
+                    <h4 class="modal-title" id="modalAjaxLabel"></h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="modalAjaxBody"></div>
+                <div class="modal-footer" id="modalAjaxFooter">
+                    <button id="modalAjaxClose" type="button" class="btn btn-secondary"
+                            data-dismiss="modal">Close</button>
+                    <button id="modalAjaxSubmit" type="button" class="btn btn-primary modal-submit"
+                            data-loading="Loading...">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>window.framework = window.framework || {};framework.framework_params = {"i18n_creditCardInput":"Card Number","i18n_creditCardExpiry":"Expiry","i18n_creditCardCvc":"CVC","i18n_creditCardTerms":"You can pay with Visa, Mastercard, American Express, or Diner\u2019s Club. By saving your card details, you authorize DomainsFoundry to save your information for future purchases, subscriptions and renewals.","i18n_newCardInformation":"Add a new debit or credit card","i18n_or":"or","AppName":"DomainsFoundry","Domain":"dashboard.domainsfoundry.co.uk","CompanyName":"DomainsFoundry","Template":"df","i18n_add":"app.add","i18n_supportticketsticketattachments":"Attachments","logout_url":"https:\/\/dashboard.domainsfoundry.co.uk\/logout"};framework.validation_params = {"companyname":"DomainsFoundry","min_password_length":9,"i18n_contacterrorname":"You did not enter your first name","i18n_clientareaerrorlastname":"You did not enter your last name","i18n_clientareaerrorphonenumber":"You did not enter your phone number","i18n_clientareaerroremail":"You did not enter your email address","i18n_emaildoesnotexist":"Can't find that email, sorry.","i18n_emailerrorinvalidemail":"Invalid email address","i18n_loginusernamerequired":"Please enter a username","i18n_ordererroruserexists":"Sorry, a user already exists with that email address. Please <a data-js-checkout=\\\"link-login\\\" href=\\\"javascript:void(0);\\\" data-toggle=\\\"modal\\\" data-target=\\\"#modalExistingUserSignin\\\">login<\/a> to complete your purchase.","i18n_clientareaerroraddress1":"You did not enter your address (line 1)","i18n_clientareaerrorcity":"You did not enter your town\/city","i18n_clientareaerrorstate":"You did not enter your county\/state","i18n_clientareaerrorcounty":"You did not enter a county","i18n_clientareaerrorpostcode":"You did not enter your postcode","i18n_clientareaerrorinvalidpostcode":"Please enter a valid postcode.","i18n_ordererrorpassword":"Enter a password","i18n_clientareaerrorpasswordconfirm":"You did not confirm your password","i18n_clientareaerrorpasswordnotmatch":"Those passwords didn't match. Please try again.","i18n_password_similartousername":"Too similar to username","i18n_password_enterpassword":"Enter a password","i18n_password_tooshort":"Use 9 characters or more for your password","i18n_password_veryweak":"Password is very weak.","i18n_password_weak":"Please choose a stronger password. Try a mix of letters, numbers, and symbols.","i18n_password_good":"Password is okay.","i18n_password_strong":"Password is strong!","i18n_password_verystrong":"Password is very strong!","i18n_usernamedoesnotexist":"Can't find that username, sorry.","i18n_pwdoesnotmatch":"The passwords entered do not match","i18n_email_username_error":"The username can only contain letters, numbers, periods, hyphens, and underscores."};framework.statesdropdown_params = {"i18n_postcode":"Postcode","i18n_zipcode":"Zip Code","i18n_clientareaerrorstate":"You did not enter your county\/state","i18n_clientareaerrorcounty":"You did not enter a county","i18n_clientareaerrorzipcode":"You did not enter a zipcode","i18n_clientareaerrorpostcode":"You did not enter your postcode"};framework.cart_params = {"formProductDomainId":"#frmProductDomain","a":"add","urlCart":"https:\/\/dashboard.domainsfoundry.co.uk\/cart","urlCheckout":"https:\/\/dashboard.domainsfoundry.co.uk\/cart?a=checkout","urlAdd":"https:\/\/dashboard.domainsfoundry.co.uk\/cart?a=add","urlLoginUrl":"https:\/\/dashboard.domainsfoundry.co.uk\/login","urlLoginTwoFactor":"\/two-factor-challenge","urlConfDomains":"https:\/\/dashboard.domainsfoundry.co.uk\/cart?a=confdomains","urlConfProduct":"https:\/\/dashboard.domainsfoundry.co.uk\/cart?a=confproduct","urlDomainCheck":"https:\/\/dashboard.domainsfoundry.co.uk\/domain\/check","urlCartAccountSelect":"https:\/\/dashboard.domainsfoundry.co.uk\/cart\/account\/select","urlCartVerify":"https:\/\/dashboard.domainsfoundry.co.uk\/cart?a=verify","urlCartValidateEmail":"https:\/\/dashboard.domainsfoundry.co.uk\/cart?a=validateemail","urlCartChangeCounty":"https:\/\/dashboard.domainsfoundry.co.uk\/cart?a=changecountry","urlValidateEmail":"https:\/\/dashboard.domainsfoundry.co.uk\/account\/details\/validate","checkoutFormValidates":false,"i18n_loginError":"These credentials do not match our records.","i18n_addToCart":"Add to Cart","i18n_addedToCartRemove":"Added to Cart (Remove)","i18n_btnPayNow":"Pay Now","i18n_btnLoading":"Please Wait..."};</script></div> <!-- / #main .main-content -->
+
+<!-- Scripts -->
+<script src="/themes/fw/js/manifest.js?id=0a18f61e1ad3eb4d0c68dd33713d99e3"></script>
+<script src="/themes/fw/js/vendor.js?id=10bc1e249129ea67120b1adb9c752ec8"></script>
+<script src="/themes/fw/js/all.js?id=23f9a09b40e9cbe77df40ea7cc4ef2bb"></script>
+    <script src="/themes/fw/js/cart.js?id=e08a2551a80298f6aefc1d9f38717fa3"></script>
+        <script nonce="ODU4YjIxMTU2ZmQ3MWJhMA==">
+          const el = document.querySelector(".domain-checker-container")
+          const observer = new IntersectionObserver(
+            ([e]) => e.target.classList.toggle("is-sticky", e.intersectionRatio < 1),
+            {threshold: [1]}
+          );
+          observer.observe(el);
+        </script>
+    </body>
+</html>

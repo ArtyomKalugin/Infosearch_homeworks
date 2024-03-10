@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<title>Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS &#8211; WordPress plugin &#124; WordPress.org</title>
+<link rel='preload' href='https://wordpress.org/plugins/wp-content/mu-plugins/pub-sync/global-fonts/Inter/Inter-latin.woff2' as='font' crossorigin='crossorigin' type='font/woff2' />
+<meta name='robots' content='max-image-preview:large' />
+
+<script type="application/ld+json">
+[
+    {
+        "@context": "http://schema.org",
+        "@type": [
+            "SoftwareApplication",
+            "Product"
+        ],
+        "applicationCategory": "Plugin",
+        "operatingSystem": "WordPress",
+        "name": "Hummingbird \u2013 Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS",
+        "url": "https://wordpress.org/plugins/hummingbird-performance/",
+        "description": "Optimize site speed with best WP cache plugin. Cache, minify CSS &amp; minify JavaScript, defer critical CSS &amp; JS, smush &amp; lazy load images.",
+        "softwareVersion": "3.7.2",
+        "fileFormat": "application/zip",
+        "downloadUrl": "https://downloads.wordpress.org/plugin/hummingbird-performance.3.7.2.zip",
+        "dateModified": "2024-01-17T12:33:38+00:00",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "worstRating": 1,
+            "bestRating": 5,
+            "ratingValue": 4.8,
+            "ratingCount": 1442,
+            "reviewCount": 1442
+        },
+        "interactionStatistic": {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/DownloadAction",
+            "userInteractionCount": 4131536
+        },
+        "image": [
+            "https://ps.w.org/hummingbird-performance/assets/icon-256x256.png?rev=2647642",
+            "https://ps.w.org/hummingbird-performance/assets/banner-1544x500.png?rev=2647642"
+        ],
+        "offers": {
+            "@type": "Offer",
+            "url": "https://wordpress.org/plugins/hummingbird-performance/",
+            "price": "0.00",
+            "priceCurrency": "USD",
+            "seller": {
+                "@type": "Organization",
+                "name": "WordPress.org",
+                "url": "https://wordpress.org"
+            }
+        }
+    }
+]
+</script>
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" href="https://wordpress.org/plugins/hummingbird-performance/" hreflang="en" />
+<link rel="alternate" href="https://nl.wordpress.org/plugins/hummingbird-performance/" hreflang="nl-nl" />
+<link rel="alternate" href="https://wordpress.org/plugins/hummingbird-performance/" hreflang="x-default" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P24PF4B');</script>
+	<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wordpress.org\/plugins\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5-beta2-57697"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='dashicons-css' href='https://s.w.org/wp-includes/css/dashicons.min.css?ver=6.5-beta2-57697' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://wordpress.org/plugins/wp-includes/css/admin-bar.min.css?ver=6.5-beta2-57697' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+@media print { #wpadminbar { display:none; } }
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://wordpress.org/plugins/wp-content/plugins/gutenberg/build/block-library/style.css?ver=17.6.6' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wporg-google-map-style-inline-css' type='text/css'>
+.wp-block-wporg-google-map .wporg-marker-search__container{display:flex}.wp-block-wporg-google-map .wporg-marker-search__container button.is-tertiary{background:none;border:none}.wp-block-wporg-google-map .wporg-marker-search__container .wporg-marker-search__icon{height:24px;width:24px}.wp-block-wporg-google-map .wporg-google-map__container{background-color:#aadaff;height:clamp(200px,50vh,90vh);max-width:100%;position:relative;width:100%}@media screen and (max-width:385px){.wp-block-wporg-google-map .wporg-google-map__container{max-height:90vh;width:100vw}}.wp-block-wporg-google-map .wporg-google-map__container .wporg-map-marker__title,.wp-block-wporg-google-map .wporg-marker-list__container h3,.wp-block-wporg-google-map .wporg-marker-list__container p{margin:0}.wp-block-wporg-google-map .wporg-map-marker__url a,.wp-block-wporg-google-map .wporg-marker-list-item__title a{-webkit-text-decoration:none;text-decoration:none}.wp-block-wporg-google-map .wporg-map-marker__url a:after,.wp-block-wporg-google-map .wporg-marker-list-item__title a:after{content:"↗";font-family:var(--wp--preset--font-family--inter);margin-left:5px}.wp-block-wporg-google-map .wporg-map-marker__date-time,.wp-block-wporg-google-map .wporg-marker-list-item__date-time{align-items:center;display:flex;gap:10px}.wp-block-wporg-google-map .wporg-google-map__date-time-separator{background-image:url(/plugins/wp-content/mu-plugins/pub-sync/blocks/google-map/build/../images/separator-dot.svg);background-repeat:no-repeat;height:4px;width:3px}.wp-block-wporg-google-map .wporg-google-map__spinner{--local-size:16px;--local-position:calc(50% - var(--local-size)/2);background-color:initial;color:var(--wp--custom--google-map--spinner--color);height:var(--local-size);left:var(--local-position);opacity:1;overflow:visible;position:absolute;top:var(--local-position);width:var(--local-size)}.wp-block-wporg-google-map .wporg-google-map__spinner>circle{fill:#0000;stroke-width:1.5px;stroke:#ddd}.wp-block-wporg-google-map .wporg-google-map__spinner>path{fill:#0000;stroke-width:1.5px;stroke:currentcolor;stroke-linecap:round;animation:wp-block-wporg-google-map-spinner-animation 1.4s linear 0s infinite normal both running;transform-origin:50% 50%}@keyframes wp-block-wporg-google-map-spinner-animation{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.wp-block-wporg-google-map.is-style-sotw-2023 .wporg-map-marker a{color:#ff2b2b}:where(body){--wp--custom--google-map--spinner--color:var(--wp--preset--color--blueberry-1,var(--wp-admin-theme-color,#3858e9))}
+</style>
+<style id='wporg-language-suggest-style-inline-css' type='text/css'>
+.wp-block-wporg-language-suggest{background-color:#eff2ff;color:#1e1e1e;font-size:12px;line-height:1;text-align:center}.wp-block-wporg-language-suggest>*{padding:10px 4px}
+</style>
+<link rel='stylesheet' id='wporg-local-navigation-bar-style-css' href='https://wordpress.org/plugins/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/style.css?ver=5178f3a1b9366519c403494cc25d88ef6d993741' type='text/css' media='all' />
+<style id='wporg-latest-news-style-inline-css' type='text/css'>
+.wp-block-wporg-latest-news{list-style:none;margin:0;padding:0}.wp-block-wporg-latest-news li:not(:last-child){padding-bottom:var(--wp--custom--latest-news--spacing,16px)}.wp-block-wporg-latest-news li a{-webkit-text-decoration:none;text-decoration:none}.wp-block-wporg-latest-news li a:hover{-webkit-text-decoration:underline;text-decoration:underline}.wp-block-wporg-latest-news:not(.is-style-cards) li .wp-block-wporg-latest-news__title>a{color:var(--wp--custom--latest-news--link--color);display:block;font-family:var(--wp--custom--latest-news--title--font-family);font-size:var(--wp--custom--latest-news--title--font-size,24px);line-height:var(--wp--custom--latest-news--title--line-height);margin-bottom:var(--wp--custom--latest-news--link--spacing,4px)}.wp-block-wporg-latest-news:not(.is-style-cards) li .wp-block-wporg-latest-news__details{font-size:var(--wp--custom--latest-news--link--details-font-size,14px)}.wp-block-wporg-latest-news:not(.is-style-cards) li .wp-block-wporg-latest-news__details>:not(:last-child){margin-right:4px}.wp-block-wporg-latest-news:not(.is-style-cards) li .wp-block-wporg-latest-news__category{text-transform:uppercase}.wp-block-wporg-latest-news.is-style-cards{--local-details-column-width:40%}.wp-block-wporg-latest-news.is-style-cards li{border:1px solid var(--wp--preset--color--light-grey-1);color:var(--wp--preset--color--charcoal-1);display:flex;font-size:var(--wp--custom--latest-news--title--font-size,16px);gap:var(--wp--preset--spacing--20);justify-content:space-between;padding:var(--wp--preset--spacing--20)}.wp-block-wporg-latest-news.is-style-cards li:not(:last-child){border-bottom:unset}.wp-block-wporg-latest-news.is-style-cards li:first-child{border-top-left-radius:2px;border-top-right-radius:2px}.wp-block-wporg-latest-news.is-style-cards li:last-child{border-bottom-left-radius:2px;border-bottom-right-radius:2px}@media screen and (max-width:767px){.wp-block-wporg-latest-news.is-style-cards li{flex-direction:column;gap:var(--wp--preset--spacing--10)}}.wp-block-wporg-latest-news.is-style-cards li:hover{background-color:var(--wp--preset--color--light-grey-2);-webkit-text-decoration:none!important;text-decoration:none!important}.wp-block-wporg-latest-news.is-style-cards li .wp-block-wporg-latest-news__title{flex:1;font-weight:var(--wp--custom--latest-news--title--font-weight,600)}.wp-block-wporg-latest-news.is-style-cards li .wp-block-wporg-latest-news__details{display:flex;flex-basis:var(--local-details-column-width);gap:var(--wp--preset--spacing--20);justify-content:space-between}.wp-block-wporg-latest-news.is-style-cards li .wp-block-wporg-latest-news__details>span{display:none}.wp-block-wporg-latest-news.is-style-cards li .wp-block-wporg-latest-news__details time{white-space:nowrap}.wp-block-wporg-latest-news__popular-categories{color:var(--wp--preset--color--charcoal-4);font-size:var(--wp--preset--font-size--small);margin-top:var(--wp--preset--spacing--20)!important}
+</style>
+<style id='wporg-link-wrapper-style-inline-css' type='text/css'>
+.wp-block-wporg-link-wrapper{color:var(--wp--preset--color--charcoal-1);display:block;overflow:hidden;position:relative;-webkit-text-decoration:none!important;text-decoration:none!important}.wp-block-wporg-link-wrapper:focus-visible{outline:none}.wp-block-wporg-link-wrapper:hover{-webkit-text-decoration:underline!important;text-decoration:underline!important}.wp-block-wporg-link-wrapper:focus-visible:after{border-radius:inherit;bottom:0;box-shadow:inset 0 0 0 3px var(--wp--preset--color--white);content:"";left:0;outline:1.5px solid var(--wp--preset--color--blueberry-1);outline-offset:-1.5px;position:absolute;right:0;top:0;z-index:10}.wp-block-wporg-link-wrapper .wporg-link-wrapper__notice{color:#1e1e1e;margin:1em 0 0}
+</style>
+<link rel='stylesheet' id='wporg-query-filter-style-css' href='https://wordpress.org/plugins/wp-content/mu-plugins/pub-sync/blocks/query-filter/build/style-index.css?ver=b83642939e5a5a12f24f935561d40d5887c0e215' type='text/css' media='all' />
+<style id='wporg-sidebar-container-style-inline-css' type='text/css'>
+.wp-block-wporg-sidebar-container{--local--offset-top:var(--wp-admin--admin-bar--height,0px);--local--nav--offset:var(--wp--custom--local-navigation-bar--spacing--height,60px);--local--padding:var(--wp--preset--spacing--20)}@media (min-width:890px){.wp-block-wporg-sidebar-container{--local--nav--offset:0;--local--offset-top:calc(var(--wp-admin--admin-bar--height, 0px) + var(--wp--custom--local-navigation-bar--spacing--height, 60px))}}.wp-block-wporg-sidebar-container .is-link-to-top{display:none}.wp-block-wporg-sidebar-container .is-link-to-top a{text-decoration-line:none}.wp-block-wporg-sidebar-container .is-link-to-top a:hover{text-decoration-line:underline}.wp-block-wporg-sidebar-container.is-floating-sidebar{--local--block-end-sidebar--width:340px;overflow-y:auto;overscroll-behavior:contain;padding-bottom:var(--local--padding);scrollbar-color:var(--wp--preset--color--charcoal-5) #0000;width:var(--local--block-end-sidebar--width)}.wp-block-wporg-sidebar-container.is-floating-sidebar::-webkit-scrollbar,.wp-block-wporg-sidebar-container.is-floating-sidebar::-webkit-scrollbar-track{background-color:initial}.wp-block-wporg-sidebar-container.is-floating-sidebar::-webkit-scrollbar-thumb:active,.wp-block-wporg-sidebar-container.is-floating-sidebar::-webkit-scrollbar-thumb:hover{background-color:var(--wp--preset--color--charcoal-4)!important}.wp-block-wporg-sidebar-container.is-floating-sidebar:active::-webkit-scrollbar-thumb,.wp-block-wporg-sidebar-container.is-floating-sidebar:focus-within::-webkit-scrollbar-thumb,.wp-block-wporg-sidebar-container.is-floating-sidebar:focus::-webkit-scrollbar-thumb,.wp-block-wporg-sidebar-container.is-floating-sidebar:hover::-webkit-scrollbar-thumb{background-clip:content-box;background-color:var(--wp--preset--color--charcoal-5);border:4px solid #0000;border-radius:10px}.wp-block-wporg-sidebar-container.is-floating-sidebar>*{padding-right:16px}.wp-block-wporg-sidebar-container.is-floating-sidebar.is-fixed-sidebar{height:calc(100vh - var(--local--offset-top));margin-top:var(--local--offset-top)!important;padding:var(--local--padding) 0;position:fixed;top:0}.wp-block-wporg-sidebar-container.is-floating-sidebar.is-fixed-sidebar .is-link-to-top{display:block}.wp-block-wporg-sidebar-container.is-floating-sidebar.is-fixed-sidebar .is-link-to-top a{color:var(--wp--preset--color--charcoal-4)}.wp-block-wporg-sidebar-container.is-floating-sidebar *+.is-link-to-top{border-top:1px solid var(--wp--preset--color--light-grey-1);padding-top:var(--wp--preset--spacing--20)}main .wp-block-wporg-sidebar-container{display:none}main .wp-block-wporg-sidebar-container.is-floating-sidebar{margin-top:var(--wp--custom--wporg-sidebar-container--spacing--margin--top);position:absolute;right:max(var(--wp--preset--spacing--edge-space),calc((100% - var(--wp--style--global--wide-size))/2));top:calc(var(--wp-global-header-offset, 90px) + var(--wp--custom--local-navigation-bar--spacing--height, 60px))}:where(body){--wp--custom--wporg-sidebar-container--spacing--margin--top:var(--wp--preset--spacing--edge-space)}
+</style>
+<style id='wporg-site-breadcrumbs-style-inline-css' type='text/css'>
+.wp-block-wporg-site-breadcrumbs{max-width:100%;position:relative}.wp-block-wporg-site-breadcrumbs:after{background-image:linear-gradient(270deg,#fff,#fff0);content:"";inset:0 0 0 auto;position:absolute;width:60px}.wp-block-wporg-site-breadcrumbs .wporg-site-breadcrumbs__wrapper{overflow-x:auto;text-overflow:clip;white-space:nowrap}.wp-block-wporg-site-breadcrumbs .wporg-site-breadcrumbs__wrapper:after{content:"";display:inline-block;width:60px}.wp-block-wporg-site-breadcrumbs a{color:var(--wp--preset--color--charcoal-4);text-decoration-line:none}.wp-block-wporg-site-breadcrumbs a:hover{text-decoration-line:underline}.wp-block-wporg-site-breadcrumbs span{display:inline-block}.wp-block-wporg-site-breadcrumbs span:not(:last-child){margin-top:0}.wp-block-wporg-site-breadcrumbs span:not(:last-child):after{color:var(--wp--preset--color--light-grey-1);content:"/";display:inline-block;font-weight:400;margin:0 var(--wp--preset--spacing--10)}
+</style>
+<style id='wporg-table-of-contents-style-inline-css' type='text/css'>
+:where(.wp-block-wporg-table-of-contents){--local--line-height:var(--wp--custom--body--small--typography--line-height);--local--icon-size:calc(var(--local--line-height)*1em);font-size:var(--wp--preset--font-size--small)}@media (max-width:1299px){:where(.wp-block-wporg-table-of-contents){border:1px solid var(--wp--preset--color--light-grey-1);border-radius:2px}}.wporg-table-of-contents__header{position:relative}@media (max-width:1299px){.wporg-table-of-contents__header{padding:15px var(--wp--preset--spacing--20)}}.wporg-table-of-contents__header .wp-block-heading{margin-bottom:0}.wporg-table-of-contents__header .wporg-table-of-contents__toggle{align-items:center;background-color:initial;border:none;display:flex;height:100%;justify-content:flex-end;left:0;padding:0 var(--wp--preset--spacing--20) 0 0;position:absolute;top:0;width:100%}@media (min-width:1300px){.wporg-table-of-contents__header .wporg-table-of-contents__toggle{display:none}}.wporg-table-of-contents__header .wporg-table-of-contents__toggle:after{background-color:var(--wp--preset--color--charcoal-4);content:"";display:inline-block;height:var(--local--icon-size);-webkit-mask-image:url(/plugins/wp-content/mu-plugins/pub-sync/blocks/table-of-contents/build/../images/chevron-small.svg);mask-image:url(/plugins/wp-content/mu-plugins/pub-sync/blocks/table-of-contents/build/../images/chevron-small.svg);-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;transform:rotate(-90deg);width:var(--local--icon-size)}.wporg-table-of-contents__header .wporg-table-of-contents__toggle[aria-expanded=true]:after{background-color:var(--wp--preset--color--charcoal-1);transform:revert}.wporg-table-of-contents__header .wporg-table-of-contents__toggle:focus-visible{outline:1px dashed var(--wp--preset--color--blueberry-1)}.wporg-table-of-contents__list{font-size:var(--wp--preset--font-size--small);line-height:1.6;list-style:none;margin-bottom:var(--wp--preset--spacing--20);margin-top:var(--wp--preset--spacing--20);padding-left:0}@media (max-width:1299px){.wporg-table-of-contents__list{display:none;margin-bottom:0;margin-top:0;padding:0 var(--wp--preset--spacing--20) 15px}}.wporg-table-of-contents__list li{color:var(--wp--preset--color--charcoal-4);margin-block:calc(var(--wp--preset--spacing--20)/4)}.wporg-table-of-contents__list li ul{list-style:none;padding-left:14px}.wporg-table-of-contents__list a{color:inherit;text-decoration-line:none}.wporg-table-of-contents__list a:hover{text-decoration-line:underline}.wporg-table-of-contents__list a:focus-visible{border-radius:2px;box-shadow:none;outline:1.5px solid var(--wp--preset--color--blueberry-1);outline-offset:2px}.is-toc-heading a{--local--icon-size:24px;color:inherit;padding-right:calc(var(--local--icon-size) + .1em)}.is-toc-heading a,.is-toc-heading a:after{display:inline-block;-webkit-text-decoration:none!important;text-decoration:none!important}.is-toc-heading a:after{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='none'%3E%3Cpath fill='%233858E9' fill-rule='evenodd' d='M10.083 17.639H8.444a5.194 5.194 0 1 1 0-10.389h1.64v1.5H8.443a3.694 3.694 0 0 0 0 7.389h1.641zM13.917 7.25h1.639a5.194 5.194 0 0 1 0 10.39h-1.641v-1.5h1.642a3.694 3.694 0 0 0 0-7.39h-1.642v-1.5Zm-4.584 6.084h5.334v-1.5H9.333z' clip-rule='evenodd'/%3E%3C/svg%3E");background-position:100%;background-repeat:no-repeat;background-size:contain;content:"";height:var(--local--icon-size);margin-right:calc(var(--local--icon-size)*-1 - .1em);opacity:0;vertical-align:initial;width:calc(var(--local--icon-size) + .1em)}.is-toc-heading a:focus:after,.is-toc-heading a:hover:after,.is-toc-heading:focus a:after{opacity:1}.is-toc-heading:focus,.is-toc-heading:focus-visible{outline:none}.is-toc-heading:target{border-left:2px solid var(--wp--preset--color--blueberry-1);padding-left:8px}@media (min-width:890px){.is-toc-heading{scroll-margin-top:calc(var(--wp--custom--local-navigation-bar--spacing--height) + var(--wp--preset--spacing--20))}}
+</style>
+<link rel='stylesheet' id='wp-components-css' href='https://wordpress.org/plugins/wp-content/plugins/gutenberg/build/components/style.css?ver=17.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://wordpress.org/plugins/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://wordpress.org/plugins/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.5-beta2-57697' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='wporg-notice-style-inline-css' type='text/css'>
+.wp-block-wporg-notice{--wp--custom--wporg-notice--color--background:var(--wp--preset--color--acid-green-3,#e2ffed);--wp--custom--wporg-notice--color--text:var(--wp--preset--color--charcoal-1,#1e1e1e);background-color:var(--wp--custom--wporg-notice--color--background);border-radius:2px;color:var(--wp--custom--wporg-notice--color--text);display:grid;gap:.5em;grid-template-columns:auto 1fr;padding:1.25em}.wp-block-wporg-notice.is-info-notice{--wp--custom--wporg-notice--color--background:var(--wp--preset--color--blueberry-4,#eff2ff)}.wp-block-wporg-notice.is-alert-notice{--wp--custom--wporg-notice--color--background:var(--wp--preset--color--lemon-3,#fffdd6)}.wp-block-wporg-notice.is-warning-notice{--wp--custom--wporg-notice--color--background:var(--wp--preset--color--pomegrade-3,#ffe9de)}.wp-block-wporg-notice>*{align-self:start}.wp-block-wporg-notice p:first-child{margin-block-start:0}.wp-block-wporg-notice p:last-child{margin-block-end:0}.wp-block-wporg-notice br:first-child{display:none}.wp-block-wporg-notice.alignleft,.wp-block-wporg-notice.alignright{max-width:calc(var(--wp--style--global--content-size, 680px)*.66)}.wp-block-wporg-notice__icon{align-self:flex-start;background-image:url(/plugins/wp-content/mu-plugins/pub-sync/blocks/notice/build/../src/icon/library/tip.svg);background-position:top;background-repeat:no-repeat;background-size:24px 24px;display:flex;height:1.875em;margin-top:1px;width:24px}.is-info-notice .wp-block-wporg-notice__icon{background-image:url(/plugins/wp-content/mu-plugins/pub-sync/blocks/notice/build/../src/icon/library/info.svg)}.is-alert-notice .wp-block-wporg-notice__icon{background-image:url(/plugins/wp-content/mu-plugins/pub-sync/blocks/notice/build/../src/icon/library/alert.svg)}.is-warning-notice .wp-block-wporg-notice__icon{background-image:url(/plugins/wp-content/mu-plugins/pub-sync/blocks/notice/build/../src/icon/library/warning.svg)}.wp-block-wporg-notice__content{align-self:center;font-size:var(--wp--preset--font-size--small)}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+</style>
+<link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css2?family=Open+Sans%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C600%3B1%2C300%3B1%2C400%3B1%2C600&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='wporg-style-css' href='https://s.w.org/wp-content/themes/pub/wporg-plugins/css/style.css?ver=1708498208' type='text/css' media='all' />
+<link rel='stylesheet' id='wporg-global-fonts-css' href='https://wordpress.org/plugins/wp-content/mu-plugins/pub-sync/global-fonts/style.css?ver=1700434933' type='text/css' media='all' />
+<link rel='stylesheet' id='wporg-global-header-footer-css' href='https://wordpress.org/plugins/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/build/style.css?ver=1706749302' type='text/css' media='all' />
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-content/plugins/gutenberg/build/vendors/react.min.js?ver=18" id="react-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-content/plugins/gutenberg/build/vendors/react-dom.min.js?ver=18" id="react-dom-js"></script>
+<link rel="https://api.w.org/" href="https://wordpress.org/plugins/wp-json/" /><link rel="alternate" type="application/json" href="https://wordpress.org/plugins/wp-json/wp/v2/plugin/70041" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wordpress.org/plugins/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5-beta2-57697" />
+<link rel='shortlink' href='https://wordpress.org/plugins/?p=70041' />
+<link rel="alternate" type="application/json+oembed" href="https://wordpress.org/plugins/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fhummingbird-performance%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://wordpress.org/plugins/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fhummingbird-performance%2F&#038;format=xml" />
+<link rel="canonical" href="https://wordpress.org/plugins/hummingbird-performance/">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <!-- Stream WordPress user activity plugin v4.0.0 -->
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+	<style>img#wpstats{display:none}</style>
+		<meta property="og:title" content="Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS" />
+<meta property="og:description" content="Optimize site speed with best WP cache plugin. Cache, minify CSS &amp; minify JavaScript, defer critical CSS &amp; JS, smush &amp; lazy load images." />
+<meta name="description" content="Optimize site speed with best WP cache plugin. Cache, minify CSS &amp; minify JavaScript, defer critical CSS &amp; JS, smush &amp; lazy load images." />
+<meta property="og:site_name" content="WordPress.org" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://wordpress.org/plugins/hummingbird-performance/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@WordPress">
+<meta name="twitter:image" content="https://ps.w.org/hummingbird-performance/assets/banner-1544x500.png?rev=2647642" />
+<meta property="og:image" content="https://ps.w.org/hummingbird-performance/assets/banner-772x250.png?rev=2647642" />
+<meta name="thumbnail" content="https://ps.w.org/hummingbird-performance/assets/icon-256x256.png?rev=2647642" />
+<link rel="icon" href="https://s.w.org/favicon.ico?2" sizes="32x32" />
+<link rel="icon" href="https://s.w.org/images/wmark.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://s.w.org/images/wmark.png" />
+<meta name="msapplication-TileImage" content="https://s.w.org/images/wmark.png" />
+	</head>
+
+	<body class="plugin-template-default single single-plugin postid-70041 admin-bar no-customize-support is-classic-theme no-js is-commercial-plugin">
+		<a id="wporg-skip-link"  class="skip-link screen-reader-text" href="#main" data-selector="#main">Skip to content</a>
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-log-in'><a class='ab-item' href='https://login.wordpress.org/?redirect_to=https%3A%2F%2Fwordpress.org%2Fplugins%2Fhummingbird-performance%2F&#038;locale=en_US'>Log In</a></li><li id='wp-admin-bar-register'><a class='ab-item' href='https://login.wordpress.org/register?locale=en_US'>Register</a></li></ul>			</div>
+					</div>
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>document.body.className = document.body.className.replace('no-js','js');</script>
+<header class="global-header wp-block-group wp-block-wporg-global-header">
+
+<figure class="wp-block-image global-header__wporg-logo-mark">
+	<a href="https://wordpress.org/">
+		<svg xmlns="http://www.w3.org/2000/svg" role="img" width="28" height="28" viewBox="0 0 28 28">
+	<title>WordPress.org</title>
+	<path fill="currentColor" d="M13.6052 0.923525C16.1432 0.923525 18.6137 1.67953 20.7062 3.09703C22.7447 4.47403 24.3512 6.41803 25.3097 8.68603C26.9837 12.6415 26.5382 17.164 24.1352 20.7145C22.7582 22.753 20.8142 24.3595 18.5462 25.318C14.5907 26.992 10.0682 26.5465 6.51772 24.1435C4.47922 22.7665 2.87272 20.8225 1.91422 18.5545C0.240225 14.599 0.685725 10.0765 3.08872 6.52603C4.46572 4.48753 6.40973 2.88103 8.67772 1.92253C10.2302 1.26103 11.9177 0.923525 13.6052 0.923525ZM13.6052 0.113525C6.15322 0.113525 0.105225 6.16153 0.105225 13.6135C0.105225 21.0655 6.15322 27.1135 13.6052 27.1135C21.0572 27.1135 27.1052 21.0655 27.1052 13.6135C27.1052 6.16153 21.0572 0.113525 13.6052 0.113525Z" />
+	<path fill="currentColor" d="M2.36011 13.6133C2.36011 17.9198 4.81711 21.8618 8.70511 23.7383L3.33211 9.03684C2.68411 10.4813 2.36011 12.0338 2.36011 13.6133ZM21.2061 13.0463C21.2061 11.6558 20.7066 10.6973 20.2746 9.94134C19.8426 9.18534 19.1676 8.22684 19.1676 7.30884C19.1676 6.39084 19.9506 5.31084 21.0576 5.31084H21.2061C16.6296 1.11234 9.51511 1.42284 5.31661 6.01284C4.91161 6.45834 4.53361 6.93084 4.20961 7.43034H4.93861C6.11311 7.43034 7.93561 7.28184 7.93561 7.28184C8.54311 7.24134 8.61061 8.13234 8.00311 8.21334C8.00311 8.21334 7.39561 8.28084 6.72061 8.32134L10.8111 20.5118L13.2681 13.1273L11.5131 8.32134C10.9056 8.28084 10.3386 8.21334 10.3386 8.21334C9.73111 8.17284 9.79861 7.25484 10.4061 7.28184C10.4061 7.28184 12.2691 7.43034 13.3626 7.43034C14.4561 7.43034 16.3596 7.28184 16.3596 7.28184C16.9671 7.24134 17.0346 8.13234 16.4271 8.21334C16.4271 8.21334 15.8196 8.28084 15.1446 8.32134L19.2081 20.4173L20.3691 16.7453C20.8821 15.1388 21.1926 14.0048 21.1926 13.0328L21.2061 13.0463ZM13.7946 14.5853L10.4196 24.3998C12.6876 25.0613 15.1041 25.0073 17.3316 24.2243L17.2506 24.0758L13.7946 14.5853ZM23.4741 8.21334C23.5281 8.59134 23.5551 8.98284 23.5551 9.37434C23.5551 10.5218 23.3391 11.8043 22.7046 13.3973L19.2621 23.3333C24.5271 20.2688 26.4036 13.5593 23.4741 8.21334Z" />
+</svg>	</a>
+</figure>
+
+
+
+<nav class="is-responsive global-header__navigation wp-block-navigation is-horizontal is-layout-flex wp-block-navigation-is-layout-flex" aria-label="" 
+			data-wp-interactive='{"namespace":"core/navigation"}'
+			data-wp-context='{"overlayOpenedBy":[],"type":"overlay","roleAttribute":"","ariaLabel":"Menu"}'
+		data-wp-init="callbacks.initNav" data-wp-class--is-collapsed="context.isCollapsed"><button aria-haspopup="dialog" aria-label="Open menu" class="wp-block-navigation__responsive-container-open" 
+				data-wp-on--click="actions.openMenuOnClick"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+			><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+				<div class="wp-block-navigation__responsive-container " style="" id="modal-1" 
+				data-wp-class--has-modal-open="state.isMenuOpen"
+				data-wp-class--is-menu-open="state.isMenuOpen"
+				data-wp-watch="callbacks.initMenu"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+				data-wp-on--focusout="actions.handleMenuFocusout"
+				tabindex="-1"
+			>
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" 
+				data-wp-bind--aria-modal="state.ariaModal"
+				data-wp-bind--aria-label="state.ariaLabel"
+				data-wp-bind--role="state.roleAttribute"
+			>
+							<button aria-label="Close menu" class="wp-block-navigation__responsive-container-close" 
+				data-wp-on--click="actions.closeMenuOnClick"
+			><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" 
+				data-wp-watch="callbacks.focusFirstElement"
+			 id="modal-1-content">
+								<ul class="wp-block-navigation__container is-responsive global-header__navigation wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/news/"><span class="wp-block-navigation-item__label">News</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/showcase/"><span class="wp-block-navigation-item__label">Showcase</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/hosting/"><span class="wp-block-navigation-item__label">Hosting</span></a></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: {}, &quot;type&quot;: &quot;submenu&quot; }" data-wp-interactive="{ &quot;namespace&quot;: &quot;core/navigation&quot; }" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-click wp-block-navigation-submenu"><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on--click="actions.toggleMenuOnClick" aria-label="Extend submenu" class="wp-block-navigation-item__content wp-block-navigation-submenu__toggle" ><span class="wp-block-navigation-item__label">Extend</span></button><span class="wp-block-navigation__submenu-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></span><ul data-wp-on--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/themes/"><span class="wp-block-navigation-item__label">Themes</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/plugins/"><span class="wp-block-navigation-item__label">Plugins</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/patterns/"><span class="wp-block-navigation-item__label">Patterns</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/blocks/"><span class="wp-block-navigation-item__label">Blocks</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://openverse.org/"><span class="wp-block-navigation-item__label">Openverse <span aria-hidden="true">↗</span>︎</span></a></li></ul></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: {}, &quot;type&quot;: &quot;submenu&quot; }" data-wp-interactive="{ &quot;namespace&quot;: &quot;core/navigation&quot; }" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-click wp-block-navigation-submenu"><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on--click="actions.toggleMenuOnClick" aria-label="Learn submenu" class="wp-block-navigation-item__content wp-block-navigation-submenu__toggle" ><span class="wp-block-navigation-item__label">Learn</span></button><span class="wp-block-navigation__submenu-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></span><ul data-wp-on--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://learn.wordpress.org/"><span class="wp-block-navigation-item__label">Learn WordPress</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/documentation/"><span class="wp-block-navigation-item__label">Documentation</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/support/forums/"><span class="wp-block-navigation-item__label">Forums</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://developer.wordpress.org/"><span class="wp-block-navigation-item__label">Developers</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.tv/"><span class="wp-block-navigation-item__label">WordPress.tv <span aria-hidden="true">↗</span>︎</span></a></li></ul></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: {}, &quot;type&quot;: &quot;submenu&quot; }" data-wp-interactive="{ &quot;namespace&quot;: &quot;core/navigation&quot; }" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-click wp-block-navigation-submenu"><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on--click="actions.toggleMenuOnClick" aria-label="Community submenu" class="wp-block-navigation-item__content wp-block-navigation-submenu__toggle" ><span class="wp-block-navigation-item__label">Community</span></button><span class="wp-block-navigation__submenu-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></span><ul data-wp-on--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://make.wordpress.org/"><span class="wp-block-navigation-item__label">Make WordPress</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/photos/"><span class="wp-block-navigation-item__label">Photo Directory</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/five-for-the-future/"><span class="wp-block-navigation-item__label">Five for the Future</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://events.wordpress.org/"><span class="wp-block-navigation-item__label">Events</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://jobs.wordpress.net/"><span class="wp-block-navigation-item__label">Job Board <span aria-hidden="true">↗</span>︎</span></a></li></ul></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: {}, &quot;type&quot;: &quot;submenu&quot; }" data-wp-interactive="{ &quot;namespace&quot;: &quot;core/navigation&quot; }" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-click wp-block-navigation-submenu"><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on--click="actions.toggleMenuOnClick" aria-label="About submenu" class="wp-block-navigation-item__content wp-block-navigation-submenu__toggle" ><span class="wp-block-navigation-item__label">About</span></button><span class="wp-block-navigation__submenu-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></span><ul data-wp-on--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/about/"><span class="wp-block-navigation-item__label">About WordPress</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/enterprise/"><span class="wp-block-navigation-item__label">Enterprise</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/gutenberg/"><span class="wp-block-navigation-item__label">Gutenberg <span aria-hidden="true">↗</span>︎</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mercantile.wordpress.org/"><span class="wp-block-navigation-item__label">Swag Store <span aria-hidden="true">↗</span>︎</span></a></li></ul></li><li class=" wp-block-navigation-item global-header__mobile-get-wordpress global-header__get-wordpress wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://wordpress.org/download/"><span class="wp-block-navigation-item__label">Get WordPress</span></a></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav>
+
+<!--
+	The search block is inside a navigation menu because that provides the exact functionality the design
+	calls for. It also provides a consistent experience with the primary navigation menu, with respect to
+	keyboard navigation, ARIA states, etc. It also saves having to write custom code for all the interactions.
+-->
+<nav class="is-responsive  is-vertical is-collapsed global-header__search wp-block-navigation is-layout-flex wp-container-core-navigation-is-layout-2 wp-block-navigation-is-layout-flex" aria-label="" 
+			data-wp-interactive='{"namespace":"core/navigation"}'
+			data-wp-context='{"overlayOpenedBy":[],"type":"overlay","roleAttribute":"","ariaLabel":"Menu"}'
+		><button aria-haspopup="dialog" aria-label="Open menu" class="wp-block-navigation__responsive-container-open" 
+				data-wp-on--click="actions.openMenuOnClick"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+			><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+				<div class="wp-block-navigation__responsive-container " style="" id="modal-9" 
+				data-wp-class--has-modal-open="state.isMenuOpen"
+				data-wp-class--is-menu-open="state.isMenuOpen"
+				data-wp-watch="callbacks.initMenu"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+				data-wp-on--focusout="actions.handleMenuFocusout"
+				tabindex="-1"
+			>
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" 
+				data-wp-bind--aria-modal="state.ariaModal"
+				data-wp-bind--aria-label="state.ariaLabel"
+				data-wp-bind--role="state.roleAttribute"
+			>
+							<button aria-label="Close menu" class="wp-block-navigation__responsive-container-close" 
+				data-wp-on--click="actions.closeMenuOnClick"
+			><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" 
+				data-wp-watch="callbacks.focusFirstElement"
+			 id="modal-9-content">
+								<form role="search" method="get" action="https://wordpress.org/search/do-search.php" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-navigation-item wp-block-search"    ><label class="wp-block-search__label" for="wp-block-search__input-7" >Search in WordPress.org</label><div class="wp-block-search__inside-wrapper " ><input class="wp-block-search__input" id="wp-block-search__input-7" placeholder="Type to search…" value="" type="search" name="s" required /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 24 24" width="24" height="24">
+					<path d="M13 5c-3.3 0-6 2.7-6 6 0 1.4.5 2.7 1.3 3.7l-3.8 3.8 1.1 1.1 3.8-3.8c1 .8 2.3 1.3 3.7 1.3 3.3 0 6-2.7 6-6S16.3 5 13 5zm0 10.5c-2.5 0-4.5-2-4.5-4.5s2-4.5 4.5-4.5 4.5 2 4.5 4.5-2 4.5-4.5 4.5z"></path>
+				</svg></button></div></form>
+							</div>
+						</div>
+					</div>
+				</div></nav>
+
+<!-- This is the first of two Get WordPress buttons; the other is in the navigation menu.
+	Two are needed because they have different DOM hierarchies at different breakpoints. -->
+
+<div class="global-header__desktop-get-wordpress-container is-layout-flow wp-block-group-is-layout-flow">
+	<a href="https://wordpress.org/download/" class="global-header__desktop-get-wordpress global-header__get-wordpress">
+		Get WordPress	</a>
+</div> 
+</header><div id="page" class="site">
+	<div id="content" class="site-content">
+		<header id="masthead" class="site-header " role="banner">
+			<div class="site-branding">
+									<p class="site-title"><a href="https://wordpress.org/plugins/" rel="home">Plugins</a></p>
+
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<button class="menu-toggle dashicons dashicons-arrow-down-alt2" aria-controls="primary-menu" aria-expanded="false" aria-label="Primary Menu"></button>
+						<div id="primary-menu" class="menu">
+							<ul>
+															<li class="page_item"><a class="" href="https://wordpress.org/plugins/browse/favorites/">My Favorites</a></li>
+															<li class="page_item"><a class="" href="https://wordpress.org/plugins/browse/beta/">Beta Testing</a></li>
+															<li class="page_item"><a class="" href="https://wordpress.org/plugins/developers/">Developers</a></li>
+														<li><form role="search" method="get" class="search-form" action="https://wordpress.org/plugins/">
+	<label for="s" class="screen-reader-text">Search for:</label>
+	<input type="search" id="s" class="search-field" placeholder="Search plugins" value="" name="s" />
+		<button class="button button-primary button-search">
+		<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.5 11.5a4 4 0 1 1-8 0 4 4 0 0 1 8 0Zm1.5 0a5.5 5.5 0 0 1-9.142 4.121l-3.364 2.943-.988-1.128 3.373-2.952A5.5 5.5 0 1 1 19 11.5Z" /></svg>
+		<span class="screen-reader-text">Search plugins</span>
+	</button>
+</form>
+
+</li>
+							</ul>
+						</div>
+					</nav><!-- #site-navigation -->
+							</div><!-- .site-branding -->
+		</header><!-- #masthead -->
+
+		
+	<main id="main" class="site-main" role="main">
+
+		
+<article id="post-70041" class="post-70041 plugin type-plugin status-publish hentry plugin_tags-cache plugin_tags-defer-css-javascript plugin_tags-minify-css plugin_tags-minify-javascript plugin_tags-speed-up-wordpress plugin_category-performance plugin_contributors-wpmudev plugin_business_model-commercial plugin_committers-khaxan plugin_committers-panoslyrakis plugin_committers-ricardotbfreitas plugin_committers-rickjc89 plugin_committers-wpmudev plugin_committers-wpmudev-support4 plugin_support_reps-wpmudev-support1 plugin_support_reps-wpmudev-support2 plugin_support_reps-wpmudev-support6 plugin_support_reps-wpmudev-support7 plugin_support_reps-wpmudev-support8 plugin_support_reps-wpmudev-support9 plugin_support_reps-wpmudevsupport10 plugin_support_reps-wpmudevsupport11 plugin_support_reps-wpmudevsupport12 plugin_support_reps-wpmudevsupport13 plugin_support_reps-wpmudevsupport14 plugin_support_reps-wpmudevsupport15 plugin_support_reps-wpmudevsupport16 plugin_support_reps-wpmudevsupport18 plugin_support_reps-wpmudevsupport3">
+	<style type='text/css'>#plugin-banner-hummingbird-performance { background-image: url('https://ps.w.org/hummingbird-performance/assets/banner-772x250.png?rev=2647642'); }@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 120dpi) { #plugin-banner-hummingbird-performance { background-image: url('https://ps.w.org/hummingbird-performance/assets/banner-1544x500.png?rev=2647642'); } }</style><div class='plugin-banner' id='plugin-banner-hummingbird-performance'></div>
+	<header class="plugin-header">
+						
+		<div class="entry-thumbnail">
+			<img class='plugin-icon' srcset='https://ps.w.org/hummingbird-performance/assets/icon-128x128.png?rev=2647642, https://ps.w.org/hummingbird-performance/assets/icon-256x256.png?rev=2647642 2x' src='https://ps.w.org/hummingbird-performance/assets/icon-256x256.png?rev=2647642'>		</div>
+
+		<div class="plugin-actions">
+			
+							<a class="plugin-download button download-button button-large" href="https://downloads.wordpress.org/plugin/hummingbird-performance.3.7.2.zip">Download</a>
+								</div>
+
+				<h1 class="plugin-title">Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS</h1>
+		
+		<span class="byline">By <span class="author vcard"><a class="url fn n" rel="nofollow" href="https://profiles.wordpress.org/wpmudev/">WPMU DEV</a></span></span>
+	</header><!-- .entry-header -->
+
+	<span id="description"></span>
+	<span id="reviews"></span>
+	<span id="installation"></span>
+	<span id="developers"></span>
+	<span id="advanced" class=""></span>
+	<span id="section-links">
+		<ul class="tabs clear">
+		<li id="tablink-description"><a href="https://wordpress.org/plugins/hummingbird-performance/#description">Details</a></li>
+		<li id="tablink-reviews"><a href="https://wordpress.org/plugins/hummingbird-performance/#reviews">Reviews</a></li>
+				<li id="tablink-developers"><a href="https://wordpress.org/plugins/hummingbird-performance/#developers">Development</a></li>
+				</ul>
+		<div id="link-support">
+			<a href="https://wordpress.org/support/plugin/hummingbird-performance/">Support</a>
+		</div>
+	</span>
+	<script type="text/javascript">if ( '#changelog' == window.location.hash ) { window.setTimeout( function() { window.location.hash = '#developers'; }, 10 ); }</script>
+
+	<div class="entry-content">
+		
+<div id="tab-description" class="plugin-description section">
+	<h2 id="description-header">Description</h2>
+	<p><strong>Hummingbird makes your website faster and optimizes site performance by adding new ways to boost Google PageSpeed Insights with fine-tuned controls over file compression, deferring CSS and JavaScript styles and scripts, minify for CSS and JS, Lazy Load integration, and world-class caching.</strong></p>
+<p>Hummingbird is brought to you by the WordPress speed specialists that created <a href="https://wordpress.org/plugins/wp-smushit/" rel="ugc">Smush</a> image optimization, now active on more than +1 million websites. Get the complete speed boost with Hummingbird and Smush.</p>
+<h3>If PageSpeed Insights is making these speed recommendations Hummingbird can help:</h3>
+<ul>
+<li>Enable text compression &#8211; Use gzip to make your site fly.</li>
+<li>Preconnect to required origins &#8211; Use Hummingbird to establish earlier connections.</li>
+<li>Preload key requests &#8211; Prioritize resources based on order.</li>
+<li>Avoid enormous network payloads &#8211; Consider Lazy Load for comments or breaking up smaller posts.</li>
+<li>Use efficient cache &#8211; The Hummingbird Cache suite offers effective browser cache for caching any site.</li>
+<li>Fix your JavaScript execution time &#8211; Deliver smaller JS payloads, preload JS, and defer JS.</li>
+<li>Minify CSS &#8211; Strip unused code from your CSS.</li>
+<li>Minify JavaScript &#8211; Speed up the time it takes to parse your JS files.</li>
+<li>Eliminate render-blocking resources &#8211; Move critical CSS and JS inline and defer all non-critical JS/CSS.</li>
+<li>Delay JavaScript execution (Pro only) &#8211; Increase performance by delaying the loading of non-critical JS files and scripts until user interaction.</li>
+<li>Automatically generate Critical CSS (Pro only) &#8211; Substantially boost page speed and UX by prioritizing above-the-fold content.</li>
+<li>Defer unused CSS &#8211; Defer the loading of CSS not used for above-the-fold content.</li>
+<li>Lazy Load offscreen images (<a href="https://wordpress.org/plugins/wp-smushit/" rel="ugc">Smush free</a> integration).</li>
+</ul>
+<p>Hummingbird scans your site and provides one-click fixes to speed up WordPress in a flash.</p>
+<p>You’ll get faster loading pages, higher search rankings (SERP) and PageSpeed scores, and happier visitors with Hummingbird’s WordPress speed optimization. Optimizing the speed of your site has never been easier!</p>
+<h3>Features Available in Hummingbird Include:</h3>
+<ul>
+<li>Scan and Fix – Get a scan of your site, find out what’s slowing it down, and use one-click performance improvements to make critical speed improvements.</li>
+<li>World-class caching – A full caching suite to load pages faster with full-page, Gravatar, and browser cache tool.</li>
+<li>Performance Reports – Pro tips for running your site at super speed.</li>
+<li>Asset Optimization – Position, minify and combine Javascript, CSS, and Google Font files for top performance. Test changes with built-in Safe Mode.</li>
+<li>Better Rankings – Improve scores on Google PageSpeed Insights (SEO ranking factor), YSlow, Pingdom, and GTmetrix.</li>
+<li>Increase Your Conversion Rate &#8211; Don’t keep visitors waiting: faster sites convert better.</li>
+<li>GZIP Compression – Blazing-fast HTML, JavaScript, and stylesheet (CSS) transfer.</li>
+<li>Configs – Set your preferred performance settings, save them as config, and instantly upload to any other site.</li>
+</ul>
+<h3>Learn The Ropes With These Hands-On Hummingbird Tutorials</h3>
+<ul>
+<li><a href="https://wpmudev.com/blog/optimize-wordpress-speed-hummingbird/" rel="nofollow ugc">How To Optimize WordPress For Speed With Hummingbird</a></li>
+<li><a href="https://wpmudev.com/blog/optimize-elementor-wordpress-smush-hummingbird/" rel="nofollow ugc">How To Optimize Elementor for Free Using Smush and Hummingbird</a></li>
+<li><a href="https://wpmudev.com/blog/optimize-wordpress-wpbakery-free-plugins/" rel="nofollow ugc">How To Optimize WPBakery Sites Using Smush And Hummingbird</a></li>
+<li><a href="https://wpmudev.com/blog/speed-up-optimize-avada-theme-smush-hummingbird-plugins/" rel="nofollow ugc">Speed Up and Optimize Avada for Free Using Smush and Hummingbird</a></li>
+<li><a href="https://wpmudev.com/blog/optimize-divi-wordpress-smush-hummingbird/" rel="nofollow ugc">Optimize Divi for Free Using Smush and Hummingbird</a></li>
+</ul>
+<h4>Hummingbird Features to Speed Up WordPress</h4>
+<h3>Scan and One-Click Fix</h3>
+<p>Hummingbird is a WordPress speed optimization plugin. It will scan your site, find files that are slowing it down, and provide tips and fixes for making your site run at top speed.</p>
+<p>Hummingbird even has one-click improvements like a full cache suite, one-click minify for styles and scripts, and deferring CSS and JS for quickly optimizing performance. What could be easier!</p>
+<h3>World-Class Caching</h3>
+<p>You’ll get a world-class caching suite, including full-page, browser, and Gravatar cache.</p>
+<p>Make your site load even faster with Hummingbird’s complete set of cache tools that give your visitors a faster browsing experience. Including full-page, browser and Gravatar caching.</p>
+<h3>Asset Optimization</h3>
+<p>Did you know that the more files you add to your site’s header, the slower it will load? With Hummingbird, you can easily customize the load position of your CSS, JavaScript (defer CSS and Javascript), Google Fonts, and other files to increase your page speed.</p>
+<p>Quickly reorder, compress, and reposition files with Hummingbird’s minification feature. Reset any changes you make in one click, or use Asset Optimization Safe Mode to test changes before pushing live.</p>
+<h3>Transfer Data at Top Speed With GZIP</h3>
+<p>Hummingbird has GZIP powers to make sharing your site more efficient.</p>
+<p>Sending zipped files is faster and can save you money on hosting. And don’t worry about setup, send Hummingbird instructions with the click of a button and she’ll handle the rest.</p>
+<h3>Built-in Cloudflare Integration</h3>
+<p>Hummingbird can be used to control your <a href="https://www.cloudflare.com/" rel="nofollow ugc">Cloudflare</a> browser cache and Automatic Platform Optimizations (APO) settings as well! Simply add your Cloudflare API key and configure away.</p>
+<h3>Fully Compatible With Smush Image Optimization</h3>
+<p>You can complement Hummingbird’s WordPress speed optimization features with our award-winning sister-plugin <a href="https://wordpress.org/plugins/wp-smushit/" rel="ugc">Smush image optimization</a>. Smush compresses your images, giving your site less to load – and thus a faster load time. Hummingbird + Smush integrate perfectly together, and are the perfect match to speed up WordPress.</p>
+<p>Compress, optimize (optimise), and fix PageSpeed performance with properly sized images, lazy load, next-gen WebP convert, image formatting, and more.</p>
+<h3>Save time with Hummingbird Configs</h3>
+<p>Configs allow you to save your preferred Hummingbird configuration settings and apply them to your other sites in a few clicks. You can create unlimited configs.</p>
+<h3>Delay Javascript Resources (Pro Only)</h3>
+<p>Boost site performance dramatically by delaying the loading of JS files and third-party scripts until direct user interaction (e.g. scroll or click). Enjoy faster loading pages, improve web vitals, and ace your PageSpeed scores.</p>
+<p>Activate in one click, includes user interaction timeout and the option to exclude critical files from being delayed. A paid WPMU DEV account (the developers of Hummingbird) is required to access this feature. You can check out our affordable plans <a href="https://wpmudev.com/pricing/" rel="nofollow ugc">here</a>.</p>
+<h3>Generate Critical CSS (Pro Only)</h3>
+<p>Maximize site speed and user experience by prioritizing only the CSS that matters most. The Generate Critical CSS feature intelligently generates and embeds critical CSS in the head of each page, giving priority to above-the-fold content and significantly improving loading speed. Updates to your critical CSS are automated with every site design change, and you can enable/disable with a click.</p>
+<h4>Faster Websites Rank Higher, Convert Better</h4>
+<p>Every millisecond counts: your visitors expect an ever-faster website, with a page load time of under two seconds expected &#8211; and the norm. If visitors <em>don’t</em> get that on your site, they <em>will</em> leave.</p>
+<p>If you’re running a business website or eCommerce store, that means <strong>if your website does not load quickly, you will lose sales.</strong></p>
+<p>Hummingbird is here to help you; it’s a one of a kind WordPress performance optimization plugin that can make your site run at superspeed, for free!</p>
+<p>You get our WordPress performance optimization suite, which includes minification and GZIP for small page sizes, full caching for faster loading, and integration with Cloudflare’s APO / browser cache, and our sister-plugin <a href="https://wordpress.org/plugins/wp-smushit/" rel="ugc">Smush image optimization</a>.</p>
+<p>Hummingbird is built with ease-of-use in mind; it makes your WordPress site faster, but it’s also fast to set up. You can scan your site and implement recommended changes in one-click, getting a fast site in mere minutes.</p>
+<p>All the above is free and will speed up WordPress for you. <strong>If you need the very fastest WordPress site, <a href="https://wpmudev.com/?utm_source=wordpress.org&amp;utm_medium=readme&amp;utm_campaign=hummingbird-readme&amp;utm_content=you_should_get_wpmudev_membership#trial" rel="nofollow ugc">you should get a WPMU DEV Membership</a>.</strong></p>
+<p>Our Membership gives you access to Hummingbird Pro – which features automated scanning, uptime monitoring, enhanced minify compression (with 2x the regular optimization), CDN hosted minification – alongside Smush Pro image optimization, all our premium WordPress plugins, and 24/7 WordPress support.</p>
+<p><a href="https://wpmudev.com/?utm_source=wordpress.org&amp;utm_medium=readme&amp;utm_campaign=hummingbird-readme&amp;utm_content=and_you_can_find_out_more_here#trial" rel="nofollow ugc">It’s an incredible deal, and you can find out more here.</a></p>
+<h4>What do People say About Hummingbird?</h4>
+<p>★★★★★</p>
+<blockquote>
+<p>“<strong>Hummingbird is so easy to use</strong>. I thought it wouldn&#8217;t change my speed much because I already made improvements. I ran the scan, it gave me recommendations, I pushed a button to apply them and it made my site even faster!” &#8211; <a href="https://wpmudev.com/profile/juancamilobuitrago" rel="nofollow ugc">Camilo</a></p>
+</blockquote>
+<p>★★★★★</p>
+<blockquote>
+<p>“Hummingbird is getting smarter with each update. Today it&#8217;s become so good that it forced me to remove giant cache and optimization plugins like WP Super Cache and WP Sweep because now Hummingbird includes all those features – but in a more impressive way.” &#8211; <a href="https://wordpress.org/support/users/swagatam1975/" rel="ugc">swagatam1975</a></p>
+</blockquote>
+<p>★★★★★</p>
+<blockquote>
+<p>“<strong>Hummingbird took me from 32 to 84 on Google page speed</strong> plus made my site 50% faster on GTmetrix!” &#8211; <a href="https://wpmudev.com/profile/nicolastergiopoulos" rel="nofollow ugc">Nicolas</a></p>
+</blockquote>
+<p>★★★★★</p>
+<blockquote>
+<p>“I just built a real bloated sack of crap of a WP site, and after configuring Hummingbird and letting it do its thing, the site is actually <em>fast</em> — much faster than it has any right to be&#8230;I’m impressed.” &#8211; <a href="https://wordpress.org/support/topic/better-than-i-deserve-2/" rel="ugc">Cacarr</a></p>
+</blockquote>
+<h4>A Note From Hummingbird</h4>
+<p>Hey! This is Hummingbird, your trusted solution to speed up WordPress. I’m part of the WPMU DEV team, a superhero-suite of WordPress plugins, services, and support. Here are some of our other free plugins:</p>
+<ul>
+<li><a href="https://wordpress.org/plugins/wp-smushit/" rel="ugc">Smush</a> &#8211; Image Compression and Optimization</li>
+<li><a href="https://wordpress.org/plugins/forminator/" rel="ugc">Forminator</a> &#8211; Form, Quiz, Poll and Survey Builder</li>
+<li><a href="https://wordpress.org/plugins/wordpress-popup/" rel="ugc">Hustle</a> &#8211; Pop-ups, Slide-ins and Email Opt-ins</li>
+</ul>
+<p>And if you need ALL our Pro plugins AND 24/7 WordPress support, get WPMU DEV membership! You can try it for free: <a href="https://wpmudev.com/?utm_source=wordpress.org&amp;utm_medium=readme&amp;utm_campaign=hummingbird-readme&amp;utm_content=link_wpmudev#trial" rel="nofollow ugc">wpmudev.com</a></p>
+<p>My superhero friends run the WPMU DEV Blog, your source for the very best WordPress tutorials. If you need to be in the know about WordPress, check it out.</p>
+<p>Thanks for looking at Hummingbird, and I look forward to flying through your site to make it faster than ever.</p>
+<p><em>Enjoy, The Hummingbird</em></p>
+<h3>About Us</h3>
+<p>WPMU DEV is a premium supplier of quality WordPress plugins, services and support. Join us here:<br />
+<a href="https://wpmudev.com/?utm_source=wordpress.org&amp;utm_medium=readme&amp;utm_campaign=hummingbird-readme&amp;utm_content=wpmu_dev_link" rel="nofollow ugc">https://wpmudev.com/</a></p>
+<p>Don&#8217;t forget to stay up to date on everything WordPress from the Internet&#8217;s number one resource:<br />
+<a href="https://wpmudev.com/?utm_source=wordpress.org&amp;utm_medium=readme&amp;utm_campaign=hummingbird-readme&amp;utm_content=wpmu_dev_blog_link" rel="nofollow ugc">WPMU DEV Blog</a></p>
+<p>Hey, one more thing&#8230; we hope you enjoy our <a href="https://profiles.wordpress.org/WPMUDEV/" rel="nofollow ugc">free offerings</a> as much as we&#8217;ve loved making them for you!</p></div>
+
+<div id="screenshots" class="plugin-screenshots section">
+	<h2 id="screenshots-header">Screenshots</h2>
+	<ul class="plugin-screenshots"><li><figure><a href="https://ps.w.org/hummingbird-performance/assets/screenshot-1.gif?rev=1768568" rel="nofollow"><img decoding="async" class="screenshot" src="https://ps.w.org/hummingbird-performance/assets/screenshot-1.gif?rev=1768568" alt="" /></a><figcaption>Scan your site for optimization tips and tricks.</figcaption></figure></li><li><figure><a href="https://ps.w.org/hummingbird-performance/assets/screenshot-2.jpg?rev=1768564" rel="nofollow"><img decoding="async" class="screenshot" src="https://ps.w.org/hummingbird-performance/assets/screenshot-2.jpg?rev=1768564" alt="" /></a><figcaption>Use the complete suite of cache tools to speed up load times.</figcaption></figure></li><li><figure><a href="https://ps.w.org/hummingbird-performance/assets/screenshot-3.jpg?rev=1768568" rel="nofollow"><img decoding="async" class="screenshot" src="https://ps.w.org/hummingbird-performance/assets/screenshot-3.jpg?rev=1768568" alt="" /></a><figcaption>Asset Optimization lets you combine and reposition CSS, JavaScript, and HTML files.</figcaption></figure></li><li><figure><a href="https://ps.w.org/hummingbird-performance/assets/screenshot-4.jpg?rev=1768568" rel="nofollow"><img decoding="async" class="screenshot" src="https://ps.w.org/hummingbird-performance/assets/screenshot-4.jpg?rev=1768568" alt="" /></a><figcaption>Use suggestions to make improvements and speed up your site.</figcaption></figure></li></ul></div>
+
+<div id="faq" class="plugin-faq section">
+	<h2 id="faq-header">FAQ</h2>
+	<dl>
+<dt id='do%20i%20need%20hummingbird%20if%20i%20already%20have%20caching%20like%20wp%20rocket%20or%20w3%20total%20cache%3F'>
+<h3>Do I need Hummingbird if I already have caching like WP Rocket or W3 Total Cache?</h3>
+</dt>
+<dd>
+<p>Yes! Of course, our cache suite is more than enough, but if you already use WP Rocket or W3 Total Cache, the special monitoring tools Hummingbird offers still make it worth it. To ensure compatibility, only activate overlapping features in one of the plugins.</p>
+</dd>
+<dt id='does%20hummingbird%20work%20with%20cloudflare%3F'>
+<h3>Does Hummingbird work with Cloudflare?</h3>
+</dt>
+<dd>
+<p>Yes! Hummingbird is built to take full advantage of Cloudflare features. Just plug in your API to get started.</p>
+</dd>
+<dt id='does%20hummingbird%20work%20with%20woocommerce%3F'>
+<h3>Does Hummingbird work with WooCommerce?</h3>
+</dt>
+<dd>
+<p>Yes! Hummingbird works great with ecommerce plugins like WooCommerce and MarketPress. For best results, when configuring full-page cache, follow the WooCommerce recommended cache settings. Hummingbird will exclude the cart, my account and checkout pages to keep content dynamic.</p>
+</dd>
+<dt id='why%20is%20my%20wordpress%20slow%3F'>
+<h3>Why is my WordPress slow?</h3>
+</dt>
+<dd>
+<p>There are plenty of factors involved in why you’d have WordPress slow. Hummingbird’s scanning and one-click fixes can work out why your site is slow, and with one click, speed up WordPress for you. Easy peasy!</p>
+</dd>
+<dt id='what%E2%80%99s%20the%20difference%20between%20hummingbird%20and%20hummingbird%20pro%3F'>
+<h3>What’s the difference between Hummingbird and Hummingbird Pro?</h3>
+</dt>
+<dd>
+<p>The free Hummingbird plugin is a powerful suite of WordPress speed optimization features! You can deliver big improvements in your page speed in mere minutes using our one-click implementation of recommended fixes. Some of the reviews above show you the results you can get.</p>
+<p>Hummingbird Pro is available as part of the WPMU DEV Membership, and adds automated scanning, uptime monitoring, enhanced minify compression (with 2x the regular optimization), and CDN hosted minification. This will make your site even faster.</p>
+<p>Membership also gets you all our premium WordPress plugins, including Smush Pro, for the very best image optimization with image resizing, lazy load, and next-gen WebP convert, and 24/7 WordPress support. Hummingbird is a great free plugin, and Hummingbird Pro is even better. <a href="https://wpmudev.com/?utm_source=wordpress.org&amp;utm_medium=readme&amp;utm_campaign=hummingbird-readme&amp;utm_content=you_can_find_out_more#trial" rel="nofollow ugc">You can find out more here.</a></p>
+</dd>
+<dt id='somebody%20help%21%20i%20turned%20on%20asset%20optimization%20and%20it%20broke%20my%20site%21%3F'>
+<h3>Somebody help! I turned on Asset Optimization and it broke my site!?</h3>
+</dt>
+<dd>
+<p>Asset Optimization is a great way to speed up your site but moving, combining, using minify, and rearranging CSS and JavaScript (.JS) files can also mess with styling and break functionality. We recommend making incremental changes and testing your site as you go so you can undo the changes if something breaks. And remember, don’t panic. If something goes wrong you can start over with the click of a button 🙂</p>
+</dd>
+<dt id='how%20can%20i%20report%20security%20issues%20or%20bugs%3F'>
+<h3>How can I report security issues or bugs?</h3>
+</dt>
+<dd>
+<p>We take plugin security incredibly seriously; if you have a bug or vulnerability to report, you can do so through the Patchstack Vulnerability Disclosure Program. It’s fast, easy, and you will be notified when the issue is fixed. <a href="https://patchstack.com/database/vdp/hummingbird-performance" rel="nofollow ugc">Report a vulnerability</a>.</p>
+</dd>
+</dl></div>
+
+<div id="tab-reviews" class="plugin-reviews section">
+	<h2 id="reviews-header">Reviews</h2>
+	<div class="plugin-reviews">
+							<article class="plugin-review">
+					<div class="review-avatar">
+						<img alt='' src='https://secure.gravatar.com/avatar/499a2b7b2db6b2643c44266877ec71c5?s=60&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/499a2b7b2db6b2643c44266877ec71c5?s=120&#038;d=retro&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />					</div><div class="review">
+						<header>
+							<div class="header-top">
+								<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span></div>								<h3 class="review-title"><a class="url" href="https://wordpress.org/support/topic/excellent-plugin-9028/">Excellent Plugin</a></h3>
+							</div>
+							<div class="header-bottom">
+								<span class="review-author author vcard"><a href="https://profiles.wordpress.org/digicreationsno1/" title="Posts by digicreationsno1" rel="author">digicreationsno1</a></span>
+								<span class="review-date">February 17, 2024</span>
+																<span class="review-replies">1 reply</span>
+															</div>
+						</header>
+						<div class="review-content">Excellent plugin - Excellent Results. Highly Recommend</div>
+					</div>
+				</article>
+							<article class="plugin-review">
+					<div class="review-avatar">
+						<img alt='' src='https://secure.gravatar.com/avatar/f6f1bd0a83968d24460a4e05934a6318?s=60&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/f6f1bd0a83968d24460a4e05934a6318?s=120&#038;d=retro&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />					</div><div class="review">
+						<header>
+							<div class="header-top">
+								<div class="wporg-ratings" aria-label="1 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="1" style="color:#ffb900;"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-empty"></span><span class="dashicons dashicons-star-empty"></span><span class="dashicons dashicons-star-empty"></span><span class="dashicons dashicons-star-empty"></span></div>								<h3 class="review-title"><a class="url" href="https://wordpress.org/support/topic/everything-horrible-nothing-works-100/">Everything Horrible, Nothing works 100%.</a></h3>
+							</div>
+							<div class="header-bottom">
+								<span class="review-author author vcard"><a href="https://profiles.wordpress.org/julielw/" title="Posts by julielw" rel="author">julielw</a></span>
+								<span class="review-date">February 10, 2024</span>
+																<span class="review-replies">1 reply</span>
+															</div>
+						</header>
+						<div class="review-content">Absolutely horrible plugin. I wish I hadn't bought the pro version. The program doesn't do anything that it's supposed to do. I spent over a month 14 hours a day trying to get this to work and get my page speed up over the 80"s score and it will not work. I do not recommend this plugin if you are expecting it to work. The most I could get compression is less than 1% it will only do "0.9% Compression savings" It was supposed to remove unused CSS and it won't do that, even though you set the settings to remove the script. It will not "Pre-load any pages" even though it is programed in the settings. It will not "Eliminate render-blocking resources " It will not "Reduce unused JavaScript and defer loading scripts" 
+
+There are so many things worng with this plugin I could keep writing forever. So those are the top issues.
+
+I honestly don't know why other people have rated 5 stars. I'd like to know what they did differently because I have tried everything in the world just to get the plugin to work as stated in their details of the plugin.</div>
+					</div>
+				</article>
+							<article class="plugin-review">
+					<div class="review-avatar">
+						<img alt='' src='https://secure.gravatar.com/avatar/d9e937a38ccd56c8c92cf43b5001b6e3?s=60&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/d9e937a38ccd56c8c92cf43b5001b6e3?s=120&#038;d=retro&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />					</div><div class="review">
+						<header>
+							<div class="header-top">
+								<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span></div>								<h3 class="review-title"><a class="url" href="https://wordpress.org/support/topic/working-good-111/">working good</a></h3>
+							</div>
+							<div class="header-bottom">
+								<span class="review-author author vcard"><a href="https://profiles.wordpress.org/adityailu/" title="Posts by adityailu" rel="author">adityailu</a></span>
+								<span class="review-date">February 6, 2024</span>
+																<span class="review-replies">1 reply</span>
+															</div>
+						</header>
+						<div class="review-content">it is good to use</div>
+					</div>
+				</article>
+							<article class="plugin-review">
+					<div class="review-avatar">
+						<img alt='' src='https://secure.gravatar.com/avatar/c70edc93cdd2b87c93650693154e0809?s=60&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/c70edc93cdd2b87c93650693154e0809?s=120&#038;d=retro&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />					</div><div class="review">
+						<header>
+							<div class="header-top">
+								<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span></div>								<h3 class="review-title"><a class="url" href="https://wordpress.org/support/topic/molto-buono-18/">Molto buono</a></h3>
+							</div>
+							<div class="header-bottom">
+								<span class="review-author author vcard"><a href="https://profiles.wordpress.org/gakradmin/" title="Posts by gakradmin" rel="author">gakradmin</a></span>
+								<span class="review-date">February 2, 2024</span>
+																<span class="review-replies">1 reply</span>
+															</div>
+						</header>
+						<div class="review-content">Sono approdato a questo plugin dopo averne provato altri. Per il momento il comportamento è molto buono e ci non problemi particolari.Ci sarebbe da migliorare la velocità della procedura di configurazione iniziale: nella fase conclusiva dopo le impostazioni iniziali, la procedura si ferma per quasi un'unora di lavorazione e non si capisce cosa stia esattamente facendo lo script.</div>
+					</div>
+				</article>
+							<article class="plugin-review">
+					<div class="review-avatar">
+						<img alt='' src='https://secure.gravatar.com/avatar/6b07e79f8fd73881e18988c5c7b1c78a?s=60&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/6b07e79f8fd73881e18988c5c7b1c78a?s=120&#038;d=retro&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />					</div><div class="review">
+						<header>
+							<div class="header-top">
+								<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span></div>								<h3 class="review-title"><a class="url" href="https://wordpress.org/support/topic/handy-little-bird/">Handy little bird</a></h3>
+							</div>
+							<div class="header-bottom">
+								<span class="review-author author vcard"><a href="https://profiles.wordpress.org/maasbeeld/" title="Posts by Charlotte" rel="author">Charlotte</a></span>
+								<span class="review-date">January 23, 2024</span>
+																<span class="review-replies">1 reply</span>
+															</div>
+						</header>
+						<div class="review-content">Very good this plugin!</div>
+					</div>
+				</article>
+							<article class="plugin-review">
+					<div class="review-avatar">
+						<img alt='' src='https://secure.gravatar.com/avatar/ec220c820466ebc437001efc627cb2ab?s=60&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/ec220c820466ebc437001efc627cb2ab?s=120&#038;d=retro&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />					</div><div class="review">
+						<header>
+							<div class="header-top">
+								<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span></div>								<h3 class="review-title"><a class="url" href="https://wordpress.org/support/topic/%d1%81%d1%83%d0%bf%d0%b5%d1%80-%d0%bf%d0%bb%d0%b0%d0%b3%d0%b8%d0%bd-%d1%80%d0%b5%d1%81%d0%bf%d0%b5%d0%ba%d1%82/">Супер плагин! Респект!!!</a></h3>
+							</div>
+							<div class="header-bottom">
+								<span class="review-author author vcard"><a href="https://profiles.wordpress.org/vladimir9669/" title="Posts by vladimir9669" rel="author">vladimir9669</a></span>
+								<span class="review-date">January 8, 2024</span>
+																<span class="review-replies">1 reply</span>
+															</div>
+						</header>
+						<div class="review-content">Очень хороший плагин</div>
+					</div>
+				</article>
+					</div>
+
+		<a class="reviews-link" href="https://wordpress.org/support/plugin/hummingbird-performance/reviews/">
+			Read all 1,442 reviews		</a></div>
+
+<div id="tab-developers" class="plugin-developers section">
+	<h2 id="developers-header">Contributors &amp; Developers</h2>
+	<div class="plugin-contributors"><p>&#8220;Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS&#8221; is open source software. The following people have contributed to this plugin.</p><span class="screen-reader-text">Contributors</span>
+		<ul id="contributors-list" class="contributors-list">
+						<li>
+				<img alt='' src='https://secure.gravatar.com/avatar/77e8c4a1ea73dce293f2bacbdd2f915d?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/77e8c4a1ea73dce293f2bacbdd2f915d?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />				<a href="https://profiles.wordpress.org/wpmudev/">
+					WPMU DEV - Your All-in-One WordPress Platform				</a>
+			</li>
+					</ul>
+
+		</div><div class="plugin-development"><p>&#8220;Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS&#8221; has been translated into 17 locales. Thank you to <a href="https://translate.wordpress.org/projects/wp-plugins/hummingbird-performance/contributors">the translators</a> for their contributions.</p><p><a href="https://translate.wordpress.org/projects/wp-plugins/hummingbird-performance">Translate &#8220;Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS&#8221; into your language.</a></p><h3>Interested in development?</h3><p><a href="https://plugins.trac.wordpress.org/browser/hummingbird-performance/">Browse the code</a>, check out the <a href="https://plugins.svn.wordpress.org/hummingbird-performance/">SVN repository</a>, or subscribe to the <a href="https://plugins.trac.wordpress.org/log/hummingbird-performance/">development log</a> by <a href="https://plugins.trac.wordpress.org/log/hummingbird-performance/?limit=100&#038;mode=stop_on_copy&#038;format=rss">RSS</a>.</p></div></div>
+
+<div id="tab-changelog" class="plugin-changelog section">
+	<h2 id="changelog-header">Changelog</h2>
+	<h4>3.7.2 ( 2024-01-16 )</h4>
+<ul>
+<li>New: Use static IPs for Critical CSS service</li>
+<li>Improvement: Ignore missing CSS files when generating Critical CSS</li>
+<li>Fix: Avoid calling the Critical CSS service too frequently</li>
+</ul>
+<h4>3.7.1 ( 2023-12-20 )</h4>
+<ul>
+<li>Improvement: Stability improvements</li>
+</ul>
+<h4>3.7.0 ( 2023-12-06 )</h4>
+<ul>
+<li>Fix: Critical CSS and Delay JS causing validation errors with AMP</li>
+<li>Fix: Compatibility warning with PHP 8.3</li>
+<li>Improvement: Better analytics</li>
+</ul>
+<h4>3.6.1 ( 2023-11-06 )</h4>
+<ul>
+<li>Fix: Minify module generating CSS file with HTML inside, when source CSS file not found</li>
+</ul>
+<h4>3.6.0 ( 2023-10-09 )</h4>
+<ul>
+<li>New: Generate Critical CSS for your pages to address render-blocking resource warnings and eliminate unused CSS</li>
+<li>Improvement: Add comments for all translation strings that have placeholders in them</li>
+<li>Improvement: Set minimum required PHP version to 7.4</li>
+<li>Fix: PHP errors and warnings</li>
+<li>Fix: Asset Optimization doesn&#8217;t save settings on Manual Mode</li>
+<li>Fix: Delay JS conflict with Hub Client</li>
+</ul>
+<h4>3.5.0 ( 2023-06-27 )</h4>
+<ul>
+<li>New: Delay JS &#8211; Delay the execution of scripts to prioritize page rendering</li>
+<li>Improvement: PHP 8.2 Compatibility</li>
+<li>Fix: Accessibility Improvements</li>
+<li>Fix: Security audit and improvements</li>
+<li>Fix: Filter panel overlaps result while scrolling down on Asset Optimization page</li>
+<li>Fix: Asset Optimization doesn&#8217;t save manual settings in some situations</li>
+<li>Fix: Minor improvements in code and copy</li>
+</ul>
+<h4>3.4.7 ( 2023-06-13 )</h4>
+<ul>
+<li>Improvement: Performance improvements</li>
+</ul>
+<h4>3.4.6 ( 2023-04-17 )</h4>
+<ul>
+<li>Improvement: Switch from React development build to production build</li>
+<li>Fix: Asset Optimization stats showing NaN on non-English sites</li>
+<li>Fix: HB CDN automatically excluding two files from Themeco Pro theme</li>
+<li>Fix: Hummingbird performance test results accordion not opening</li>
+<li>Fix: Whitelabel issue with &#8220;What&#8217;s New&#8221; modal</li>
+<li>Fix: Minor compatibility issues with PHP 8.2</li>
+</ul>
+<h4>3.4.5 ( 2023-03-28 )</h4>
+<ul>
+<li>Fix: Incorrect post types getting deleted</li>
+</ul>
+<h4>3.4.4 ( 2023-03-15 )</h4>
+<ul>
+<li>Improvement: Minor bug fixes and improvements</li>
+</ul>
+<h4>3.4.3 ( 2023-02-23 )</h4>
+<ul>
+<li>Fix: Security fix</li>
+</ul>
+<h4>3.4.2 ( 2023-02-16 )</h4>
+<ul>
+<li>Fix: JS error in configs</li>
+</ul>
+<h4>3.4.1 ( 2023-02-16 )</h4>
+<ul>
+<li>Improvement: Security hardening</li>
+<li>Fix: Issue when upgrading from version 2.7.3</li>
+</ul>
+<h4>3.4.0 ( 2022-11-28 )</h4>
+<ul>
+<li>New: Asset optimization safe mode</li>
+<li>New: React-based asset optimization module</li>
+<li>New: Compatibility module with WPMU DEV hosting FastCGI feature</li>
+<li>New: Map generated filenames to actual filenames on Manual Asset Optimisation</li>
+<li>New: Replace Google fonts with Bunny fonts for GDPR compliance</li>
+<li>Fix: Performance module showing older version of the report after scan</li>
+<li>Fix: Page cache preloader icon</li>
+<li>Fix: Uptime compatibility with WPMU DEV free Hub</li>
+<li>Fix: Smush activation links on MU</li>
+<li>Fix: Dashboard Asset Optimization Stats are different from the AO Summary Details</li>
+<li>Fix: Miscellaneous PHP warnings and errors</li>
+</ul>
+<h4>3.3.7 ( 2022-11-17 )</h4>
+<ul>
+<li>Improvement: Code and compatibility improvements</li>
+</ul>
+<h4>3.3.6 ( 2022-11-01 )</h4>
+<ul>
+<li>Enhance: Security hardening</li>
+<li>Enhance: WP 6.1 compatibility</li>
+</ul>
+<h4>3.3.5 ( 2022-10-04 )</h4>
+<ul>
+<li>Enhance: Membership status check</li>
+</ul>
+<h4>3.3.4 ( 2022-06-16 )</h4>
+<ul>
+<li>Enhance: Split out JavaScript libraries into smaller files</li>
+<li>Enhance: Reports compatibility with Defender masking feature</li>
+<li>Enhance: Cleanup on uninstall on network installs</li>
+<li>Enhance: Page cache compatibility with Defender security headers</li>
+<li>Fix: Usage tracking option on network installs</li>
+<li>Fix: Setup module logic on plugin activation</li>
+<li>Fix: Inline limits in asset optimization</li>
+<li>Fix: Weekly performance report sometimes sent out twice</li>
+<li>Fix: Settings link on Plugins page</li>
+<li>Fix: Comment on-click lazy loading</li>
+<li>Fix: Translation link URL</li>
+<li>Fix: Tooltip showing by default on &#8216;Checking files&#8217; asset optimization modal</li>
+<li>Fix: Redis module not always being able to write to wp-config.php file</li>
+<li>Fix: Skip onboarding wizard if a config has been applied</li>
+<li>Fix: Rename &#8220;Basic&#8221; config to &#8220;Default&#8221;</li>
+<li>Fix: Tutorials scripts loading on all pages</li>
+</ul>
+<h4>3.3.3 ( 2022-05-12 )</h4>
+<ul>
+<li>New: Set the number of comments to preload in lazy loading module</li>
+<li>Enhance: Clean up after uninstalling on multisite</li>
+<li>Enhance: Remove duplicate &#8216;wphb_page_cache_cleared&#8217; action in favour of &#8216;wphb_clear_cache_url&#8217;</li>
+<li>Enhance: Sanitize input fields in Configs module</li>
+<li>Enhance: Compatibility with Weglot plugin</li>
+<li>Fix: PHP undefined array key warnings</li>
+<li>Fix: Fatal error when clearing cache in certain conditions</li>
+<li>Fix: Toggling Uptime from WPMU DEV hub</li>
+<li>Fix: Clear cache button not white labeled</li>
+<li>Fix: Onboarding setup wizard summary layout</li>
+<li>Fix: Onboarding setup wizard tracking option on multisite</li>
+<li>Fix: Smush upsell block logic</li>
+<li>Fix: Tutorials on dashboard page cannot be hidden</li>
+<li>Fix: Duplicate users in notifications modal</li>
+<li>Fix: Errors when offloading ES6 modules with import statements to CDN</li>
+<li>Fix: Clear cache button (admin bar) logic on network installs</li>
+<li>Fix: Cloudflare zone selector not working</li>
+<li>Fix: High contrast notice in comments lazy load module</li>
+<li>Fix: Lazy loading WooCommerce reviews</li>
+</ul>
+<h4>3.3.2 ( 2022-03-14 )</h4>
+<ul>
+<li>Fix: XSS vulnerability</li>
+</ul>
+<h4>3.3.1 ( 2022-02-24 )</h4>
+<ul>
+<li>New: Onboarding setup wizard</li>
+<li>Enhance: Support for WPMU DEV Hub</li>
+<li>Enhance: Add a unique salt when enabling Redis integration</li>
+<li>Enhance: &#8220;How does it work&#8221; section in asset optimization module</li>
+<li>Fix: Incorrect detection of Cloudflare APO status</li>
+<li>Fix: Missing action buttons on Integrations page in sub sites</li>
+<li>Fix: Page cache not clearing when caching is disabled on subsites</li>
+<li>Fix: Duplicate ID elements on dashboard page</li>
+<li>Fix: Inability to auto start asset optimization scan from dashboard page on free version</li>
+<li>Fix: Remove global configs from network subsites</li>
+<li>Fix: An invalid form control with name=&#8217;cloudflare-email&#8217; is not focusable error</li>
+<li>Fix: Documentation link in Notifications module</li>
+<li>Fix: Translation strings</li>
+<li>Fix: Styles for Select2 textarea elements</li>
+</ul>
+<h4>3.3.0 ( 2022-01-11 )</h4>
+<ul>
+<li>New: Font optimization is now part of automatic asset optimization mode</li>
+<li>New: Notification email designs</li>
+<li>New: Plugin icon</li>
+<li>Enhance: Add file size limits for inlining assets in asset optimization module</li>
+<li>Enhance: Status of assets in asset optimization module</li>
+<li>Enhance: Updating of exclusion list in asset optimization UI</li>
+<li>Enhance: Page types exclusions in page caching</li>
+<li>Enhance: PHP 8.1 compatibility</li>
+<li>Fix: Clearing page cache on subsites in a network sub-directory installs</li>
+<li>Fix: Page caching module not showing for site admins</li>
+<li>Fix: Browser caching module not showing on subsites with Cloudflare integration</li>
+<li>Fix: Cached files counter when purging cache</li>
+<li>Fix: Infinite loop with orphaned assets when page cache integrations are enabled</li>
+<li>Fix: Cases when asset optimization breaks CSS with background SVG images</li>
+<li>Fix: Asset optimization auto selecting files in auto mode</li>
+<li>Fix: Cloudflare integration when a site is installed in a sub-folder</li>
+<li>Fix: Missing notification modules and translations</li>
+<li>Fix: Errors when purging Varnish cache</li>
+<li>Fix: Fatal error when scheduling database reports</li>
+<li>Fix: Fatal error with WP Ultimo 2.x</li>
+</ul>
+<h4>3.2.1 ( 2021-11-24 )</h4>
+<ul>
+<li>Fix: Sync issues with WPMU DEV Hub</li>
+</ul>
+<h4>3.2.0 ( 2021-11-24 )</h4>
+<ul>
+<li>New: Notifications module and dashboard widget</li>
+<li>New: Performance reports for subsites</li>
+<li>New: Database cleanup reports</li>
+<li>New: Page cache integration with WP Ultimo plugin</li>
+<li>New: Browser caching set up wizard</li>
+<li>Enhance: Simplify and improve browser caching setup</li>
+<li>Enhance: Allow changing file location for asset optimization in multisite</li>
+<li>Fix: PHP warnings when syncing settings with Hub</li>
+<li>Fix: Parse warning in DOM when using font optimization</li>
+</ul>
+<h4>3.1.4 ( 2021-11-04 )</h4>
+<ul>
+<li>Enhance: White labeling support</li>
+<li>Fix: Double notices on Dashboard page</li>
+<li>Fix: Translation strings</li>
+</ul>
+<h4>3.1.3 ( 2021-11-01 )</h4>
+<ul>
+<li>Enhance: Minor performance improvements</li>
+</ul>
+<h4>3.1.2 ( 2021-10-19 )</h4>
+<ul>
+<li>New: Option to hide average response time from Uptime reports</li>
+<li>Enhance: Database cleanup drafts processing &#8211; drafts are now moved to trash instead of removed completely</li>
+<li>Enhance: Asset optimization processing &#8211; to prevent infinite processing loops, assets that use timestamps for versions will no longer be tracked</li>
+<li>Enhance: Asset optimization purging orphaned data entries</li>
+<li>Enhance: LiteSpeed server browser cache instructions</li>
+<li>Enhance: Compatibility with WPMU DEV hosting FastCGI</li>
+<li>Fix: Asset version changes not triggering asset optimization updates</li>
+<li>Fix: Page cache not clearing out cache when menu is updated</li>
+<li>Fix: Page cache not working on a page/post if the slug is &#8216;mobile&#8217;</li>
+<li>Fix: PHP undefined offset warnings</li>
+<li>Fix: Hidden CPTs clearing out page cache</li>
+<li>Fix: Configs not working for subsite admins</li>
+<li>Fix: PHP warnings on Dashboard page when Smush was previously installed and removed</li>
+<li>Fix: Performance optimization guide link</li>
+</ul>
+<h4>3.1.1 ( 2021-09-07 )</h4>
+<ul>
+<li>New: Import/export of asset optimization settings on network subsites</li>
+<li>Enhance: Page caching warnings and errors</li>
+<li>Enhance: Compatibility with PHP 8.1</li>
+<li>Fix: PHP warning in Asset Optimization module</li>
+<li>Fix: Error with [object Object] in Gzip module</li>
+<li>Fix: Page cache status when disabling the plugin on the network</li>
+<li>Fix: Preload key requests audit in performance test</li>
+<li>Fix: Performance scans not always starting in Firefox</li>
+<li>Fix: Cloudflare integration not detecting mapped domains on subsites</li>
+<li>Fix: Cloudflare modal not properly closing</li>
+<li>Fix: Overlapping tooltips on Asset optimization page</li>
+</ul>
+<h4>3.1.0 ( 2021-07-20 )</h4>
+<ul>
+<li>New: Asset optimization preload option</li>
+<li>New: Asset optimization async option for external assets</li>
+<li>New: Add prefix to Redis cache via the WP_REDIS_SALT define (possible to store cache for multiple sites in a single database)</li>
+<li>New: DNS prefetch for asset optimization CDN</li>
+<li>New: Filter relevant audits in the performance test</li>
+<li>New: Connect to Cloudflare via API token</li>
+<li>Enhance: Allow setting crossorigin attribute for preconnect resources</li>
+<li>Enhance: Performance test score metrics weights (inline with latest Lighthouse changes)</li>
+<li>Enhance: Performance test tooltips</li>
+<li>Enhance: Make sure logging is active only when both WP_DEBUG and WP_DEBUG_LOG are set</li>
+<li>Enhance: Set the cache by device type option in Cloudflare APO for new installs</li>
+<li>Enhance: White labeling support</li>
+<li>Enhance: Processing of configs from other plugins</li>
+<li>Fix: Do not preconnect to Google fonts servers if no fonts are being optimized</li>
+<li>Fix: Broken purchase link in Cloudflare APO integration</li>
+<li>Fix: Page cache module not always showing on subsites</li>
+<li>Fix: Redis not connecting to external servers via hostname</li>
+<li>Fix: PHP warnings for undefined index original_size</li>
+<li>Fix: PHP warnings when doing performance scans from Dashboard</li>
+<li>Fix: PHP warnings array_filter() expects parameter 1 to be array</li>
+<li>Fix: Saving/applying settings via configs for Page Caching module on network installs</li>
+</ul>
+<h4>3.0.1 ( 2021-06-17 )</h4>
+<ul>
+<li>New: Configs</li>
+<li>New: Define for controlling Redis exclusion groups</li>
+<li>New: Allow adding admin bar shortcuts for purging various caches</li>
+<li>Enhance: Move admin bar cache controls settings to the Settings &#8211; General page</li>
+<li>Enhance: Performance test informative audits UI</li>
+<li>Fix: Dashboard and Gzip compression module layout issues on mobile devices</li>
+<li>Fix: White pages when page cache is removed without header files</li>
+<li>Fix: Asset optimization empty debug link on subsites</li>
+<li>Fix: Documentation links</li>
+<li>Fix: Skip performance test button styles</li>
+<li>Fix: Skipping performance tests on subsites</li>
+</ul>
+<h4>3.0.0 ( 2021-05-19 )</h4>
+<ul>
+<li>New: Performance reports (synced with latest Lighthouse API)</li>
+<li>New: Cloudflare automatic platform optimization (APO) integration</li>
+<li>New: Cloudflare integration for subsites</li>
+<li>New: Asset optimization font preloading</li>
+<li>New: Allow customizing page cache file names with a wphb_cache_* cookie</li>
+<li>New: Preconnect option</li>
+<li>Enhance: Asset optimization asset action tooltips</li>
+<li>Enhance: UX in Redis integration</li>
+<li>Enhance: Asset optimization and page cache compatibility</li>
+<li>Fix: Asset optimization settings reset</li>
+<li>Fix: Asset optimization UI inconsistencies</li>
+<li>Fix: Clear cache notice on network subsites</li>
+<li>Fix: Select element styles on reporting screens</li>
+<li>Fix: Overwriting network admin settings in advanced tools</li>
+<li>Fix: Page cache clearing taking too long during post edit</li>
+<li>Fix: Cloudflare browser caching settings not syncing with Hub</li>
+</ul>
+<p><a href="https://wpmudev.com/project/wp-hummingbird/#view-changelog" rel="nofollow ugc">Changelog for previous versions</a>.</p></div>
+	</div><!-- .entry-content -->
+
+	<div class="entry-meta">
+		<div class="widget plugin-categorization">
+		<div class="widget categorization-widget categorization-widget-commercial">
+			<div class="widget-head">
+				<h2>Commercial Plugin</h2>
+
+				<a href="https://wpmudev.com/project/wp-hummingbird/" rel="nofollow">Support</a>			</div>
+	
+			<p>This plugin is free but offers additional paid commercial upgrades or support.</p>
+		</div>
+		</div><div class="widget plugin-meta">
+		<h2 class="screen-reader-text">Meta</h2>
+
+		<ul>
+			
+			<li>
+				Version: <strong>3.7.2</strong>			</li>
+
+			<li>
+				Last updated: <strong><span>1 month</span> ago</strong>			</li>
+			<li>
+				Active installations: <strong>100,000+</strong>			</li>
+
+							<li>
+					WordPress Version:					<strong>
+						5.2 or higher					</strong>
+				</li>
+			
+							<li>
+					Tested up to: <strong>6.4.3</strong>				</li>
+			
+							<li>
+					PHP Version:					<strong>
+						7.4 or higher					</strong>
+				</li>
+			
+							<li>
+					Languages:<div class="languages">						<button type="button" class="button-link popover-trigger" aria-expanded="false" data-target="popover-languages">
+							See all 18						</button>
+						<div id="popover-languages" class="popover is-top-right">
+							<div class="popover-arrow"></div>
+
+							<button type="button" class="button-link popover-close" aria-label="Close this popover">
+								Close							</button>
+
+							<div class="popover-inner">
+								<p><a href="https://bn.wordpress.org/plugins/hummingbird-performance/">Bengali (Bangladesh)</a>, <a href="https://ca.wordpress.org/plugins/hummingbird-performance/">Catalan</a>, <a href="https://nl.wordpress.org/plugins/hummingbird-performance/">Dutch</a>, <a href="https://wordpress.org/plugins/hummingbird-performance/">English (US)</a>, <a href="https://fr-ca.wordpress.org/plugins/hummingbird-performance/">French (Canada)</a>, <a href="https://el.wordpress.org/plugins/hummingbird-performance/">Greek</a>, <a href="https://ja.wordpress.org/plugins/hummingbird-performance/">Japanese</a>, <a href="https://ml.wordpress.org/plugins/hummingbird-performance/">Malayalam</a>, <a href="https://fa.wordpress.org/plugins/hummingbird-performance/">Persian</a>, <a href="https://pl.wordpress.org/plugins/hummingbird-performance/">Polish</a>, <a href="https://br.wordpress.org/plugins/hummingbird-performance/">Portuguese (Brazil)</a>, <a href="https://pt.wordpress.org/plugins/hummingbird-performance/">Portuguese (Portugal)</a>, <a href="https://ru.wordpress.org/plugins/hummingbird-performance/">Russian</a>, <a href="https://sr.wordpress.org/plugins/hummingbird-performance/">Serbian</a>, <a href="https://es-ar.wordpress.org/plugins/hummingbird-performance/">Spanish (Argentina)</a>, <a href="https://es.wordpress.org/plugins/hummingbird-performance/">Spanish (Spain)</a>, <a href="https://tr.wordpress.org/plugins/hummingbird-performance/">Turkish</a>, and <a href="https://uk.wordpress.org/plugins/hummingbird-performance/">Ukrainian</a>.</p>
+								<p>
+								<a href="https://translate.wordpress.org/projects/wp-plugins/hummingbird-performance">Translate into your language</a>								</p>
+							</div>
+						</div>
+						</div>				</li>
+				
+			<li class="clear">Tags: <div class="tags"><a href="https://wordpress.org/plugins/tags/cache/" rel="tag">cache</a><a href="https://wordpress.org/plugins/tags/defer-css-javascript/" rel="tag">defer css javascript</a><a href="https://wordpress.org/plugins/tags/minify-css/" rel="tag">minify css</a><a href="https://wordpress.org/plugins/tags/minify-javascript/" rel="tag">minify javascript</a><a href="https://wordpress.org/plugins/tags/speed-up-wordpress/" rel="tag">speed up wordpress</a></div></li>
+							<li class="hide-if-no-js">
+					<strong><a class="plugin-admin" href="https://wordpress.org/plugins/hummingbird-performance/advanced/">Advanced View</a></strong>				</li>
+					</ul>
+
+		</div><div class="widget plugin-ratings"><h2 class="widget-title">Ratings</h2>			<a class="reviews-link" href="https://wordpress.org/support/plugin/hummingbird-performance/reviews/">See all</a>
+
+			<div class="rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span></div>			</div>
+
+			<ul class="ratings-list">
+									<li class="counter-container">
+						<a href="https://wordpress.org/support/plugin/hummingbird-performance/reviews/?filter=5">
+							<span class="counter-label">5 stars</span>
+					<span class="counter-back">
+						<span class="counter-bar" style="width: 88.904299583911%;"></span>
+					</span>
+							<span class="counter-count">1,282</span>
+						</a>
+					</li>
+									<li class="counter-container">
+						<a href="https://wordpress.org/support/plugin/hummingbird-performance/reviews/?filter=4">
+							<span class="counter-label">4 stars</span>
+					<span class="counter-back">
+						<span class="counter-bar" style="width: 5.3398058252427%;"></span>
+					</span>
+							<span class="counter-count">77</span>
+						</a>
+					</li>
+									<li class="counter-container">
+						<a href="https://wordpress.org/support/plugin/hummingbird-performance/reviews/?filter=3">
+							<span class="counter-label">3 stars</span>
+					<span class="counter-back">
+						<span class="counter-bar" style="width: 1.4563106796117%;"></span>
+					</span>
+							<span class="counter-count">21</span>
+						</a>
+					</li>
+									<li class="counter-container">
+						<a href="https://wordpress.org/support/plugin/hummingbird-performance/reviews/?filter=2">
+							<span class="counter-label">2 stars</span>
+					<span class="counter-back">
+						<span class="counter-bar" style="width: 0.83217753120666%;"></span>
+					</span>
+							<span class="counter-count">12</span>
+						</a>
+					</li>
+									<li class="counter-container">
+						<a href="https://wordpress.org/support/plugin/hummingbird-performance/reviews/?filter=1">
+							<span class="counter-label">1 star</span>
+					<span class="counter-back">
+						<span class="counter-bar" style="width: 3.4674063800277%;"></span>
+					</span>
+							<span class="counter-count">50</span>
+						</a>
+					</li>
+							</ul>
+
+		
+					<div class="user-rating">
+				<a href="https://login.wordpress.org/?redirect_to=https%3A%2F%2Fwordpress.org%2Fsupport%2Fplugin%2Fhummingbird-performance%2Freviews%2F%23new-post&#038;locale=en_US" rel="nofollow" title="Log in to WordPress.org">Log in to submit a review.</a>
+			</div>
+		</div><div id="plugin-contributors" class="widget plugin-contributors"><h2 class="widget-title">Contributors</h2>
+		<ul id="contributors-list" class="contributors-list">
+						<li>
+				<img alt='' src='https://secure.gravatar.com/avatar/77e8c4a1ea73dce293f2bacbdd2f915d?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/77e8c4a1ea73dce293f2bacbdd2f915d?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy' decoding='async'/>				<a href="https://profiles.wordpress.org/wpmudev/">
+					WPMU DEV - Your All-in-One WordPress Platform				</a>
+			</li>
+					</ul>
+
+		</div><div class="widget plugin-support"><h2 class="widget-title">Support</h2>			<p class="aside">Issues resolved in last two months:</p>
+			<p class="counter-container">
+				<span class="counter-back">
+					<span class="counter-bar" style="width: 80%;"></span>
+				</span>
+				<span class="counter-count">
+					4 out of 5				</span>
+			</p>
+
+		
+		<p>
+			<a class="button" href="https://wordpress.org/support/plugin/hummingbird-performance/">View support forum</a>
+		</p>
+
+		</div>	</div><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+	</main><!-- #main -->
+
+
+	</div><!-- #content -->
+</div><!-- #page -->
+<footer class="global-footer wp-block-group wp-block-wporg-global-footer">
+
+<nav class="wp-block-group alignfull global-footer__navigation-container is-layout-grid wp-container-core-group-is-layout-2 wp-block-group-is-layout-grid" aria-label="Footer">
+	
+	<ul>
+		
+		<li><a href="https://wordpress.org/about/">About</a></li>
+		
+		
+		<li><a href="https://wordpress.org/news/">News</a></li>
+		
+		
+		<li><a href="https://wordpress.org/hosting/">Hosting</a></li>
+		
+		
+		<li><a href="https://wordpress.org/about/privacy/">Privacy</a></li>
+		
+	</ul>
+	
+
+	
+	<ul>
+		
+		<li><a href="https://wordpress.org/showcase/">Showcase</a></li>
+		
+		
+		<li><a href="https://wordpress.org/themes/">Themes</a></li>
+		
+		
+		<li><a href="https://wordpress.org/plugins/">Plugins</a></li>
+		
+		
+		<li><a href="https://wordpress.org/patterns/">Patterns</a></li>
+		
+	</ul>
+	
+
+	
+	<ul>
+		
+		<li><a href="https://learn.wordpress.org/">Learn</a></li>
+		
+					
+			<li><a href="https://wordpress.org/documentation/">Documentation</a></li>
+			
+				
+		<li><a href="https://developer.wordpress.org/">Developers</a></li>
+		
+		
+		<li><a href="https://wordpress.tv/">WordPress.tv <span aria-hidden="true">↗</span></a></li>
+		
+	</ul>
+	
+
+	
+	<ul>
+		
+		<li><a href="https://make.wordpress.org/">Get Involved</a></li>
+		
+		
+		<li><a href="https://events.wordpress.org/">Events</a></li>
+		
+		
+		<li><a href="https://wordpressfoundation.org/donate/">Donate <span aria-hidden="true">↗</span></a></li>
+		
+		
+		<li><a href="https://mercantile.wordpress.org/">Swag Store <span aria-hidden="true">↗</span></a></li>
+		
+	</ul>
+	
+
+	
+	<ul>
+		
+		<li><a href="https://wordpress.com/?ref=wporg-footer">WordPress.com <span aria-hidden="true">↗</span></a></li>
+		
+		
+		<li><a href="https://ma.tt/">Matt <span aria-hidden="true">↗</span></a></li>
+		
+		
+		<li><a href="https://bbpress.org/">bbPress <span aria-hidden="true">↗</span></a></li>
+		
+		
+		<li><a href="https://buddypress.org/">BuddyPress <span aria-hidden="true">↗</span></a></li>
+		
+	</ul>
+	
+</nav>
+
+
+
+<div class="wp-block-group global-footer__logos-container is-layout-flow wp-block-group-is-layout-flow">
+	
+	<div class="wp-block-group is-content-justification-left is-nowrap is-layout-flex wp-container-core-group-is-layout-3 wp-block-group-is-layout-flex">
+		
+		<!-- The design calls for two logos, a small "mark" on mobile/tablet, and the full logo for desktops. -->
+			<figure class="wp-block-image global-footer__wporg-logo-mark">
+				<a href="https://wordpress.org/">
+					<svg xmlns="http://www.w3.org/2000/svg" role="img" width="28" height="28" viewBox="0 0 28 28">
+	<title>WordPress.org</title>
+	<path fill="currentColor" d="M13.6052 0.923525C16.1432 0.923525 18.6137 1.67953 20.7062 3.09703C22.7447 4.47403 24.3512 6.41803 25.3097 8.68603C26.9837 12.6415 26.5382 17.164 24.1352 20.7145C22.7582 22.753 20.8142 24.3595 18.5462 25.318C14.5907 26.992 10.0682 26.5465 6.51772 24.1435C4.47922 22.7665 2.87272 20.8225 1.91422 18.5545C0.240225 14.599 0.685725 10.0765 3.08872 6.52603C4.46572 4.48753 6.40973 2.88103 8.67772 1.92253C10.2302 1.26103 11.9177 0.923525 13.6052 0.923525ZM13.6052 0.113525C6.15322 0.113525 0.105225 6.16153 0.105225 13.6135C0.105225 21.0655 6.15322 27.1135 13.6052 27.1135C21.0572 27.1135 27.1052 21.0655 27.1052 13.6135C27.1052 6.16153 21.0572 0.113525 13.6052 0.113525Z" />
+	<path fill="currentColor" d="M2.36011 13.6133C2.36011 17.9198 4.81711 21.8618 8.70511 23.7383L3.33211 9.03684C2.68411 10.4813 2.36011 12.0338 2.36011 13.6133ZM21.2061 13.0463C21.2061 11.6558 20.7066 10.6973 20.2746 9.94134C19.8426 9.18534 19.1676 8.22684 19.1676 7.30884C19.1676 6.39084 19.9506 5.31084 21.0576 5.31084H21.2061C16.6296 1.11234 9.51511 1.42284 5.31661 6.01284C4.91161 6.45834 4.53361 6.93084 4.20961 7.43034H4.93861C6.11311 7.43034 7.93561 7.28184 7.93561 7.28184C8.54311 7.24134 8.61061 8.13234 8.00311 8.21334C8.00311 8.21334 7.39561 8.28084 6.72061 8.32134L10.8111 20.5118L13.2681 13.1273L11.5131 8.32134C10.9056 8.28084 10.3386 8.21334 10.3386 8.21334C9.73111 8.17284 9.79861 7.25484 10.4061 7.28184C10.4061 7.28184 12.2691 7.43034 13.3626 7.43034C14.4561 7.43034 16.3596 7.28184 16.3596 7.28184C16.9671 7.24134 17.0346 8.13234 16.4271 8.21334C16.4271 8.21334 15.8196 8.28084 15.1446 8.32134L19.2081 20.4173L20.3691 16.7453C20.8821 15.1388 21.1926 14.0048 21.1926 13.0328L21.2061 13.0463ZM13.7946 14.5853L10.4196 24.3998C12.6876 25.0613 15.1041 25.0073 17.3316 24.2243L17.2506 24.0758L13.7946 14.5853ZM23.4741 8.21334C23.5281 8.59134 23.5551 8.98284 23.5551 9.37434C23.5551 10.5218 23.3391 11.8043 22.7046 13.3973L19.2621 23.3333C24.5271 20.2688 26.4036 13.5593 23.4741 8.21334Z" />
+</svg>				</a>
+			</figure>
+
+			<figure class="wp-block-image global-footer__wporg-logo-full">
+				<a href="https://wordpress.org/">
+					<svg xmlns="http://www.w3.org/2000/svg" role="img" width="329" height="52" viewBox="0 0 329 52">
+	<title>WordPress.org</title>
+	<path fill="currentColor" d="M4.33 26a21.68 21.68 0 0 0 12.22 19.5L6.21 17.18A21.66 21.66 0 0 0 4.33 26ZM26.38 27.89l-6.5 18.89a21.31 21.31 0 0 0 6.12.89 21.77 21.77 0 0 0 7.2-1.23 1.429 1.429 0 0 1-.16-.3l-6.66-18.25Z"/>
+	<path fill="currentColor" d="M26 0a26 26 0 1 0 0 52 26 26 0 0 0 0-52Zm20.27 39.66a24.47 24.47 0 0 1-29.78 8.86 24.49 24.49 0 0 1-13-13 24.4 24.4 0 0 1 5.23-26.8 24.46 24.46 0 0 1 26.79-5.24 24.49 24.49 0 0 1 13 13 24.42 24.42 0 0 1-2.25 23.17l.01.01Z"/>
+	<path fill="currentColor" d="M45 15.61c.103.736.153 1.477.15 2.22a20.38 20.38 0 0 1-1.65 7.76l-6.61 19.14A21.65 21.65 0 0 0 45 15.61ZM40.63 24.91a11.45 11.45 0 0 0-1.79-6c-1.1-1.78-2.13-3.29-2.13-5.08A3.76 3.76 0 0 1 40.35 10h.28A21.65 21.65 0 0 0 7.9 14.1h1.39c2.27 0 5.78-.27 5.78-.27a.9.9 0 0 1 .13 1.79s-1.17.13-2.47.2l7.88 23.47 4.75-14.22L22 15.84c-1.17-.07-2.27-.2-2.27-.2a.9.9 0 0 1 .14-1.79s3.57.27 5.7.27c2.13 0 5.78-.27 5.78-.27a.9.9 0 0 1 .14 1.79s-1.18.13-2.48.2l7.83 23.29 2.23-7.08a25.171 25.171 0 0 0 1.56-7.14ZM145.83 19.3h-10.34v1.1c3.23 0 3.75.69 3.75 4.79v7.4c0 4.1-.52 4.85-3.75 4.85-2.48-.35-4.16-1.68-6.47-4.22l-2.66-2.89c3.58-.63 5.49-2.89 5.49-5.43 0-3.18-2.72-5.6-7.8-5.6h-10.17v1.1c3.24 0 3.76.69 3.76 4.79v7.4c0 4.1-.52 4.85-3.76 4.85v1.1h11.5v-1.1c-3.24 0-3.76-.75-3.76-4.85v-2.08h1l6.42 8h16.81c8.26 0 11.85-4.39 11.85-9.65 0-5.26-3.61-9.56-11.87-9.56Zm-24.21 9.42V21H124a3.551 3.551 0 0 1 3.76 3.87 3.536 3.536 0 0 1-3.76 3.85h-2.38Zm24.38 8h-.4c-2.08 0-2.37-.52-2.37-3.18V21H146c6 0 7.11 4.39 7.11 7.8S152 36.75 146 36.75v-.03ZM93.49 13.52H82.62v1.16c3.7 0 4.22 1 3.07 4.39l-4 11.78L76 13.52h-1.1l-5.85 17.33-3.87-11.78c-1.22-3.59-.29-4.39 3.12-4.39v-1.16H55.47v1.16c3.35 0 4.28.86 5.66 5.08l6.42 19.76h.75l6-18.08 5.9 18.08h.8l6.59-19.76c1.44-4.22 2.31-5.08 5.95-5.08l-.05-1.16ZM101.34 18.55c-6.35 0-11.55 4.68-11.55 10.34s5.2 10.4 11.55 10.4c6.35 0 11.56-4.68 11.56-10.4 0-5.72-5.2-10.34-11.56-10.34Zm0 18.89c-5.31 0-7.16-4.74-7.16-8.55 0-3.81 1.85-8.55 7.16-8.55 5.31 0 7.23 4.79 7.23 8.55 0 3.76-1.85 8.55-7.23 8.55ZM170.67 13.52h-12v1.16c3.88 0 4.57.92 4.57 6.7v9.24c0 5.78-.69 6.76-4.57 6.76v1.16H172v-1.16c-3.88 0-4.57-1-4.57-6.76v-2.83h3.29c6 0 9.25-3.12 9.25-7.11s-3.35-7.16-9.3-7.16Zm0 12.13h-3.29v-10h3.29c3.24 0 4.74 2.31 4.74 5.08s-1.5 4.92-4.74 4.92ZM219.32 34.15c-.52 1.9-1.15 2.6-5.26 2.6h-.81c-3 0-3.52-.7-3.52-4.8v-2.66c4.51 0 4.85.41 4.85 3.41h1.1v-8.61h-1.1c0 3-.34 3.41-4.85 3.41V21h3.18c4.1 0 4.74.69 5.26 2.6l.28 1.1h.93l-.38-5.4h-17v1.1c3.23 0 3.75.69 3.75 4.79v7.4c0 3.75-.44 4.69-3 4.83-2.42-.37-4.09-1.69-6.37-4.2l-2.65-2.89c3.58-.63 5.49-2.89 5.49-5.43 0-3.18-2.72-5.6-7.8-5.6h-10.17v1.1c3.23 0 3.75.69 3.75 4.79v7.4c0 4.1-.52 4.85-3.75 4.85v1.1h11.49v-1.1c-3.23 0-3.75-.75-3.75-4.85v-2.08h1l6.41 8h23.75l.35-5.43h-.87l-.31 1.07ZM189 28.72V21h2.37a3.542 3.542 0 0 1 3.75 3.87 3.532 3.532 0 0 1-.998 2.77 3.532 3.532 0 0 1-2.752 1.05l-2.37.03ZM234.52 27.91l-3.18-1.56c-2.78-1.27-4-2.08-4-3.59 0-1.51 1.5-2.36 3.12-2.36 3.06 0 4.57 2.25 5 5h1.21v-6.85h-1.09a3.415 3.415 0 0 1-.75 1.56 7.25 7.25 0 0 0-4.51-1.5c-3.58 0-6.18 2.36-6.18 5.14 0 2.54 1.73 4.45 4 5.54l3.29 1.56c2.37 1.1 3.7 2.26 3.7 3.76 0 1.73-1.5 2.77-3.35 2.77-3.41 0-6.07-2.25-6.53-6.06h-1.15v8h1.09a4.194 4.194 0 0 1 .93-2 8.481 8.481 0 0 0 5.2 2c3.87 0 7-2.54 7-6.18.07-1.77-1.03-3.9-3.8-5.23ZM252 27.91l-3.18-1.56c-2.78-1.27-4-2.08-4-3.59 0-1.51 1.5-2.36 3.12-2.36 3.06 0 4.57 2.25 5 5h1.21v-6.85H253a3.415 3.415 0 0 1-.75 1.56 7.25 7.25 0 0 0-4.51-1.5c-3.58 0-6.18 2.36-6.18 5.14 0 2.54 1.73 4.45 4 5.54l3.29 1.56c2.37 1.1 3.7 2.26 3.7 3.76 0 1.73-1.5 2.77-3.35 2.77-3.41 0-6.07-2.25-6.53-6.06h-1.15v8h1.09a4.194 4.194 0 0 1 .93-2 8.481 8.481 0 0 0 5.2 2c3.87 0 7.05-2.54 7.05-6.18.07-1.77-1.03-3.9-3.79-5.23ZM277.56 18.75a10.481 10.481 0 0 0-10.68 10.17 10.47 10.47 0 0 0 10.68 10.16c5.9 0 10.71-4.58 10.71-10.16s-4.81-10.17-10.71-10.17Zm0 19c-5.52 0-7.63-4.91-7.63-8.88 0-3.97 2.07-8.87 7.63-8.87 5.56 0 7.66 4.94 7.66 8.92 0 3.98-2.11 8.88-7.66 8.88v-.05ZM301.71 33.79l-3.14-3.69c3.63-.38 5.71-2.59 5.71-5.38 0-3-2.44-5.42-6.89-5.42h-8.47v.7c2.66 0 3.05.51 3.05 3.72v10.39c0 3.21-.39 3.76-3.05 3.76v.67h8.66v-.67c-2.66 0-3.05-.55-3.05-3.76v-4H296l6.35 8.44h5.29v-.67c-1.88-.24-4.03-1.88-5.93-4.09ZM294.53 29v-8.52h2.82c2.79 0 4.08 1.93 4.08 4.24 0 2.31-1.29 4.28-4.08 4.28h-2.82ZM319.6 30.59v.64c2.21 0 3 .7 3 2.08 0 2.89-2.5 4.39-5.29 4.39-5.93 0-7.6-4.81-7.6-8.78 0-3.97 1.86-8.92 7-8.92 3.59 0 6.09 2.54 7 6.7h.64v-7h-.64a3.281 3.281 0 0 1-1.09 1.83 8.203 8.203 0 0 0-6-2.73 10.167 10.167 0 0 0-9.851 10.165 10.169 10.169 0 0 0 9.851 10.165c3.34 0 4.78-1.66 8.34-1.66V35c0-3.21.39-3.75 3.05-3.75v-.64l-8.41-.02ZM261.9 34.77a2.061 2.061 0 1 0 .288 4.112 2.061 2.061 0 0 0-.288-4.112Z"/>
+</svg>				</a>
+			</figure>
+		
+
+			</div>
+	
+
+	
+	<ul class="wp-block-social-links is-style-logos-only is-layout-flex wp-block-social-links-is-layout-flex">
+		<li class="wp-social-link wp-social-link-facebook  wp-block-social-link"><a href="https://www.facebook.com/WordPress/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Visit our Facebook page</span></a></li>
+		<li class="wp-social-link wp-social-link-x  wp-block-social-link"><a href="https://www.x.com/WordPress" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M13.982 10.622 20.54 3h-1.554l-5.693 6.618L8.745 3H3.5l6.876 10.007L3.5 21h1.554l6.012-6.989L15.868 21h5.245l-7.131-10.378Zm-2.128 2.474-.697-.997-5.543-7.93H8l4.474 6.4.697.996 5.815 8.318h-2.387l-4.745-6.787Z" /></svg><span class="wp-block-social-link-label screen-reader-text">Visit our X (formerly Twitter) account</span></a></li>
+		<li class="wp-social-link wp-social-link-instagram  wp-block-social-link"><a href="https://www.instagram.com/wordpress/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Visit our Instagram account</span></a></li>
+		<li class="wp-social-link wp-social-link-linkedin  wp-block-social-link"><a href="https://www.linkedin.com/company/wordpress" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M19.7,3H4.3C3.582,3,3,3.582,3,4.3v15.4C3,20.418,3.582,21,4.3,21h15.4c0.718,0,1.3-0.582,1.3-1.3V4.3 C21,3.582,20.418,3,19.7,3z M8.339,18.338H5.667v-8.59h2.672V18.338z M7.004,8.574c-0.857,0-1.549-0.694-1.549-1.548 c0-0.855,0.691-1.548,1.549-1.548c0.854,0,1.547,0.694,1.547,1.548C8.551,7.881,7.858,8.574,7.004,8.574z M18.339,18.338h-2.669 v-4.177c0-0.996-0.017-2.278-1.387-2.278c-1.389,0-1.601,1.086-1.601,2.206v4.249h-2.667v-8.59h2.559v1.174h0.037 c0.356-0.675,1.227-1.387,2.526-1.387c2.703,0,3.203,1.779,3.203,4.092V18.338z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Visit our LinkedIn account</span></a></li>
+		<li class="wp-social-link wp-social-link-youtube  wp-block-social-link"><a href="https://www.youtube.com/wordpress" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Visit our YouTube channel</span></a></li>
+	</ul> 
+
+			<!-- Use an image so it can have the MrsEaves font. -->
+		
+		<figure class="wp-block-image is-resized global-footer__code_is_poetry">
+			<img
+				src=https://s.w.org/style/images/code-is-poetry-for-dark-bg.svg				alt="Code is Poetry"
+				width="188"
+				height="13"
+			/>
+		</figure> 
+
+	</div> 
+</footer><script type="text/javascript" id="wp-load-polyfill-importmap">
+/* <![CDATA[ */
+( HTMLScriptElement.supports && HTMLScriptElement.supports("importmap") ) || document.write( '<script src="https://wordpress.org/plugins/wp-includes/js/dist/vendor/wp-polyfill-importmap.min.js?ver=1.8.2"></scr' + 'ipt>' );
+/* ]]> */
+</script>
+<script type="importmap" id="wp-importmap">
+{"imports":{"@wordpress\/interactivity":"https:\/\/wordpress.org\/plugins\/wp-includes\/js\/dist\/interactivity.min.js?ver=6.5-beta2-57697"}}
+</script>
+<script type="module" src="https://wordpress.org/plugins/wp-content/plugins/gutenberg/build/interactivity/navigation.min.js?ver=17.6.6" id="@wordpress/block-library/navigation-js-module"></script>
+<link rel="modulepreload" href="https://wordpress.org/plugins/wp-includes/js/dist/interactivity.min.js?ver=6.5-beta2-57697" id="@wordpress/interactivity-js-modulepreload"><style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-core-navigation-is-layout-2.wp-container-core-navigation-is-layout-2{flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-2.wp-container-core-group-is-layout-2{grid-template-columns:repeat(auto-fill, minmax(min(150px, 100%), 1fr));}.wp-container-core-group-is-layout-3.wp-container-core-group-is-layout-3{flex-wrap:nowrap;justify-content:flex-start;}
+</style>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-includes/js/admin-bar.min.js?ver=6.5-beta2-57697" id="admin-bar-js"></script>
+<script type="text/javascript" src="https://s.w.org/wp-content/themes/pub/wporg-plugins/js/navigation.js?ver=20181209" id="wporg-navigation-js"></script>
+<script type="text/javascript" src="https://s.w.org/wp-content/themes/pub/wporg-plugins/js/skip-link-focus-fix.js?ver=20151215" id="wporg-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://s.w.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://s.w.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://s.w.org/wp-content/themes/pub/wporg-plugins/js/popover.js?ver=20171002" id="wporg-plugins-popover-js"></script>
+<script type="text/javascript" src="https://s.w.org/wp-content/themes/pub/wporg-plugins/js/section-faq.js?ver=1646806039" id="wporg-plugins-faq-js"></script>
+<script type="text/javascript" id="wporg-plugins-locale-banner-js-extra">
+/* <![CDATA[ */
+var wporgLocaleBanner = {"apiURL":"https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/locale-banner","currentPlugin":"hummingbird-performance"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s.w.org/wp-content/themes/pub/wporg-plugins/js/locale-banner.js?ver=1670985944" id="wporg-plugins-locale-banner-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-content/plugins/gutenberg/build/escape-html/index.min.js?ver=fbad781820bda8333f76" id="wp-escape-html-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-content/plugins/gutenberg/build/element/index.min.js?ver=30b6834ec0d0e2c24761" id="wp-element-js"></script>
+<script type="text/javascript" id="wporg-plugins-client-js-extra">
+/* <![CDATA[ */
+var localeData = {"":{"Plural-Forms":"nplurals=2; plural=n != 1;","Language":"en","localeSlug":"en"},"screenshots":"Screenshots"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s.w.org/wp-content/themes/pub/wporg-plugins/js/build/theme.js?ver=0871522737fbf9eda28ca5efd36e6774" id="wporg-plugins-client-js"></script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-content/mu-plugins/pub-sync/blocks/time/build/view.js?ver=362338b9e6592dcf125b" id="wporg-time-view-script-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202409.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"108986944\",\"post\":\"70041\",\"tz\":\"0\",\"srv\":\"wordpress.org\",\"j\":\"1:13.1.3\"}") ]);
+_stq.push([ "clickTrackerInit", "108986944", "70041" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="wporg-global-header-script-js-extra">
+/* <![CDATA[ */
+var wporgGlobalHeaderI18n = {"openSearchLabel":"Open Search","closeSearchLabel":"Close Search","overflowMenuLabel":"More menu"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wordpress.org/plugins/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/js/view.js?ver=1697687513" id="wporg-global-header-script-js"></script>
+
+	</body>
+</html>
