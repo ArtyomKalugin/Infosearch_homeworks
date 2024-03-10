@@ -11,3 +11,7 @@
 
 ## Третье задание
 [inverted_indexes.txt](https://github.com/ArtyomKalugin/Infosearch_homeworks/files/14450803/inverted_indexes.txt)
+
+## Четвертое задание
+[lemmas_tf_idf.zip](https://github.com/ArtyomKalugin/Infosearch_homeworks/files/14550536/lemmas_tf_idf.zip)
+[tokens_tf_idf.zip](https://github.com/ArtyomKalugin/Infosearch_homeworks/files/14550535/tokens_tf_idf.zip)
