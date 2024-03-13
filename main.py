@@ -85,14 +85,17 @@ if __name__ == '__main__':
         text_cals = TFIDHelper(text)
         words_counter = Counter(text_cals.tokenizer_result)
         new_filename = f"{file_name.split('.')[0]}.txt"
+        tokens_result = ""
 
         for token in text_cals.tokens:
             tf = words_counter[token] / len(text_cals.tokenizer_result)
             idf = math.log(len(files_texts) / idf_word_counter(files_texts, token))
             tf_idf = tf * idf
-            file_helper.make_file(f"{token} {idf} {tf_idf}\n", new_filename, "tokens_tf_idf")
+            tokens_result += f"{token} {idf} {tf_idf}\n"
 
-        result = ""
+        file_helper.make_file(tokens_result, new_filename, "tokens_tf_idf")
+
+        lemmas_result = ""
         for lemma, tokens in text_cals.lemmas.items():
             tf_n = words_counter[lemma]
             for token in tokens:
@@ -105,6 +108,6 @@ if __name__ == '__main__':
             tf = tf_n / len(text_cals.tokenizer_result)
             idf = math.log(len(files_texts) / count)
             tf_idf = tf * idf
-            result += f"{lemma} {idf} {tf_idf}\n"
+            lemmas_result += f"{lemma} {idf} {tf_idf}\n"
 
-        file_helper.make_file(result, new_filename, "lemmas_tf_idf")
+        file_helper.make_file(lemmas_result, new_filename, "lemmas_tf_idf")
