@@ -7,6 +7,7 @@ from hw3.indexInverter import IndexInverter
 from hw3.searcher import Searcher
 from hw4.tfidHelper import TFIDHelper
 from collections import Counter
+from hw5.VectorSearcher import VectorSearcher
 
 
 def idf_word_counter(files_texts, word):
@@ -73,41 +74,45 @@ if __name__ == '__main__':
     #         print(result)
 
     # HW4 -----------------------------------------------------------------------
-    files_texts = {}
-    for root, _, files in os.walk("results"):
-        for index, file in enumerate(sorted(files), 1):
-            text = file_helper.get_html_text(os.path.join(root, file))
-            files_texts[file] = text
+    # files_texts = {}
+    # for root, _, files in os.walk("results"):
+    #     for index, file in enumerate(sorted(files), 1):
+    #         text = file_helper.get_html_text(os.path.join(root, file))
+    #         files_texts[file] = text
+    #
+    # full_text = " ".join(files_texts.values())
+    # full_text_calc = TFIDHelper(full_text)
+    # for file_name, text in files_texts.items():
+    #     text_cals = TFIDHelper(text)
+    #     words_counter = Counter(text_cals.tokenizer_result)
+    #     new_filename = f"{file_name.split('.')[0]}.txt"
+    #     tokens_result = ""
+    #
+    #     for token in text_cals.tokens:
+    #         tf = words_counter[token] / len(text_cals.tokenizer_result)
+    #         idf = math.log(len(files_texts) / idf_word_counter(files_texts, token))
+    #         tf_idf = tf * idf
+    #         tokens_result += f"{token} {idf} {tf_idf}\n"
+    #
+    #     file_helper.make_file(tokens_result, new_filename, "tokens_tf_idf")
+    #
+    #     lemmas_result = ""
+    #     for lemma, tokens in text_cals.lemmas.items():
+    #         tf_n = words_counter[lemma]
+    #         for token in tokens:
+    #             tf_n += words_counter[token]
+    #         count = 0
+    #         for text in files_texts.values():
+    #             if any(token in text for token in tokens) or lemma in text:
+    #                 count += 1
+    #
+    #         tf = tf_n / len(text_cals.tokenizer_result)
+    #         idf = math.log(len(files_texts) / count)
+    #         tf_idf = tf * idf
+    #         lemmas_result += f"{lemma} {idf} {tf_idf}\n"
+    #
+    #     file_helper.make_file(lemmas_result, new_filename, "lemmas_tf_idf")
 
-    full_text = " ".join(files_texts.values())
-    full_text_calc = TFIDHelper(full_text)
-    for file_name, text in files_texts.items():
-        text_cals = TFIDHelper(text)
-        words_counter = Counter(text_cals.tokenizer_result)
-        new_filename = f"{file_name.split('.')[0]}.txt"
-        tokens_result = ""
-
-        for token in text_cals.tokens:
-            tf = words_counter[token] / len(text_cals.tokenizer_result)
-            idf = math.log(len(files_texts) / idf_word_counter(files_texts, token))
-            tf_idf = tf * idf
-            tokens_result += f"{token} {idf} {tf_idf}\n"
-
-        file_helper.make_file(tokens_result, new_filename, "tokens_tf_idf")
-
-        lemmas_result = ""
-        for lemma, tokens in text_cals.lemmas.items():
-            tf_n = words_counter[lemma]
-            for token in tokens:
-                tf_n += words_counter[token]
-            count = 0
-            for text in files_texts.values():
-                if any(token in text for token in tokens) or lemma in text:
-                    count += 1
-
-            tf = tf_n / len(text_cals.tokenizer_result)
-            idf = math.log(len(files_texts) / count)
-            tf_idf = tf * idf
-            lemmas_result += f"{lemma} {idf} {tf_idf}\n"
-
-        file_helper.make_file(lemmas_result, new_filename, "lemmas_tf_idf")
+    # HW5 -----------------------------------------------------------------------
+    vector_searcher = VectorSearcher()
+    print(vector_searcher.search("Welcome to Nominet’s privacy notice."))
