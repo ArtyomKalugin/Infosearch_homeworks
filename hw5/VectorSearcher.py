@@ -123,3 +123,5 @@ class VectorSearcher:
         query_vector = self.get_query_vector(query_lemmas)
 
         return self.get_similarities(list(query_vector.values()))
+
+vector_searcher = VectorSearcher()
